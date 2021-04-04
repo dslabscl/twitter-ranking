@@ -1,3 +1,12 @@
+---
+output: github_document
+---
+
+# Using Twitter API
+
+## Setting up
+
+```{r setup}
 library(httr)
 library(curl)
 library(stringr)
@@ -15,11 +24,13 @@ keys <- list(
 keys <- lapply(
   keys, gsub, pattern = ".+[:]\\s+|\\s+$", replacement = ""
   )
+```
 
-# Example GET: The latest tweets on "COVID Chile" ------------------------------
+# Example GET: The latest tweets on "COVID Chile" 
 
-# This uses the "recent search" endpoint:
-# https://documenter.getpostman.com/view/9956214/T1LMiT5U#acd41db7-05bc-4359-be63-dd5249dfef32
+This uses the "recent search" endpoint: https://documenter.getpostman.com/view/9956214/T1LMiT5U#acd41db7-05bc-4359-be63-dd5249dfef32
+
+```{r api-call}
 res <- GET(
   url   = "https://api.twitter.com/",
   path  = "2/tweets/search/recent",
@@ -35,12 +46,13 @@ res <- GET(
   )
 )
 
-# Processing tweets ------------------------------------------------------------
 tweets <- content(res)
-
 tweets <- as.data.frame(do.call(rbind, tweets$data))
+```
 
-# Hashtags ---------------------------------------------------------------------
+# Hashtags
+
+```{r hashtags}
 hashtags <- lapply(
   unlist(tweets$text),
   stringr::str_extract_all,
@@ -51,8 +63,9 @@ hashtags <- unlist(hashtags)
 hashtags <- tolower(hashtags)
 
 table(hashtags)
+```
 
-# Mentions ---------------------------------------------------------------------
+```{r mentions}
 mentions <- lapply(
   unlist(tweets$text),
   stringr::str_extract_all,
@@ -63,3 +76,5 @@ mentions <- unlist(mentions)
 mentions <- tolower(mentions)
 
 table(mentions)
+```
+
