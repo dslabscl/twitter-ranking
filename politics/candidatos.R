@@ -29,8 +29,8 @@ res <- GET(
   url   = "https://api.twitter.com/",
   path  = "2/tweets/search/recent",
   query = list(
-    query       = terms,
-    max_results = 100,
+    query        = terms,
+    max_results  = 100,
     tweet.fields = fields
   ),
   config = config(connecttimeout = 60),
@@ -44,7 +44,7 @@ res <- GET(
 raw_tweets <- content(res)
 
 # Getting next batch
-res_vec <- vector(length = "20", mode = "list")
+res_vec <- vector(length = 20, mode = "list")
 for (i in 1:length(res_vec)) {
 
   if (i == 1)
