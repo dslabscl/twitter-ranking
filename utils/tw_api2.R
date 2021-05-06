@@ -15,7 +15,15 @@ tw_api2 <- function(
 ) {
 
   # The keys are private
-  keys <- readLines("keys.md")
+  if (file.exists("keys.md")) {
+
+    keys <- readLines("keys.md")
+
+  } else {
+
+    keys <- list(bearer_token = Sys.getenv("TWITTER_BEARER_TOKEN"))
+
+  }
 
   # Parsing keys
   keys <- list(
