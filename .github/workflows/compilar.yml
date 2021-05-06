@@ -1,7 +1,6 @@
 on:
   push:
-    paths:
-      - '**.Rmd'
+    branches: [ master ]
 
 jobs:
   build:
