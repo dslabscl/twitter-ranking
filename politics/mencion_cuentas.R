@@ -2,8 +2,8 @@ library(httr)
 source("utils/tw_parser.R", echo = FALSE)
 source("utils/tw_api2.R", echo = FALSE)
 
-cuentas <- read.csv("politics/cuentas-politicas.csv", stringsAsFactors = FALSE)
-
+cuentas          <- read.csv("politics/cuentas-politicas.csv", stringsAsFactors = FALSE)
+archivos_creados <- NULL
 for (usr in unique(cuentas$cuenta)) {
 
   # Getting the actual ID (using the User lookup)
@@ -42,9 +42,10 @@ for (usr in unique(cuentas$cuenta)) {
     next
   }
 
-  data.table::fwrite(
-    ans, sprintf("politics/candidatos-%s-%s.csv", usr, Sys.time())
-  )
+  # Guardando
+  archivo <- sprintf("politics/candidatos-%s-%s.csv", usr, Sys.time())
+  archivos_creados <- c(archivos_creados, archivo)
+  data.table::fwrite(ans, archivo)
 
 }
 

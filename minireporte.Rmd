@@ -1,0 +1,40 @@
+---
+output: github_document
+---
+
+# Mini reporte
+
+Utiliza la API de twitter para menciones de cuentas de politica en Chile.
+Fecha del reporte: `r Sys.time()`
+
+```{r actualizar twitter, warning=FALSE}
+source("politics/mencion_cuentas.R")
+```
+
+# Extrayendo los hashtags, y armando una nube de palabras
+
+```{r hashtags, warning=FALSE}
+# Leer achivos
+datos <- lapply(archivos_creados, data.table::fread)
+datos <- lapply(datos, "[[", "text")
+datos <- unlist(datos)
+
+# Extrayendo info
+datos <- stringr::str_extract_all(datos, "#[[:alnum:]_]+")
+datos <- unlist(datos)
+
+datos <- table(datos)
+datos <- as.data.frame(datos, responseName = "Cuenta")
+
+datos <- datos[order(datos$Cuenta, decreasing = TRUE),,drop=FALSE]
+knitr::kable(head(datos, 20), row.names = FALSE)
+```
+
+# Cuentas
+
+```{r lista-cuentas, echo=FALSE}
+cuentas <- read.csv("politics/cuentas-politicas.csv", stringsAsFactors = FALSE)
+cuentas$cuenta <- sprintf("[@%s](https://twitter.com/%s)", cuentas$cuenta, cuentas$cuenta)
+knitr::kable(cuentas)
+```
+
