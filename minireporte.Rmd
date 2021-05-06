@@ -2,7 +2,7 @@
 output: github_document
 ---
 
-# Mini reporte
+# Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en Chile.
 Fecha del reporte: `r Sys.time()`
