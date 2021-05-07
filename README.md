@@ -1,6 +1,8 @@
 
 # Using Twitter API
 
+Example of report [minireporte.md]
+
 ## Setting up
 
 ``` r
