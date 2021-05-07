@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-05-07 00:00:04
+Chile. Fecha del reporte: 2021-05-07 18:51:15
 
 ``` r
 source("politics/mencion_cuentas.R")
@@ -11,7 +11,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=LuciaDammert&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -21,7 +21,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=RodrigoDelgadoM&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -31,7 +31,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=SebastianPinera&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -41,7 +41,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=KarlaEnAccion&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -51,7 +51,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=sebastiansichel&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -61,7 +61,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=ignaciobriones_&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -71,7 +71,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=mjose_zaldivar&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -81,7 +81,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=desbordes&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -91,7 +91,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=LucasPalaciosC&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -101,7 +101,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=FelipeWard&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -111,7 +111,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=mcubillossigall&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -121,7 +121,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=presidencia_cl&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -131,7 +131,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=evelynmatthei&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -141,7 +141,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=isabelpla&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -151,7 +151,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=pdazan&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -161,7 +161,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=maylwino&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -171,7 +171,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=cmonckeberg&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -181,7 +181,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=jmanalich&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -191,7 +191,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=pepe_auth&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -201,7 +201,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=soledadalvear&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -211,7 +211,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=ignaciowalker&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -221,7 +221,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=carolinagoic&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -231,7 +231,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=melnicksergio&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -241,7 +241,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=felipekast&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -251,7 +251,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=felipeharboe&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -261,7 +261,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=RNchile&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -271,7 +271,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=udipopular&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -281,7 +281,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=SylviaEyzaguirr&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -291,7 +291,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=javiparada&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -301,7 +301,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=ceaceotres&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -311,7 +311,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=RDemocratica&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -321,7 +321,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=gabrielboric&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -331,7 +331,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=carmen_hertz&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -341,7 +341,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=GiorgioJackson&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -351,7 +351,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=cbellolio&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -361,7 +361,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=pcayuqueo&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -371,7 +371,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=pablovidalrojas&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -381,7 +381,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=MiguelCrispiS&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -391,7 +391,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=patricionavia&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -401,7 +401,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=PatoFdez&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -411,7 +411,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=DMatamala&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -421,7 +421,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=jschaulsohn&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -431,7 +431,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=dmimica&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -441,7 +441,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=OLanderretche&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -451,7 +451,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=tv_monica&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -461,7 +461,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=AndreaAristegui&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -471,7 +471,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=Liberales_Chile&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -481,7 +481,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=GobiernodeChile&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -491,7 +491,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=fernandopaulsen&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -501,7 +501,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=mxperez&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -511,7 +511,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=alvarez_monse&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -521,7 +521,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=tv_mauricio&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -531,7 +531,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=SoledadOnetto&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -541,7 +541,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=carolaurrejola&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -551,7 +551,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=camila_vallejo&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -561,7 +561,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=KarolCariola&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -571,7 +571,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=labeasanchez&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -581,7 +581,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=PamJiles&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -591,7 +591,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=danieljadue&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -601,7 +601,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=guiller&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -611,7 +611,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=elfrente_amplio&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -621,7 +621,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=JorgeSharp&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -631,7 +631,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=gonzadowinter&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -641,7 +641,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=PCdeChile&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -651,7 +651,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=la_convergencia&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -661,7 +661,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=PSChile&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -671,7 +671,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=GaelDiputada&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -681,7 +681,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=cseebach&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -691,7 +691,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=pallards&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -701,7 +701,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=louisdegrange&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -711,7 +711,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=CarolaSchmidtZ&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -721,7 +721,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=susanajimenez&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -731,7 +731,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=JCJobet&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -741,7 +741,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=Orrego&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -751,7 +751,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=PDC_Chile&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -761,7 +761,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=eugeniotironi&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -771,7 +771,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=phumanista&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -781,7 +781,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=abernales&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -791,7 +791,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=feuc&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -801,7 +801,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=confech&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -811,7 +811,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=tomashirsh&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -821,7 +821,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=Claudia_Mix&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -831,7 +831,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=Camila_RojasV&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -841,7 +841,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=izq_libertaria&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -851,7 +851,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=IgualdadPartido&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -861,7 +861,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=ComunesCL&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -871,7 +871,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=gteillier&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -881,7 +881,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=daniel_nunez_a&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -891,7 +891,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=baradit&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -901,7 +901,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=sebastianpinera&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -911,7 +911,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=eldesconcierto&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -921,7 +921,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=Mayafernandeza&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -931,7 +931,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=mbachelet&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -941,7 +941,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=izkia&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -951,7 +951,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=RenatoGarinG&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -961,7 +961,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=Diputados_PC&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -971,7 +971,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=ncastilo&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -981,7 +981,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=jorbritoh&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
@@ -991,7 +991,7 @@ source("politics/mencion_cuentas.R")
     ## First API call for path: 2/users/by... done.
 
     ## Response [https://api.twitter.com/2/users/by?usernames=LatorreJI&user.fields=created_at&expansions=pinned_tweet_id&tweet.fields=author_id%2Ccreated_at]
-    ##   Date: 2021-05-07 00:00
+    ##   Date: 2021-05-07 18:51
     ##   Status: 401
     ##   Content-Type: application/json; charset=utf-8
     ##   Size: 82 B
