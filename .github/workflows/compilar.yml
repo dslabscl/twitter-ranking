@@ -1,3 +1,5 @@
+name: Build report
+
 on:
   push:
     branches: [ master ]
@@ -6,7 +8,8 @@ jobs:
   build:
     runs-on: macOS-latest
     env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      - GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      - TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }} 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
