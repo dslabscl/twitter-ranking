@@ -52,7 +52,8 @@ tw_api2 <- function(
   message(" done.")
 
   raw_tweets <- httr::content(res)
-#  print(res)
+  if (httr::status_code(res) != 200)
+    print(raw_tweets)
 
   # Getting next batch
   if (ncalls > 1L) {
