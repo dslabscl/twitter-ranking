@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-05-07 19:39:39
+Chile. Fecha del reporte: 2021-05-12 22:28:00
 
 ``` r
 source("politics/mencion_cuentas.R")
