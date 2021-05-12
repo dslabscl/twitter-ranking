@@ -2,1596 +2,212 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-05-12 22:28:00
+Chile. Fecha del reporte: 2021-05-12 22:32:11
 
 ``` r
 source("politics/mencion_cuentas.R")
 ```
 
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario LuciaDammert fallo buscando menciones.
+    ## First API call for path: 2/users/141273706/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario RodrigoDelgadoM fallo buscando menciones.
+    ## First API call for path: 2/users/78360993/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario SebastianPinera fallo buscando menciones.
+    ## First API call for path: 2/users/13623532/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario KarlaEnAccion fallo buscando menciones.
+    ## First API call for path: 2/users/59145115/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario sebastiansichel fallo buscando menciones.
+    ## First API call for path: 2/users/24429981/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario ignaciobriones_ fallo buscando menciones.
+    ## First API call for path: 2/users/1618289516/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario mjose_zaldivar fallo buscando menciones.
+    ## First API call for path: 2/users/986311722712616960/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario desbordes fallo buscando menciones.
+    ## First API call for path: 2/users/45214422/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario LucasPalaciosC fallo buscando menciones.
+    ## First API call for path: 2/users/960980072/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario FelipeWard fallo buscando menciones.
+    ## First API call for path: 2/users/353832345/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario mcubillossigall fallo buscando menciones.
+    ## First API call for path: 2/users/968552547144404994/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario presidencia_cl fallo buscando menciones.
+    ## First API call for path: 2/users/843106556447281154/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario evelynmatthei fallo buscando menciones.
+    ## First API call for path: 2/users/370275105/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario isabelpla fallo buscando menciones.
+    ## First API call for path: 2/users/44980318/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario pdazan fallo buscando menciones.
+    ## First API call for path: 2/users/2496588486/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario maylwino fallo buscando menciones.
+    ## First API call for path: 2/users/101614836/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario cmonckeberg fallo buscando menciones.
+    ## First API call for path: 2/users/29053014/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario jmanalich fallo buscando menciones.
+    ## First API call for path: 2/users/114834301/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario pepe_auth fallo buscando menciones.
+    ## First API call for path: 2/users/155978526/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario soledadalvear fallo buscando menciones.
+    ## First API call for path: 2/users/119866419/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario ignaciowalker fallo buscando menciones.
+    ## First API call for path: 2/users/62530556/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario carolinagoic fallo buscando menciones.
+    ## First API call for path: 2/users/14050989/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario melnicksergio fallo buscando menciones.
+    ## First API call for path: 2/users/622098575/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario felipekast fallo buscando menciones.
+    ## First API call for path: 2/users/16193496/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario felipeharboe fallo buscando menciones.
+    ## First API call for path: 2/users/19294551/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario RNchile fallo buscando menciones.
+    ## First API call for path: 2/users/7769652/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario udipopular fallo buscando menciones.
+    ## First API call for path: 2/users/43422471/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario SylviaEyzaguirr fallo buscando menciones.
+    ## First API call for path: 2/users/2578794968/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario javiparada fallo buscando menciones.
+    ## First API call for path: 2/users/54418077/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario ceaceotres fallo buscando menciones.
+    ## First API call for path: 2/users/96556470/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario RDemocratica fallo buscando menciones.
+    ## First API call for path: 2/users/434511852/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario gabrielboric fallo buscando menciones.
+    ## First API call for path: 2/users/73981088/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario carmen_hertz fallo buscando menciones.
+    ## First API call for path: 2/users/351810153/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario GiorgioJackson fallo buscando menciones.
+    ## First API call for path: 2/users/59215690/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario cbellolio fallo buscando menciones.
+    ## First API call for path: 2/users/76080332/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario pcayuqueo fallo buscando menciones.
+    ## First API call for path: 2/users/229935065/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario pablovidalrojas fallo buscando menciones.
+    ## First API call for path: 2/users/31346901/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario MiguelCrispiS fallo buscando menciones.
+    ## First API call for path: 2/users/57454967/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario patricionavia fallo buscando menciones.
+    ## First API call for path: 2/users/11061482/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario PatoFdez fallo buscando menciones.
+    ## First API call for path: 2/users/84067065/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario DMatamala fallo buscando menciones.
+    ## First API call for path: 2/users/32754385/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario jschaulsohn fallo buscando menciones.
+    ## First API call for path: 2/users/20594284/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario dmimica fallo buscando menciones.
+    ## First API call for path: 2/users/15224403/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario OLanderretche fallo buscando menciones.
+    ## First API call for path: 2/users/1031547720954204160/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario tv_monica fallo buscando menciones.
+    ## First API call for path: 2/users/38002872/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario AndreaAristegui fallo buscando menciones.
+    ## First API call for path: 2/users/49982456/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario Liberales_Chile fallo buscando menciones.
+    ## First API call for path: 2/users/13239212/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario GobiernodeChile fallo buscando menciones.
+    ## First API call for path: 2/users/42102939/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario fernandopaulsen fallo buscando menciones.
+    ## First API call for path: 2/users/51200175/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario mxperez fallo buscando menciones.
+    ## First API call for path: 2/users/37965578/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario alvarez_monse fallo buscando menciones.
+    ## First API call for path: 2/users/37966027/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario tv_mauricio fallo buscando menciones.
+    ## First API call for path: 2/users/37978929/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario SoledadOnetto fallo buscando menciones.
+    ## First API call for path: 2/users/29222150/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario carolaurrejola fallo buscando menciones.
+    ## First API call for path: 2/users/51597098/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario camila_vallejo fallo buscando menciones.
+    ## First API call for path: 2/users/225445834/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario KarolCariola fallo buscando menciones.
+    ## First API call for path: 2/users/104020962/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario labeasanchez fallo buscando menciones.
+    ## First API call for path: 2/users/55273142/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario PamJiles fallo buscando menciones.
+    ## First API call for path: 2/users/1381789998/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario danieljadue fallo buscando menciones.
+    ## First API call for path: 2/users/146542753/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario guiller fallo buscando menciones.
+    ## First API call for path: 2/users/775594/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario elfrente_amplio fallo buscando menciones.
+    ## First API call for path: 2/users/819594986832465920/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario JorgeSharp fallo buscando menciones.
+    ## First API call for path: 2/users/68917670/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
     ##  done.
     ## Usuario gonzadowinter fallo buscando menciones.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario PCdeChile fallo buscando menciones.
+    ## First API call for path: 2/users/1104021420/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario la_convergencia fallo buscando menciones.
+    ## First API call for path: 2/users/737726329165099008/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario PSChile fallo buscando menciones.
+    ## First API call for path: 2/users/2916268066/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario GaelDiputada fallo buscando menciones.
+    ## First API call for path: 2/users/2749212142/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario cseebach fallo buscando menciones.
+    ## First API call for path: 2/users/57443624/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario pallards fallo buscando menciones.
+    ## First API call for path: 2/users/162167485/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario louisdegrange fallo buscando menciones.
+    ## First API call for path: 2/users/175532137/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario CarolaSchmidtZ fallo buscando menciones.
+    ## First API call for path: 2/users/151090798/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario susanajimenez fallo buscando menciones.
+    ## First API call for path: 2/users/42473989/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario JCJobet fallo buscando menciones.
+    ## First API call for path: 2/users/47986737/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario Orrego fallo buscando menciones.
+    ## First API call for path: 2/users/15049365/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario PDC_Chile fallo buscando menciones.
+    ## First API call for path: 2/users/186661014/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario eugeniotironi fallo buscando menciones.
+    ## First API call for path: 2/users/83259753/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario phumanista fallo buscando menciones.
+    ## First API call for path: 2/users/120181036/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario abernales fallo buscando menciones.
+    ## First API call for path: 2/users/8434092/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario feuc fallo buscando menciones.
+    ## First API call for path: 2/users/35287387/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario confech fallo buscando menciones.
+    ## First API call for path: 2/users/273266159/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
     ##  done.
     ## Usuario tomashirsh fallo buscando menciones.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario Claudia_Mix fallo buscando menciones.
+    ## First API call for path: 2/users/294908394/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario Camila_RojasV fallo buscando menciones.
+    ## First API call for path: 2/users/359670144/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario izq_libertaria fallo buscando menciones.
+    ## First API call for path: 2/users/3290391431/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario IgualdadPartido fallo buscando menciones.
+    ## First API call for path: 2/users/472510054/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario ComunesCL fallo buscando menciones.
+    ## First API call for path: 2/users/82209447/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario gteillier fallo buscando menciones.
+    ## First API call for path: 2/users/147701898/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario daniel_nunez_a fallo buscando menciones.
+    ## First API call for path: 2/users/1121791488/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario baradit fallo buscando menciones.
+    ## First API call for path: 2/users/10908822/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario sebastianpinera fallo buscando menciones.
+    ## First API call for path: 2/users/13623532/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario eldesconcierto fallo buscando menciones.
+    ## First API call for path: 2/users/613740623/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario Mayafernandeza fallo buscando menciones.
+    ## First API call for path: 2/users/154162544/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario mbachelet fallo buscando menciones.
+    ## First API call for path: 2/users/4119914644/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario izkia fallo buscando menciones.
+    ## First API call for path: 2/users/52534878/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario RenatoGarinG fallo buscando menciones.
+    ## First API call for path: 2/users/934521405311520770/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario Diputados_PC fallo buscando menciones.
+    ## First API call for path: 2/users/1241776453/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario ncastilo fallo buscando menciones.
+    ## First API call for path: 2/users/525351120/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario jorbritoh fallo buscando menciones.
+    ## First API call for path: 2/users/308757976/mentions... done.
     ## First API call for path: 2/users/by... done.
-
-    ## $title
-    ## [1] "Unauthorized"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 401
-    ## 
-    ## $detail
-    ## [1] "Unauthorized"
-
-    ##  done.
-    ## Usuario LatorreJI fallo buscando menciones.
+    ## First API call for path: 2/users/847488627303038976/mentions... done.
 
 # Extrayendo los hashtags, y armando una nube de palabras
 
@@ -1612,8 +228,28 @@ datos <- datos[order(datos$Cuenta, decreasing = TRUE),,drop=FALSE]
 knitr::kable(head(datos, 20), row.names = FALSE)
 ```
 
-| Cuenta |
-|-------:|
+| datos                            | Cuenta |
+|:---------------------------------|-------:|
+| \#ContigoCHV                     |     63 |
+| \#Elecciones2021CL               |     61 |
+| \#AcusaciónConstitucionalAPiñera |     58 |
+| \#SiempreEsHoy                   |     43 |
+| \#NOmasAFP                       |     37 |
+| \#AlejandraCox                   |     27 |
+| \#Chile                          |     26 |
+| \#Página13                       |     21 |
+| \#CuartoRetiro                   |     20 |
+| \#EstonoesPlazaItalia            |     17 |
+| \#Plandemia                      |     16 |
+| \#NegocioCriminal                |     15 |
+| \#SinLibertadNoHayPlebiscito     |     15 |
+| \#11MesesSaabSecuestrado         |     14 |
+| \#NoTeVamosAElegir               |     14 |
+| \#T13Tarde                       |     14 |
+| \#TigrayGenocide                 |     14 |
+| \#chile                          |     13 |
+| \#Magallanes                     |     13 |
+| \#carabineros                    |     12 |
 
 # Cuentas
 
