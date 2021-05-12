@@ -18,23 +18,23 @@ tw_api2 <- function(
   if (file.exists("keys.md")) {
 
     keys <- readLines("keys.md")
+    
+    # Parsing keys
+    keys <- list(
+      consumer_api_key        = keys[grepl("^API key[:]", keys)],
+      consumer_api_key_secret = keys[grepl("^API key secret[:]", keys)],
+      bearer_token            = keys[grepl("^Bearer token[:]", keys)]
+    )
+
+    keys <- lapply(
+      keys, gsub, pattern = ".+[:]\\s+|\\s+$", replacement = ""
+    )
 
   } else {
 
     keys <- list(bearer_token = Sys.getenv("TWITTER_BEARER_TOKEN"))
 
   }
-
-  # Parsing keys
-  keys <- list(
-    consumer_api_key        = keys[grepl("^API key[:]", keys)],
-    consumer_api_key_secret = keys[grepl("^API key secret[:]", keys)],
-    bearer_token            = keys[grepl("^Bearer token[:]", keys)]
-  )
-
-  keys <- lapply(
-    keys, gsub, pattern = ".+[:]\\s+|\\s+$", replacement = ""
-  )
 
   message(sprintf("First API call for path: %s...", path.), appendLF = FALSE)
   res <- httr::GET(
