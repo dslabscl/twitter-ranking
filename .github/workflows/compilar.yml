@@ -10,6 +10,7 @@ jobs:
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
       TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }} 
+      MY_SECRET: ${{ secrets.MY_SECRET }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
@@ -33,6 +34,7 @@ jobs:
         run: |
           R -e 'install.packages(c("renv", "data.table", "httr", "rmarkdown"))'
           R -e 'renv::restore()'
+          R -e 'cat("This is my secret: ", Sys.getenv("MY_SECRET","\n")'
       - name: Render Rmarkdown files
         run: |
           RMD_PATH=minireporte.Rmd #($(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '[.]Rmd$'))
