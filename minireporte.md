@@ -2,22 +2,9 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-02 15:57:03
+Chile. Fecha del reporte: 2021-06-02 23:02:42
 
-    ## {html_document}
-    ## <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-    ## [1] <head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8 ...
-    ## [2] <body>\n    <div class="errorpage-topbar">\n      <div class="errorpage-g ...
-    ## {html_document}
-    ## <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-    ## [1] <head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8 ...
-    ## [2] <body>\n    <div class="errorpage-topbar">\n      <div class="errorpage-g ...
-    ## {html_document}
-    ## <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-    ## [1] <head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8 ...
-    ## [2] <body>\n    <div class="errorpage-topbar">\n      <div class="errorpage-g ...
-
-# Extrayendo los hashtags, y armando una nube de palabras
+# Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
@@ -27,20 +14,20 @@ Chile. Fecha del reporte: 2021-06-02 15:57:03
 | \#PYMES                       |     38 |
 | \#SiempreEsHoy                |     35 |
 | \#CuentaPública2021           |     26 |
-| \#Chile                       |     25 |
+| \#Chile                       |     24 |
+| \#QuieroMi100xCiento          |     21 |
 | \#TPP11                       |     21 |
-| \#QuieroMi100xCiento          |     20 |
+| \#Quieromi100xcientoAhora     |     19 |
 | \#matrimonioigualitario       |     18 |
 | \#MesaCentral                 |     18 |
 | \#ElMostradorEnLaClave        |     17 |
-| \#Plandemia                   |     17 |
-| \#Quieromi100xcientoAhora     |     17 |
 | \#Elecciones2021CL            |     16 |
 | \#FuerzaAbuelaConCuartoRetiro |     16 |
+| \#Plandemia                   |     16 |
 | \#DobleOpuesto                |     15 |
 | \#NetZeroSummit               |     15 |
-| \#JaduePresidente             |     14 |
-| \#MatrimonioIgualitario       |     14 |
+| \#SeraOtroDia                 |     14 |
+| \#JaduePresidente             |     13 |
 
 # Cuentas
 
