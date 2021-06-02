@@ -3,13 +3,15 @@ name: Build report
 on:
   push:
     branches: [ master ]
+  schedule:
+    - cron: '0 0 * * 1-5' # Lunes a Viernes a las 00 horas.
 
 jobs:
   build:
     runs-on: macOS-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-      TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }} 
+      TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
       MY_SECRET: ${{ secrets.MY_SECRET }}
     steps:
       - name: Checkout repo
@@ -38,7 +40,7 @@ jobs:
       - name: Render Rmarkdown files
         run: |
           RMD_PATH=minireporte.Rmd #($(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '[.]Rmd$'))
-          Rscript -e 'for (f in commandArgs(TRUE)) if (file.exists(f)) rmarkdown::render(f)' ${RMD_PATH[*]} 
+          Rscript -e 'for (f in commandArgs(TRUE)) if (file.exists(f)) rmarkdown::render(f)' ${RMD_PATH[*]}
       - name: Commit results
         run: |
           git config --local user.name "$GITHUB_ACTOR"
