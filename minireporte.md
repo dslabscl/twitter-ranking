@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-02 23:02:42
+Chile. Fecha del reporte: 2021-06-03 02:51:32
 
 # Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
 | \#CuartoRetiro10xCiento       |     53 |
-| \#NoAlTPP11                   |     50 |
-| \#ContigoCHV                  |     39 |
-| \#PYMES                       |     38 |
+| \#NoAlTPP11                   |     46 |
+| \#QuieroMi100xCiento          |     44 |
+| \#PYMES                       |     43 |
 | \#SiempreEsHoy                |     35 |
-| \#CuentaPública2021           |     26 |
-| \#Chile                       |     24 |
-| \#QuieroMi100xCiento          |     21 |
-| \#TPP11                       |     21 |
-| \#Quieromi100xcientoAhora     |     19 |
-| \#matrimonioigualitario       |     18 |
+| \#ContigoCHV                  |     31 |
+| \#IzquierdaMiserable          |     27 |
+| \#FuerzaAbuelaConCuartoRetiro |     23 |
+| \#CuentaPública2021           |     22 |
+| \#QuieroMi100                 |     22 |
+| \#superrico                   |     21 |
+| \#Plandemia                   |     20 |
 | \#MesaCentral                 |     18 |
 | \#ElMostradorEnLaClave        |     17 |
+| \#Quieromi100xcientoAhora     |     17 |
+| \#Chile                       |     16 |
 | \#Elecciones2021CL            |     16 |
-| \#FuerzaAbuelaConCuartoRetiro |     16 |
-| \#Plandemia                   |     16 |
+| \#NegocioCriminal             |     16 |
 | \#DobleOpuesto                |     15 |
 | \#NetZeroSummit               |     15 |
-| \#SeraOtroDia                 |     14 |
-| \#JaduePresidente             |     13 |
 
 # Cuentas
 
