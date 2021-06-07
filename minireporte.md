@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-04 02:07:24
+Chile. Fecha del reporte: 2021-06-07 01:49:46
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| #YoQuieroMi100Xciento      |     84 |
-| #MiPYME                    |     76 |
-| #100xCientoSinLetraChica   |     67 |
-| #QuieroMi100xCiento        |     66 |
-| #NoAlTPP11                 |     41 |
-| #ContigoCHV                |     40 |
-| #SiempreEsHoy              |     32 |
-| #QuieroMi100xCientoSinTope |     29 |
-| #CuartoRetiro10xCiento     |     25 |
-| #Página13                  |     25 |
-| #Chile                     |     23 |
-| #Plandemia                 |     23 |
-| #PYMES                     |     21 |
-| #NegocioCriminal           |     19 |
-| #Quieromi100xcientoAhora   |     19 |
-| #MesaCentral               |     18 |
-| #ElMostradorEnLaClave      |     17 |
-| #JadueMeDaConfianza        |     17 |
-| #Elecciones2021CL          |     16 |
-| #EsHoraDeEscucharnos       |     16 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| #SiempreEsHoy                 |     41 |
+| #100xCientoSinLetraChica      |     32 |
+| #MesaCentral                  |     30 |
+| #EsHoraDeEscucharnos          |     29 |
+| #OrregoGobernador             |     29 |
+| #Chile                        |     26 |
+| #KarinaOlivaGobernadora       |     26 |
+| #Plandemia                    |     24 |
+| #QuieroMi100xCiento           |     24 |
+| #CEM12MI6                     |     23 |
+| #Página13                     |     22 |
+| #NegocioCriminal              |     20 |
+| #chile                        |     18 |
+| #Elecciones2021CL             |     17 |
+| #IFEUniversal                 |     16 |
+| #LaMesaDeLasQueSobran         |     15 |
+| #CEM12MI6Chile                |     14 |
+| #JaduePresidente2022          |     14 |
+| #Constituyentesindelincuentes |     13 |
+| #estallido3                   |     13 |
 
 # Cuentas
 
