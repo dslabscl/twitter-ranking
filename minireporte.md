@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-07 01:49:46
+Chile. Fecha del reporte: 2021-06-08 01:43:24
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| #SiempreEsHoy                 |     41 |
-| #100xCientoSinLetraChica      |     32 |
-| #MesaCentral                  |     30 |
-| #EsHoraDeEscucharnos          |     29 |
-| #OrregoGobernador             |     29 |
-| #Chile                        |     26 |
-| #KarinaOlivaGobernadora       |     26 |
-| #Plandemia                    |     24 |
-| #QuieroMi100xCiento           |     24 |
-| #CEM12MI6                     |     23 |
-| #Página13                     |     22 |
-| #NegocioCriminal              |     20 |
-| #chile                        |     18 |
-| #Elecciones2021CL             |     17 |
-| #IFEUniversal                 |     16 |
-| #LaMesaDeLasQueSobran         |     15 |
-| #CEM12MI6Chile                |     14 |
-| #JaduePresidente2022          |     14 |
-| #Constituyentesindelincuentes |     13 |
-| #estallido3                   |     13 |
+| datos                              | Cuenta |
+|:-----------------------------------|-------:|
+| #100xCientoSinLetraChica           |     41 |
+| #ContigoCHV                        |     38 |
+| #SiempreEsHoy                      |     37 |
+| #EsHoraDeEscucharnos               |     35 |
+| #JAK2022                           |     35 |
+| #FuerzaAbuelaxMi100xCiento         |     28 |
+| #OrregoGobernador                  |     27 |
+| #Página13                          |     25 |
+| #QuieroMi100xCiento                |     25 |
+| #MesaCentral                       |     23 |
+| #Chile                             |     22 |
+| #Elecciones2021CL                  |     21 |
+| #KarinaOlivaGobernadora            |     19 |
+| #JusticiaParaFabiolaCampillaiAhora |     16 |
+| #QuieroMi100xCientoSinTope         |     16 |
+| #ToleranciaCero                    |     15 |
+| #CEM12MI6                          |     14 |
+| #NeverAgain4Tigray                 |     13 |
+| #TigrayGenocide                    |     13 |
+| #chile                             |     12 |
 
 # Cuentas
 
