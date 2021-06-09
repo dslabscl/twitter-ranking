@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-08 01:43:24
+Chile. Fecha del reporte: 2021-06-09 01:17:22
 
 # Hashtags más populares
 
-| datos                              | Cuenta |
-|:-----------------------------------|-------:|
-| #100xCientoSinLetraChica           |     41 |
-| #ContigoCHV                        |     38 |
-| #SiempreEsHoy                      |     37 |
-| #EsHoraDeEscucharnos               |     35 |
-| #JAK2022                           |     35 |
-| #FuerzaAbuelaxMi100xCiento         |     28 |
-| #OrregoGobernador                  |     27 |
-| #Página13                          |     25 |
-| #QuieroMi100xCiento                |     25 |
-| #MesaCentral                       |     23 |
-| #Chile                             |     22 |
-| #Elecciones2021CL                  |     21 |
-| #KarinaOlivaGobernadora            |     19 |
-| #JusticiaParaFabiolaCampillaiAhora |     16 |
-| #QuieroMi100xCientoSinTope         |     16 |
-| #ToleranciaCero                    |     15 |
-| #CEM12MI6                          |     14 |
-| #NeverAgain4Tigray                 |     13 |
-| #TigrayGenocide                    |     13 |
-| #chile                             |     12 |
+| datos                                        | Cuenta |
+|:---------------------------------------------|-------:|
+| #ContigoCHV                                  |     58 |
+| #SiempreEsHoy                                |     39 |
+| #apoyenaloscientificosdelauniversidadaustral |     38 |
+| #EsHoraDeEscucharnos                         |     35 |
+| #100xCientoSinLetraChica                     |     33 |
+| #FuerzaAbuelaxMi100xCiento                   |     31 |
+| #QuieroMi100xCiento                          |     31 |
+| #Página13                                    |     28 |
+| #QuieroMi100xCientoSinTope                   |     25 |
+| #ContigoEnLaManana                           |     18 |
+| #Elecciones2021CL                            |     18 |
+| #MesaCentral                                 |     17 |
+| #Chile                                       |     16 |
+| #KarinaOlivaGobernadora                      |     16 |
+| #chile                                       |     13 |
+| #JulioCesarrodriguez                         |     13 |
+| #RegistroSocialdeHogares                     |     13 |
+| #Constituyentesindelincuentes                |     12 |
+| #estallido3                                  |     12 |
+| #ImpuestoALosSúperRicos                      |     12 |
 
 # Cuentas
 
