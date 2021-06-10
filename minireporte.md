@@ -2,32 +2,44 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-09 01:17:22
+Chile. Fecha del reporte: 2021-06-10 01:14:24
+
+    ## $title
+    ## [1] "Service Unavailable"
+    ## 
+    ## $type
+    ## [1] "about:blank"
+    ## 
+    ## $status
+    ## [1] 503
+    ## 
+    ## $detail
+    ## [1] "Service Unavailable"
 
 # Hashtags más populares
 
-| datos                                        | Cuenta |
-|:---------------------------------------------|-------:|
-| #ContigoCHV                                  |     58 |
-| #SiempreEsHoy                                |     39 |
-| #apoyenaloscientificosdelauniversidadaustral |     38 |
-| #EsHoraDeEscucharnos                         |     35 |
-| #100xCientoSinLetraChica                     |     33 |
-| #FuerzaAbuelaxMi100xCiento                   |     31 |
-| #QuieroMi100xCiento                          |     31 |
-| #Página13                                    |     28 |
-| #QuieroMi100xCientoSinTope                   |     25 |
-| #ContigoEnLaManana                           |     18 |
-| #Elecciones2021CL                            |     18 |
-| #MesaCentral                                 |     17 |
-| #Chile                                       |     16 |
-| #KarinaOlivaGobernadora                      |     16 |
-| #chile                                       |     13 |
-| #JulioCesarrodriguez                         |     13 |
-| #RegistroSocialdeHogares                     |     13 |
-| #Constituyentesindelincuentes                |     12 |
-| #estallido3                                  |     12 |
-| #ImpuestoALosSúperRicos                      |     12 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| #ContigoCHV                   |     53 |
+| #Página13                     |     43 |
+| #SiempreEsHoy                 |     41 |
+| #100xCientoSinLetraChica      |     32 |
+| #EsHoraDeEscucharnos          |     30 |
+| #FuerzaAbuelaxMi100xCiento    |     29 |
+| #chile                        |     21 |
+| #Chile                        |     21 |
+| #MesaCentral                  |     19 |
+| #Elecciones2021CL             |     18 |
+| #KarinaOlivaGobernadora       |     17 |
+| #Constituyentesindelincuentes |     16 |
+| #estallido3                   |     16 |
+| #mapuche                      |     16 |
+| #ImpuestoALosSúperRicos       |     14 |
+| #T13Tarde                     |     14 |
+| #JaduePresidente              |     13 |
+| #OrregoGobernador             |     12 |
+| #QuieroMi100xCientoSinTope    |     11 |
+| #DobleOpuesto                 |     10 |
 
 # Cuentas
 
