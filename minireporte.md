@@ -2,44 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-10 01:14:24
-
-    ## $title
-    ## [1] "Service Unavailable"
-    ## 
-    ## $type
-    ## [1] "about:blank"
-    ## 
-    ## $status
-    ## [1] 503
-    ## 
-    ## $detail
-    ## [1] "Service Unavailable"
+Chile. Fecha del reporte: 2021-06-11 01:09:59
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| #ContigoCHV                   |     53 |
-| #Página13                     |     43 |
-| #SiempreEsHoy                 |     41 |
-| #100xCientoSinLetraChica      |     32 |
-| #EsHoraDeEscucharnos          |     30 |
-| #FuerzaAbuelaxMi100xCiento    |     29 |
-| #chile                        |     21 |
-| #Chile                        |     21 |
-| #MesaCentral                  |     19 |
-| #Elecciones2021CL             |     18 |
-| #KarinaOlivaGobernadora       |     17 |
-| #Constituyentesindelincuentes |     16 |
-| #estallido3                   |     16 |
-| #mapuche                      |     16 |
-| #ImpuestoALosSúperRicos       |     14 |
-| #T13Tarde                     |     14 |
-| #JaduePresidente              |     13 |
-| #OrregoGobernador             |     12 |
-| #QuieroMi100xCientoSinTope    |     11 |
-| #DobleOpuesto                 |     10 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #SiempreEsHoy                |     47 |
+| #100xCientoSinLetraChica     |     40 |
+| #Página13                    |     38 |
+| #ContigoCHV                  |     37 |
+| #FuerzaAbuelaxMi100xCiento   |     29 |
+| #Chile                       |     28 |
+| #KarinaOlivaGobernadora      |     28 |
+| #GobernadoresParaJadue       |     27 |
+| #EsHoraDeEscucharnos         |     25 |
+| #TigrayCantWait              |     24 |
+| #JaduePresidente             |     22 |
+| #KarinaGobernadora           |     21 |
+| #StopStarvingTigray          |     20 |
+| #chile                       |     19 |
+| #Elecciones2021CL            |     19 |
+| #MesaCentral                 |     17 |
+| #NoMasEstadodeExcepcion      |     16 |
+| #SePuede                     |     16 |
+| #FuerzaAbuelaConCuartoRetiro |     15 |
+| #SichelPresidente            |     15 |
 
 # Cuentas
 
