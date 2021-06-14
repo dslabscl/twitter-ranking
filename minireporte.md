@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-11 01:09:59
+Chile. Fecha del reporte: 2021-06-14 01:06:23
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #SiempreEsHoy                |     47 |
-| #100xCientoSinLetraChica     |     40 |
-| #Página13                    |     38 |
-| #ContigoCHV                  |     37 |
-| #FuerzaAbuelaxMi100xCiento   |     29 |
-| #Chile                       |     28 |
-| #KarinaOlivaGobernadora      |     28 |
-| #GobernadoresParaJadue       |     27 |
-| #EsHoraDeEscucharnos         |     25 |
-| #TigrayCantWait              |     24 |
-| #JaduePresidente             |     22 |
-| #KarinaGobernadora           |     21 |
-| #StopStarvingTigray          |     20 |
-| #chile                       |     19 |
-| #Elecciones2021CL            |     19 |
-| #MesaCentral                 |     17 |
-| #NoMasEstadodeExcepcion      |     16 |
-| #SePuede                     |     16 |
-| #FuerzaAbuelaConCuartoRetiro |     15 |
-| #SichelPresidente            |     15 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| #ExtensionEstadoCatastrofe     |     90 |
+| #LaMaternidadSeCastigaEnChile  |     89 |
+| #PostnatalDeEmergencia         |     82 |
+| #Elecciones2021CL              |     66 |
+| #SiempreEsHoy                  |     65 |
+| #VOTACIONES2021                |     51 |
+| #OrregoGobernador              |     42 |
+| #FuerzaAbuelaxMi100xCiento     |     40 |
+| #EleccionesGobernador2021      |     30 |
+| #ChileSinComunismo             |     28 |
+| #SalvemosChile                 |     26 |
+| #Chile                         |     25 |
+| #Página13                      |     25 |
+| #EsHoraDeEscucharnos           |     23 |
+| #MaternidadDignaChile          |     21 |
+| #MesaCentral                   |     17 |
+| #BOLIVIA                       |     16 |
+| #FuerzaAbuelaConCuartoRetiro   |     16 |
+| #ContigoCHV                    |     15 |
+| #HoyEsElDíaDParaElPuebloDChile |     14 |
 
 # Cuentas
 
