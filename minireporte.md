@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-14 01:06:23
+Chile. Fecha del reporte: 2021-06-15 01:11:42
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| #ExtensionEstadoCatastrofe     |     90 |
-| #LaMaternidadSeCastigaEnChile  |     89 |
-| #PostnatalDeEmergencia         |     82 |
-| #Elecciones2021CL              |     66 |
-| #SiempreEsHoy                  |     65 |
-| #VOTACIONES2021                |     51 |
-| #OrregoGobernador              |     42 |
-| #FuerzaAbuelaxMi100xCiento     |     40 |
-| #EleccionesGobernador2021      |     30 |
-| #ChileSinComunismo             |     28 |
-| #SalvemosChile                 |     26 |
-| #Chile                         |     25 |
-| #Página13                      |     25 |
-| #EsHoraDeEscucharnos           |     23 |
-| #MaternidadDignaChile          |     21 |
-| #MesaCentral                   |     17 |
-| #BOLIVIA                       |     16 |
-| #FuerzaAbuelaConCuartoRetiro   |     16 |
-| #ContigoCHV                    |     15 |
-| #HoyEsElDíaDParaElPuebloDChile |     14 |
+| datos                             | Cuenta |
+|:----------------------------------|-------:|
+| #ExtensionEstadoCatastrofe        |     77 |
+| #LaMaternidadSeCastigaEnChile     |     73 |
+| #PostnatalDeEmergencia            |     73 |
+| #ContigoCHV                       |     62 |
+| #SiempreEsHoy                     |     61 |
+| #dictadura                        |     38 |
+| #LibertadATodxsLxsPresxsPoliticxs |     38 |
+| #Mi100PorCientoAhora              |     38 |
+| #NoAlTPP11                        |     38 |
+| #Elecciones2021CL                 |     33 |
+| #MesaCentral                      |     31 |
+| #FuerzaAbuelaXMi100XCiento        |     22 |
+| #FuerzaAbuelaxMi100xCiento        |     20 |
+| #EsHoraDeEscucharnos              |     19 |
+| #Página13                         |     18 |
+| #FraudeElectoral                  |     16 |
+| #DobleOpuesto                     |     15 |
+| #ChileSinComunismo                |     14 |
+| #FuerzaAbuelaConCuartoRetiro      |     13 |
+| #LosColumnistas                   |     13 |
 
 # Cuentas
 
