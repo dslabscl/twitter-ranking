@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-15 01:11:42
+Chile. Fecha del reporte: 2021-06-16 01:09:13
 
 # Hashtags más populares
 
-| datos                             | Cuenta |
-|:----------------------------------|-------:|
-| #ExtensionEstadoCatastrofe        |     77 |
-| #LaMaternidadSeCastigaEnChile     |     73 |
-| #PostnatalDeEmergencia            |     73 |
-| #ContigoCHV                       |     62 |
-| #SiempreEsHoy                     |     61 |
-| #dictadura                        |     38 |
-| #LibertadATodxsLxsPresxsPoliticxs |     38 |
-| #Mi100PorCientoAhora              |     38 |
-| #NoAlTPP11                        |     38 |
-| #Elecciones2021CL                 |     33 |
-| #MesaCentral                      |     31 |
-| #FuerzaAbuelaXMi100XCiento        |     22 |
-| #FuerzaAbuelaxMi100xCiento        |     20 |
-| #EsHoraDeEscucharnos              |     19 |
-| #Página13                         |     18 |
-| #FraudeElectoral                  |     16 |
-| #DobleOpuesto                     |     15 |
-| #ChileSinComunismo                |     14 |
-| #FuerzaAbuelaConCuartoRetiro      |     13 |
-| #LosColumnistas                   |     13 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #SiempreEsHoy                |     55 |
+| #SomosMinga                  |     52 |
+| #CIP                         |     51 |
+| #FBI                         |     51 |
+| #OEA                         |     51 |
+| #SOSColombiaDDHH             |     51 |
+| #FuerzaAbuelaxMi100xCiento   |     37 |
+| #FuerzaAbuelaConCuartoRetiro |     28 |
+| #MesaCentral                 |     27 |
+| #Elecciones2021CL            |     26 |
+| #ContigoCHV                  |     24 |
+| #EsHoraDeEscucharnos         |     20 |
+| #Página13                    |     20 |
+| #CrespoEsInocente            |     16 |
+| #DobleOpuesto                |     15 |
+| #IFEUniversal                |     14 |
+| #JaduePresidente2022         |     14 |
+| #LosColumnistas              |     14 |
+| #DANIELJADUE                 |     13 |
+| #BANDERAZOAGCOND             |     12 |
 
 # Cuentas
 
