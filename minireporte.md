@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-16 01:09:13
+Chile. Fecha del reporte: 2021-06-17 01:06:12
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #SiempreEsHoy                |     55 |
-| #SomosMinga                  |     52 |
-| #CIP                         |     51 |
-| #FBI                         |     51 |
-| #OEA                         |     51 |
-| #SOSColombiaDDHH             |     51 |
-| #FuerzaAbuelaxMi100xCiento   |     37 |
-| #FuerzaAbuelaConCuartoRetiro |     28 |
-| #MesaCentral                 |     27 |
-| #Elecciones2021CL            |     26 |
-| #ContigoCHV                  |     24 |
-| #EsHoraDeEscucharnos         |     20 |
-| #Página13                    |     20 |
-| #CrespoEsInocente            |     16 |
-| #DobleOpuesto                |     15 |
-| #IFEUniversal                |     14 |
-| #JaduePresidente2022         |     14 |
-| #LosColumnistas              |     14 |
-| #DANIELJADUE                 |     13 |
-| #BANDERAZOAGCOND             |     12 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| #JadueMeDaConfianza            |     63 |
+| #ContigoCHV                    |     55 |
+| #SiempreEsHoy                  |     52 |
+| #FuerzaAbuelaxMi100xCiento     |     45 |
+| #PedófilosFelicesXLeyGarantías |     45 |
+| #FuerzaAbuelaConCuartoRetiro   |     37 |
+| #PedofilosFelicesXLeyGarantias |     37 |
+| #Elecciones2021CL              |     26 |
+| #Página13                      |     26 |
+| #MesaCentral                   |     25 |
+| #Chile                         |     19 |
+| #EsHoraDeEscucharnos           |     18 |
+| #NeverAgain4Tigray             |     16 |
+| #BoricPresidente               |     15 |
+| #DobleOpuesto                  |     15 |
+| #ElPeorCongresoDeLaHistoria    |     14 |
+| #JadueNoDaConfianza            |     14 |
+| #LosColumnistas                |     14 |
+| #TigrayGenocide                |     14 |
+| #CuartoRetiro10xCiento         |     13 |
 
 # Cuentas
 
