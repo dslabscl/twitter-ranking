@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-17 01:06:12
+Chile. Fecha del reporte: 2021-06-18 01:09:43
 
 # Hashtags más populares
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| #JadueMeDaConfianza            |     63 |
-| #ContigoCHV                    |     55 |
-| #SiempreEsHoy                  |     52 |
-| #FuerzaAbuelaxMi100xCiento     |     45 |
-| #PedófilosFelicesXLeyGarantías |     45 |
-| #FuerzaAbuelaConCuartoRetiro   |     37 |
-| #PedofilosFelicesXLeyGarantias |     37 |
-| #Elecciones2021CL              |     26 |
-| #Página13                      |     26 |
-| #MesaCentral                   |     25 |
+| #FuerzaAbuelaConCuartoRetiro   |     53 |
+| #SiempreEsHoy                  |     53 |
+| #FuerzaAbuelaxMi100xCiento     |     44 |
+| #ContigoCHV                    |     40 |
+| #Página13                      |     34 |
+| #ElPeorCongresoDeLaHistoria    |     24 |
+| #Elecciones2021CL              |     23 |
+| #RenunciaMicco                 |     20 |
 | #Chile                         |     19 |
-| #EsHoraDeEscucharnos           |     18 |
-| #NeverAgain4Tigray             |     16 |
-| #BoricPresidente               |     15 |
-| #DobleOpuesto                  |     15 |
-| #ElPeorCongresoDeLaHistoria    |     14 |
-| #JadueNoDaConfianza            |     14 |
+| #JadueMeDaConfianza            |     19 |
+| #BoricPresidente               |     16 |
+| #DobleOpuesto                  |     16 |
+| #EsHoraDeEscucharnos           |     15 |
 | #LosColumnistas                |     14 |
-| #TigrayGenocide                |     14 |
-| #CuartoRetiro10xCiento         |     13 |
+| #MesaCentral                   |     14 |
+| #SePuede                       |     14 |
+| #T13Tarde                      |     13 |
+| #PedofilosFelicesXLeyGarantias |     12 |
+| #devuelvemelacasa              |     11 |
+| #JaduePresidente2022           |     11 |
 
 # Cuentas
 
