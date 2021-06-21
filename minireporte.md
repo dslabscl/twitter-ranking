@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-18 01:09:43
+Chile. Fecha del reporte: 2021-06-21 01:15:05
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| #FuerzaAbuelaConCuartoRetiro   |     53 |
-| #SiempreEsHoy                  |     53 |
-| #FuerzaAbuelaxMi100xCiento     |     44 |
-| #ContigoCHV                    |     40 |
-| #Página13                      |     34 |
-| #ElPeorCongresoDeLaHistoria    |     24 |
-| #Elecciones2021CL              |     23 |
-| #RenunciaMicco                 |     20 |
-| #Chile                         |     19 |
-| #JadueMeDaConfianza            |     19 |
-| #BoricPresidente               |     16 |
-| #DobleOpuesto                  |     16 |
-| #EsHoraDeEscucharnos           |     15 |
-| #LosColumnistas                |     14 |
-| #MesaCentral                   |     14 |
-| #SePuede                       |     14 |
-| #T13Tarde                      |     13 |
-| #PedofilosFelicesXLeyGarantias |     12 |
-| #devuelvemelacasa              |     11 |
-| #JaduePresidente2022           |     11 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| #FueraComunistasDeChile       |     66 |
+| #SiempreEsHoy                 |     60 |
+| #QuieroMi100xCiento           |     57 |
+| #ComunistasNoToquenMiPension  |     55 |
+| #VamosConTodo                 |     55 |
+| #Canal13VictimizaPederastia   |     37 |
+| #BoricALaMoneda               |     36 |
+| #JadueMeDaConfianza           |     35 |
+| #FuerzaAbuelaxMi100xCiento    |     30 |
+| #FuerzaAbuelaConCuartoRetiro  |     28 |
+| #BoricPresidente              |     25 |
+| #BoricTransporte00            |     23 |
+| #Chile                        |     23 |
+| #TigrayGenocide               |     23 |
+| #Elecciones2021CL             |     21 |
+| #ElPeorCongresoDeLaHistoria   |     18 |
+| #RenunciaMicco                |     18 |
+| #chile                        |     16 |
+| #WorldRefugeeDay              |     16 |
+| #Constituyentesindelincuentes |     15 |
 
 # Cuentas
 
