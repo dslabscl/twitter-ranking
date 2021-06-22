@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-21 01:15:05
+Chile. Fecha del reporte: 2021-06-22 01:15:53
 
 # Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| #FueraComunistasDeChile       |     66 |
-| #SiempreEsHoy                 |     60 |
-| #QuieroMi100xCiento           |     57 |
-| #ComunistasNoToquenMiPension  |     55 |
-| #VamosConTodo                 |     55 |
-| #Canal13VictimizaPederastia   |     37 |
-| #BoricALaMoneda               |     36 |
-| #JadueMeDaConfianza           |     35 |
-| #FuerzaAbuelaxMi100xCiento    |     30 |
-| #FuerzaAbuelaConCuartoRetiro  |     28 |
-| #BoricPresidente              |     25 |
-| #BoricTransporte00            |     23 |
-| #Chile                        |     23 |
-| #TigrayGenocide               |     23 |
-| #Elecciones2021CL             |     21 |
-| #ElPeorCongresoDeLaHistoria   |     18 |
+| #SiempreEsHoy                 |     61 |
+| #FuerzaAbuelaxMi100xCiento    |     58 |
+| #FuerzaAbuelaConCuartoRetiro  |     38 |
+| #DebateCHVCNN                 |     35 |
+| #ContigoCHV                   |     29 |
+| #BoricALaMoneda               |     27 |
+| #Chile                        |     26 |
+| #JadueMeDaConfianza           |     21 |
+| #mapuche                      |     21 |
+| #chile                        |     20 |
+| #Constituyentesindelincuentes |     20 |
+| #Elecciones2021CL             |     20 |
+| #estallido3                   |     20 |
+| #ImpuestoALosSúperRicos       |     20 |
+| #Los34                        |     20 |
+| #BoricTransporte00            |     18 |
 | #RenunciaMicco                |     18 |
-| #chile                        |     16 |
-| #WorldRefugeeDay              |     16 |
-| #Constituyentesindelincuentes |     15 |
+| #BoricPresidente              |     16 |
+| #JadueNoMeDaConfianza         |     16 |
+| #FueraComunistasDeChile       |     15 |
 
 # Cuentas
 
