@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-22 01:15:53
+Chile. Fecha del reporte: 2021-06-23 00:59:38
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| #SiempreEsHoy                 |     61 |
-| #FuerzaAbuelaxMi100xCiento    |     58 |
-| #FuerzaAbuelaConCuartoRetiro  |     38 |
-| #DebateCHVCNN                 |     35 |
-| #ContigoCHV                   |     29 |
-| #BoricALaMoneda               |     27 |
-| #Chile                        |     26 |
-| #JadueMeDaConfianza           |     21 |
-| #mapuche                      |     21 |
-| #chile                        |     20 |
-| #Constituyentesindelincuentes |     20 |
-| #Elecciones2021CL             |     20 |
-| #estallido3                   |     20 |
-| #ImpuestoALosSúperRicos       |     20 |
-| #Los34                        |     20 |
-| #BoricTransporte00            |     18 |
-| #RenunciaMicco                |     18 |
-| #BoricPresidente              |     16 |
-| #JadueNoMeDaConfianza         |     16 |
-| #FueraComunistasDeChile       |     15 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #DebateCHVCNN                |    112 |
+| #CostasALaU                  |     64 |
+| #BoricALaMoneda              |     30 |
+| #FuerzaAbuelaxMi100xCiento   |     28 |
+| #FuerzaAbuelaConCuartoRetiro |     26 |
+| #JadueMeDaConfianza          |     26 |
+| #Chile                       |     25 |
+| #Elecciones2021CL            |     25 |
+| #JadueNoMeDaConfianza        |     20 |
+| #JaduePresidente             |     20 |
+| #PresidenteBoric             |     19 |
+| #RenunciaMicco               |     18 |
+| #PrimariasCiudadanas         |     15 |
+| #VamosConPaula               |     13 |
+| #VoyConBriones               |     13 |
+| #BoricPresidente             |     12 |
+| #chile                       |     12 |
+| #estallido3                  |     12 |
+| #JaduePresidente2022         |     12 |
+| #mapuche                     |     12 |
 
 # Cuentas
 
