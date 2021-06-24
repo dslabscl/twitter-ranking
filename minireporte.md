@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-23 00:59:38
+Chile. Fecha del reporte: 2021-06-24 00:55:08
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #DebateCHVCNN                |    112 |
-| #CostasALaU                  |     64 |
-| #BoricALaMoneda              |     30 |
-| #FuerzaAbuelaxMi100xCiento   |     28 |
-| #FuerzaAbuelaConCuartoRetiro |     26 |
-| #JadueMeDaConfianza          |     26 |
-| #Chile                       |     25 |
-| #Elecciones2021CL            |     25 |
-| #JadueNoMeDaConfianza        |     20 |
-| #JaduePresidente             |     20 |
-| #PresidenteBoric             |     19 |
+| #VetoGarantiasDeLaNiñez      |    120 |
+| #DebateCNNCHV                |     74 |
+| #DebateCHVCNN                |     35 |
+| #Chile                       |     33 |
+| #FuerzaAbuelaxMi100xCiento   |     32 |
+| #JaduePresidente             |     31 |
+| #FuerzaAbuelaConCuartoRetiro |     29 |
+| #DiosasXJadue                |     27 |
+| #chile                       |     23 |
+| #estallido3                  |     23 |
+| #mapuche                     |     23 |
+| #Elecciones2021CL            |     22 |
+| #RECHAZOELCOMUNISMO          |     22 |
+| #BoricPresidente             |     20 |
+| #JadueMeDaConfianza          |     20 |
 | #RenunciaMicco               |     18 |
-| #PrimariasCiudadanas         |     15 |
-| #VamosConPaula               |     13 |
-| #VoyConBriones               |     13 |
-| #BoricPresidente             |     12 |
-| #chile                       |     12 |
-| #estallido3                  |     12 |
-| #JaduePresidente2022         |     12 |
-| #mapuche                     |     12 |
+| #TodxsConJadue               |     18 |
+| #ImpuestoALosSúperRicos      |     17 |
+| #VetoGarantíasDeLaNiñez      |     17 |
+| #canalcorrupto               |     16 |
 
 # Cuentas
 
