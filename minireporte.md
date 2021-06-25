@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-24 00:55:08
+Chile. Fecha del reporte: 2021-06-25 01:13:30
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #VetoGarantiasDeLaNiñez      |    120 |
-| #DebateCNNCHV                |     74 |
-| #DebateCHVCNN                |     35 |
-| #Chile                       |     33 |
-| #FuerzaAbuelaxMi100xCiento   |     32 |
-| #JaduePresidente             |     31 |
-| #FuerzaAbuelaConCuartoRetiro |     29 |
-| #DiosasXJadue                |     27 |
-| #chile                       |     23 |
-| #estallido3                  |     23 |
-| #mapuche                     |     23 |
+| #FuerzaAbuelaxMi100xCiento   |     68 |
+| #FuerzaAbuelaConCuartoRetiro |     66 |
+| #VetoGarantiasDeLaNiñez      |     62 |
+| #ContigoCHV                  |     39 |
+| #DebateCNNCHV                |     29 |
+| #Chile                       |     26 |
 | #Elecciones2021CL            |     22 |
-| #RECHAZOELCOMUNISMO          |     22 |
-| #BoricPresidente             |     20 |
-| #JadueMeDaConfianza          |     20 |
-| #RenunciaMicco               |     18 |
-| #TodxsConJadue               |     18 |
-| #ImpuestoALosSúperRicos      |     17 |
-| #VetoGarantíasDeLaNiñez      |     17 |
+| #EstadoDeExcepcion           |     20 |
+| #JaduePresidente             |     20 |
+| #JadueMeDaConfianza          |     19 |
+| #cagamos                     |     18 |
+| #BoricPresidente             |     17 |
+| #chile                       |     17 |
+| #PorqueSomosDerecha          |     17 |
 | #canalcorrupto               |     16 |
+| #letemenaparisi              |     16 |
+| #periodistasvendidos         |     16 |
+| #APAGAEL13                   |     15 |
+| #canal13miente               |     15 |
+| #estallido3                  |     14 |
 
 # Cuentas
 
