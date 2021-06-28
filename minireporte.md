@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-25 01:13:30
+Chile. Fecha del reporte: 2021-06-28 01:09:06
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #FuerzaAbuelaxMi100xCiento   |     68 |
-| #FuerzaAbuelaConCuartoRetiro |     66 |
-| #VetoGarantiasDeLaNiñez      |     62 |
-| #ContigoCHV                  |     39 |
-| #DebateCNNCHV                |     29 |
-| #Chile                       |     26 |
-| #Elecciones2021CL            |     22 |
-| #EstadoDeExcepcion           |     20 |
-| #JaduePresidente             |     20 |
-| #JadueMeDaConfianza          |     19 |
-| #cagamos                     |     18 |
-| #BoricPresidente             |     17 |
-| #chile                       |     17 |
-| #PorqueSomosDerecha          |     17 |
-| #canalcorrupto               |     16 |
-| #letemenaparisi              |     16 |
-| #periodistasvendidos         |     16 |
-| #APAGAEL13                   |     15 |
-| #canal13miente               |     15 |
-| #estallido3                  |     14 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| #StandUp4HumanRights          |     54 |
+| #stoploaninguganda            |     54 |
+| #UgandaIsBleeding             |     54 |
+| #VetoGarantiasDeLaNiñez       |     38 |
+| #SiempreEsHoy                 |     36 |
+| #MesaCentral                  |     35 |
+| #FuerzaAbuelaxMi100xCiento    |     31 |
+| #FuerzaAbuelaConCuartoRetiro  |     29 |
+| #SePuede                      |     25 |
+| #Chile                        |     24 |
+| #chile                        |     19 |
+| #Elecciones2021CL             |     18 |
+| #JaduePresidente              |     18 |
+| #SichelPresidente             |     18 |
+| #canalcorrupto                |     16 |
+| #letemenaparisi               |     16 |
+| #periodistasvendidos          |     16 |
+| #APAGAEL13                    |     15 |
+| #canal13miente                |     15 |
+| #Constituyentesindelincuentes |     15 |
 
 # Cuentas
 
