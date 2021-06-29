@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-28 01:09:06
+Chile. Fecha del reporte: 2021-06-29 01:05:04
 
 # Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| #StandUp4HumanRights          |     54 |
-| #stoploaninguganda            |     54 |
-| #UgandaIsBleeding             |     54 |
-| #VetoGarantiasDeLaNiñez       |     38 |
-| #SiempreEsHoy                 |     36 |
-| #MesaCentral                  |     35 |
-| #FuerzaAbuelaxMi100xCiento    |     31 |
-| #FuerzaAbuelaConCuartoRetiro  |     29 |
-| #SePuede                      |     25 |
-| #Chile                        |     24 |
-| #chile                        |     19 |
-| #Elecciones2021CL             |     18 |
+| #ContigoCHV                   |     53 |
+| #SiempreEsHoy                 |     41 |
+| #Chile                        |     35 |
+| #VetoGarantiasDeLaNiñez       |     32 |
+| #FuerzaAbuelaConCuartoRetiro  |     23 |
+| #chile                        |     22 |
+| #BoricPresidente              |     21 |
+| #Constituyentesindelincuentes |     20 |
+| #estallido3                   |     20 |
+| #FuerzaAbuelaxMi100xCiento    |     20 |
+| #mapuche                      |     20 |
+| #Elecciones2021CL             |     19 |
 | #JaduePresidente              |     18 |
-| #SichelPresidente             |     18 |
+| #JaduePresidente2022          |     17 |
 | #canalcorrupto                |     16 |
 | #letemenaparisi               |     16 |
+| #MesaCentral                  |     16 |
 | #periodistasvendidos          |     16 |
 | #APAGAEL13                    |     15 |
 | #canal13miente                |     15 |
-| #Constituyentesindelincuentes |     15 |
 
 # Cuentas
 
