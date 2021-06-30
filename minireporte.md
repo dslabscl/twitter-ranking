@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-06-29 01:05:04
+Chile. Fecha del reporte: 2021-06-30 01:12:04
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| #ContigoCHV                   |     53 |
-| #SiempreEsHoy                 |     41 |
-| #Chile                        |     35 |
-| #VetoGarantiasDeLaNiñez       |     32 |
-| #FuerzaAbuelaConCuartoRetiro  |     23 |
-| #chile                        |     22 |
-| #BoricPresidente              |     21 |
-| #Constituyentesindelincuentes |     20 |
-| #estallido3                   |     20 |
-| #FuerzaAbuelaxMi100xCiento    |     20 |
-| #mapuche                      |     20 |
-| #Elecciones2021CL             |     19 |
-| #JaduePresidente              |     18 |
-| #JaduePresidente2022          |     17 |
-| #canalcorrupto                |     16 |
-| #letemenaparisi               |     16 |
-| #MesaCentral                  |     16 |
-| #periodistasvendidos          |     16 |
-| #APAGAEL13                    |     15 |
-| #canal13miente                |     15 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #VetoGarantiasDeLaNiñez      |    359 |
+| #VetoTOTALGarantías          |     99 |
+| #VetoTotalGarantias          |     93 |
+| #PrimariasPresidenciales     |     58 |
+| #SiempreEsHoy                |     51 |
+| #ContigoCHV                  |     40 |
+| #FuerzaAbuelaConCuartoRetiro |     34 |
+| #VetoTotalGarantías          |     32 |
+| #VetoTOTALGarantias          |     31 |
+| #JaduePresidente             |     29 |
+| #chile                       |     21 |
+| #DobleOpuesto                |     20 |
+| #Elecciones2021CL            |     20 |
+| #Chile                       |     18 |
+| #FuerzaAbuelaxMi100xCiento   |     18 |
+| #VetoTotalGarantíasdelaniñez |     17 |
+| #canalcorrupto               |     16 |
+| #letemenaparisi              |     16 |
+| #periodistasvendidos         |     16 |
+| #APAGAEL13                   |     15 |
 
 # Cuentas
 
