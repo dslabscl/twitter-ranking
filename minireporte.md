@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-01 01:10:50
+Chile. Fecha del reporte: 2021-07-02 01:08:42
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #VetoTOTALGarantías          |     59 |
-| #SiempreEsHoy                |     55 |
-| #FranjaElectoral             |     53 |
-| #FuerzaAbuelaConCuartoRetiro |     53 |
-| #JaduePresidente2022         |     37 |
-| #JaduePresidente             |     30 |
-| #CancionXLaDignidad          |     28 |
-| #Chile                       |     26 |
-| #MuereElLegado               |     25 |
-| #ContigoCHV                  |     24 |
-| #FuerzaAbuelaxMi100xCiento   |     21 |
-| #HolaChileLaRed              |     21 |
-| #Elecciones2021CL            |     20 |
+| #PagoVerdaderasVictimas      |    135 |
+| #SiempreEsHoy                |     59 |
+| #FranjaElectoral             |     51 |
+| #CuartoRetiro10xCiento       |     48 |
+| #FuerzaAbuelaConCuartoRetiro |     46 |
+| #VenceremosYSeraHermoso      |     41 |
+| #VetoTOTALGarantías          |     39 |
+| #FuerzaAbuelaxMi100xCiento   |     31 |
+| #ContigoCHV                  |     29 |
+| #JaduePresidente2022         |     29 |
+| #MuereElLegado               |     28 |
+| #Elecciones2021CL            |     27 |
+| #VamosConPaula               |     23 |
+| #vetototalgarantiasDelaNiñez |     23 |
+| #Página13                    |     20 |
 | #PaulaPresidenta             |     20 |
-| #DesdeRegionesConBoric       |     19 |
 | #DobleOpuesto                |     19 |
-| #VamosConPaula               |     17 |
-| #SOSColombiaDDHH             |     15 |
-| #canalcorrupto               |     14 |
-| #IFEUniversal                |     14 |
+| #Chile                       |     18 |
+| #T13Tarde                    |     15 |
+| #JaduePresidente             |     14 |
 
 # Cuentas
 
