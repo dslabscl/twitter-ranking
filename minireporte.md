@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-02 01:08:42
+Chile. Fecha del reporte: 2021-07-05 01:06:05
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #PagoVerdaderasVictimas      |    135 |
-| #SiempreEsHoy                |     59 |
-| #FranjaElectoral             |     51 |
-| #CuartoRetiro10xCiento       |     48 |
-| #FuerzaAbuelaConCuartoRetiro |     46 |
-| #VenceremosYSeraHermoso      |     41 |
-| #VetoTOTALGarantías          |     39 |
-| #FuerzaAbuelaxMi100xCiento   |     31 |
-| #ContigoCHV                  |     29 |
-| #JaduePresidente2022         |     29 |
-| #MuereElLegado               |     28 |
-| #Elecciones2021CL            |     27 |
-| #VamosConPaula               |     23 |
-| #vetototalgarantiasDelaNiñez |     23 |
-| #Página13                    |     20 |
-| #PaulaPresidenta             |     20 |
-| #DobleOpuesto                |     19 |
-| #Chile                       |     18 |
-| #T13Tarde                    |     15 |
-| #JaduePresidente             |     14 |
+| #ConvencionConstituyente     |     91 |
+| #ConvencionConstitucional    |     87 |
+| #SiempreEsHoy                |     70 |
+| #LiberenALos3DeFundaRedes    |     46 |
+| #VerguenzaNacional           |     42 |
+| #FuerzaAbuelaConCuartoRetiro |     27 |
+| #FranjaElectoral             |     25 |
+| #ContigoCHV                  |     23 |
+| #PagoVerdaderasVictimas      |     21 |
+| #Elecciones2021CL            |     20 |
+| #LiberenATarazona            |     20 |
+| #NuevaConstitucion           |     19 |
+| #Constituyentes              |     18 |
+| #DobleOpuesto                |     18 |
+| #FuerzaAbuelaxMi100xCiento   |     18 |
+| #ConexiónT13                 |     16 |
+| #BoricConLaDiversidad        |     15 |
+| #Chile                       |     15 |
+| #JadueComienzaEnJulio        |     15 |
+| #JaduePresidente2022         |     15 |
 
 # Cuentas
 
