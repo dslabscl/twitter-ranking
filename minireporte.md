@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-05 01:06:05
+Chile. Fecha del reporte: 2021-07-06 01:10:55
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #ConvencionConstituyente     |     91 |
-| #ConvencionConstitucional    |     87 |
-| #SiempreEsHoy                |     70 |
-| #LiberenALos3DeFundaRedes    |     46 |
-| #VerguenzaNacional           |     42 |
-| #FuerzaAbuelaConCuartoRetiro |     27 |
-| #FranjaElectoral             |     25 |
-| #ContigoCHV                  |     23 |
-| #PagoVerdaderasVictimas      |     21 |
+| #ConvencionConstitucional    |     63 |
+| #SiempreEsHoy                |     63 |
+| #ContigoCHV                  |     54 |
+| #ConvencionConstituyente     |     53 |
+| #FuerzaAbuelaConCuartoRetiro |     33 |
+| #FranjaElectoral             |     27 |
+| #ElPeorGobiernoDeLaHistoria  |     26 |
+| #CombinaciónClave            |     25 |
+| #RechazoDeSalida             |     25 |
+| #GobiernoDeInutiles          |     23 |
+| #BoricSumandoIdeas           |     20 |
 | #Elecciones2021CL            |     20 |
-| #LiberenATarazona            |     20 |
-| #NuevaConstitucion           |     19 |
-| #Constituyentes              |     18 |
-| #DobleOpuesto                |     18 |
-| #FuerzaAbuelaxMi100xCiento   |     18 |
-| #ConexiónT13                 |     16 |
-| #BoricConLaDiversidad        |     15 |
-| #Chile                       |     15 |
-| #JadueComienzaEnJulio        |     15 |
-| #JaduePresidente2022         |     15 |
+| #JaduePresidente2022         |     20 |
+| #CuartoRetiro10xCiento       |     17 |
+| #BoricPresidente             |     14 |
+| #chile                       |     14 |
+| #CIP                         |     14 |
+| #CooperativaEnCasa           |     14 |
+| #DobleOpuesto                |     14 |
+| #FBI                         |     14 |
 
 # Cuentas
 
