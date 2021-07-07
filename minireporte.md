@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-06 01:10:55
+Chile. Fecha del reporte: 2021-07-07 01:11:06
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #ConvencionConstitucional    |     63 |
-| #SiempreEsHoy                |     63 |
-| #ContigoCHV                  |     54 |
-| #ConvencionConstituyente     |     53 |
-| #FuerzaAbuelaConCuartoRetiro |     33 |
-| #FranjaElectoral             |     27 |
-| #ElPeorGobiernoDeLaHistoria  |     26 |
-| #CombinaciónClave            |     25 |
-| #RechazoDeSalida             |     25 |
-| #GobiernoDeInutiles          |     23 |
-| #BoricSumandoIdeas           |     20 |
-| #Elecciones2021CL            |     20 |
-| #JaduePresidente2022         |     20 |
-| #CuartoRetiro10xCiento       |     17 |
-| #BoricPresidente             |     14 |
-| #chile                       |     14 |
-| #CIP                         |     14 |
-| #CooperativaEnCasa           |     14 |
-| #DobleOpuesto                |     14 |
-| #FBI                         |     14 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| #FuerzaAbuelaConCuartoRetiro  |     63 |
+| #ConvencionConstituyente      |     57 |
+| #SiempreEsHoy                 |     57 |
+| #ConvencionConstitucional     |     37 |
+| #ContigoCHV                   |     32 |
+| #votar                        |     26 |
+| #ChileDignoConJadue           |     25 |
+| #CooperativaEnCasa            |     25 |
+| #ElPeorGobiernoDeLaHistoria   |     25 |
+| #FranjaElectoral              |     22 |
+| #Chile                        |     19 |
+| #SOSNicaragua                 |     19 |
+| #Elecciones2021CL             |     17 |
+| #ElPeorPresidenteDeLaHistoria |     17 |
+| #CombinaciónClave             |     16 |
+| #FuerzaAbuelaxMi100xCiento    |     16 |
+| #chile                        |     15 |
+| #JaduePresidente2022          |     15 |
+| #Constituyentes               |     13 |
+| #ConvenciónConstitucional     |     13 |
 
 # Cuentas
 
