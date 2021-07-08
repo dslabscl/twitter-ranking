@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-07 01:11:06
+Chile. Fecha del reporte: 2021-07-08 01:07:31
 
 # Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| #FuerzaAbuelaConCuartoRetiro  |     63 |
-| #ConvencionConstituyente      |     57 |
-| #SiempreEsHoy                 |     57 |
-| #ConvencionConstitucional     |     37 |
+| #FuerzaAbuelaConCuartoRetiro  |     92 |
+| #DebatePrimariasxLaRed        |     65 |
+| #SiempreEsHoy                 |     50 |
+| #ConvencionConstituyente      |     48 |
+| #LaCalleSigueConJadue         |     48 |
+| #JaduePresidente2022          |     38 |
+| #TigrayGenocide               |     33 |
 | #ContigoCHV                   |     32 |
-| #votar                        |     26 |
-| #ChileDignoConJadue           |     25 |
-| #CooperativaEnCasa            |     25 |
-| #ElPeorGobiernoDeLaHistoria   |     25 |
-| #FranjaElectoral              |     22 |
-| #Chile                        |     19 |
-| #SOSNicaragua                 |     19 |
-| #Elecciones2021CL             |     17 |
-| #ElPeorPresidenteDeLaHistoria |     17 |
-| #CombinaciónClave             |     16 |
-| #FuerzaAbuelaxMi100xCiento    |     16 |
-| #chile                        |     15 |
-| #JaduePresidente2022          |     15 |
-| #Constituyentes               |     13 |
-| #ConvenciónConstitucional     |     13 |
+| #ConvencionConstitucional     |     30 |
+| #JadueParaChile               |     29 |
+| #ConstituyentesFlaites        |     26 |
+| #EstoEsUnAborto               |     26 |
+| #listadelpueblo               |     25 |
+| #chile                        |     23 |
+| #Dignidad                     |     22 |
+| #estallido3                   |     21 |
+| #TigrayCantWait               |     20 |
+| #mapuche                      |     19 |
+| #Constituyentesindelincuentes |     18 |
+| #Mordaza                      |     18 |
 
 # Cuentas
 
