@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-09 01:10:13
+Chile. Fecha del reporte: 2021-07-12 01:07:29
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #AbranLasFronteras           |     67 |
-| #SiempreEsHoy                |     47 |
-| #FuerzaAbuelaConCuartoRetiro |     44 |
-| #ContigoCHV                  |     42 |
-| #PasoAPaso                   |     36 |
-| #Fuerzaprofes                |     30 |
-| #Titularidaddocente2021      |     30 |
-| #VetoTOTALGarantías          |     29 |
-| #DebatePrimariasxLaRed       |     28 |
-| #FueraComunistasDeChile      |     28 |
-| #BanderazoPatriotas          |     27 |
-| #ConvencionConstitucional    |     27 |
-| #DiaDeLaBandera              |     27 |
-| #FuerzaPatriotas             |     27 |
-| #fronteraschile              |     24 |
-| #FranjaElectoral             |     23 |
-| #Chile                       |     22 |
-| #ConvencionConstituyente     |     22 |
-| #TransporteDigno             |     21 |
-| #VetoTotalGarantias          |     21 |
+| datos                            | Cuenta |
+|:---------------------------------|-------:|
+| #SOSCuba                         |    201 |
+| #JadueComplice                   |     96 |
+| #CubaLibre                       |     79 |
+| #Cuba                            |     63 |
+| #votar                           |     56 |
+| #SiempreEsHoy                    |     34 |
+| #CUBA                            |     33 |
+| #FuerzaAbuelaConCuartoRetiro     |     30 |
+| #FueraComunistasDeChile          |     29 |
+| #CubaViva                        |     27 |
+| #Chile                           |     26 |
+| #MesaCentral                     |     26 |
+| #CubaEsUnaDictadura              |     24 |
+| #Página13                        |     24 |
+| #PatriaYVida                     |     24 |
+| #IntervencionHumanitariaParaCuba |     19 |
+| #JaduePresidente2022             |     18 |
+| #ConvencionConstitucional        |     16 |
+| #AbranLasFronteras               |     15 |
+| #ContigoCHV                      |     15 |
 
 # Cuentas
 
