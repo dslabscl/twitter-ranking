@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-12 01:07:29
+Chile. Fecha del reporte: 2021-07-13 01:10:34
 
 # Hashtags más populares
 
-| datos                            | Cuenta |
-|:---------------------------------|-------:|
-| #SOSCuba                         |    201 |
-| #JadueComplice                   |     96 |
-| #CubaLibre                       |     79 |
-| #Cuba                            |     63 |
-| #votar                           |     56 |
-| #SiempreEsHoy                    |     34 |
-| #CUBA                            |     33 |
-| #FuerzaAbuelaConCuartoRetiro     |     30 |
-| #FueraComunistasDeChile          |     29 |
-| #CubaViva                        |     27 |
-| #Chile                           |     26 |
-| #MesaCentral                     |     26 |
-| #CubaEsUnaDictadura              |     24 |
-| #Página13                        |     24 |
-| #PatriaYVida                     |     24 |
-| #IntervencionHumanitariaParaCuba |     19 |
-| #JaduePresidente2022             |     18 |
-| #ConvencionConstitucional        |     16 |
-| #AbranLasFronteras               |     15 |
-| #ContigoCHV                      |     15 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #SOSCuba                     |     83 |
+| #ChileVamos                  |     41 |
+| #SePuede                     |     41 |
+| #CubaLibre                   |     40 |
+| #SichelPresidente            |     39 |
+| #ContigoCHV                  |     30 |
+| #Futuro                      |     28 |
+| #MesaCentral                 |     28 |
+| #CombinaciónClave            |     26 |
+| #Página13                    |     24 |
+| #Cuba                        |     23 |
+| #AbranLasFronteras           |     21 |
+| #FuerzaAbuelaConCuartoRetiro |     21 |
+| #JadueComplice               |     21 |
+| #DebateAprueboDignidad       |     20 |
+| #ChileSinComunismo           |     19 |
+| #Olivazo                     |     19 |
+| #PatriaYVida                 |     18 |
+| #FueraComunistasDeChile      |     17 |
+| #SOSCubaLibre                |     17 |
 
 # Cuentas
 
