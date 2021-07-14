@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-13 01:10:34
+Chile. Fecha del reporte: 2021-07-14 01:04:40
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #SOSCuba                     |     83 |
-| #ChileVamos                  |     41 |
-| #SePuede                     |     41 |
-| #CubaLibre                   |     40 |
-| #SichelPresidente            |     39 |
-| #ContigoCHV                  |     30 |
-| #Futuro                      |     28 |
-| #MesaCentral                 |     28 |
-| #CombinaciónClave            |     26 |
-| #Página13                    |     24 |
-| #Cuba                        |     23 |
-| #AbranLasFronteras           |     21 |
-| #FuerzaAbuelaConCuartoRetiro |     21 |
-| #JadueComplice               |     21 |
-| #DebateAprueboDignidad       |     20 |
-| #ChileSinComunismo           |     19 |
-| #Olivazo                     |     19 |
-| #PatriaYVida                 |     18 |
-| #FueraComunistasDeChile      |     17 |
-| #SOSCubaLibre                |     17 |
+| #EspondilitisaLRS            |    107 |
+| #GarantiasParaPedofilos      |     86 |
+| #SOSCuba                     |     70 |
+| #ContigoCHV                  |     55 |
+| #DebateChileVamos            |     44 |
+| #CubaLibre                   |     37 |
+| #FuerzaAbuelaConCuartoRetiro |     36 |
+| #Cuba                        |     29 |
+| #Chile                       |     27 |
+| #SOSCubaLibre                |     27 |
+| #Página13                    |     26 |
+| #VoyPorBriones               |     24 |
+| #RenunciaJadue               |     20 |
+| #CubaSOS                     |     18 |
+| #RenunciaBohmes              |     18 |
+| #RenunciaHassler             |     18 |
+| #RenunciaVallejos            |     18 |
+| #CubaLibreDeComunismo        |     17 |
+| #EstonoesPlazaItalia         |     16 |
+| #JadueVenceraYSeraHermoso    |     16 |
 
 # Cuentas
 
