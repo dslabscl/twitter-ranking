@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-14 01:04:40
+Chile. Fecha del reporte: 2021-07-15 01:20:56
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #EspondilitisaLRS            |    107 |
-| #GarantiasParaPedofilos      |     86 |
-| #SOSCuba                     |     70 |
-| #ContigoCHV                  |     55 |
-| #DebateChileVamos            |     44 |
-| #CubaLibre                   |     37 |
-| #FuerzaAbuelaConCuartoRetiro |     36 |
-| #Cuba                        |     29 |
-| #Chile                       |     27 |
-| #SOSCubaLibre                |     27 |
-| #Página13                    |     26 |
-| #VoyPorBriones               |     24 |
-| #RenunciaJadue               |     20 |
-| #CubaSOS                     |     18 |
-| #RenunciaBohmes              |     18 |
-| #RenunciaHassler             |     18 |
-| #RenunciaVallejos            |     18 |
-| #CubaLibreDeComunismo        |     17 |
-| #EstonoesPlazaItalia         |     16 |
-| #JadueVenceraYSeraHermoso    |     16 |
+| #AbranLasFronteras           |    240 |
+| #AlertaPadresEnChile         |    112 |
+| #SOSCuba                     |     74 |
+| #FuerzaAbuelaConCuartoRetiro |     64 |
+| #ContigoCHV                  |     53 |
+| #SOSCubaLibre                |     53 |
+| #JadueVenceraYSeraHermoso    |     41 |
+| #Chile                       |     35 |
+| #GarantiasParaPedofilos      |     34 |
+| #CubaLibre                   |     32 |
+| #EspondilitisaLRS            |     30 |
+| #Página13                    |     30 |
+| #PatriaYVida                 |     24 |
+| #ConvencionConstitucional    |     23 |
+| #Cuba                        |     21 |
+| #FranjaElectoral             |     21 |
+| #VivaCubaLibre               |     21 |
+| #CubaEsUnaDictadura          |     20 |
+| #CubaSOS                     |     20 |
+| #CubaNoEstaSola              |     19 |
 
 # Cuentas
 
