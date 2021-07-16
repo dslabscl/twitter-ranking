@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-15 01:20:56
+Chile. Fecha del reporte: 2021-07-16 01:16:59
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #AbranLasFronteras           |    240 |
-| #AlertaPadresEnChile         |    112 |
-| #SOSCuba                     |     74 |
-| #FuerzaAbuelaConCuartoRetiro |     64 |
-| #ContigoCHV                  |     53 |
-| #SOSCubaLibre                |     53 |
-| #JadueVenceraYSeraHermoso    |     41 |
-| #Chile                       |     35 |
-| #GarantiasParaPedofilos      |     34 |
-| #CubaLibre                   |     32 |
-| #EspondilitisaLRS            |     30 |
-| #Página13                    |     30 |
-| #PatriaYVida                 |     24 |
-| #ConvencionConstitucional    |     23 |
-| #Cuba                        |     21 |
-| #FranjaElectoral             |     21 |
-| #VivaCubaLibre               |     21 |
-| #CubaEsUnaDictadura          |     20 |
-| #CubaSOS                     |     20 |
-| #CubaNoEstaSola              |     19 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| #AlertaPadresEnChile           |     56 |
+| #nomascruzcoke                 |     51 |
+| #ContigoCHV                    |     45 |
+| #titularidaddocente2021        |     45 |
+| #JadueVenceraYSeraHermoso      |     43 |
+| #SOSCuba                       |     32 |
+| #ConvencionConstitucional      |     30 |
+| #FuerzaAbuelaConCuartoRetiro   |     30 |
+| #Chile                         |     28 |
+| #Página13                      |     28 |
+| #JaduePresidente2022           |     24 |
+| #TigrayGenocide                |     24 |
+| #ChildrenOfTigray              |     23 |
+| #SOSCubaLibre                  |     21 |
+| #NoEsSequiaEsSaqueoMV          |     20 |
+| #primariaspresidenciales2021   |     20 |
+| #EspondilitisaLRS              |     18 |
+| #SOS_CUBA                      |     18 |
+| #yoapoyoalosprofesoresdetiltil |     18 |
+| #CaravanaMundialXJadue         |     17 |
 
 # Cuentas
 
