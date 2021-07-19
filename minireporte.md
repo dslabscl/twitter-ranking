@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-16 01:16:59
+Chile. Fecha del reporte: 2021-07-19 01:09:12
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| #AlertaPadresEnChile           |     56 |
-| #nomascruzcoke                 |     51 |
-| #ContigoCHV                    |     45 |
-| #titularidaddocente2021        |     45 |
-| #JadueVenceraYSeraHermoso      |     43 |
-| #SOSCuba                       |     32 |
-| #ConvencionConstitucional      |     30 |
-| #FuerzaAbuelaConCuartoRetiro   |     30 |
-| #Chile                         |     28 |
-| #Página13                      |     28 |
-| #JaduePresidente2022           |     24 |
-| #TigrayGenocide                |     24 |
-| #ChildrenOfTigray              |     23 |
-| #SOSCubaLibre                  |     21 |
-| #NoEsSequiaEsSaqueoMV          |     20 |
-| #primariaspresidenciales2021   |     20 |
-| #EspondilitisaLRS              |     18 |
-| #SOS_CUBA                      |     18 |
-| #yoapoyoalosprofesoresdetiltil |     18 |
-| #CaravanaMundialXJadue         |     17 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #Elecciones2021CL            |    154 |
+| #KastPresidente2022          |     78 |
+| #NOesSUFICIENTE              |     67 |
+| #PrimariasPresidenciales     |     61 |
+| #SeVieneKast                 |     51 |
+| #SOSCuba                     |     39 |
+| #Primarias2021               |     38 |
+| #YFueHermoso                 |     37 |
+| #BoricPresidente             |     35 |
+| #JaduePerderaYSeraHermoso    |     35 |
+| #AprueboDignidad             |     34 |
+| #CagasteCamello              |     34 |
+| #Chile                       |     28 |
+| #EleccionesPrimarias2021     |     26 |
+| #Página13                    |     26 |
+| #FuerzaAbuelaConCuartoRetiro |     25 |
+| #ContigoCHV                  |     23 |
+| #EleccionesPrimarias         |     22 |
+| #Seguimos                    |     22 |
+| #SOSVetoGarantias            |     21 |
 
 # Cuentas
 
