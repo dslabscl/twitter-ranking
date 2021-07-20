@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-19 01:09:12
+Chile. Fecha del reporte: 2021-07-20 01:14:27
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #Elecciones2021CL            |    154 |
-| #KastPresidente2022          |     78 |
-| #NOesSUFICIENTE              |     67 |
-| #PrimariasPresidenciales     |     61 |
-| #SeVieneKast                 |     51 |
-| #SOSCuba                     |     39 |
-| #Primarias2021               |     38 |
-| #YFueHermoso                 |     37 |
-| #BoricPresidente             |     35 |
-| #JaduePerderaYSeraHermoso    |     35 |
-| #AprueboDignidad             |     34 |
-| #CagasteCamello              |     34 |
-| #Chile                       |     28 |
-| #EleccionesPrimarias2021     |     26 |
-| #Página13                    |     26 |
-| #FuerzaAbuelaConCuartoRetiro |     25 |
+| #FuerzaAbuelaConCuartoRetiro |     56 |
+| #KastPresidente2022          |     51 |
+| #AbranLasFronteras           |     49 |
+| #NOesSUFICIENTE              |     46 |
+| #Elecciones2021CL            |     44 |
+| #MiCandidataEsPaula          |     38 |
+| #SOSCubaLibre                |     38 |
+| #PaulaPresidenta             |     33 |
+| #PrimariasPresidenciales     |     32 |
+| #SOSCuba                     |     32 |
 | #ContigoCHV                  |     23 |
-| #EleccionesPrimarias         |     22 |
-| #Seguimos                    |     22 |
-| #SOSVetoGarantias            |     21 |
+| #titularidaddocente2021      |     23 |
+| #JaduePerdioYFueHermoso      |     22 |
+| #SeVieneKast                 |     22 |
+| #SiempreEsHoy                |     22 |
+| #Cuba                        |     20 |
+| #ProscribirPartidoComunista  |     20 |
+| #Página13                    |     19 |
+| #ConvencionConstitucional    |     17 |
+| #NOLEYTUICIONCOMPARTIDA      |     17 |
 
 # Cuentas
 
