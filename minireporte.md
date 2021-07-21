@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-20 01:14:27
+Chile. Fecha del reporte: 2021-07-21 01:11:18
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #FuerzaAbuelaConCuartoRetiro |     56 |
-| #KastPresidente2022          |     51 |
-| #AbranLasFronteras           |     49 |
-| #NOesSUFICIENTE              |     46 |
-| #Elecciones2021CL            |     44 |
-| #MiCandidataEsPaula          |     38 |
-| #SOSCubaLibre                |     38 |
-| #PaulaPresidenta             |     33 |
-| #PrimariasPresidenciales     |     32 |
-| #SOSCuba                     |     32 |
-| #ContigoCHV                  |     23 |
-| #titularidaddocente2021      |     23 |
-| #JaduePerdioYFueHermoso      |     22 |
-| #SeVieneKast                 |     22 |
-| #SiempreEsHoy                |     22 |
-| #Cuba                        |     20 |
-| #ProscribirPartidoComunista  |     20 |
-| #Página13                    |     19 |
-| #ConvencionConstitucional    |     17 |
-| #NOLEYTUICIONCOMPARTIDA      |     17 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| #AbranLasFronteras             |    155 |
+| #14añosdelucha                 |    107 |
+| #estafadoscriminalisticautem   |    106 |
+| #educacionderechohumano        |     82 |
+| #justiciaverdadyreparacion     |     76 |
+| #SOSGarantiasEsPedofilia       |     59 |
+| #FuerzaAbuelaConCuartoRetiro   |     47 |
+| #MiCandidataEsPaula            |     38 |
+| #ContigoCHV                    |     36 |
+| #Elecciones2021CL              |     36 |
+| #PrimariasPresidenciales       |     32 |
+| #PaulaPresidenta               |     29 |
+| #justiciaverdadyreparación     |     27 |
+| #SiempreEsHoy                  |     27 |
+| #MatrimonioIgualitario         |     23 |
+| #yoapoyoalosprofesoresdetiltil |     22 |
+| #Abranlasfronteras             |     19 |
+| #Página13                      |     19 |
+| #titularidaddocente2021        |     19 |
+| #InterpelacionParis            |     18 |
 
 # Cuentas
 
