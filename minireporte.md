@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-21 01:11:18
+Chile. Fecha del reporte: 2021-07-22 01:11:36
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| #AbranLasFronteras             |    155 |
-| #14añosdelucha                 |    107 |
-| #estafadoscriminalisticautem   |    106 |
-| #educacionderechohumano        |     82 |
-| #justiciaverdadyreparacion     |     76 |
-| #SOSGarantiasEsPedofilia       |     59 |
-| #FuerzaAbuelaConCuartoRetiro   |     47 |
-| #MiCandidataEsPaula            |     38 |
-| #ContigoCHV                    |     36 |
-| #Elecciones2021CL              |     36 |
-| #PrimariasPresidenciales       |     32 |
-| #PaulaPresidenta               |     29 |
-| #justiciaverdadyreparación     |     27 |
-| #SiempreEsHoy                  |     27 |
-| #MatrimonioIgualitario         |     23 |
-| #yoapoyoalosprofesoresdetiltil |     22 |
-| #Abranlasfronteras             |     19 |
-| #Página13                      |     19 |
-| #titularidaddocente2021        |     19 |
-| #InterpelacionParis            |     18 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #PadresExigenVetoTOTAL       |     88 |
+| #AbranLasFronteras           |     83 |
+| #BoricTortugaEnElArbol       |     81 |
+| #FuerzaAbuelaConCuartoRetiro |     76 |
+| #MatrimonioIgualitario       |     40 |
+| #PaulaPresidenta             |     36 |
+| #MiCandidataEsPaula          |     34 |
+| #SiempreEsHoy                |     32 |
+| #estafadoscriminalisticautem |     28 |
+| #PadresExigenVetoTotal       |     28 |
+| #CuartoRetiroDeMi100xCiento  |     27 |
+| #Elecciones2021CL            |     27 |
+| #ContigoCHV                  |     26 |
+| #ConvencionConstitucional    |     26 |
+| #14añosdelucha               |     25 |
+| #ExtremaIzquierdaMillennial  |     25 |
+| #FuerzaAbuelaxMi100xCiento   |     25 |
+| #PrimariasPresidenciales     |     25 |
+| #CuartoRetiro10xCiento       |     20 |
+| #loveisnotourism             |     20 |
 
 # Cuentas
 
