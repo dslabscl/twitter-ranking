@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-22 01:11:36
+Chile. Fecha del reporte: 2021-07-23 01:09:53
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #PadresExigenVetoTOTAL       |     88 |
-| #AbranLasFronteras           |     83 |
-| #BoricTortugaEnElArbol       |     81 |
-| #FuerzaAbuelaConCuartoRetiro |     76 |
-| #MatrimonioIgualitario       |     40 |
-| #PaulaPresidenta             |     36 |
-| #MiCandidataEsPaula          |     34 |
+| #CuartoRetiro10xCiento       |     54 |
+| #FuerzaAbuelaConCuartoRetiro |     46 |
+| #abranfronterasparalosniños  |     45 |
+| #ConvencionConstitucional    |     32 |
 | #SiempreEsHoy                |     32 |
-| #estafadoscriminalisticautem |     28 |
-| #PadresExigenVetoTotal       |     28 |
-| #CuartoRetiroDeMi100xCiento  |     27 |
-| #Elecciones2021CL            |     27 |
-| #ContigoCHV                  |     26 |
-| #ConvencionConstitucional    |     26 |
-| #14añosdelucha               |     25 |
-| #ExtremaIzquierdaMillennial  |     25 |
-| #FuerzaAbuelaxMi100xCiento   |     25 |
-| #PrimariasPresidenciales     |     25 |
-| #CuartoRetiro10xCiento       |     20 |
-| #loveisnotourism             |     20 |
+| #ContigoCHV                  |     25 |
+| #PaulaPresidenta             |     25 |
+| #MatrimonioIgualitario       |     24 |
+| #SOSCuba                     |     22 |
+| #ExtremaIzquierdaMillennial  |     20 |
+| #MiCandidataEsPaula          |     19 |
+| #Página13                    |     19 |
+| #Elecciones2021CL            |     17 |
+| #AbranLasFronteras           |     16 |
+| #listadelpueblo              |     16 |
+| #BoricTortugaEnElArbol       |     14 |
+| #chile                       |     14 |
+| #CuartoRetiroDeMi100xCiento  |     14 |
+| #mapuche                     |     14 |
+| #SOSCubaLibre                |     14 |
 
 # Cuentas
 
