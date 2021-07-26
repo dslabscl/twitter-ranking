@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-23 01:09:53
+Chile. Fecha del reporte: 2021-07-26 01:09:46
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #CuartoRetiro10xCiento       |     54 |
-| #FuerzaAbuelaConCuartoRetiro |     46 |
-| #abranfronterasparalosniños  |     45 |
-| #ConvencionConstitucional    |     32 |
-| #SiempreEsHoy                |     32 |
-| #ContigoCHV                  |     25 |
-| #PaulaPresidenta             |     25 |
-| #MatrimonioIgualitario       |     24 |
-| #SOSCuba                     |     22 |
-| #ExtremaIzquierdaMillennial  |     20 |
-| #MiCandidataEsPaula          |     19 |
-| #Página13                    |     19 |
-| #Elecciones2021CL            |     17 |
-| #AbranLasFronteras           |     16 |
-| #listadelpueblo              |     16 |
-| #BoricTortugaEnElArbol       |     14 |
-| #chile                       |     14 |
-| #CuartoRetiroDeMi100xCiento  |     14 |
-| #mapuche                     |     14 |
-| #SOSCubaLibre                |     14 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| #abranfronterasparalosninos    |    113 |
+| #abranlasfronterasparalosniños |     54 |
+| #AbranLasFronteras             |     46 |
+| #abranfronterasparalosniños    |     44 |
+| #FuerzaAbuelaConCuartoRetiro   |     44 |
+| #abranlasfronterasparalosninos |     35 |
+| #parisibajarasueldoscongreso   |     35 |
+| #BoricTortugaEnElArbol         |     33 |
+| #BostasHediondas               |     32 |
+| #SiempreEsHoy                  |     32 |
+| #CuartoRetiro10xCiento         |     30 |
+| #PaulaPresidenta               |     30 |
+| #SOSCuba                       |     24 |
+| #Chile                         |     23 |
+| #SiempreEsHOy                  |     23 |
+| #ConvencionConstitucional      |     22 |
+| #MiCandidataEsPaula            |     21 |
+| #FuerzaAbuelaxMi100xCiento     |     20 |
+| #LoveIsNotTourism              |     19 |
+| #chile                         |     16 |
 
 # Cuentas
 
