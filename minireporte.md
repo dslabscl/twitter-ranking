@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-26 01:09:46
+Chile. Fecha del reporte: 2021-07-27 01:11:27
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| #abranfronterasparalosninos    |    113 |
-| #abranlasfronterasparalosniños |     54 |
-| #AbranLasFronteras             |     46 |
-| #abranfronterasparalosniños    |     44 |
-| #FuerzaAbuelaConCuartoRetiro   |     44 |
-| #abranlasfronterasparalosninos |     35 |
-| #parisibajarasueldoscongreso   |     35 |
-| #BoricTortugaEnElArbol         |     33 |
-| #BostasHediondas               |     32 |
-| #SiempreEsHoy                  |     32 |
-| #CuartoRetiro10xCiento         |     30 |
-| #PaulaPresidenta               |     30 |
-| #SOSCuba                       |     24 |
-| #Chile                         |     23 |
-| #SiempreEsHOy                  |     23 |
-| #ConvencionConstitucional      |     22 |
-| #MiCandidataEsPaula            |     21 |
-| #FuerzaAbuelaxMi100xCiento     |     20 |
-| #LoveIsNotTourism              |     19 |
-| #chile                         |     16 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #CuartoRetiro100xCiento      |    226 |
+| #FuerzaAbuelaConCuartoRetiro |     58 |
+| #ConvencionConstitucional    |     38 |
+| #PaulaPresidenta             |     38 |
+| #parisibajarasueldoscongreso |     33 |
+| #BostasHediondas             |     32 |
+| #SiempreEsHOy                |     31 |
+| #chile                       |     30 |
+| #mapuche                     |     26 |
+| #Dignidad                    |     25 |
+| #listadelpueblo              |     25 |
+| #BoricTortugaEnElArbol       |     23 |
+| #Chile                       |     23 |
+| #SiempreEsHoy                |     23 |
+| #ContigoCHV                  |     22 |
+| #CuartoRetiro10xCiento       |     19 |
+| #MiCandidataEsPaula          |     19 |
+| #SOSCuba                     |     19 |
+| #titularidaddocente2021      |     18 |
+| #FuerzaAbuelaxMi100xCiento   |     17 |
 
 # Cuentas
 
