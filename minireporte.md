@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-27 01:11:27
+Chile. Fecha del reporte: 2021-07-28 01:12:53
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #CuartoRetiro100xCiento      |    226 |
-| #FuerzaAbuelaConCuartoRetiro |     58 |
-| #ConvencionConstitucional    |     38 |
-| #PaulaPresidenta             |     38 |
-| #parisibajarasueldoscongreso |     33 |
-| #BostasHediondas             |     32 |
-| #SiempreEsHOy                |     31 |
-| #chile                       |     30 |
-| #mapuche                     |     26 |
-| #Dignidad                    |     25 |
-| #listadelpueblo              |     25 |
-| #BoricTortugaEnElArbol       |     23 |
-| #Chile                       |     23 |
-| #SiempreEsHoy                |     23 |
-| #ContigoCHV                  |     22 |
-| #CuartoRetiro10xCiento       |     19 |
-| #MiCandidataEsPaula          |     19 |
-| #SOSCuba                     |     19 |
-| #titularidaddocente2021      |     18 |
-| #FuerzaAbuelaxMi100xCiento   |     17 |
+| datos                                 | Cuenta |
+|:--------------------------------------|-------:|
+| #FuerzaAbuelaConCuartoRetiro          |    130 |
+| #CuartoRetiro100xCiento               |     79 |
+| #CuartoRetiro10xCiento                |     72 |
+| #DiputadoApoyeVeto                    |     62 |
+| #ContigoCHV                           |     54 |
+| #SiempreEsHOy                         |     36 |
+| #BostasHediondas                      |     32 |
+| #parisibajarasueldoscongreso          |     31 |
+| #PaulaPresidenta                      |     30 |
+| #FuerzaAbuelaxMi100xCiento            |     29 |
+| #CuartoRetiroDeMi100xCiento           |     25 |
+| #SOSCuba                              |     23 |
+| #BoricTortugaEnElArbol                |     20 |
+| #abranlasfronterasparalosninos        |     19 |
+| #ConvencionConstitucional             |     19 |
+| #FcOficialChayanneUnConquistadorChile |     18 |
+| #MiCandidataEsPaula                   |     16 |
+| #Soledad                              |     16 |
+| #DestitucionDeElisaLoncon             |     14 |
+| #Chile                                |     13 |
 
 # Cuentas
 
