@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-28 01:12:53
+Chile. Fecha del reporte: 2021-07-29 01:10:00
 
 # Hashtags más populares
 
 | datos                                 | Cuenta |
 |:--------------------------------------|-------:|
-| #FuerzaAbuelaConCuartoRetiro          |    130 |
-| #CuartoRetiro100xCiento               |     79 |
-| #CuartoRetiro10xCiento                |     72 |
-| #DiputadoApoyeVeto                    |     62 |
-| #ContigoCHV                           |     54 |
+| #GarantiasVetoTOTAL                   |    137 |
+| #CuartoRetiro100xCiento               |     63 |
+| #DiputadoApoyeVeto                    |     59 |
+| #ConvencionConstitucional             |     43 |
+| #CuartoRetiro10xCiento                |     43 |
+| #abranlasfronterasparalosninos        |     37 |
+| #FuerzaAbuelaConCuartoRetiro          |     37 |
 | #SiempreEsHOy                         |     36 |
-| #BostasHediondas                      |     32 |
-| #parisibajarasueldoscongreso          |     31 |
-| #PaulaPresidenta                      |     30 |
-| #FuerzaAbuelaxMi100xCiento            |     29 |
-| #CuartoRetiroDeMi100xCiento           |     25 |
-| #SOSCuba                              |     23 |
-| #BoricTortugaEnElArbol                |     20 |
-| #abranlasfronterasparalosninos        |     19 |
-| #ConvencionConstitucional             |     19 |
-| #FcOficialChayanneUnConquistadorChile |     18 |
-| #MiCandidataEsPaula                   |     16 |
+| #CuartoRetiroDeMi100xCiento           |     22 |
+| #LibertadAMaturana                    |     22 |
+| #PaulaPresidenta                      |     21 |
+| #FcOficialChayanneUnConquistadorChile |     17 |
 | #Soledad                              |     16 |
-| #DestitucionDeElisaLoncon             |     14 |
-| #Chile                                |     13 |
+| #SOSCuba                              |     15 |
+| #AprueboDignidad                      |     14 |
+| #GarantiasVetoTotal                   |     14 |
+| #MesaCentral                          |     14 |
+| #parisibajarasueldoscongreso          |     14 |
+| #MiCandidataEsPaula                   |     13 |
+| #Arica                                |     12 |
 
 # Cuentas
 
