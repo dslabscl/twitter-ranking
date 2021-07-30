@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-29 01:10:00
+Chile. Fecha del reporte: 2021-07-30 01:12:10
 
 # Hashtags más populares
 
 | datos                                 | Cuenta |
 |:--------------------------------------|-------:|
-| #GarantiasVetoTOTAL                   |    137 |
-| #CuartoRetiro100xCiento               |     63 |
-| #DiputadoApoyeVeto                    |     59 |
-| #ConvencionConstitucional             |     43 |
-| #CuartoRetiro10xCiento                |     43 |
-| #abranlasfronterasparalosninos        |     37 |
-| #FuerzaAbuelaConCuartoRetiro          |     37 |
-| #SiempreEsHOy                         |     36 |
-| #CuartoRetiroDeMi100xCiento           |     22 |
-| #LibertadAMaturana                    |     22 |
-| #PaulaPresidenta                      |     21 |
-| #FcOficialChayanneUnConquistadorChile |     17 |
-| #Soledad                              |     16 |
+| #TeDijimosVetoTotal                   |     90 |
+| #LibertadAMaturana                    |     55 |
+| #DiputadoApoyeVeto                    |     46 |
+| #PaulaPresidenta                      |     38 |
+| #ContigoCHV                           |     37 |
+| #FuerzaAbuelaConCuartoRetiro          |     36 |
+| #SiempreEsHOy                         |     33 |
+| #BostasHediondas                      |     32 |
+| #GarantiasVetoTOTAL                   |     30 |
+| #ConvencionConstitucional             |     28 |
+| #CuartoRetiro10xCiento                |     28 |
+| #TigrayMassArrest                     |     19 |
+| #VamosPorLoImposible                  |     19 |
+| #CircoConstituyente                   |     16 |
+| #CuartoRetiro100xCiento               |     16 |
+| #MesaCentral                          |     16 |
+| #abranlasfronterasparalosninos        |     15 |
 | #SOSCuba                              |     15 |
-| #AprueboDignidad                      |     14 |
-| #GarantiasVetoTotal                   |     14 |
-| #MesaCentral                          |     14 |
-| #parisibajarasueldoscongreso          |     14 |
-| #MiCandidataEsPaula                   |     13 |
-| #Arica                                |     12 |
+| #TigrayGenocide                       |     15 |
+| #FcOficialChayanneUnConquistadorChile |     14 |
 
 # Cuentas
 
