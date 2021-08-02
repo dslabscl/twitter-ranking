@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-07-30 01:12:10
+Chile. Fecha del reporte: 2021-08-02 01:10:15
 
 # Hashtags más populares
 
-| datos                                 | Cuenta |
-|:--------------------------------------|-------:|
-| #TeDijimosVetoTotal                   |     90 |
-| #LibertadAMaturana                    |     55 |
-| #DiputadoApoyeVeto                    |     46 |
-| #PaulaPresidenta                      |     38 |
-| #ContigoCHV                           |     37 |
-| #FuerzaAbuelaConCuartoRetiro          |     36 |
-| #SiempreEsHOy                         |     33 |
-| #BostasHediondas                      |     32 |
-| #GarantiasVetoTOTAL                   |     30 |
-| #ConvencionConstitucional             |     28 |
-| #CuartoRetiro10xCiento                |     28 |
-| #TigrayMassArrest                     |     19 |
-| #VamosPorLoImposible                  |     19 |
-| #CircoConstituyente                   |     16 |
-| #CuartoRetiro100xCiento               |     16 |
-| #MesaCentral                          |     16 |
-| #abranlasfronterasparalosninos        |     15 |
-| #SOSCuba                              |     15 |
-| #TigrayGenocide                       |     15 |
-| #FcOficialChayanneUnConquistadorChile |     14 |
+| datos                            | Cuenta |
+|:---------------------------------|-------:|
+| #PaulaPresidenta                 |     44 |
+| #SOSCuba                         |     41 |
+| #FuerzaAbuelaConCuartoRetiro     |     38 |
+| #TeDijimosVetoTotal              |     36 |
+| #CuartoRetiro10xCiento           |     33 |
+| #IntervencionHumanitariaParaCuba |     32 |
+| #SiempreEsHoy                    |     26 |
+| #VamosPorLoImposible             |     26 |
+| #FuerzaAbuelaxMi100xCiento       |     25 |
+| #MesaCentral                     |     19 |
+| #SoyPaulista                     |     19 |
+| #FabiolaCampillaiDelincuente     |     18 |
+| #Lastarria                       |     17 |
+| #abranlasfronterasparalosninos   |     16 |
+| #ConvencionConstitucional        |     15 |
+| #IzquierdaMiserable              |     15 |
+| #AprueboDignidad                 |     14 |
+| #T13Tarde                        |     14 |
+| #ContigoCHV                      |     13 |
+| #El21DeAgostoVotoXPaula          |     13 |
 
 # Cuentas
 
