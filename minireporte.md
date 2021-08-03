@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-02 01:10:15
+Chile. Fecha del reporte: 2021-08-03 01:13:09
 
 # Hashtags más populares
 
-| datos                            | Cuenta |
-|:---------------------------------|-------:|
-| #PaulaPresidenta                 |     44 |
-| #SOSCuba                         |     41 |
-| #FuerzaAbuelaConCuartoRetiro     |     38 |
-| #TeDijimosVetoTotal              |     36 |
-| #CuartoRetiro10xCiento           |     33 |
-| #IntervencionHumanitariaParaCuba |     32 |
-| #SiempreEsHoy                    |     26 |
-| #VamosPorLoImposible             |     26 |
-| #FuerzaAbuelaxMi100xCiento       |     25 |
-| #MesaCentral                     |     19 |
-| #SoyPaulista                     |     19 |
-| #FabiolaCampillaiDelincuente     |     18 |
-| #Lastarria                       |     17 |
-| #abranlasfronterasparalosninos   |     16 |
-| #ConvencionConstitucional        |     15 |
-| #IzquierdaMiserable              |     15 |
-| #AprueboDignidad                 |     14 |
-| #T13Tarde                        |     14 |
-| #ContigoCHV                      |     13 |
-| #El21DeAgostoVotoXPaula          |     13 |
+| datos                                 | Cuenta |
+|:--------------------------------------|-------:|
+| #FuerzaAbuelaConCuartoRetiro          |     64 |
+| #FuerzaAbuelaxMi100xCiento            |     56 |
+| #ContigoCHV                           |     43 |
+| #CuartoRetiro10xCiento                |     35 |
+| #PaulaPresidenta                      |     35 |
+| #SiempreEsHoy                         |     30 |
+| #EstamosConPaula                      |     29 |
+| #TeDijimosVetoTotal                   |     27 |
+| #ToleranciaCero                       |     25 |
+| #AprueboDignidad                      |     24 |
+| #NegocioCriminal                      |     24 |
+| #Plandemia                            |     24 |
+| #FcOficialChayanneUnConquistadorChile |     23 |
+| #AbranLasFronteras                    |     22 |
+| #LosColumnistas                       |     21 |
+| #MesaCentral                          |     19 |
+| #VamosPorLoImposible                  |     18 |
+| #FabiolaCampillaiDelincuente          |     17 |
+| #CuartoRetiro100xCiento               |     16 |
+| #DebateCooperativa                    |     16 |
 
 # Cuentas
 
