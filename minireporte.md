@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-03 01:13:09
+Chile. Fecha del reporte: 2021-08-04 01:09:20
 
 # Hashtags más populares
 
 | datos                                 | Cuenta |
 |:--------------------------------------|-------:|
-| #FuerzaAbuelaConCuartoRetiro          |     64 |
-| #FuerzaAbuelaxMi100xCiento            |     56 |
-| #ContigoCHV                           |     43 |
-| #CuartoRetiro10xCiento                |     35 |
-| #PaulaPresidenta                      |     35 |
-| #SiempreEsHoy                         |     30 |
-| #EstamosConPaula                      |     29 |
-| #TeDijimosVetoTotal                   |     27 |
-| #ToleranciaCero                       |     25 |
-| #AprueboDignidad                      |     24 |
-| #NegocioCriminal                      |     24 |
-| #Plandemia                            |     24 |
-| #FcOficialChayanneUnConquistadorChile |     23 |
-| #AbranLasFronteras                    |     22 |
-| #LosColumnistas                       |     21 |
-| #MesaCentral                          |     19 |
-| #VamosPorLoImposible                  |     18 |
-| #FabiolaCampillaiDelincuente          |     17 |
-| #CuartoRetiro100xCiento               |     16 |
-| #DebateCooperativa                    |     16 |
+| #CuartoRetiro100xCiento               |     96 |
+| #ContigoCHV                           |     60 |
+| #FuerzaAbuelaConCuartoRetiro          |     56 |
+| #FuerzaAbuelaxMi100xCiento            |     48 |
+| #SiempreEsHoy                         |     41 |
+| #HumeraMassacre                       |     36 |
+| #PaulaPresidenta                      |     30 |
+| #ConvencionConstitucional             |     25 |
+| #CuartoRetiro10xCiento                |     24 |
+| #LosColumnistas                       |     24 |
+| #DebatePrimarias                      |     22 |
+| #FcOficialChayanneUnConquistadorChile |     22 |
+| #AprueboDignidad                      |     20 |
+| #CooperativaEnCasa                    |     20 |
+| #ETH                                  |     19 |
+| #TeDijimosVetoTotal                   |     19 |
+| #VamosPorLoImposible                  |     19 |
+| #MesaCentral                          |     17 |
+| #Plandemia                            |     17 |
+| #TigrayGenocide                       |     17 |
 
 # Cuentas
 
