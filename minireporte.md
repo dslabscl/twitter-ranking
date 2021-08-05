@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-04 01:09:20
+Chile. Fecha del reporte: 2021-08-05 01:09:58
 
 # Hashtags más populares
 
 | datos                                 | Cuenta |
 |:--------------------------------------|-------:|
-| #CuartoRetiro100xCiento               |     96 |
-| #ContigoCHV                           |     60 |
-| #FuerzaAbuelaConCuartoRetiro          |     56 |
-| #FuerzaAbuelaxMi100xCiento            |     48 |
-| #SiempreEsHoy                         |     41 |
-| #HumeraMassacre                       |     36 |
-| #PaulaPresidenta                      |     30 |
-| #ConvencionConstitucional             |     25 |
-| #CuartoRetiro10xCiento                |     24 |
+| #CuartoRetiro100xCiento               |    149 |
+| #ContigoCHV                           |     51 |
+| #SiempreEsHoy                         |     49 |
+| #FuerzaAbuelaConCuartoRetiro          |     43 |
+| #SOSCuba                              |     34 |
+| #PaulaPresidenta                      |     27 |
 | #LosColumnistas                       |     24 |
-| #DebatePrimarias                      |     22 |
-| #FcOficialChayanneUnConquistadorChile |     22 |
-| #AprueboDignidad                      |     20 |
-| #CooperativaEnCasa                    |     20 |
-| #ETH                                  |     19 |
-| #TeDijimosVetoTotal                   |     19 |
-| #VamosPorLoImposible                  |     19 |
+| #ConvencionConstitucional             |     23 |
+| #FuerzaAbuelaxMi100xCiento            |     22 |
+| #FcOficialChayanneUnConquistadorChile |     21 |
+| #DestitucionTeresaMarinovic           |     18 |
+| #T13Tarde                             |     18 |
+| #100xCientoSinLetraChica              |     17 |
+| #AbuelaChallenge                      |     17 |
 | #MesaCentral                          |     17 |
-| #Plandemia                            |     17 |
-| #TigrayGenocide                       |     17 |
+| #VamosPorLoImposible                  |     17 |
+| #Andrea                               |     15 |
+| #CuartoRetiro10xCiento                |     15 |
+| #Plandemia                            |     15 |
+| #TigrayGenocide                       |     15 |
 
 # Cuentas
 
