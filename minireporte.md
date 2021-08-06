@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-05 01:09:58
+Chile. Fecha del reporte: 2021-08-06 01:12:26
 
 # Hashtags más populares
 
 | datos                                 | Cuenta |
 |:--------------------------------------|-------:|
-| #CuartoRetiro100xCiento               |    149 |
-| #ContigoCHV                           |     51 |
-| #SiempreEsHoy                         |     49 |
-| #FuerzaAbuelaConCuartoRetiro          |     43 |
-| #SOSCuba                              |     34 |
+| #CuartoRetiro100xCiento               |     85 |
+| #SiempreEsHoy                         |     52 |
+| #ContigoCHV                           |     49 |
+| #ConvencionConstitucional             |     39 |
+| #CuartoRetiro10xCiento                |     31 |
+| #FuerzaAbuelaConCuartoRetiro          |     29 |
 | #PaulaPresidenta                      |     27 |
 | #LosColumnistas                       |     24 |
-| #ConvencionConstitucional             |     23 |
-| #FuerzaAbuelaxMi100xCiento            |     22 |
+| #FuerzaAbuelaxMi100xCiento            |     23 |
 | #FcOficialChayanneUnConquistadorChile |     21 |
-| #DestitucionTeresaMarinovic           |     18 |
-| #T13Tarde                             |     18 |
-| #100xCientoSinLetraChica              |     17 |
-| #AbuelaChallenge                      |     17 |
-| #MesaCentral                          |     17 |
+| #HumeraMassacre                       |     20 |
+| #T13Tarde                             |     20 |
+| #boricpresidente                      |     19 |
+| #CALLAMPA                             |     19 |
+| #chile                                |     19 |
+| #Dignidad                             |     19 |
+| #mapuche                              |     19 |
+| #MesaCentral                          |     19 |
 | #VamosPorLoImposible                  |     17 |
-| #Andrea                               |     15 |
-| #CuartoRetiro10xCiento                |     15 |
-| #Plandemia                            |     15 |
-| #TigrayGenocide                       |     15 |
+| #SOSCuba                              |     16 |
 
 # Cuentas
 
