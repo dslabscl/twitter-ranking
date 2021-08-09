@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-06 01:12:26
+Chile. Fecha del reporte: 2021-08-09 01:10:49
 
 # Hashtags más populares
 
-| datos                                 | Cuenta |
-|:--------------------------------------|-------:|
-| #CuartoRetiro100xCiento               |     85 |
-| #SiempreEsHoy                         |     52 |
-| #ContigoCHV                           |     49 |
-| #ConvencionConstitucional             |     39 |
-| #CuartoRetiro10xCiento                |     31 |
-| #FuerzaAbuelaConCuartoRetiro          |     29 |
-| #PaulaPresidenta                      |     27 |
-| #LosColumnistas                       |     24 |
-| #FuerzaAbuelaxMi100xCiento            |     23 |
-| #FcOficialChayanneUnConquistadorChile |     21 |
-| #HumeraMassacre                       |     20 |
-| #T13Tarde                             |     20 |
-| #boricpresidente                      |     19 |
-| #CALLAMPA                             |     19 |
-| #chile                                |     19 |
-| #Dignidad                             |     19 |
-| #mapuche                              |     19 |
-| #MesaCentral                          |     19 |
-| #VamosPorLoImposible                  |     17 |
-| #SOSCuba                              |     16 |
+| datos                                        | Cuenta |
+|:---------------------------------------------|-------:|
+| #SiempreEsHoy                                |     64 |
+| #ConvencionConstitucional                    |     58 |
+| #CuartoRetiro100xCiento                      |     52 |
+| #FuerzaAbuelaConCuartoRetiro                 |     42 |
+| #FuerzaAbuelaxMi100xCiento                   |     33 |
+| #Chile                                       |     32 |
+| #PaulaPresidenta                             |     30 |
+| #ContigoCHV                                  |     24 |
+| #LosColumnistas                              |     24 |
+| #boricpresidente                             |     23 |
+| #HacenLosLarryConLosSubsidiosDeVillaAmengual |     22 |
+| #CALLAMPA                                    |     21 |
+| #Dignidad                                    |     21 |
+| #mapuche                                     |     21 |
+| #CuartoRetiro10xCiento                       |     20 |
+| #MesaCentral                                 |     18 |
+| #chile                                       |     16 |
+| #FueraComunistasDeChile                      |     15 |
+| #T13Tarde                                    |     15 |
+| #VamosPorLoImposible                         |     15 |
 
 # Cuentas
 
