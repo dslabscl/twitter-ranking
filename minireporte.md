@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-09 01:10:49
+Chile. Fecha del reporte: 2021-08-10 01:14:37
 
 # Hashtags más populares
 
 | datos                                        | Cuenta |
 |:---------------------------------------------|-------:|
 | #SiempreEsHoy                                |     64 |
-| #ConvencionConstitucional                    |     58 |
+| #ConvencionConstitucional                    |     55 |
 | #CuartoRetiro100xCiento                      |     52 |
-| #FuerzaAbuelaConCuartoRetiro                 |     42 |
-| #FuerzaAbuelaxMi100xCiento                   |     33 |
-| #Chile                                       |     32 |
-| #PaulaPresidenta                             |     30 |
-| #ContigoCHV                                  |     24 |
-| #LosColumnistas                              |     24 |
-| #boricpresidente                             |     23 |
+| #ContigoCHV                                  |     43 |
+| #FuerzaAbuelaxMi100xCiento                   |     36 |
+| #FuerzaAbuelaConCuartoRetiro                 |     34 |
+| #LosColumnistas                              |     32 |
+| #PaulaPresidenta                             |     28 |
+| #EsaWeaNoProcede                             |     27 |
+| #AbortoLegal                                 |     24 |
+| #Chile                                       |     23 |
+| #fronterasprotegidas                         |     22 |
 | #HacenLosLarryConLosSubsidiosDeVillaAmengual |     22 |
-| #CALLAMPA                                    |     21 |
-| #Dignidad                                    |     21 |
-| #mapuche                                     |     21 |
-| #CuartoRetiro10xCiento                       |     20 |
+| #SOSCuba                                     |     20 |
 | #MesaCentral                                 |     18 |
-| #chile                                       |     16 |
-| #FueraComunistasDeChile                      |     15 |
+| #StopTigrayGenocide                          |     17 |
+| #Tigrayans                                   |     17 |
+| #CombinaciónClave                            |     15 |
+| #CuartoRetiro10xCiento                       |     15 |
 | #T13Tarde                                    |     15 |
-| #VamosPorLoImposible                         |     15 |
 
 # Cuentas
 
