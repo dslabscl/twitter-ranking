@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-10 01:14:37
+Chile. Fecha del reporte: 2021-08-11 01:09:02
 
 # Hashtags más populares
 
-| datos                                        | Cuenta |
-|:---------------------------------------------|-------:|
-| #SiempreEsHoy                                |     64 |
-| #ConvencionConstitucional                    |     55 |
-| #CuartoRetiro100xCiento                      |     52 |
-| #ContigoCHV                                  |     43 |
-| #FuerzaAbuelaxMi100xCiento                   |     36 |
-| #FuerzaAbuelaConCuartoRetiro                 |     34 |
-| #LosColumnistas                              |     32 |
-| #PaulaPresidenta                             |     28 |
-| #EsaWeaNoProcede                             |     27 |
-| #AbortoLegal                                 |     24 |
-| #Chile                                       |     23 |
-| #fronterasprotegidas                         |     22 |
-| #HacenLosLarryConLosSubsidiosDeVillaAmengual |     22 |
-| #SOSCuba                                     |     20 |
-| #MesaCentral                                 |     18 |
-| #StopTigrayGenocide                          |     17 |
-| #Tigrayans                                   |     17 |
-| #CombinaciónClave                            |     15 |
-| #CuartoRetiro10xCiento                       |     15 |
-| #T13Tarde                                    |     15 |
+| datos                                 | Cuenta |
+|:--------------------------------------|-------:|
+| #CuartoRetiro10xCiento                |    207 |
+| #FuerzaAbuelaConCuartoRetiro          |    184 |
+| #CuartoRetiroDeMi100xCiento           |    160 |
+| #ConvencionConstitucional             |     63 |
+| #SiempreEsHoy                         |     62 |
+| #FuerzaAbuelaxMi100xCiento            |     40 |
+| #LosColumnistas                       |     31 |
+| #NoADominga                           |     30 |
+| #FuerzaAbuelaCon100xCiento            |     27 |
+| #PaulaPresidenta                      |     22 |
+| #SanctionPakistan                     |     21 |
+| #SOSCuba                              |     18 |
+| #EsaWeaNoProcede                      |     16 |
+| #MesaCentral                          |     16 |
+| #Chile                                |     15 |
+| #Cuba                                 |     15 |
+| #AprueboDignidad                      |     14 |
+| #FcOficialChayanneUnConquistadorChile |     14 |
+| #T13Tarde                             |     14 |
+| #CuartoRetiro100xCiento               |     13 |
 
 # Cuentas
 
