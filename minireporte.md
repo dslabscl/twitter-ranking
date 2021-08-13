@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-12 01:09:20
+Chile. Fecha del reporte: 2021-08-13 01:09:16
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| #IFEUniversal                 |    207 |
-| #NoADominga                   |    163 |
-| #ConvencionConstitucional     |     63 |
-| #SiempreEsHoy                 |     58 |
-| #Chile                        |     54 |
-| #CuartoRetiro10xCiento        |     51 |
-| #CuartoRetiroDel10xCiento     |     36 |
-| #FuerzaAbuelaConCuartoRetiro  |     36 |
-| #HumeraMassacre               |     36 |
-| #TigrayGenocide               |     32 |
-| #CuartoRetiro100xCiento       |     31 |
-| #LosColumnistas               |     27 |
-| #noadominga                   |     25 |
-| #NoALasAsignacionesCC         |     25 |
-| #Justice4TigraysWomenAndGirls |     24 |
-| #NoAMineraDominga             |     18 |
-| #PaulaPresidenta              |     18 |
-| #FuerzaAbuelaCon100xCiento    |     17 |
-| #MesaCentral                  |     16 |
-| #CooperativaContigo           |     15 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #NoADominga                  |    121 |
+| #IFEUniversal                |     81 |
+| #FuerzaAbuelaConCuartoRetiro |     72 |
+| #ConvencionConstitucional    |     61 |
+| #SiempreEsHoy                |     55 |
+| #ContigoCHV                  |     53 |
+| #FreeBritney                 |     50 |
+| #NoDominga                   |     37 |
+| #CuartoRetiro100xCiento      |     35 |
+| #CuartoRetiroDel10xCiento    |     31 |
+| #CuartoRetiro                |     27 |
+| #LosColumnistas              |     27 |
+| #Retiro100xCiento            |     27 |
+| #Afghanistan                 |     25 |
+| #AFP                         |     25 |
+| #afpmodelo                   |     25 |
+| #Ahora                       |     25 |
+| #listadelpueblo              |     25 |
+| #ministeriodesalud           |     25 |
+| #presidenta                  |     25 |
 
 # Cuentas
 
