@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-13 01:09:16
+Chile. Fecha del reporte: 2021-08-16 01:07:59
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #NoADominga                  |    121 |
-| #IFEUniversal                |     81 |
-| #FuerzaAbuelaConCuartoRetiro |     72 |
-| #ConvencionConstitucional    |     61 |
-| #SiempreEsHoy                |     55 |
-| #ContigoCHV                  |     53 |
-| #FreeBritney                 |     50 |
-| #NoDominga                   |     37 |
-| #CuartoRetiro100xCiento      |     35 |
-| #CuartoRetiroDel10xCiento    |     31 |
-| #CuartoRetiro                |     27 |
-| #LosColumnistas              |     27 |
-| #Retiro100xCiento            |     27 |
-| #Afghanistan                 |     25 |
-| #AFP                         |     25 |
-| #afpmodelo                   |     25 |
-| #Ahora                       |     25 |
-| #listadelpueblo              |     25 |
-| #ministeriodesalud           |     25 |
-| #presidenta                  |     25 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| #ConvencionConstitucional     |     72 |
+| #CuartoRetiro100xCiento       |     63 |
+| #NoADominga                   |     59 |
+| #SiempreEsHoy                 |     49 |
+| #FuerzaAbuelaxMi100xCiento    |     47 |
+| #FuerzaAbuelaConCuartoRetiro  |     45 |
+| #ContigoCHV                   |     40 |
+| #MesaCentral                  |     36 |
+| #Chile                        |     35 |
+| #Justice4TigraysWomenAndGirls |     34 |
+| #LosColumnistas               |     30 |
+| #FuerzaAbuelaCon100xCiento    |     27 |
+| #DiputadoAbortoEsAsesinato    |     23 |
+| #StopTigrayGenocide           |     23 |
+| #Tigrayans                    |     23 |
+| #AbuelaPresidenta2022         |     21 |
+| #CuartoRetiroDel10xCiento     |     21 |
+| #PaulaPresidenta              |     20 |
+| #CuartoRetiro10xCiento        |     16 |
+| #boricpresidente              |     15 |
 
 # Cuentas
 
