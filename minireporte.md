@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-16 01:07:59
+Chile. Fecha del reporte: 2021-08-17 01:06:31
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| #ConvencionConstitucional     |     72 |
-| #CuartoRetiro100xCiento       |     63 |
-| #NoADominga                   |     59 |
-| #SiempreEsHoy                 |     49 |
-| #FuerzaAbuelaxMi100xCiento    |     47 |
-| #FuerzaAbuelaConCuartoRetiro  |     45 |
-| #ContigoCHV                   |     40 |
-| #MesaCentral                  |     36 |
-| #Chile                        |     35 |
-| #Justice4TigraysWomenAndGirls |     34 |
-| #LosColumnistas               |     30 |
-| #FuerzaAbuelaCon100xCiento    |     27 |
-| #DiputadoAbortoEsAsesinato    |     23 |
-| #StopTigrayGenocide           |     23 |
-| #Tigrayans                    |     23 |
-| #AbuelaPresidenta2022         |     21 |
-| #CuartoRetiroDel10xCiento     |     21 |
-| #PaulaPresidenta              |     20 |
-| #CuartoRetiro10xCiento        |     16 |
-| #boricpresidente              |     15 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #CuartoRetiro100xCiento      |    210 |
+| #NoADominga                  |     65 |
+| #ConvencionConstitucional    |     53 |
+| #ContigoCHV                  |     49 |
+| #DebateUnidadConstituyente   |     45 |
+| #FuerzaAbuelaConCuartoRetiro |     36 |
+| #LosColumnistas              |     31 |
+| #FuerzaAbuelaxMi100xCiento   |     30 |
+| #KastPresidente2022          |     30 |
+| #MesaCentral                 |     30 |
+| #CuartoRetiro10xCiento       |     26 |
+| #SiempreEsHoy                |     26 |
+| #Chile                       |     24 |
+| #CuartoRetiroDel10xCiento    |     24 |
+| #FuerzaAbuelaCon100xCiento   |     23 |
+| #PaulaPresidenta             |     22 |
+| #YoVotoNarvaez               |     22 |
+| #CuartoRetiro100xCient       |     21 |
+| #Arica                       |     18 |
+| #CuartoRetiroDeMi100xCiento  |     18 |
 
 # Cuentas
 
