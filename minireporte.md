@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-17 01:06:31
+Chile. Fecha del reporte: 2021-08-18 01:11:42
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #CuartoRetiro100xCiento      |    210 |
-| #NoADominga                  |     65 |
-| #ConvencionConstitucional    |     53 |
-| #ContigoCHV                  |     49 |
-| #DebateUnidadConstituyente   |     45 |
-| #FuerzaAbuelaConCuartoRetiro |     36 |
-| #LosColumnistas              |     31 |
-| #FuerzaAbuelaxMi100xCiento   |     30 |
-| #KastPresidente2022          |     30 |
-| #MesaCentral                 |     30 |
-| #CuartoRetiro10xCiento       |     26 |
-| #SiempreEsHoy                |     26 |
-| #Chile                       |     24 |
-| #CuartoRetiroDel10xCiento    |     24 |
-| #FuerzaAbuelaCon100xCiento   |     23 |
-| #PaulaPresidenta             |     22 |
-| #YoVotoNarvaez               |     22 |
-| #CuartoRetiro100xCient       |     21 |
-| #Arica                       |     18 |
-| #CuartoRetiroDeMi100xCiento  |     18 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| #NoIndultoADelincuentes       |     97 |
+| #CuartoRetiro100xCiento       |     84 |
+| #ContigoCHV                   |     51 |
+| #Chile                        |     42 |
+| #ConvencionConstitucional     |     42 |
+| #NoAlIndultoADelincuentes     |     35 |
+| #FuerzaAbuelaConCuartoRetiro  |     33 |
+| #FuerzaAbuelaxMi100xCiento    |     33 |
+| #NoADominga                   |     33 |
+| #LosColumnistas               |     32 |
+| #CuartoRetiroDel10xCiento     |     31 |
+| #KastPresidente2022           |     26 |
+| #CuartoRetiro10xCiento        |     25 |
+| #FuerzaAbuelaCon100xCiento    |     23 |
+| #Justice4TigraysWomenAndGirls |     23 |
+| #MesaCentral                  |     23 |
+| #Arica                        |     21 |
+| #DebateUnidadConstituyente    |     20 |
+| #chile                        |     16 |
+| #FueraLuciaDammert            |     15 |
 
 # Cuentas
 
