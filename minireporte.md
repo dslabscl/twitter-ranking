@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-18 01:11:42
+Chile. Fecha del reporte: 2021-08-20 01:05:51
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| #NoIndultoADelincuentes       |     97 |
-| #CuartoRetiro100xCiento       |     84 |
-| #ContigoCHV                   |     51 |
-| #Chile                        |     42 |
-| #ConvencionConstitucional     |     42 |
-| #NoAlIndultoADelincuentes     |     35 |
-| #FuerzaAbuelaConCuartoRetiro  |     33 |
-| #FuerzaAbuelaxMi100xCiento    |     33 |
-| #NoADominga                   |     33 |
-| #LosColumnistas               |     32 |
-| #CuartoRetiroDel10xCiento     |     31 |
-| #KastPresidente2022           |     26 |
-| #CuartoRetiro10xCiento        |     25 |
-| #FuerzaAbuelaCon100xCiento    |     23 |
-| #Justice4TigraysWomenAndGirls |     23 |
-| #MesaCentral                  |     23 |
-| #Arica                        |     21 |
-| #DebateUnidadConstituyente    |     20 |
-| #chile                        |     16 |
-| #FueraLuciaDammert            |     15 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #NOADOMINGA                  |     91 |
+| #ContigoCHV                  |     60 |
+| #FuerzaAbuelaCon100xCiento   |     58 |
+| #CuartoRetiro100xCiento      |     55 |
+| #AtreveteConKast             |     52 |
+| #ConvencionConstitucional    |     49 |
+| #Chile                       |     46 |
+| #CuartoRetiroAhora           |     42 |
+| #CuartoRetiro10xCiento       |     40 |
+| #KastPresidente2022          |     40 |
+| #CuartoRetiroDel10xCiento    |     37 |
+| #matroneriamovilizada        |     34 |
+| #NoIndultoADelincuentes      |     34 |
+| #Tirua                       |     34 |
+| #FuerzaAbuelaConCuartoRetiro |     31 |
+| #sistemafrontal              |     30 |
+| #LosColumnistas              |     28 |
+| #boricpresidente             |     25 |
+| #CALLAMPA                    |     24 |
+| #Dignidad                    |     24 |
 
 # Cuentas
 
