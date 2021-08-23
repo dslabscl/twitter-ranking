@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-20 01:05:51
+Chile. Fecha del reporte: 2021-08-23 01:02:38
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #NOADOMINGA                  |     91 |
-| #ContigoCHV                  |     60 |
-| #FuerzaAbuelaCon100xCiento   |     58 |
-| #CuartoRetiro100xCiento      |     55 |
-| #AtreveteConKast             |     52 |
-| #ConvencionConstitucional    |     49 |
-| #Chile                       |     46 |
-| #CuartoRetiroAhora           |     42 |
-| #CuartoRetiro10xCiento       |     40 |
-| #KastPresidente2022          |     40 |
-| #CuartoRetiroDel10xCiento    |     37 |
-| #matroneriamovilizada        |     34 |
-| #NoIndultoADelincuentes      |     34 |
-| #Tirua                       |     34 |
-| #FuerzaAbuelaConCuartoRetiro |     31 |
-| #sistemafrontal              |     30 |
-| #LosColumnistas              |     28 |
-| #boricpresidente             |     25 |
-| #CALLAMPA                    |     24 |
-| #Dignidad                    |     24 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| #CuartoRetiro100xCiento       |     91 |
+| #ElNegocioDelAborto           |     68 |
+| #CuartoRetiro10xCiento        |     55 |
+| #FuerzaAbuelaCon100xCiento    |     53 |
+| #ConsultaCiudadana2021        |     44 |
+| #CuartoRetiroAhora            |     41 |
+| #Chile                        |     27 |
+| #AtreveteConKast              |     26 |
+| #ConvencionConstitucional     |     23 |
+| #CuartoRetiroDel10xCiento     |     22 |
+| #FuerzaAbuelaConCuartoRetiro  |     22 |
+| #SiempreEsHoy                 |     21 |
+| #Justice4TigraysWomenAndGirls |     19 |
+| #ContigoCHV                   |     17 |
+| #LosColumnistas               |     17 |
+| #KastPresidente2022           |     16 |
+| #AprueboDignidad              |     15 |
+| #Arica                        |     14 |
+| #MesaCentral                  |     13 |
+| #boricpresidente              |     12 |
 
 # Cuentas
 
