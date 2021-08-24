@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-23 01:02:38
+Chile. Fecha del reporte: 2021-08-24 01:05:40
 
 # Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| #CuartoRetiro100xCiento       |     91 |
-| #ElNegocioDelAborto           |     68 |
-| #CuartoRetiro10xCiento        |     55 |
-| #FuerzaAbuelaCon100xCiento    |     53 |
-| #ConsultaCiudadana2021        |     44 |
-| #CuartoRetiroAhora            |     41 |
-| #Chile                        |     27 |
-| #AtreveteConKast              |     26 |
-| #ConvencionConstitucional     |     23 |
-| #CuartoRetiroDel10xCiento     |     22 |
-| #FuerzaAbuelaConCuartoRetiro  |     22 |
-| #SiempreEsHoy                 |     21 |
-| #Justice4TigraysWomenAndGirls |     19 |
-| #ContigoCHV                   |     17 |
-| #LosColumnistas               |     17 |
-| #KastPresidente2022           |     16 |
-| #AprueboDignidad              |     15 |
-| #Arica                        |     14 |
-| #MesaCentral                  |     13 |
-| #boricpresidente              |     12 |
+| #Cyberday                     |     64 |
+| #CuartoRetiro10xCiento        |     56 |
+| #ContigoCHV                   |     44 |
+| #FuerzaAbuelaCon100xCiento    |     41 |
+| #CuartoRetiro100xCiento       |     39 |
+| #CuartoRetiroAhora            |     39 |
+| #ElNegocioDelAborto           |     37 |
+| #Falabella                    |     31 |
+| #Falabellameestafo            |     30 |
+| #SiempreEsHoy                 |     26 |
+| #ConsultaCiudadana2021        |     25 |
+| #LosColumnistas               |     25 |
+| #Justice4TigraysWomenAndGirls |     23 |
+| #AprueboDignidad              |     22 |
+| #demandacolectivaFalabella    |     22 |
+| #Chile                        |     21 |
+| #Elecciones2021CL             |     20 |
+| #AtreveteConKast              |     19 |
+| #ConvencionConstitucional     |     18 |
+| #FuerzaAbuelaConCuartoRetiro  |     17 |
 
 # Cuentas
 
