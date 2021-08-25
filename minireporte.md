@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-24 01:05:40
+Chile. Fecha del reporte: 2021-08-25 01:06:43
 
 # Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| #Cyberday                     |     64 |
-| #CuartoRetiro10xCiento        |     56 |
-| #ContigoCHV                   |     44 |
-| #FuerzaAbuelaCon100xCiento    |     41 |
-| #CuartoRetiro100xCiento       |     39 |
-| #CuartoRetiroAhora            |     39 |
-| #ElNegocioDelAborto           |     37 |
-| #Falabella                    |     31 |
-| #Falabellameestafo            |     30 |
-| #SiempreEsHoy                 |     26 |
-| #ConsultaCiudadana2021        |     25 |
-| #LosColumnistas               |     25 |
-| #Justice4TigraysWomenAndGirls |     23 |
-| #AprueboDignidad              |     22 |
-| #demandacolectivaFalabella    |     22 |
-| #Chile                        |     21 |
-| #Elecciones2021CL             |     20 |
-| #AtreveteConKast              |     19 |
-| #ConvencionConstitucional     |     18 |
-| #FuerzaAbuelaConCuartoRetiro  |     17 |
+| #Cyberday                     |     66 |
+| #Falabellameestafo            |     66 |
+| #Falabella                    |     65 |
+| #FalabelaNOayuda              |     63 |
+| #CuartoRetiro100xCiento       |     38 |
+| #ContigoCHV                   |     36 |
+| #ParisiPresidente             |     34 |
+| #SinCuartoRetiroNoHayVotos    |     33 |
+| #CuartoRetiroAhora            |     32 |
+| #SiempreEsHoy                 |     31 |
+| #ConvencionConstitucional     |     27 |
+| #LosColumnistas               |     26 |
+| #FuerzaAbuelaCon100xCiento    |     25 |
+| #CuartoRetiroDel10xCiento     |     24 |
+| #AtreveteConKast              |     22 |
+| #Chile                        |     22 |
+| #CuartoRetiroDeMi100xCiento   |     20 |
+| #CuartoRetiro10xCiento        |     19 |
+| #Elecciones2021CL             |     19 |
+| #Justice4TigraysWomenAndGirls |     19 |
 
 # Cuentas
 
