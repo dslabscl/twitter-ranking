@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-25 01:06:43
+Chile. Fecha del reporte: 2021-08-26 01:13:35
 
 # Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| #Cyberday                     |     66 |
-| #Falabellameestafo            |     66 |
-| #Falabella                    |     65 |
-| #FalabelaNOayuda              |     63 |
-| #CuartoRetiro100xCiento       |     38 |
-| #ContigoCHV                   |     36 |
-| #ParisiPresidente             |     34 |
-| #SinCuartoRetiroNoHayVotos    |     33 |
-| #CuartoRetiroAhora            |     32 |
-| #SiempreEsHoy                 |     31 |
-| #ConvencionConstitucional     |     27 |
+| #Cyberday                     |     83 |
+| #Falabella                    |     83 |
+| #NoAlTPP11                    |     64 |
+| #ContigoCHV                   |     62 |
+| #ConvencionConstitucional     |     49 |
+| #Falabellameestafo            |     45 |
+| #Chile                        |     43 |
+| #Falabellateestafa            |     39 |
+| #NeverAgain4Tigray            |     37 |
+| #SiempreEsHoy                 |     36 |
+| #FuerzaAbuelaConCuartoRetiro  |     33 |
+| #CALLAMPA                     |     32 |
+| #Dignidad                     |     32 |
+| #CuartoRetiro10xCiento        |     30 |
+| #TigrayGenocide               |     30 |
+| #boricpresidente              |     28 |
+| #mapuche                      |     28 |
+| #Justice4TigraysWomenAndGirls |     27 |
+| #FuerzaAbuelaxMi100xCiento    |     26 |
 | #LosColumnistas               |     26 |
-| #FuerzaAbuelaCon100xCiento    |     25 |
-| #CuartoRetiroDel10xCiento     |     24 |
-| #AtreveteConKast              |     22 |
-| #Chile                        |     22 |
-| #CuartoRetiroDeMi100xCiento   |     20 |
-| #CuartoRetiro10xCiento        |     19 |
-| #Elecciones2021CL             |     19 |
-| #Justice4TigraysWomenAndGirls |     19 |
 
 # Cuentas
 
