@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-26 01:13:35
+Chile. Fecha del reporte: 2021-08-27 01:23:21
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| #Cyberday                     |     83 |
-| #Falabella                    |     83 |
-| #NoAlTPP11                    |     64 |
-| #ContigoCHV                   |     62 |
-| #ConvencionConstitucional     |     49 |
-| #Falabellameestafo            |     45 |
-| #Chile                        |     43 |
-| #Falabellateestafa            |     39 |
-| #NeverAgain4Tigray            |     37 |
-| #SiempreEsHoy                 |     36 |
-| #FuerzaAbuelaConCuartoRetiro  |     33 |
-| #CALLAMPA                     |     32 |
-| #Dignidad                     |     32 |
-| #CuartoRetiro10xCiento        |     30 |
-| #TigrayGenocide               |     30 |
-| #boricpresidente              |     28 |
-| #mapuche                      |     28 |
-| #Justice4TigraysWomenAndGirls |     27 |
-| #FuerzaAbuelaxMi100xCiento    |     26 |
-| #LosColumnistas               |     26 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #SinCuartoRetiroNoHayVotos   |     71 |
+| #FuerzaAbuelaConCuartoRetiro |     60 |
+| #Falabella                   |     55 |
+| #ChileDiceNoAlTPP11          |     50 |
+| #Cyberday                    |     50 |
+| #ContigoCHV                  |     46 |
+| #NoAlTPP11                   |     45 |
+| #CuartoRetiroDel10xCiento    |     43 |
+| #Falabellateestafa           |     43 |
+| #SiempreEsHoy                |     43 |
+| #CuartoRetiroAhora           |     41 |
+| #ConvencionConstitucional    |     39 |
+| #Chile                       |     36 |
+| #CuartoRetiro10xCiento       |     26 |
+| #CALLAMPA                    |     25 |
+| #Dignidad                    |     25 |
+| #LosColumnistas              |     25 |
+| #NeverAgain4Tigray           |     25 |
+| #FuerzaAbuelaCon100xCiento   |     24 |
+| #AtreveteConKast             |     23 |
 
 # Cuentas
 
