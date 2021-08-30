@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-27 01:23:21
+Chile. Fecha del reporte: 2021-08-30 01:08:21
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #SinCuartoRetiroNoHayVotos   |     71 |
-| #FuerzaAbuelaConCuartoRetiro |     60 |
-| #Falabella                   |     55 |
-| #ChileDiceNoAlTPP11          |     50 |
-| #Cyberday                    |     50 |
-| #ContigoCHV                  |     46 |
-| #NoAlTPP11                   |     45 |
-| #CuartoRetiroDel10xCiento    |     43 |
-| #Falabellateestafa           |     43 |
-| #SiempreEsHoy                |     43 |
-| #CuartoRetiroAhora           |     41 |
-| #ConvencionConstitucional    |     39 |
-| #Chile                       |     36 |
-| #CuartoRetiro10xCiento       |     26 |
-| #CALLAMPA                    |     25 |
-| #Dignidad                    |     25 |
-| #LosColumnistas              |     25 |
-| #NeverAgain4Tigray           |     25 |
-| #FuerzaAbuelaCon100xCiento   |     24 |
-| #AtreveteConKast             |     23 |
+| datos                            | Cuenta |
+|:---------------------------------|-------:|
+| #CuartoRetiroDel10xCiento        |     95 |
+| #SinCuartoRetiroNoHayVotos       |     53 |
+| #CuartoRetiroAhora               |     48 |
+| #Chile                           |     39 |
+| #SiempreEsHoy                    |     39 |
+| #CuartoRetiro10xCiento           |     38 |
+| #diezXcientoParaRentasVitalicias |     38 |
+| #FuerzaAbuelaConCuartoRetiro     |     36 |
+| #NoHayAbortoSeguro               |     29 |
+| #ConvencionConstitucional        |     27 |
+| #FuerzaAbuelaCon100xCiento       |     22 |
+| #AtreveteConKast                 |     21 |
+| #CuartoRetiro100xCiento          |     20 |
+| #DobleOpuesto                    |     18 |
+| #CuartoRetiro                    |     16 |
+| #CuartoRetiroDel100xCiento       |     16 |
+| #CuartoRetiroDeMi100xCiento      |     16 |
+| #boricpresidente                 |     15 |
+| #IFEUniversal                    |     15 |
+| #FuerzaAbuelaxMi100xCiento       |     14 |
 
 # Cuentas
 
