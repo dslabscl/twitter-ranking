@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-30 01:08:21
+Chile. Fecha del reporte: 2021-08-31 01:10:22
 
 # Hashtags más populares
 
-| datos                            | Cuenta |
-|:---------------------------------|-------:|
-| #CuartoRetiroDel10xCiento        |     95 |
-| #SinCuartoRetiroNoHayVotos       |     53 |
-| #CuartoRetiroAhora               |     48 |
-| #Chile                           |     39 |
-| #SiempreEsHoy                    |     39 |
-| #CuartoRetiro10xCiento           |     38 |
-| #diezXcientoParaRentasVitalicias |     38 |
-| #FuerzaAbuelaConCuartoRetiro     |     36 |
-| #NoHayAbortoSeguro               |     29 |
-| #ConvencionConstitucional        |     27 |
-| #FuerzaAbuelaCon100xCiento       |     22 |
-| #AtreveteConKast                 |     21 |
-| #CuartoRetiro100xCiento          |     20 |
-| #DobleOpuesto                    |     18 |
-| #CuartoRetiro                    |     16 |
-| #CuartoRetiroDel100xCiento       |     16 |
-| #CuartoRetiroDeMi100xCiento      |     16 |
-| #boricpresidente                 |     15 |
-| #IFEUniversal                    |     15 |
-| #FuerzaAbuelaxMi100xCiento       |     14 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #CuartoRetiroDel10xCiento    |    162 |
+| #FuerzaAbuelaConCuartoRetiro |    149 |
+| #Chile                       |    108 |
+| #FuerzaAbuelaxMi100xCiento   |     76 |
+| #CuartoRetiroAhora           |     62 |
+| #CuartoRetiroDeMi100xCiento  |     54 |
+| #SinCuartoRetiroNoHayVotos   |     45 |
+| #FuerzaAbuelaCon100xCiento   |     39 |
+| #SinMemoriaNoHayJusticia     |     39 |
+| #ConvencionConstitucional    |     36 |
+| #SiempreEsHoy                |     36 |
+| #CuartoRetiro10xCiento       |     34 |
+| #Alerta                      |     30 |
+| #CacerolazoXCuartoRetiro     |     28 |
+| #ContigoCHV                  |     28 |
+| #GranMarcha2021Sep28         |     25 |
+| #boricpresidente             |     24 |
+| #DiaDelDetenidoDesaparecido  |     24 |
+| #CALLAMPA                    |     22 |
+| #Dignidad                    |     22 |
 
 # Cuentas
 
