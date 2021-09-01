@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-08-31 01:10:22
+Chile. Fecha del reporte: 2021-09-01 01:15:06
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #CuartoRetiroDel10xCiento    |    162 |
-| #FuerzaAbuelaConCuartoRetiro |    149 |
-| #Chile                       |    108 |
-| #FuerzaAbuelaxMi100xCiento   |     76 |
-| #CuartoRetiroAhora           |     62 |
-| #CuartoRetiroDeMi100xCiento  |     54 |
-| #SinCuartoRetiroNoHayVotos   |     45 |
-| #FuerzaAbuelaCon100xCiento   |     39 |
-| #SinMemoriaNoHayJusticia     |     39 |
+| #CuartoRetiroDel10xCiento    |    165 |
+| #FuerzaAbuelaConCuartoRetiro |     80 |
+| #CuartoRetiroMV              |     62 |
+| #FuerzaAbuelaxMi100xCiento   |     55 |
+| #CuartoRetiro100xCiento      |     54 |
+| #Chile                       |     49 |
+| #FuerzaAbuelaCon100xCiento   |     43 |
+| #SinCuartoRetiroNoHayVotos   |     42 |
+| #CuartoRetiro10xCiento       |     40 |
+| #CuartoRetiro                |     37 |
+| #SiempreEsHoy                |     37 |
 | #ConvencionConstitucional    |     36 |
-| #SiempreEsHoy                |     36 |
-| #CuartoRetiro10xCiento       |     34 |
-| #Alerta                      |     30 |
-| #CacerolazoXCuartoRetiro     |     28 |
+| #CuartoRetiroAhora           |     29 |
+| #4toretirode100xciento       |     28 |
 | #ContigoCHV                  |     28 |
-| #GranMarcha2021Sep28         |     25 |
-| #boricpresidente             |     24 |
-| #DiaDelDetenidoDesaparecido  |     24 |
-| #CALLAMPA                    |     22 |
-| #Dignidad                    |     22 |
+| #NoMasMigajas                |     28 |
+| #CuartoRetiroDel100xCiento   |     27 |
+| #titularidaddocente2021      |     25 |
+| #boricpresidente             |     23 |
+| #TitularidadDocente2021      |     23 |
 
 # Cuentas
 
