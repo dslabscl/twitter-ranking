@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-01 01:15:06
+Chile. Fecha del reporte: 2021-09-02 01:08:51
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #CuartoRetiroDel10xCiento    |    165 |
-| #FuerzaAbuelaConCuartoRetiro |     80 |
-| #CuartoRetiroMV              |     62 |
-| #FuerzaAbuelaxMi100xCiento   |     55 |
-| #CuartoRetiro100xCiento      |     54 |
-| #Chile                       |     49 |
-| #FuerzaAbuelaCon100xCiento   |     43 |
-| #SinCuartoRetiroNoHayVotos   |     42 |
-| #CuartoRetiro10xCiento       |     40 |
+| #CuartoRetiroDel10xCiento    |    143 |
+| #FuerzaAbuelaConCuartoRetiro |     64 |
+| #FuerzaAbuelaCon100xCiento   |     56 |
+| #CuartoRetiroAhora           |     55 |
+| #CuartoRetiro10xCiento       |     47 |
+| #SiempreEsHoy                |     41 |
 | #CuartoRetiro                |     37 |
-| #SiempreEsHoy                |     37 |
-| #ConvencionConstitucional    |     36 |
-| #CuartoRetiroAhora           |     29 |
-| #4toretirode100xciento       |     28 |
-| #ContigoCHV                  |     28 |
-| #NoMasMigajas                |     28 |
-| #CuartoRetiroDel100xCiento   |     27 |
-| #titularidaddocente2021      |     25 |
-| #boricpresidente             |     23 |
-| #TitularidadDocente2021      |     23 |
+| #Chile                       |     33 |
+| #CuartoRetiro100xCiento      |     33 |
+| #ConvencionConstitucional    |     31 |
+| #FuerzaAbuelaxMi100xCiento   |     29 |
+| #ContigoCHV                  |     27 |
+| #SinCuartoRetiroNoHayVotos   |     26 |
+| #CuartoRetiroDel100xCiento   |     23 |
+| #4retiro                     |     22 |
+| #FuerzaAbuelaCon10xCiento    |     22 |
+| #cuartoretiro                |     20 |
+| #TitularidadDocente2021      |     19 |
+| #RetiroTotalAfp              |     18 |
+| #CuartoRetiroMV              |     16 |
 
 # Cuentas
 
