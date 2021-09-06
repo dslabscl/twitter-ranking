@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-03 01:09:20
+Chile. Fecha del reporte: 2021-09-06 01:15:30
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #CuartoRetiroDel10xCiento    |     94 |
-| #FuerzaAbuelaConCuartoRetiro |     56 |
-| #SiempreEsHoy                |     42 |
-| #4toretiro                   |     41 |
-| #CuartoRetiro10xCiento       |     36 |
-| #FuerzaAbuelaCon100xCiento   |     35 |
-| #ContigoCHV                  |     33 |
-| #CuartoRetiroAhora           |     30 |
-| #ConvencionConstitucional    |     27 |
-| #CuartoRetiro100xCiento      |     27 |
-| #Chile                       |     24 |
-| #FuerzaAbuelaxMi100xCiento   |     22 |
-| #CuartoRetiro                |     21 |
-| #YoVotoComunista             |     21 |
-| #CuartoRetiroDel100xCiento   |     16 |
-| #NeverAgain4Tigray           |     15 |
-| #CircoConstituyente          |     14 |
-| #NiOlvidoNiPerdon            |     14 |
-| #Arica                       |     13 |
-| #cuartoretiro                |     13 |
+| #Chile                       |    107 |
+| #CuartoRetiro100xCiento      |     83 |
+| #ConvencionConstitucional    |     62 |
+| #4toretiro                   |     59 |
+| #SiempreEsHoy                |     55 |
+| #CuartoRetiro10xCiento       |     53 |
+| #CuartoRetiroDel10xCiento    |     49 |
+| #boricpresidente             |     48 |
+| #CALLAMPA                    |     45 |
+| #Dignidad                    |     45 |
+| #mapuche                     |     45 |
+| #ComunistaCuliao             |     39 |
+| #FuerzaAbuelaConCuartoRetiro |     33 |
+| #GranMarchaPorChileSinHambre |     32 |
+| #AbortoLegalTeMataIgual      |     28 |
+| #PelaoVade                   |     27 |
+| #MesaCentral                 |     26 |
+| #CircoConstituyente          |     25 |
+| #CuartoRetiroAhora           |     21 |
+| #AtreveteConKast             |     18 |
 
 # Cuentas
 
