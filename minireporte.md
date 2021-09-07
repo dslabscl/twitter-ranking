@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-06 01:15:30
+Chile. Fecha del reporte: 2021-09-07 01:11:24
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #Chile                       |    107 |
-| #CuartoRetiro100xCiento      |     83 |
-| #ConvencionConstitucional    |     62 |
-| #4toretiro                   |     59 |
+| #Chile                       |     86 |
+| #CuartoRetiro100xCiento      |     77 |
+| #CuartoRetiro10xCiento       |     69 |
+| #CuartoRetiroDel10xCiento    |     55 |
 | #SiempreEsHoy                |     55 |
-| #CuartoRetiro10xCiento       |     53 |
-| #CuartoRetiroDel10xCiento    |     49 |
-| #boricpresidente             |     48 |
-| #CALLAMPA                    |     45 |
-| #Dignidad                    |     45 |
-| #mapuche                     |     45 |
-| #ComunistaCuliao             |     39 |
-| #FuerzaAbuelaConCuartoRetiro |     33 |
+| #ContigoCHV                  |     48 |
+| #TodosSomosJadue             |     48 |
+| #EstoyConJadue               |     46 |
+| #ConvencionConstitucional    |     44 |
+| #ComunistaCuliao             |     42 |
+| #4toretiro                   |     40 |
+| #FuerzaAbuelaConCuartoRetiro |     35 |
 | #GranMarchaPorChileSinHambre |     32 |
-| #AbortoLegalTeMataIgual      |     28 |
-| #PelaoVade                   |     27 |
-| #MesaCentral                 |     26 |
-| #CircoConstituyente          |     25 |
-| #CuartoRetiroAhora           |     21 |
-| #AtreveteConKast             |     18 |
+| #PelaoVade                   |     30 |
+| #boricpresidente             |     29 |
+| #CALLAMPA                    |     29 |
+| #Dignidad                    |     29 |
+| #mapuche                     |     29 |
+| #AbortoLegalTeMataIgual      |     25 |
+| #CuartoRetiroAhora           |     24 |
 
 # Cuentas
 
