@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-07 01:11:24
+Chile. Fecha del reporte: 2021-09-08 01:09:23
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #Chile                       |     86 |
-| #CuartoRetiro100xCiento      |     77 |
-| #CuartoRetiro10xCiento       |     69 |
-| #CuartoRetiroDel10xCiento    |     55 |
+| #Chile                       |    127 |
+| #ConvencionConstitucional    |     77 |
+| #ContigoCHV                  |     64 |
+| #CuartoRetiroDel10xCiento    |     63 |
+| #Dignidad                    |     61 |
+| #mapuche                     |     60 |
+| #CuartoRetiro10xCiento       |     59 |
+| #CALLAMPA                    |     56 |
+| #CuartoRetiro100xCiento      |     55 |
 | #SiempreEsHoy                |     55 |
-| #ContigoCHV                  |     48 |
-| #TodosSomosJadue             |     48 |
-| #EstoyConJadue               |     46 |
-| #ConvencionConstitucional    |     44 |
-| #ComunistaCuliao             |     42 |
-| #4toretiro                   |     40 |
-| #FuerzaAbuelaConCuartoRetiro |     35 |
+| #boricpresidente             |     54 |
+| #4toretiro                   |     42 |
+| #FuerzaAbuelaConCuartoRetiro |     34 |
+| #FuerzaAbuelaxMi100xCiento   |     33 |
 | #GranMarchaPorChileSinHambre |     32 |
-| #PelaoVade                   |     30 |
-| #boricpresidente             |     29 |
-| #CALLAMPA                    |     29 |
-| #Dignidad                    |     29 |
-| #mapuche                     |     29 |
-| #AbortoLegalTeMataIgual      |     25 |
-| #CuartoRetiroAhora           |     24 |
+| #ALaBasuraLaCC               |     27 |
+| #CircoConstituyente          |     25 |
+| #ClasesDeEticaPelaoVade      |     23 |
+| #LaConvencionSeDefiende      |     19 |
+| #LosColumnistas              |     19 |
 
 # Cuentas
 
