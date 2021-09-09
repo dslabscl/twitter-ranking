@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-08 01:09:23
+Chile. Fecha del reporte: 2021-09-09 01:13:31
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #Chile                       |    127 |
-| #ConvencionConstitucional    |     77 |
-| #ContigoCHV                  |     64 |
-| #CuartoRetiroDel10xCiento    |     63 |
-| #Dignidad                    |     61 |
-| #mapuche                     |     60 |
-| #CuartoRetiro10xCiento       |     59 |
-| #CALLAMPA                    |     56 |
-| #CuartoRetiro100xCiento      |     55 |
+| #4toretiro                   |    102 |
+| #Chile                       |     76 |
+| #CuartoRetiroDel10xCiento    |     75 |
+| #CuartoRetiroSinLetraChica   |     64 |
+| #ConvencionConstitucional    |     62 |
+| #CuartoRetiro100xCiento      |     60 |
 | #SiempreEsHoy                |     55 |
-| #boricpresidente             |     54 |
-| #4toretiro                   |     42 |
-| #FuerzaAbuelaConCuartoRetiro |     34 |
-| #FuerzaAbuelaxMi100xCiento   |     33 |
-| #GranMarchaPorChileSinHambre |     32 |
-| #ALaBasuraLaCC               |     27 |
-| #CircoConstituyente          |     25 |
-| #ClasesDeEticaPelaoVade      |     23 |
-| #LaConvencionSeDefiende      |     19 |
-| #LosColumnistas              |     19 |
+| #Dignidad                    |     42 |
+| #mapuche                     |     42 |
+| #CALLAMPA                    |     37 |
+| #FuerzaAbuelaConCuartoRetiro |     36 |
+| #TitularidadDocente2021      |     36 |
+| #boricpresidente             |     35 |
+| #TigrayGenocide              |     34 |
+| #FuerzaAbuelaxMi100xCiento   |     32 |
+| #CuartoRetiroDel100xCiento   |     27 |
+| #CuartoRetiro10xCiento       |     26 |
+| #LaConvencionSeDefiende      |     26 |
+| #ContigoCHV                  |     23 |
+| #CuartoRetiro                |     22 |
 
 # Cuentas
 
