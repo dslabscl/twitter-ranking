@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-09 01:13:31
+Chile. Fecha del reporte: 2021-09-10 01:14:29
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #4toretiro                   |    102 |
-| #Chile                       |     76 |
-| #CuartoRetiroDel10xCiento    |     75 |
-| #CuartoRetiroSinLetraChica   |     64 |
-| #ConvencionConstitucional    |     62 |
-| #CuartoRetiro100xCiento      |     60 |
-| #SiempreEsHoy                |     55 |
-| #Dignidad                    |     42 |
-| #mapuche                     |     42 |
-| #CALLAMPA                    |     37 |
-| #FuerzaAbuelaConCuartoRetiro |     36 |
-| #TitularidadDocente2021      |     36 |
-| #boricpresidente             |     35 |
-| #TigrayGenocide              |     34 |
-| #FuerzaAbuelaxMi100xCiento   |     32 |
-| #CuartoRetiroDel100xCiento   |     27 |
-| #CuartoRetiro10xCiento       |     26 |
-| #LaConvencionSeDefiende      |     26 |
-| #ContigoCHV                  |     23 |
-| #CuartoRetiro                |     22 |
+| datos                             | Cuenta |
+|:----------------------------------|-------:|
+| #CuartoRetiroSinLetraChica        |    258 |
+| #FuerzaAbuelaConCuartoRetiro      |    167 |
+| #AFP                              |    119 |
+| #4toretiro                        |     80 |
+| #CuartoRetiro100xCiento           |     57 |
+| #SiempreEsHoy                     |     56 |
+| #TitularidadDocente2021           |     49 |
+| #CuartoRetiroDel10xCiento         |     36 |
+| #QuieroMi10porcientoSinLetraChica |     36 |
+| #Chile                            |     32 |
+| #CuartoRetiro10xCiento            |     32 |
+| #4Retiro                          |     29 |
+| #CuartoRetiroAhora                |     28 |
+| #LaConvencionSeDefiende           |     28 |
+| #AprobarLeyDeIndulto              |     27 |
+| #EnTablaYaLeyDeIndulto            |     27 |
+| #ContigoCHV                       |     26 |
+| #TigrayGenocide                   |     24 |
+| #CuartoRetiroDel100xCiento        |     23 |
+| #ReferendumRevocatorioYa          |     22 |
 
 # Cuentas
 
