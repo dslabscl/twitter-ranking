@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-10 01:14:29
+Chile. Fecha del reporte: 2021-09-13 01:13:08
 
 # Hashtags más populares
 
-| datos                             | Cuenta |
-|:----------------------------------|-------:|
-| #CuartoRetiroSinLetraChica        |    258 |
-| #FuerzaAbuelaConCuartoRetiro      |    167 |
-| #AFP                              |    119 |
-| #4toretiro                        |     80 |
-| #CuartoRetiro100xCiento           |     57 |
-| #SiempreEsHoy                     |     56 |
-| #TitularidadDocente2021           |     49 |
-| #CuartoRetiroDel10xCiento         |     36 |
-| #QuieroMi10porcientoSinLetraChica |     36 |
-| #Chile                            |     32 |
-| #CuartoRetiro10xCiento            |     32 |
-| #4Retiro                          |     29 |
-| #CuartoRetiroAhora                |     28 |
-| #LaConvencionSeDefiende           |     28 |
-| #AprobarLeyDeIndulto              |     27 |
-| #EnTablaYaLeyDeIndulto            |     27 |
-| #ContigoCHV                       |     26 |
-| #TigrayGenocide                   |     24 |
-| #CuartoRetiroDel100xCiento        |     23 |
-| #ReferendumRevocatorioYa          |     22 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #CuartoRetiroSinLetraChica   |    132 |
+| #LaBatalladeChilexLaRed      |    105 |
+| #Chile                       |     62 |
+| #FuerzaAbuelaConCuartoRetiro |     62 |
+| #SiempreEsHoy                |     54 |
+| #AbortoNoEsUnDerecho         |     42 |
+| #4toretiro                   |     41 |
+| #cafecargadolared            |     38 |
+| #AFP                         |     35 |
+| #apagael13                   |     32 |
+| #AprobarLeyDeIndulto         |     32 |
+| #Carozzi                     |     32 |
+| #NoMasAFP                    |     32 |
+| #curico                      |     31 |
+| #SinCuartoRetiroNoHayVotos   |     30 |
+| #ConvencionConstitucional    |     29 |
+| #CuartoRetiroDel100xCiento   |     27 |
+| #EnTablaYaLeyDeIndulto       |     27 |
+| #FuerzaAbuelaxMi100xCiento   |     27 |
+| #ALERTA                      |     26 |
 
 # Cuentas
 
