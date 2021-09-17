@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-16 01:15:11
+Chile. Fecha del reporte: 2021-09-17 01:18:08
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #CuartoRetiroSinLetraChica   |    153 |
-| #CuartoRetiroDel10xCiento    |     90 |
-| #SinParisiNoHayDebate        |     67 |
-| #ParisiPresidente2022        |     64 |
-| #FuerzaAbuelaxMi100xCiento   |     43 |
-| #FuerzaAbuelaConCuartoRetiro |     42 |
-| #CallItAGenocide             |     29 |
+| #CuartoRetiroSinLetraChica   |    172 |
+| #CuartoRetiro10xCiento       |     59 |
+| #CuartoRetiroDel10xCiento    |     51 |
+| #FuerzaAbuelaxMi100xCiento   |     50 |
+| #FuerzaAbuelaConCuartoRetiro |     39 |
+| #SinCuartoRetiroNoHayVotos   |     33 |
+| #AtreveteConKast             |     28 |
 | #SiempreEsHoy                |     28 |
-| #Chile                       |     26 |
-| #CuartoRetiro10xCiento       |     26 |
-| #DesfileDeCorruptos          |     24 |
-| #TigrayGenocide              |     24 |
-| #ConvencionConstitucional    |     20 |
-| #DobleOpuesto                |     20 |
-| #LaBatalladeChilexLaRed      |     20 |
-| #ReferendumRevocatorioYa     |     19 |
-| #FuerzaAbuelaCon100xCiento   |     18 |
-| #T13Tarde                    |     17 |
-| #CuartoRetiro100xCiento      |     16 |
-| #QuiénLoDiría                |     15 |
+| #CallItAGenocide             |     23 |
+| #CuartoRetiro100xCiento      |     23 |
+| #MarchandoSinGloria          |     22 |
+| #Chile                       |     21 |
+| #NoMasAFP                    |     20 |
+| #TigrayGenocide              |     20 |
+| #4Retiro                     |     19 |
+| #ConvencionConstitucional    |     17 |
+| #DobleOpuesto                |     17 |
+| #FuerzaAbuelaCon100xCiento   |     17 |
+| #ÚltimaMirada                |     17 |
+| #ParisiPresidente2022        |     16 |
 
 # Cuentas
 
