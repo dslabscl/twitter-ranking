@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-17 01:18:08
+Chile. Fecha del reporte: 2021-09-20 01:18:11
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #CuartoRetiroSinLetraChica   |    172 |
-| #CuartoRetiro10xCiento       |     59 |
-| #CuartoRetiroDel10xCiento    |     51 |
-| #FuerzaAbuelaxMi100xCiento   |     50 |
-| #FuerzaAbuelaConCuartoRetiro |     39 |
-| #SinCuartoRetiroNoHayVotos   |     33 |
-| #AtreveteConKast             |     28 |
-| #SiempreEsHoy                |     28 |
-| #CallItAGenocide             |     23 |
-| #CuartoRetiro100xCiento      |     23 |
-| #MarchandoSinGloria          |     22 |
-| #Chile                       |     21 |
-| #NoMasAFP                    |     20 |
-| #TigrayGenocide              |     20 |
-| #4Retiro                     |     19 |
-| #ConvencionConstitucional    |     17 |
-| #DobleOpuesto                |     17 |
-| #FuerzaAbuelaCon100xCiento   |     17 |
-| #ÚltimaMirada                |     17 |
-| #ParisiPresidente2022        |     16 |
+| #CuartoRetiro10xCiento       |    122 |
+| #CuartoRetiroDel10xCiento    |     97 |
+| #CuartoRetiro                |     79 |
+| #CuartoRetiroSinLetraChica   |     78 |
+| #ParadaMilitar2021           |     76 |
+| #FuerzaAbuelaConCuartoRetiro |     29 |
+| #Chile                       |     28 |
+| #FuerzaAbuelaxMi100xCiento   |     24 |
+| #ÚltimaMirada                |     21 |
+| #CallItAGenocide             |     20 |
+| #CuartoRetiro100xCiento      |     20 |
+| #DobleOpuesto                |     15 |
+| #NoMasAFP                    |     15 |
+| #MarchandoSinGloria          |     14 |
+| #TigrayGenocide              |     14 |
+| #Arica                       |     13 |
+| #AtreveteConKast             |     13 |
+| #CuartoRetiroAhora           |     13 |
+| #BostasHediondas             |     12 |
+| #ConvencionConstitucional    |     12 |
 
 # Cuentas
 
