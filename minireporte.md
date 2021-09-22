@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-20 01:18:11
+Chile. Fecha del reporte: 2021-09-22 01:15:19
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #CuartoRetiro10xCiento       |    122 |
-| #CuartoRetiroDel10xCiento    |     97 |
-| #CuartoRetiro                |     79 |
-| #CuartoRetiroSinLetraChica   |     78 |
-| #ParadaMilitar2021           |     76 |
-| #FuerzaAbuelaConCuartoRetiro |     29 |
-| #Chile                       |     28 |
-| #FuerzaAbuelaxMi100xCiento   |     24 |
-| #ÚltimaMirada                |     21 |
-| #CallItAGenocide             |     20 |
-| #CuartoRetiro100xCiento      |     20 |
-| #DobleOpuesto                |     15 |
-| #NoMasAFP                    |     15 |
-| #MarchandoSinGloria          |     14 |
-| #TigrayGenocide              |     14 |
-| #Arica                       |     13 |
-| #AtreveteConKast             |     13 |
-| #CuartoRetiroAhora           |     13 |
-| #BostasHediondas             |     12 |
-| #ConvencionConstitucional    |     12 |
+| datos                                   | Cuenta |
+|:----------------------------------------|-------:|
+| #CuartoRetiroSinLetraChica              |     98 |
+| #NoMasAFP                               |     87 |
+| #CuartoRetiro10xCiento                  |     74 |
+| #CuartoRetiroDel10xCiento               |     64 |
+| #CrimesAgainstHumanity                  |     53 |
+| #abranlasfronterasparalosniños          |     50 |
+| #FuerzaAbuelaConCuartoRetiro            |     48 |
+| #CuartoRetiro                           |     46 |
+| #ParisiYoTeCreo                         |     46 |
+| #PostnatalDeEmergenciaEnAlertaSanitaria |     41 |
+| #LaConstitucionExige2Tercios            |     38 |
+| #SinCuartoRetiroNoHayVotos              |     38 |
+| #cuartoretirooalacalle                  |     30 |
+| #Chile                                  |     28 |
+| #ElMostradorEnLaClave                   |     28 |
+| #nomasvotosparagoic                     |     27 |
+| #CuartoRetiro100xCiento                 |     26 |
+| #FuerzaAbuelaxMi100xCiento              |     26 |
+| #CuartoRetiroDeMi100xCiento             |     25 |
+| #DobleOpuesto                           |     25 |
 
 # Cuentas
 
