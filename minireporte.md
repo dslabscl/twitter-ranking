@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-22 01:15:19
+Chile. Fecha del reporte: 2021-09-23 01:17:13
 
 # Hashtags más populares
 
-| datos                                   | Cuenta |
-|:----------------------------------------|-------:|
-| #CuartoRetiroSinLetraChica              |     98 |
-| #NoMasAFP                               |     87 |
-| #CuartoRetiro10xCiento                  |     74 |
-| #CuartoRetiroDel10xCiento               |     64 |
-| #CrimesAgainstHumanity                  |     53 |
-| #abranlasfronterasparalosniños          |     50 |
-| #FuerzaAbuelaConCuartoRetiro            |     48 |
-| #CuartoRetiro                           |     46 |
-| #ParisiYoTeCreo                         |     46 |
-| #PostnatalDeEmergenciaEnAlertaSanitaria |     41 |
-| #LaConstitucionExige2Tercios            |     38 |
-| #SinCuartoRetiroNoHayVotos              |     38 |
-| #cuartoretirooalacalle                  |     30 |
-| #Chile                                  |     28 |
-| #ElMostradorEnLaClave                   |     28 |
-| #nomasvotosparagoic                     |     27 |
-| #CuartoRetiro100xCiento                 |     26 |
-| #FuerzaAbuelaxMi100xCiento              |     26 |
-| #CuartoRetiroDeMi100xCiento             |     25 |
-| #DobleOpuesto                           |     25 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| #CuartoRetiroSinLetraChica     |    532 |
+| #CuartoRetiro10xCiento         |    530 |
+| #CuartoRetiroDel10xCiento      |    407 |
+| #CuartoRetiroAhora             |    353 |
+| #CuartoRetiroOALaCalle         |    317 |
+| #SeRobaronLasLucas             |    240 |
+| #SinCuartoRetiroNoHayVotos     |     59 |
+| #DebateChvCnn                  |     54 |
+| #FuerzaAbuelaConCuartoRetiro   |     39 |
+| #ContigoCHV                    |     38 |
+| #CuartoRetiro                  |     37 |
+| #StopTigrayFamine              |     37 |
+| #NoMasAFP                      |     33 |
+| #DebateCHVCNN                  |     31 |
+| #LibertadALosPresosPoliticos   |     30 |
+| #abranlasfronterasparalosniños |     29 |
+| #Chile                         |     29 |
+| #CuartoRetiroDeMi100xCiento    |     29 |
+| #NoMasCarrerasDePerros         |     25 |
+| #CuartoRetiro100xCiento        |     24 |
 
 # Cuentas
 
