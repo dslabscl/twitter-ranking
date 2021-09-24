@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-23 01:17:13
+Chile. Fecha del reporte: 2021-09-24 01:13:41
 
 # Hashtags más populares
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| #CuartoRetiroSinLetraChica     |    532 |
-| #CuartoRetiro10xCiento         |    530 |
-| #CuartoRetiroDel10xCiento      |    407 |
-| #CuartoRetiroAhora             |    353 |
-| #CuartoRetiroOALaCalle         |    317 |
-| #SeRobaronLasLucas             |    240 |
-| #SinCuartoRetiroNoHayVotos     |     59 |
-| #DebateChvCnn                  |     54 |
-| #FuerzaAbuelaConCuartoRetiro   |     39 |
-| #ContigoCHV                    |     38 |
-| #CuartoRetiro                  |     37 |
-| #StopTigrayFamine              |     37 |
-| #NoMasAFP                      |     33 |
-| #DebateCHVCNN                  |     31 |
-| #LibertadALosPresosPoliticos   |     30 |
-| #abranlasfronterasparalosniños |     29 |
-| #Chile                         |     29 |
-| #CuartoRetiroDeMi100xCiento    |     29 |
-| #NoMasCarrerasDePerros         |     25 |
-| #CuartoRetiro100xCiento        |     24 |
+| #CuartoRetiroDel10xCiento      |    286 |
+| #CuartoRetiro10xCiento         |    207 |
+| #CuartoRetiroSinLetraChica     |    120 |
+| #CuartoRetiroOALaCalle         |     76 |
+| #CuartoRetiroAhora             |     70 |
+| #TitularidadDocente2021        |     65 |
+| #PresupuestoParaElDesarrollo   |     55 |
+| #DebateCNNCHV                  |     48 |
+| #NoMasCarrerasDeGalgos         |     47 |
+| #CuartoRetiro100xCiento        |     45 |
+| #DebateChvCnn                  |     45 |
+| #CuartoRetiro                  |     43 |
+| #NoMasCarrerasDePerros         |     40 |
+| #DebateCHVCNN                  |     38 |
+| #abranlasfronterasparalosniños |     37 |
+| #ContigoCHV                    |     37 |
+| #FuerzaAbuelaConCuartoRetiro   |     32 |
+| #Elecciones2021CL              |     30 |
+| #NoMasAFP                      |     30 |
+| #ElMostradorEnLaClave          |     27 |
 
 # Cuentas
 
