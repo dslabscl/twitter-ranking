@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-24 01:13:41
+Chile. Fecha del reporte: 2021-09-27 01:11:10
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| #CuartoRetiroDel10xCiento      |    286 |
-| #CuartoRetiro10xCiento         |    207 |
-| #CuartoRetiroSinLetraChica     |    120 |
-| #CuartoRetiroOALaCalle         |     76 |
-| #CuartoRetiroAhora             |     70 |
-| #TitularidadDocente2021        |     65 |
-| #PresupuestoParaElDesarrollo   |     55 |
-| #DebateCNNCHV                  |     48 |
-| #NoMasCarrerasDeGalgos         |     47 |
-| #CuartoRetiro100xCiento        |     45 |
-| #DebateChvCnn                  |     45 |
-| #CuartoRetiro                  |     43 |
-| #NoMasCarrerasDePerros         |     40 |
-| #DebateCHVCNN                  |     38 |
-| #abranlasfronterasparalosniños |     37 |
-| #ContigoCHV                    |     37 |
-| #FuerzaAbuelaConCuartoRetiro   |     32 |
-| #Elecciones2021CL              |     30 |
-| #NoMasAFP                      |     30 |
-| #ElMostradorEnLaClave          |     27 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| #CuartoRetiroDel10xCiento       |    152 |
+| #CuartoRetiro10xCiento          |    134 |
+| #CuartoRetiroSinLetraChica      |     85 |
+| #FuerzaAbuelaConCuartoRetiro    |     73 |
+| #cafecargadolared               |     58 |
+| #CuartoRetiroOALaCalle          |     46 |
+| #cuartoretirodel10xciento       |     42 |
+| #cuartoretiromv                 |     40 |
+| #ContigoCHV                     |     34 |
+| #abranlasfronterasparalosniños  |     29 |
+| #VerguenzaNacional              |     29 |
+| #Iquique                        |     27 |
+| #AtreveteConKast                |     26 |
+| #KastPresidente2022             |     26 |
+| #MuchoGustoMega                 |     25 |
+| #YasnaProvoste                  |     24 |
+| #triangulaciondepiñera          |     22 |
+| #InoculaciónPolíticaOcientífica |     21 |
+| #ApagaEl13                      |     20 |
+| #Chile                          |     20 |
 
 # Cuentas
 
