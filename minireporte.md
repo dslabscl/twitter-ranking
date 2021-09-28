@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-27 01:11:10
+Chile. Fecha del reporte: 2021-09-28 01:12:50
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| #CuartoRetiroDel10xCiento       |    152 |
-| #CuartoRetiro10xCiento          |    134 |
-| #CuartoRetiroSinLetraChica      |     85 |
-| #FuerzaAbuelaConCuartoRetiro    |     73 |
-| #cafecargadolared               |     58 |
-| #CuartoRetiroOALaCalle          |     46 |
-| #cuartoretirodel10xciento       |     42 |
-| #cuartoretiromv                 |     40 |
-| #ContigoCHV                     |     34 |
-| #abranlasfronterasparalosniños  |     29 |
-| #VerguenzaNacional              |     29 |
-| #Iquique                        |     27 |
-| #AtreveteConKast                |     26 |
-| #KastPresidente2022             |     26 |
-| #MuchoGustoMega                 |     25 |
-| #YasnaProvoste                  |     24 |
-| #triangulaciondepiñera          |     22 |
-| #InoculaciónPolíticaOcientífica |     21 |
-| #ApagaEl13                      |     20 |
-| #Chile                          |     20 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| #CuartoRetiroONoHayVotos       |     94 |
+| #BoricApoyaAMaduro             |     82 |
+| #CuartoRetiroDel10xCiento      |     76 |
+| #CuartoRetiroSinLetraChica     |     62 |
+| #EstoEsUnAborto                |     57 |
+| #ContigoCHV                    |     48 |
+| #CuartoRetiro10xCiento         |     42 |
+| #abranlasfronterasparalosniños |     41 |
+| #FuerzaAbuelaConCuartoRetiro   |     39 |
+| #Iquique                       |     32 |
+| #VerguenzaNacional             |     27 |
+| #EXTENSIÓNLEYESMATERNALES      |     26 |
+| #Chile                         |     25 |
+| #MuchoGustoMega                |     24 |
+| #DobleOpuesto                  |     23 |
+| #ToleranciaCero                |     23 |
+| #triangulaciondepiñera         |     23 |
+| #YasnaProvoste                 |     23 |
+| #ApagaEl13                     |     21 |
+| #CuartoRetiroOALaCalle         |     20 |
 
 # Cuentas
 
