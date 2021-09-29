@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-28 01:12:50
+Chile. Fecha del reporte: 2021-09-29 01:09:16
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| #CuartoRetiroONoHayVotos       |     94 |
-| #BoricApoyaAMaduro             |     82 |
-| #CuartoRetiroDel10xCiento      |     76 |
-| #CuartoRetiroSinLetraChica     |     62 |
-| #EstoEsUnAborto                |     57 |
-| #ContigoCHV                    |     48 |
-| #CuartoRetiro10xCiento         |     42 |
-| #abranlasfronterasparalosniños |     41 |
-| #FuerzaAbuelaConCuartoRetiro   |     39 |
-| #Iquique                       |     32 |
-| #VerguenzaNacional             |     27 |
-| #EXTENSIÓNLEYESMATERNALES      |     26 |
-| #Chile                         |     25 |
-| #MuchoGustoMega                |     24 |
-| #DobleOpuesto                  |     23 |
-| #ToleranciaCero                |     23 |
-| #triangulaciondepiñera         |     23 |
-| #YasnaProvoste                 |     23 |
-| #ApagaEl13                     |     21 |
-| #CuartoRetiroOALaCalle         |     20 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| #CuartoRetiroONoHayVotos        |    160 |
+| #CuartoRetiro100x               |     56 |
+| #CuartoRetiroSinLetraChica      |     55 |
+| #Chile                          |     53 |
+| #ContigoCHV                     |     53 |
+| #CuartoRetiroDel10xCiento       |     53 |
+| #FuerzaAbuelaConCuartoRetiro    |     46 |
+| #cuartoretiro100xciento         |     44 |
+| #FuerzaAbuelaConElRetiroDel100x |     44 |
+| #CuartoRetiro                   |     41 |
+| #CuartoRetiro10xCiento          |     39 |
+| #abranlasfronterasparalosniños  |     31 |
+| #AcusacionConstitucional        |     28 |
+| #ConvencionConstitucional       |     25 |
+| #VerguenzaNacional              |     25 |
+| #AbortoLegal                    |     23 |
+| #DobleOpuesto                   |     22 |
+| #MuchoGustoMega                 |     22 |
+| #ApagaEl13                      |     21 |
+| #AriosAlPedo                    |     21 |
 
 # Cuentas
 
