@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-29 01:09:16
+Chile. Fecha del reporte: 2021-09-30 01:18:56
 
 # Hashtags más populares
 
 | datos                           | Cuenta |
 |:--------------------------------|-------:|
-| #CuartoRetiroONoHayVotos        |    160 |
-| #CuartoRetiro100x               |     56 |
-| #CuartoRetiroSinLetraChica      |     55 |
-| #Chile                          |     53 |
-| #ContigoCHV                     |     53 |
-| #CuartoRetiroDel10xCiento       |     53 |
-| #FuerzaAbuelaConCuartoRetiro    |     46 |
-| #cuartoretiro100xciento         |     44 |
-| #FuerzaAbuelaConElRetiroDel100x |     44 |
-| #CuartoRetiro                   |     41 |
-| #CuartoRetiro10xCiento          |     39 |
-| #abranlasfronterasparalosniños  |     31 |
-| #AcusacionConstitucional        |     28 |
-| #ConvencionConstitucional       |     25 |
-| #VerguenzaNacional              |     25 |
-| #AbortoLegal                    |     23 |
-| #DobleOpuesto                   |     22 |
-| #MuchoGustoMega                 |     22 |
-| #ApagaEl13                      |     21 |
-| #AriosAlPedo                    |     21 |
+| #abranlasfronterasparalosniños  |     72 |
+| #CuartoRetiroONoHayVotos        |     64 |
+| #ContigoCHV                     |     41 |
+| #CuartoRetiroDel10xCiento       |     41 |
+| #CuartoRetiroSinLetraChica      |     41 |
+| #CuartoRetiro10xCiento          |     34 |
+| #AtreveteConKast                |     32 |
+| #FuerzaAbuelaConCuartoRetiro    |     31 |
+| #Chile                          |     26 |
+| #EstadoDeSitio                  |     26 |
+| #TigrayGenocide                 |     25 |
+| #StopTigrayFamine               |     22 |
+| #DobleOpuesto                   |     21 |
+| #CuartoRetiro100x               |     20 |
+| #NeverAgain4Tigray              |     20 |
+| #VerguenzaNacional              |     20 |
+| #YasnaProvoste                  |     19 |
+| #CuartoRetiro                   |     18 |
+| #cuartoretiro100xciento         |     18 |
+| #FuerzaAbuelaConElRetiroDel100x |     18 |
 
 # Cuentas
 
