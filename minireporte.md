@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-09-30 01:18:56
+Chile. Fecha del reporte: 2021-10-01 01:17:19
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| #abranlasfronterasparalosniños  |     72 |
-| #CuartoRetiroONoHayVotos        |     64 |
-| #ContigoCHV                     |     41 |
-| #CuartoRetiroDel10xCiento       |     41 |
-| #CuartoRetiroSinLetraChica      |     41 |
-| #CuartoRetiro10xCiento          |     34 |
-| #AtreveteConKast                |     32 |
-| #FuerzaAbuelaConCuartoRetiro    |     31 |
-| #Chile                          |     26 |
-| #EstadoDeSitio                  |     26 |
-| #TigrayGenocide                 |     25 |
-| #StopTigrayFamine               |     22 |
-| #DobleOpuesto                   |     21 |
-| #CuartoRetiro100x               |     20 |
-| #NeverAgain4Tigray              |     20 |
-| #VerguenzaNacional              |     20 |
-| #YasnaProvoste                  |     19 |
-| #CuartoRetiro                   |     18 |
-| #cuartoretiro100xciento         |     18 |
-| #FuerzaAbuelaConElRetiroDel100x |     18 |
+| datos                                   | Cuenta |
+|:----------------------------------------|-------:|
+| #abranlasfronterasparalosniños          |     62 |
+| #CuartoRetiroONoHayVotos                |     59 |
+| #CuartoRetiroDel10xCiento               |     46 |
+| #CuartoRetiro10xCiento                  |     43 |
+| #Sichel                                 |     38 |
+| #CuartoRetiroSinLetraChica              |     37 |
+| #Chile                                  |     30 |
+| #ContigoCHV                             |     30 |
+| #FuerzaAbuelaConCuartoRetiro            |     28 |
+| #StopTigrayFamine                       |     23 |
+| #TigrayGenocide                         |     22 |
+| #ConvencionConstitucional               |     20 |
+| #AuditarClavesRobadas                   |     18 |
+| #PostnatalDeEmergenciaEnAlertaSanitaria |     18 |
+| #AgendaSocialYDeDerechos                |     17 |
+| #postnataldeemergenciaenalertasanitaria |     17 |
+| #CuartoRetiro                           |     16 |
+| #FuerzaAbuelaCon100xCiento              |     16 |
+| #AtreveteConKast                        |     15 |
+| #DobleOpuesto                           |     15 |
 
 # Cuentas
 
