@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-01 01:17:19
+Chile. Fecha del reporte: 2021-10-04 01:17:57
 
 # Hashtags más populares
 
-| datos                                   | Cuenta |
-|:----------------------------------------|-------:|
-| #abranlasfronterasparalosniños          |     62 |
-| #CuartoRetiroONoHayVotos                |     59 |
-| #CuartoRetiroDel10xCiento               |     46 |
-| #CuartoRetiro10xCiento                  |     43 |
-| #Sichel                                 |     38 |
-| #CuartoRetiroSinLetraChica              |     37 |
-| #Chile                                  |     30 |
-| #ContigoCHV                             |     30 |
-| #FuerzaAbuelaConCuartoRetiro            |     28 |
-| #StopTigrayFamine                       |     23 |
-| #TigrayGenocide                         |     22 |
-| #ConvencionConstitucional               |     20 |
-| #AuditarClavesRobadas                   |     18 |
-| #PostnatalDeEmergenciaEnAlertaSanitaria |     18 |
-| #AgendaSocialYDeDerechos                |     17 |
-| #postnataldeemergenciaenalertasanitaria |     17 |
-| #CuartoRetiro                           |     16 |
-| #FuerzaAbuelaCon100xCiento              |     16 |
-| #AtreveteConKast                        |     15 |
-| #DobleOpuesto                           |     15 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| #PandoraPapers                  |    109 |
+| #Chile                          |     93 |
+| #NoADominga                     |     66 |
+| #ContigoCHV                     |     56 |
+| #DestitucionPiñera              |     55 |
+| #AcusacionConstitucionalAPiñera |     48 |
+| #ChileSinComunismo              |     45 |
+| #abranlasfronterasparalosniños  |     43 |
+| #asesinadas                     |     43 |
+| #comunismo                      |     43 |
+| #ElPeorGobiernoDeLaHistoria     |     43 |
+| #genocida                       |     43 |
+| #UnionEuropea                   |     43 |
+| #fuerapiñera                    |     40 |
+| #CuartoRetiro10xCiento          |     38 |
+| #HolaChile                      |     38 |
+| #LaRed                          |     38 |
+| #CuartoRetiroONoHayVotos        |     37 |
+| #DDHH                           |     37 |
+| #MentirasVerdaderas             |     37 |
 
 # Cuentas
 
