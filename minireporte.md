@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-04 01:17:57
+Chile. Fecha del reporte: 2021-10-05 01:20:03
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| #PandoraPapers                  |    109 |
-| #Chile                          |     93 |
-| #NoADominga                     |     66 |
-| #ContigoCHV                     |     56 |
-| #DestitucionPiñera              |     55 |
-| #AcusacionConstitucionalAPiñera |     48 |
-| #ChileSinComunismo              |     45 |
-| #abranlasfronterasparalosniños  |     43 |
-| #asesinadas                     |     43 |
-| #comunismo                      |     43 |
-| #ElPeorGobiernoDeLaHistoria     |     43 |
-| #genocida                       |     43 |
-| #UnionEuropea                   |     43 |
-| #fuerapiñera                    |     40 |
-| #CuartoRetiro10xCiento          |     38 |
-| #HolaChile                      |     38 |
-| #LaRed                          |     38 |
-| #CuartoRetiroONoHayVotos        |     37 |
-| #DDHH                           |     37 |
-| #MentirasVerdaderas             |     37 |
+| datos                                       | Cuenta |
+|:--------------------------------------------|-------:|
+| #PandoraPapers                              |     88 |
+| #AcusacionConstitucionalAPiñera             |     86 |
+| #abranlasfronterasparalosniños              |     46 |
+| #AtreveteConKast                            |     45 |
+| #KastPresidente2022                         |     40 |
+| #ContigoCHV                                 |     36 |
+| #Chile                                      |     29 |
+| #DDHH                                       |     27 |
+| #NoADominga                                 |     27 |
+| #DestitucionAPiñera                         |     24 |
+| #papudo                                     |     24 |
+| #Pullally                                   |     24 |
+| #SiempreEsHoy                               |     24 |
+| #AcusaciónConstitucionalYDestituciónAPiñera |     23 |
+| #CuartoRetiroONoHayVotos                    |     23 |
+| #TigrayCantWait                             |     22 |
+| #CuartoRetiro10xCiento                      |     21 |
+| #SanctionEthiopia                           |     21 |
+| #DobleOpuesto                               |     19 |
+| #RenunciaPiñera                             |     18 |
 
 # Cuentas
 
