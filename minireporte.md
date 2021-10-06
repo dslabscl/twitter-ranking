@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-05 01:20:03
+Chile. Fecha del reporte: 2021-10-06 01:22:10
 
 # Hashtags más populares
 
-| datos                                       | Cuenta |
-|:--------------------------------------------|-------:|
-| #PandoraPapers                              |     88 |
-| #AcusacionConstitucionalAPiñera             |     86 |
-| #abranlasfronterasparalosniños              |     46 |
-| #AtreveteConKast                            |     45 |
-| #KastPresidente2022                         |     40 |
-| #ContigoCHV                                 |     36 |
-| #Chile                                      |     29 |
-| #DDHH                                       |     27 |
-| #NoADominga                                 |     27 |
-| #DestitucionAPiñera                         |     24 |
-| #papudo                                     |     24 |
-| #Pullally                                   |     24 |
-| #SiempreEsHoy                               |     24 |
-| #AcusaciónConstitucionalYDestituciónAPiñera |     23 |
-| #CuartoRetiroONoHayVotos                    |     23 |
-| #TigrayCantWait                             |     22 |
-| #CuartoRetiro10xCiento                      |     21 |
-| #SanctionEthiopia                           |     21 |
-| #DobleOpuesto                               |     19 |
-| #RenunciaPiñera                             |     18 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| #parisipresidente2022           |    172 |
+| #PandoraPapers                  |    119 |
+| #AcusacionConstitucionalAPiñera |     98 |
+| #DestitucionAPiñera             |     94 |
+| #ContigoCHV                     |     46 |
+| #DestitucionPiñera              |     44 |
+| #Chile                          |     37 |
+| #CuartoRetiroONoHayVotos        |     36 |
+| #DebateKastBoric                |     35 |
+| #FraudeAmplio                   |     33 |
+| #SalvaranNuevamenteAPiñera      |     33 |
+| #abranlasfronterasparalosniños  |     31 |
+| #ServelAvalaFraude              |     30 |
+| #AtreveteConKast                |     24 |
+| #ConvencionConstitucional       |     22 |
+| #CuartoRetiroDel10xCiento       |     21 |
+| #PandoraPaper                   |     20 |
+| #SiempreEsHoy                   |     20 |
+| #DobleOpuesto                   |     19 |
+| #NoADominga                     |     19 |
 
 # Cuentas
 
