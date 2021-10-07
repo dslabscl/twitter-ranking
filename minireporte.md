@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-06 01:22:10
+Chile. Fecha del reporte: 2021-10-07 01:16:41
 
 # Hashtags más populares
 
 | datos                           | Cuenta |
 |:--------------------------------|-------:|
-| #parisipresidente2022           |    172 |
-| #PandoraPapers                  |    119 |
-| #AcusacionConstitucionalAPiñera |     98 |
-| #DestitucionAPiñera             |     94 |
-| #ContigoCHV                     |     46 |
-| #DestitucionPiñera              |     44 |
-| #Chile                          |     37 |
-| #CuartoRetiroONoHayVotos        |     36 |
-| #DebateKastBoric                |     35 |
-| #FraudeAmplio                   |     33 |
-| #SalvaranNuevamenteAPiñera      |     33 |
-| #abranlasfronterasparalosniños  |     31 |
-| #ServelAvalaFraude              |     30 |
-| #AtreveteConKast                |     24 |
-| #ConvencionConstitucional       |     22 |
-| #CuartoRetiroDel10xCiento       |     21 |
-| #PandoraPaper                   |     20 |
-| #SiempreEsHoy                   |     20 |
-| #DobleOpuesto                   |     19 |
-| #NoADominga                     |     19 |
+| #PandoraPapers                  |     73 |
+| #CuartoRetiroYa                 |     72 |
+| #AcusacionConstitucionalAPiñera |     53 |
+| #DestitucionAPiñera             |     47 |
+| #AtreveteConKast                |     35 |
+| #ContigoCHV                     |     35 |
+| #CuartoRetiroDel10xCiento       |     33 |
+| #Chile                          |     23 |
+| #CuartoRetiroONoHayVotos        |     22 |
+| #CuartoRetiro10xCiento          |     21 |
+| #DobleOpuesto                   |     21 |
+| #NoADominga                     |     20 |
+| #KastPresidente2022             |     18 |
+| #Arica                          |     17 |
+| #CuartoRetiroSinLetraChica      |     17 |
+| #DestitucionPiñera              |     17 |
+| #PiñeraPapersMV                 |     16 |
+| #SiempreEsHoy                   |     16 |
+| #ConvencionConstitucional       |     15 |
+| #ElMostradorEnLaClave           |     15 |
 
 # Cuentas
 
