@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-07 01:16:41
+Chile. Fecha del reporte: 2021-10-08 01:16:57
 
 # Hashtags más populares
 
 | datos                           | Cuenta |
 |:--------------------------------|-------:|
-| #PandoraPapers                  |     73 |
-| #CuartoRetiroYa                 |     72 |
-| #AcusacionConstitucionalAPiñera |     53 |
-| #DestitucionAPiñera             |     47 |
-| #AtreveteConKast                |     35 |
-| #ContigoCHV                     |     35 |
-| #CuartoRetiroDel10xCiento       |     33 |
-| #Chile                          |     23 |
-| #CuartoRetiroONoHayVotos        |     22 |
-| #CuartoRetiro10xCiento          |     21 |
-| #DobleOpuesto                   |     21 |
-| #NoADominga                     |     20 |
-| #KastPresidente2022             |     18 |
-| #Arica                          |     17 |
-| #CuartoRetiroSinLetraChica      |     17 |
-| #DestitucionPiñera              |     17 |
-| #PiñeraPapersMV                 |     16 |
-| #SiempreEsHoy                   |     16 |
-| #ConvencionConstitucional       |     15 |
-| #ElMostradorEnLaClave           |     15 |
+| #CuartoRetiroONoHayVotos        |     59 |
+| #CuartoRetiroDel10xCiento       |     53 |
+| #CuartoRetiroSinLetraChica      |     51 |
+| #CuartoRetiroAhora              |     50 |
+| #NoMasAFP                       |     50 |
+| #ElCandidato                    |     47 |
+| #ContigoCHV                     |     42 |
+| #NOADOMINGA                     |     42 |
+| #Chile                          |     37 |
+| #PandoraPapers                  |     36 |
+| #TitularidadDocente2021         |     36 |
+| #CuartoRetiroYa                 |     33 |
+| #cuartoretiro100xciento         |     29 |
+| #FuerzaAbuelaConElRetiroDel100x |     29 |
+| #RenunciaPiñera                 |     28 |
+| #AtreveteConKast                |     25 |
+| #CuartoRetiro100x               |     25 |
+| #BoricPresidente                |     24 |
+| #ConvencionConstitucional       |     24 |
+| #AcusacionConstitucionalAPiñera |     23 |
 
 # Cuentas
 
