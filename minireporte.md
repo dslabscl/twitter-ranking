@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-08 01:16:57
+Chile. Fecha del reporte: 2021-10-11 01:16:32
 
 # Hashtags más populares
 
 | datos                           | Cuenta |
 |:--------------------------------|-------:|
-| #CuartoRetiroONoHayVotos        |     59 |
-| #CuartoRetiroDel10xCiento       |     53 |
-| #CuartoRetiroSinLetraChica      |     51 |
-| #CuartoRetiroAhora              |     50 |
-| #NoMasAFP                       |     50 |
-| #ElCandidato                    |     47 |
-| #ContigoCHV                     |     42 |
-| #NOADOMINGA                     |     42 |
-| #Chile                          |     37 |
-| #PandoraPapers                  |     36 |
-| #TitularidadDocente2021         |     36 |
-| #CuartoRetiroYa                 |     33 |
-| #cuartoretiro100xciento         |     29 |
-| #FuerzaAbuelaConElRetiroDel100x |     29 |
-| #RenunciaPiñera                 |     28 |
-| #AtreveteConKast                |     25 |
-| #CuartoRetiro100x               |     25 |
-| #BoricPresidente                |     24 |
-| #ConvencionConstitucional       |     24 |
-| #AcusacionConstitucionalAPiñera |     23 |
+| #FueronLosOrcos                 |     52 |
+| #Chile                          |     44 |
+| #RenunciaPiñeraCTM              |     30 |
+| #CuartoRetiroDel10xCiento       |     29 |
+| #quieromi100xciento             |     29 |
+| #AtreveteConKast                |     26 |
+| #PrimeralineaAsesina            |     26 |
+| #AcusacionConstitucionalAPiñera |     25 |
+| #CuartoRetiroSinLetraChica      |     25 |
+| #ContigoCHV                     |     24 |
+| #DobleOpuesto                   |     24 |
+| #PrimeraLineaAsesina            |     24 |
+| #KastPresidente2022             |     23 |
+| #CuartoRetiroAhora              |     21 |
+| #DestitucionAPiñera             |     21 |
+| #NoADominga                     |     21 |
+| #PiñeraHueleAGladiolos          |     21 |
+| #DDHH                           |     19 |
+| #PiñeraLlegoTuHora              |     19 |
+| #KastPresidente                 |     18 |
 
 # Cuentas
 
