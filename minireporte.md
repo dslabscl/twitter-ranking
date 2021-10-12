@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-11 01:16:32
+Chile. Fecha del reporte: 2021-10-12 01:16:35
 
 # Hashtags más populares
 
 | datos                           | Cuenta |
 |:--------------------------------|-------:|
-| #FueronLosOrcos                 |     52 |
-| #Chile                          |     44 |
-| #RenunciaPiñeraCTM              |     30 |
-| #CuartoRetiroDel10xCiento       |     29 |
-| #quieromi100xciento             |     29 |
-| #AtreveteConKast                |     26 |
-| #PrimeralineaAsesina            |     26 |
-| #AcusacionConstitucionalAPiñera |     25 |
-| #CuartoRetiroSinLetraChica      |     25 |
-| #ContigoCHV                     |     24 |
+| #ContigoCHV                     |     56 |
+| #Chile                          |     41 |
+| #AcusacionConstitucionalAPiñera |     33 |
+| #DebatePresidencial             |     32 |
+| #DebatePresidencial2021         |     31 |
+| #AtreviDos                      |     30 |
+| #SichelSePuede                  |     29 |
+| #WallmapuSinMilicos             |     29 |
+| #AtreveteConKast                |     27 |
+| #PandoraPapers                  |     26 |
 | #DobleOpuesto                   |     24 |
-| #PrimeraLineaAsesina            |     24 |
-| #KastPresidente2022             |     23 |
-| #CuartoRetiroAhora              |     21 |
-| #DestitucionAPiñera             |     21 |
-| #NoADominga                     |     21 |
-| #PiñeraHueleAGladiolos          |     21 |
-| #DDHH                           |     19 |
-| #PiñeraLlegoTuHora              |     19 |
-| #KastPresidente                 |     18 |
+| #SichelPresidente               |     24 |
+| #KastPresidente                 |     23 |
+| #NOADOMINGA                     |     23 |
+| #KastPresidente2022             |     22 |
+| #CuartoRetiroSinLetraChica      |     20 |
+| #DestitucionAPiñera             |     20 |
+| #PiñeraHueleAGladiolos          |     20 |
+| #CuartoRetiroDel10xCiento       |     19 |
+| #NoVotesXComunistas             |     18 |
 
 # Cuentas
 
