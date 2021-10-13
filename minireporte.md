@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-12 01:16:35
+Chile. Fecha del reporte: 2021-10-13 01:15:30
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| #ContigoCHV                     |     56 |
-| #Chile                          |     41 |
-| #AcusacionConstitucionalAPiñera |     33 |
-| #DebatePresidencial             |     32 |
-| #DebatePresidencial2021         |     31 |
-| #AtreviDos                      |     30 |
-| #SichelSePuede                  |     29 |
-| #WallmapuSinMilicos             |     29 |
-| #AtreveteConKast                |     27 |
-| #PandoraPapers                  |     26 |
-| #DobleOpuesto                   |     24 |
-| #SichelPresidente               |     24 |
-| #KastPresidente                 |     23 |
-| #NOADOMINGA                     |     23 |
-| #KastPresidente2022             |     22 |
-| #CuartoRetiroSinLetraChica      |     20 |
-| #DestitucionAPiñera             |     20 |
-| #PiñeraHueleAGladiolos          |     20 |
-| #CuartoRetiroDel10xCiento       |     19 |
-| #NoVotesXComunistas             |     18 |
+| datos                            | Cuenta |
+|:---------------------------------|-------:|
+| #DebatePresidencial2021          |     93 |
+| #ParisiRegresa                   |     58 |
+| #ContigoCHV                      |     55 |
+| #diezXcientoParaRentasVitalicias |     53 |
+| #BoricDrogadicto                 |     52 |
+| #SichelPresidente                |     42 |
+| #CuartoRetiroDel10xCiento        |     38 |
+| #ReportajeCHVCNN                 |     35 |
+| #AcusacionConstitucionalAPiñera  |     34 |
+| #NOADOMINGA                      |     34 |
+| #Chile                           |     31 |
+| #CuartoRetiroSinLetraChica       |     31 |
+| #CuartoRetiroAhora               |     30 |
+| #DDHH                            |     22 |
+| #DestitucionAPiñera              |     22 |
+| #DobleOpuesto                    |     22 |
+| #WallmapuLibre                   |     22 |
+| #FuerzaYasnaConCuartoRetiro      |     21 |
+| #KastPresidente2022              |     21 |
+| #PiñeraHueleAGladiolos           |     20 |
 
 # Cuentas
 
