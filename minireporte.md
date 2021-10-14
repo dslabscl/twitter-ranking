@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-13 01:15:30
+Chile. Fecha del reporte: 2021-10-14 01:13:07
 
 # Hashtags más populares
 
-| datos                            | Cuenta |
-|:---------------------------------|-------:|
-| #DebatePresidencial2021          |     93 |
-| #ParisiRegresa                   |     58 |
-| #ContigoCHV                      |     55 |
-| #diezXcientoParaRentasVitalicias |     53 |
-| #BoricDrogadicto                 |     52 |
-| #SichelPresidente                |     42 |
-| #CuartoRetiroDel10xCiento        |     38 |
-| #ReportajeCHVCNN                 |     35 |
-| #AcusacionConstitucionalAPiñera  |     34 |
-| #NOADOMINGA                      |     34 |
-| #Chile                           |     31 |
-| #CuartoRetiroSinLetraChica       |     31 |
-| #CuartoRetiroAhora               |     30 |
-| #DDHH                            |     22 |
-| #DestitucionAPiñera              |     22 |
-| #DobleOpuesto                    |     22 |
-| #WallmapuLibre                   |     22 |
-| #FuerzaYasnaConCuartoRetiro      |     21 |
-| #KastPresidente2022              |     21 |
-| #PiñeraHueleAGladiolos           |     20 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| #boric                          |    409 |
+| #ContigoCHV                     |     54 |
+| #DebatePresidencial2021         |     50 |
+| #ElPeorCongresoDeLaHistoria     |     48 |
+| #CuartoRetiroAhora              |     47 |
+| #SichelPresidente               |     47 |
+| #BacheletAclara                 |     43 |
+| #AcusaciónConstitucional        |     40 |
+| #AcusacionConstitucionalAPiñera |     38 |
+| #NOADOMINGA                     |     37 |
+| #cuartoretirodel10xciento       |     36 |
+| #FuerzaYasnaConCuartoRetiro     |     36 |
+| #fuerzaabuelaconcuartoretiro    |     34 |
+| #PandoraPapers                  |     26 |
+| #Chile                          |     25 |
+| #DobleOpuesto                   |     25 |
+| #DestitucionAPiñera             |     23 |
+| #DDHH                           |     21 |
+| #ConvencionConstitucional       |     20 |
+| #PiñeraHueleAGladiolos          |     20 |
 
 # Cuentas
 
