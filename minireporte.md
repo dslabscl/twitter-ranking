@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-14 01:13:07
+Chile. Fecha del reporte: 2021-10-15 01:16:31
 
 # Hashtags más populares
 
 | datos                           | Cuenta |
 |:--------------------------------|-------:|
-| #boric                          |    409 |
-| #ContigoCHV                     |     54 |
-| #DebatePresidencial2021         |     50 |
-| #ElPeorCongresoDeLaHistoria     |     48 |
-| #CuartoRetiroAhora              |     47 |
-| #SichelPresidente               |     47 |
-| #BacheletAclara                 |     43 |
-| #AcusaciónConstitucional        |     40 |
-| #AcusacionConstitucionalAPiñera |     38 |
-| #NOADOMINGA                     |     37 |
-| #cuartoretirodel10xciento       |     36 |
-| #FuerzaYasnaConCuartoRetiro     |     36 |
-| #fuerzaabuelaconcuartoretiro    |     34 |
-| #PandoraPapers                  |     26 |
-| #Chile                          |     25 |
-| #DobleOpuesto                   |     25 |
-| #DestitucionAPiñera             |     23 |
-| #DDHH                           |     21 |
-| #ConvencionConstitucional       |     20 |
+| #boric                          |    273 |
+| #PiñeraImputado                 |     54 |
+| #TitularidadDocente2021         |     51 |
+| #ContigoCHV                     |     38 |
+| #NOADOMINGA                     |     31 |
+| #Chile                          |     30 |
+| #DestitucionAPiñera             |     28 |
+| #ConvencionConstitucional       |     27 |
+| #AcusacionConstitucionalAPiñera |     25 |
+| #AtreveteConKast                |     24 |
+| #DobleOpuesto                   |     24 |
+| #DDHH                           |     23 |
+| #LibreXpresión                  |     23 |
+| #SichelPresidente               |     23 |
+| #CuartoRetiroAhora              |     21 |
+| #EUActNow                       |     21 |
+| #StopTigrayFamine               |     21 |
 | #PiñeraHueleAGladiolos          |     20 |
+| #DebatePresidencial2021         |     19 |
+| #CuartoRetiroDel10xCiento       |     18 |
 
 # Cuentas
 
