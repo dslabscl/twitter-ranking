@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-15 01:16:31
+Chile. Fecha del reporte: 2021-10-18 01:16:52
 
 # Hashtags más populares
 
 | datos                           | Cuenta |
 |:--------------------------------|-------:|
-| #boric                          |    273 |
-| #PiñeraImputado                 |     54 |
-| #TitularidadDocente2021         |     51 |
-| #ContigoCHV                     |     38 |
-| #NOADOMINGA                     |     31 |
+| #AtreveteConKast                |     32 |
 | #Chile                          |     30 |
-| #DestitucionAPiñera             |     28 |
-| #ConvencionConstitucional       |     27 |
-| #AcusacionConstitucionalAPiñera |     25 |
-| #AtreveteConKast                |     24 |
-| #DobleOpuesto                   |     24 |
-| #DDHH                           |     23 |
-| #LibreXpresión                  |     23 |
-| #SichelPresidente               |     23 |
-| #CuartoRetiroAhora              |     21 |
-| #EUActNow                       |     21 |
-| #StopTigrayFamine               |     21 |
-| #PiñeraHueleAGladiolos          |     20 |
-| #DebatePresidencial2021         |     19 |
-| #CuartoRetiroDel10xCiento       |     18 |
+| #CuartoRetiroDel10xCiento       |     30 |
+| #AcusacionConstitucionalAPiñera |     27 |
+| #LaVerdadSiempreTriunfa         |     27 |
+| #DobleOpuesto                   |     26 |
+| #KastEnPrimeraVuelta            |     26 |
+| #KastPresidente2022             |     26 |
+| #BoricHambreYMiseriaParaChile   |     24 |
+| #DDHH                           |     24 |
+| #CarabinerosAtadosDeManos       |     23 |
+| #DestitucionAPiñera             |     23 |
+| #Pullally                       |     23 |
+| #18deoctubre                    |     22 |
+| #BoricPresidente                |     22 |
+| #ComunismoOLibertad             |     22 |
+| #papudo                         |     22 |
+| #ReportajesT13                  |     22 |
+| #SinCuartoRetiroNoHayVotos      |     22 |
+| #TigrayGenocide                 |     22 |
 
 # Cuentas
 
