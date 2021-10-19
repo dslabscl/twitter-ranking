@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-18 01:16:52
+Chile. Fecha del reporte: 2021-10-19 01:17:26
 
 # Hashtags más populares
 
 | datos                           | Cuenta |
 |:--------------------------------|-------:|
-| #AtreveteConKast                |     32 |
-| #Chile                          |     30 |
-| #CuartoRetiroDel10xCiento       |     30 |
-| #AcusacionConstitucionalAPiñera |     27 |
-| #LaVerdadSiempreTriunfa         |     27 |
-| #DobleOpuesto                   |     26 |
-| #KastEnPrimeraVuelta            |     26 |
-| #KastPresidente2022             |     26 |
-| #BoricHambreYMiseriaParaChile   |     24 |
-| #DDHH                           |     24 |
-| #CarabinerosAtadosDeManos       |     23 |
-| #DestitucionAPiñera             |     23 |
-| #Pullally                       |     23 |
-| #18deoctubre                    |     22 |
-| #BoricPresidente                |     22 |
-| #ComunismoOLibertad             |     22 |
-| #papudo                         |     22 |
-| #ReportajesT13                  |     22 |
-| #SinCuartoRetiroNoHayVotos      |     22 |
-| #TigrayGenocide                 |     22 |
+| #KastPresidente2022             |     98 |
+| #EstallidoSocial                |     93 |
+| #Chile                          |     80 |
+| #AtreveteConKast                |     79 |
+| #18deoctubre                    |     76 |
+| #AtrevetePorChile               |     60 |
+| #LaVerdadSiempreTriunfa         |     56 |
+| #ContigoCHV                     |     55 |
+| #EstallidoDelictual             |     43 |
+| #CuartoRetiroDel10xCiento       |     37 |
+| #NadaQueCelebrar                |     36 |
+| #IzquierdaMiserableyTerrorista  |     33 |
+| #DobleOpuesto                   |     27 |
+| #BoricHambreYMiseriaParaChile   |     23 |
+| #PrensaBasura                   |     22 |
+| #DDHH                           |     21 |
+| #AcusacionConstitucionalAPiñera |     20 |
+| #PiñeraHueleAGladiolos          |     20 |
+| #CuartoRetiro10xCiento          |     19 |
+| #FuerzaAbuelaConCuartoRetiro    |     19 |
 
 # Cuentas
 
