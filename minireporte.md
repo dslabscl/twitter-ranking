@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-19 01:17:26
+Chile. Fecha del reporte: 2021-10-20 01:16:30
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| #KastPresidente2022             |     98 |
-| #EstallidoSocial                |     93 |
-| #Chile                          |     80 |
-| #AtreveteConKast                |     79 |
-| #18deoctubre                    |     76 |
-| #AtrevetePorChile               |     60 |
-| #LaVerdadSiempreTriunfa         |     56 |
-| #ContigoCHV                     |     55 |
-| #EstallidoDelictual             |     43 |
-| #CuartoRetiroDel10xCiento       |     37 |
-| #NadaQueCelebrar                |     36 |
-| #IzquierdaMiserableyTerrorista  |     33 |
-| #DobleOpuesto                   |     27 |
-| #BoricHambreYMiseriaParaChile   |     23 |
-| #PrensaBasura                   |     22 |
-| #DDHH                           |     21 |
-| #AcusacionConstitucionalAPiñera |     20 |
-| #PiñeraHueleAGladiolos          |     20 |
-| #CuartoRetiro10xCiento          |     19 |
-| #FuerzaAbuelaConCuartoRetiro    |     19 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| #OlaDeSolidaridadPorÁlexSaab   |     75 |
+| #ContigoCHV                    |     57 |
+| #FuerzaAbuelaConCuartoRetiro   |     51 |
+| #Chile                         |     44 |
+| #EstallidoSocial               |     37 |
+| #estallidosocial2              |     37 |
+| #KastPresidente2022            |     32 |
+| #CuartoRetiroAhora             |     31 |
+| #ConvencionConstitucional      |     30 |
+| #AtreveteConKast               |     28 |
+| #NoMasAFP                      |     26 |
+| #18deoctubre                   |     25 |
+| #18OctubrexLaRed               |     25 |
+| #CuartoRetiroDel10xCiento      |     25 |
+| #KastLeDaEsperanzaAChile       |     25 |
+| #cuartoretirosinletrachica     |     23 |
+| #DobleOpuesto                  |     23 |
+| #IzquierdaMiserableyTerrorista |     23 |
+| #KastEnPrimeraVuelta           |     21 |
+| #cuartoretiro                  |     20 |
 
 # Cuentas
 
