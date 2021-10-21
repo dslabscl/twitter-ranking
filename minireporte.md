@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-20 01:16:30
+Chile. Fecha del reporte: 2021-10-21 01:22:37
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| #OlaDeSolidaridadPorÁlexSaab   |     75 |
-| #ContigoCHV                    |     57 |
-| #FuerzaAbuelaConCuartoRetiro   |     51 |
-| #Chile                         |     44 |
-| #EstallidoSocial               |     37 |
-| #estallidosocial2              |     37 |
-| #KastPresidente2022            |     32 |
-| #CuartoRetiroAhora             |     31 |
-| #ConvencionConstitucional      |     30 |
-| #AtreveteConKast               |     28 |
-| #NoMasAFP                      |     26 |
-| #18deoctubre                   |     25 |
-| #18OctubrexLaRed               |     25 |
-| #CuartoRetiroDel10xCiento      |     25 |
-| #KastLeDaEsperanzaAChile       |     25 |
-| #cuartoretirosinletrachica     |     23 |
-| #DobleOpuesto                  |     23 |
-| #IzquierdaMiserableyTerrorista |     23 |
-| #KastEnPrimeraVuelta           |     21 |
-| #cuartoretiro                  |     20 |
+| datos                            | Cuenta |
+|:---------------------------------|-------:|
+| #FuerzaAbuelaConCuartoRetiro     |     77 |
+| #OlaDeSolidaridadPorÁlexSaab     |     69 |
+| #LosNiñosPrimero                 |     67 |
+| #LaMaternidadSeCastigaEnChile    |     66 |
+| #ExtensiónLeyesMaternales        |     64 |
+| #diezXcientoParaRentasVitalicias |     61 |
+| #CuartoRetiroAhora               |     53 |
+| #ContigoCHV                      |     43 |
+| #Chile                           |     41 |
+| #cuartoretirosinletrachica       |     40 |
+| #KastLeDaEsperanzaAChile         |     34 |
+| #LeyesMaternalesAhora            |     30 |
+| #NOmasCampañaDelTerror           |     30 |
+| #BoricHambreYMiseriaParaChile    |     27 |
+| #KastPresidente2022              |     22 |
+| #COMUNICADOPÚBLICO               |     21 |
+| #CuartoRetiroDel10xCiento        |     21 |
+| #DobleOpuesto                    |     21 |
+| #ElPeorPresidenteDeLaHistoria    |     20 |
+| #PiñeraHueleAGladiolos           |     20 |
 
 # Cuentas
 
