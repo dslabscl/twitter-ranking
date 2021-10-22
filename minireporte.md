@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-21 01:22:37
+Chile. Fecha del reporte: 2021-10-22 01:23:32
 
 # Hashtags más populares
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| #FuerzaAbuelaConCuartoRetiro     |     77 |
-| #OlaDeSolidaridadPorÁlexSaab     |     69 |
-| #LosNiñosPrimero                 |     67 |
-| #LaMaternidadSeCastigaEnChile    |     66 |
-| #ExtensiónLeyesMaternales        |     64 |
-| #diezXcientoParaRentasVitalicias |     61 |
-| #CuartoRetiroAhora               |     53 |
-| #ContigoCHV                      |     43 |
-| #Chile                           |     41 |
-| #cuartoretirosinletrachica       |     40 |
-| #KastLeDaEsperanzaAChile         |     34 |
-| #LeyesMaternalesAhora            |     30 |
-| #NOmasCampañaDelTerror           |     30 |
-| #BoricHambreYMiseriaParaChile    |     27 |
-| #KastPresidente2022              |     22 |
-| #COMUNICADOPÚBLICO               |     21 |
-| #CuartoRetiroDel10xCiento        |     21 |
-| #DobleOpuesto                    |     21 |
-| #ElPeorPresidenteDeLaHistoria    |     20 |
-| #PiñeraHueleAGladiolos           |     20 |
+| #CuartoRetiroDel10xCiento        |    135 |
+| #OlaDeSolidaridadPorÁlexSaab     |     86 |
+| #CuartoRetiroONoHayVotos         |     81 |
+| #ExtensiónLeyesMaternales        |     75 |
+| #LaMaternidadSeCastigaEnChile    |     70 |
+| #LosNiñosPrimero                 |     69 |
+| #diezXcientoParaRentasVitalicias |     59 |
+| #cuartoretirosinletrachica       |     47 |
+| #debateAguaxLaRed                |     47 |
+| #CuartoRetiro                    |     44 |
+| #ParisiEnDebate                  |     44 |
+| #YasnaCorrupta                   |     34 |
+| #BoricCandidatoDelPC             |     33 |
+| #FuerzaAbuelaConCuartoRetiro     |     33 |
+| #ContigoCHV                      |     31 |
+| #BORICignorante                  |     30 |
+| #cobardes                        |     30 |
+| #NOmasCampañaDelTerror           |     29 |
+| #Chile                           |     28 |
+| #cuartoretiro100xciento          |     28 |
 
 # Cuentas
 
