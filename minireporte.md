@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-22 01:23:32
+Chile. Fecha del reporte: 2021-10-25 01:15:00
 
 # Hashtags más populares
 
-| datos                            | Cuenta |
-|:---------------------------------|-------:|
-| #CuartoRetiroDel10xCiento        |    135 |
-| #OlaDeSolidaridadPorÁlexSaab     |     86 |
-| #CuartoRetiroONoHayVotos         |     81 |
-| #ExtensiónLeyesMaternales        |     75 |
-| #LaMaternidadSeCastigaEnChile    |     70 |
-| #LosNiñosPrimero                 |     69 |
-| #diezXcientoParaRentasVitalicias |     59 |
-| #cuartoretirosinletrachica       |     47 |
-| #debateAguaxLaRed                |     47 |
-| #CuartoRetiro                    |     44 |
-| #ParisiEnDebate                  |     44 |
-| #YasnaCorrupta                   |     34 |
-| #BoricCandidatoDelPC             |     33 |
-| #FuerzaAbuelaConCuartoRetiro     |     33 |
-| #ContigoCHV                      |     31 |
-| #BORICignorante                  |     30 |
-| #cobardes                        |     30 |
-| #NOmasCampañaDelTerror           |     29 |
-| #Chile                           |     28 |
-| #cuartoretiro100xciento          |     28 |
+| datos                                 | Cuenta |
+|:--------------------------------------|-------:|
+| #RetiroTotalAfp                       |     88 |
+| #CuartoRetiroONoHayVotos              |     56 |
+| #CuartoRetiroDel10xCiento             |     55 |
+| #FuerzaAbuelaConCuartoRetiro          |     55 |
+| #franjaelectoral                      |     33 |
+| #ContigoCHV                           |     32 |
+| #LaMaternidadSeCastigaEnChile         |     32 |
+| #LosNiñosPrimero                      |     31 |
+| #NoAlPaseDeMovilidad                  |     30 |
+| #MesaCentral                          |     29 |
+| #Chile                                |     27 |
+| #CavadaCHVCNN                         |     26 |
+| #KastLeDaEsperanzaAChile              |     25 |
+| #DevuelvanLaFranja                    |     24 |
+| #ExtensiónLeyesMaternales             |     24 |
+| #BoricHambreYMiseriaParaChile         |     23 |
+| #DobleOpuesto                         |     22 |
+| #FcOficialChayanneUnConquistadorChile |     22 |
+| #IzquierdaMiserableyTerrorista        |     22 |
+| #KastPresidente2022                   |     20 |
 
 # Cuentas
 
