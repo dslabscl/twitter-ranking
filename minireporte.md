@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-26 01:12:12
+Chile. Fecha del reporte: 2021-10-27 01:09:32
 
 # Hashtags más populares
 
-| datos                                 | Cuenta |
-|:--------------------------------------|-------:|
-| #FuerzaAbuelaConCuartoRetiro          |    156 |
-| #CuartoRetiro                         |     89 |
-| #CuartoRetiroDel10xCiento             |     73 |
-| #Chile                                |     68 |
-| #KastPresidente2022                   |     67 |
-| #15NCuba                              |     57 |
-| #FreeAlexSaab                         |     53 |
-| #CuartoRetiroONoHayVotos              |     46 |
-| #SOSCuba                              |     46 |
-| #Cuba                                 |     43 |
-| #CuartoRetiroYa                       |     30 |
-| #DobleOpuesto                         |     27 |
-| #SichelPresidente                     |     24 |
-| #25deOctubre                          |     21 |
-| #ContigoCHV                           |     20 |
-| #FcOficialChayanneUnConquistadorChile |     18 |
-| #IzquierdaMiserableyTerrorista        |     18 |
-| #MesaCentral                          |     18 |
-| #MontesYGoicMiserables                |     18 |
-| #NuncaMasDerecha                      |     18 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| #FuerzaAbuelaConCuartoRetiro  |    138 |
+| #LaUSMnovuelve                |     90 |
+| #SeVieneParisi2022            |     52 |
+| #CuartoRetiroDel10xCiento     |     47 |
+| #Sichel                       |     42 |
+| #KastPresidente2022           |     37 |
+| #ContigoCHV                   |     36 |
+| #CuartoRetiro                 |     36 |
+| #CuartoRetiroONoHayVotos      |     35 |
+| #SichelPresidente             |     29 |
+| #El4toRetiroEsNuestro         |     28 |
+| #ChileSeráHermosoSinComunismo |     27 |
+| #AtreveteConKast              |     26 |
+| #Chile                        |     25 |
+| #CuartoRetiroYa               |     25 |
+| #KastLeDaEsperanzaAChile      |     24 |
+| #ConvencionConstitucional     |     21 |
+| #DobleOpuesto                 |     20 |
+| #SiempreEsHoy                 |     20 |
+| #KastEnPrimeraVuelta          |     19 |
 
 # Cuentas
 
