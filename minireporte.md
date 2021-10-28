@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-27 01:09:32
+Chile. Fecha del reporte: 2021-10-28 01:10:47
 
 # Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| #FuerzaAbuelaConCuartoRetiro  |    138 |
-| #LaUSMnovuelve                |     90 |
-| #SeVieneParisi2022            |     52 |
-| #CuartoRetiroDel10xCiento     |     47 |
-| #Sichel                       |     42 |
-| #KastPresidente2022           |     37 |
-| #ContigoCHV                   |     36 |
-| #CuartoRetiro                 |     36 |
-| #CuartoRetiroONoHayVotos      |     35 |
-| #SichelPresidente             |     29 |
-| #El4toRetiroEsNuestro         |     28 |
-| #ChileSeráHermosoSinComunismo |     27 |
-| #AtreveteConKast              |     26 |
-| #Chile                        |     25 |
-| #CuartoRetiroYa               |     25 |
-| #KastLeDaEsperanzaAChile      |     24 |
-| #ConvencionConstitucional     |     21 |
-| #DobleOpuesto                 |     20 |
-| #SiempreEsHoy                 |     20 |
-| #KastEnPrimeraVuelta          |     19 |
+| #4Retiro                      |    141 |
+| #CuartoRetiro                 |     69 |
+| #FreeAlexSaab                 |     53 |
+| #FuerzaAbuelaConCuartoRetiro  |     47 |
+| #Chile                        |     31 |
+| #CuartoRetiroDel10xCiento     |     26 |
+| #ChileVamos                   |     23 |
+| #DobleOpuesto                 |     22 |
+| #SichelPresidente             |     22 |
+| #SiempreEsHoy                 |     22 |
+| #AtreveteConKast              |     21 |
+| #ContigoCHV                   |     21 |
+| #KastPresidente2022           |     21 |
+| #Sichel                       |     21 |
+| #ChileSeráHermosoSinComunismo |     20 |
+| #FPPP2021                     |     19 |
+| #CuartoRetiroONoHayVotos      |     18 |
+| #KastLeDaEsperanzaAChile      |     17 |
+| #BoricPresidente              |     16 |
+| #Arica                        |     15 |
 
 # Cuentas
 
