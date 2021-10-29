@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-28 01:10:47
+Chile. Fecha del reporte: 2021-10-29 01:08:52
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| #4Retiro                      |    141 |
-| #CuartoRetiro                 |     69 |
-| #FreeAlexSaab                 |     53 |
-| #FuerzaAbuelaConCuartoRetiro  |     47 |
-| #Chile                        |     31 |
-| #CuartoRetiroDel10xCiento     |     26 |
-| #ChileVamos                   |     23 |
-| #DobleOpuesto                 |     22 |
-| #SichelPresidente             |     22 |
-| #SiempreEsHoy                 |     22 |
-| #AtreveteConKast              |     21 |
-| #ContigoCHV                   |     21 |
-| #KastPresidente2022           |     21 |
-| #Sichel                       |     21 |
-| #ChileSeráHermosoSinComunismo |     20 |
-| #FPPP2021                     |     19 |
-| #CuartoRetiroONoHayVotos      |     18 |
-| #KastLeDaEsperanzaAChile      |     17 |
-| #BoricPresidente              |     16 |
-| #Arica                        |     15 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #FuerzaAbuelaConCuartoRetiro |    100 |
+| #StopBombingTigray           |     62 |
+| #4Retiro                     |     58 |
+| #ContigoCHV                  |     43 |
+| #FPPP2021                    |     38 |
+| #NoFlyZoneInTigray           |     38 |
+| #CuartoRetiro                |     37 |
+| #CuartoRetiroDel10xCiento    |     31 |
+| #Chile                       |     28 |
+| #SiempreEsHoy                |     26 |
+| #AméricaLatina               |     24 |
+| #DobleOpuesto                |     24 |
+| #MatamalaAlaLona             |     24 |
+| #NoFlyZonelnTigray           |     24 |
+| #SichelPresidente            |     24 |
+| #TePillamosMatamala          |     24 |
+| #FreeAlexSaab                |     20 |
+| #HoyEsNoticiaCNN             |     18 |
+| #Sichel                      |     18 |
+| #KastPresidente2022          |     17 |
 
 # Cuentas
 
