@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-10-29 01:08:52
+Chile. Fecha del reporte: 2021-11-01 01:14:11
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #FuerzaAbuelaConCuartoRetiro |    100 |
-| #StopBombingTigray           |     62 |
-| #4Retiro                     |     58 |
-| #ContigoCHV                  |     43 |
-| #FPPP2021                    |     38 |
-| #NoFlyZoneInTigray           |     38 |
-| #CuartoRetiro                |     37 |
-| #CuartoRetiroDel10xCiento    |     31 |
-| #Chile                       |     28 |
-| #SiempreEsHoy                |     26 |
-| #AméricaLatina               |     24 |
-| #DobleOpuesto                |     24 |
-| #MatamalaAlaLona             |     24 |
-| #NoFlyZonelnTigray           |     24 |
-| #SichelPresidente            |     24 |
-| #TePillamosMatamala          |     24 |
-| #FreeAlexSaab                |     20 |
-| #HoyEsNoticiaCNN             |     18 |
-| #Sichel                      |     18 |
-| #KastPresidente2022          |     17 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| #4Retiro                      |    255 |
+| #CuartoRetiro                 |     60 |
+| #CuartoRetiroONoHayVotos      |     46 |
+| #CuartoRetiroDel10xCiento     |     44 |
+| #KastPresidente2022           |     39 |
+| #CuartoRetiroSinLetraChica    |     37 |
+| #SiempreEsHoy                 |     35 |
+| #SichelPresidente             |     30 |
+| #Chile                        |     28 |
+| #FuerzaAbuelaConCuartoRetiro  |     26 |
+| #AtreveteConKast              |     24 |
+| #DobleOpuesto                 |     24 |
+| #MuevanLasNalgasXCuartoRetiro |     24 |
+| #ChileVamos                   |     20 |
+| #SePuede                      |     19 |
+| #CuartoRetiroYa               |     18 |
+| #Elecciones2021CL             |     18 |
+| #CuartoRetiro10xCiento        |     17 |
+| #ContigoCHV                   |     16 |
+| #MeganoticiasActualiza        |     16 |
 
 # Cuentas
 
