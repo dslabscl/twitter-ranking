@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-01 01:14:11
+Chile. Fecha del reporte: 2021-11-02 01:14:38
 
 # Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| #4Retiro                      |    255 |
-| #CuartoRetiro                 |     60 |
-| #CuartoRetiroONoHayVotos      |     46 |
-| #CuartoRetiroDel10xCiento     |     44 |
-| #KastPresidente2022           |     39 |
-| #CuartoRetiroSinLetraChica    |     37 |
-| #SiempreEsHoy                 |     35 |
-| #SichelPresidente             |     30 |
-| #Chile                        |     28 |
-| #FuerzaAbuelaConCuartoRetiro  |     26 |
-| #AtreveteConKast              |     24 |
+| #4Retiro                      |    122 |
+| #CuartoRetiro                 |     78 |
+| #CuartoRetiroONoHayVotos      |     72 |
+| #debateUchile                 |     61 |
+| #CuartoRetiroDel10xCiento     |     55 |
+| #FreeAlexSaab                 |     51 |
+| #CuartoRetiroSinLetraChica    |     48 |
+| #ContigoCHV                   |     46 |
+| #KastPresidente2022           |     40 |
+| #SiempreEsHoy                 |     38 |
+| #MuevanLasNalgasXCuartoRetiro |     36 |
+| #SinCuartoRetiroNoHayVotos    |     28 |
+| #Chile                        |     27 |
 | #DobleOpuesto                 |     24 |
-| #MuevanLasNalgasXCuartoRetiro |     24 |
-| #ChileVamos                   |     20 |
-| #SePuede                      |     19 |
-| #CuartoRetiroYa               |     18 |
-| #Elecciones2021CL             |     18 |
-| #CuartoRetiro10xCiento        |     17 |
-| #ContigoCHV                   |     16 |
-| #MeganoticiasActualiza        |     16 |
+| #SichelPresidente             |     24 |
+| #BoricPresidente              |     23 |
+| #Elecciones2021CL             |     23 |
+| #FuerzaAbuelaConCuartoRetiro  |     22 |
+| #BoricenPrimeraVuelta         |     18 |
+| #concon                       |     18 |
 
 # Cuentas
 
