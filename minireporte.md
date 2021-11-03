@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-02 01:14:38
+Chile. Fecha del reporte: 2021-11-03 01:10:47
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| #4Retiro                      |    122 |
-| #CuartoRetiro                 |     78 |
-| #CuartoRetiroONoHayVotos      |     72 |
-| #debateUchile                 |     61 |
-| #CuartoRetiroDel10xCiento     |     55 |
-| #FreeAlexSaab                 |     51 |
-| #CuartoRetiroSinLetraChica    |     48 |
-| #ContigoCHV                   |     46 |
-| #KastPresidente2022           |     40 |
-| #SiempreEsHoy                 |     38 |
-| #MuevanLasNalgasXCuartoRetiro |     36 |
-| #SinCuartoRetiroNoHayVotos    |     28 |
-| #Chile                        |     27 |
-| #DobleOpuesto                 |     24 |
-| #SichelPresidente             |     24 |
-| #BoricPresidente              |     23 |
-| #Elecciones2021CL             |     23 |
-| #FuerzaAbuelaConCuartoRetiro  |     22 |
-| #BoricenPrimeraVuelta         |     18 |
-| #concon                       |     18 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #4Retiro                     |    157 |
+| #CuartoRetiroAhora           |     85 |
+| #CuartoRetiroONoHayVotos     |     77 |
+| #FuerzaAbuelaConCuartoRetiro |     75 |
+| #Titularidaddocente2021      |     64 |
+| #SinRetiroNoHayVotos         |     58 |
+| #CuartoRetiroATablaUrgente   |     55 |
+| #RejectTheJointInvestigation |     55 |
+| #Cuartoretirooalacalle       |     52 |
+| #KastPresidente2022          |     45 |
+| #NoalVetodePiñera            |     44 |
+| #CuartoRetiroDel10xCiento    |     37 |
+| #SiempreEsHoy                |     37 |
+| #SinRetiroNoHayVoto          |     36 |
+| #ContigoCHV                  |     33 |
+| #Elecciones2021CL            |     33 |
+| #CuartoRetiro                |     31 |
+| #SichelPresidente            |     31 |
+| #CuartoRetiroYa              |     28 |
+| #Tigray                      |     27 |
 
 # Cuentas
 
