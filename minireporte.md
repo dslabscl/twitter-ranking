@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-03 01:10:47
+Chile. Fecha del reporte: 2021-11-04 01:12:32
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #4Retiro                     |    157 |
-| #CuartoRetiroAhora           |     85 |
-| #CuartoRetiroONoHayVotos     |     77 |
-| #FuerzaAbuelaConCuartoRetiro |     75 |
-| #Titularidaddocente2021      |     64 |
-| #SinRetiroNoHayVotos         |     58 |
-| #CuartoRetiroATablaUrgente   |     55 |
-| #RejectTheJointInvestigation |     55 |
-| #Cuartoretirooalacalle       |     52 |
-| #KastPresidente2022          |     45 |
-| #NoalVetodePiñera            |     44 |
-| #CuartoRetiroDel10xCiento    |     37 |
-| #SiempreEsHoy                |     37 |
-| #SinRetiroNoHayVoto          |     36 |
-| #ContigoCHV                  |     33 |
-| #Elecciones2021CL            |     33 |
-| #CuartoRetiro                |     31 |
-| #SichelPresidente            |     31 |
-| #CuartoRetiroYa              |     28 |
-| #Tigray                      |     27 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| #4Retiro                        |     67 |
+| #CuartoRetiroAhora              |     41 |
+| #CuartoRetiroYa                 |     40 |
+| #PiñeraAsesino                  |     38 |
+| #COP26                          |     33 |
+| #SiempreEsHoy                   |     33 |
+| #COIforTigray                   |     32 |
+| #ContigoCHV                     |     31 |
+| #EmboscadaTerroristaFallida     |     29 |
+| #SichelPresidente               |     29 |
+| #cuartoretiro100xciento         |     28 |
+| #afp                            |     27 |
+| #CuartoRetiro100x               |     27 |
+| #FuerzaAbuelaConElRetiroDel100x |     27 |
+| #CuartoRetiro10xCiento          |     24 |
+| #Elecciones2021CL               |     21 |
+| #DobleOpuesto                   |     20 |
+| #Chile                          |     18 |
+| #CuartoRetiro                   |     18 |
+| #T13Tarde                       |     18 |
 
 # Cuentas
 
