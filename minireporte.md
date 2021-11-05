@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-04 01:12:32
+Chile. Fecha del reporte: 2021-11-05 01:11:28
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| #4Retiro                        |     67 |
-| #CuartoRetiroAhora              |     41 |
-| #CuartoRetiroYa                 |     40 |
-| #PiñeraAsesino                  |     38 |
-| #COP26                          |     33 |
-| #SiempreEsHoy                   |     33 |
-| #COIforTigray                   |     32 |
-| #ContigoCHV                     |     31 |
-| #EmboscadaTerroristaFallida     |     29 |
-| #SichelPresidente               |     29 |
-| #cuartoretiro100xciento         |     28 |
-| #afp                            |     27 |
-| #CuartoRetiro100x               |     27 |
-| #FuerzaAbuelaConElRetiroDel100x |     27 |
-| #CuartoRetiro10xCiento          |     24 |
-| #Elecciones2021CL               |     21 |
-| #DobleOpuesto                   |     20 |
-| #Chile                          |     18 |
-| #CuartoRetiro                   |     18 |
-| #T13Tarde                       |     18 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #4RetiroAhora                |    243 |
+| #PiñeraAsesino               |     58 |
+| #SichelPresidente            |     54 |
+| #COP26                       |     36 |
+| #ContigoCHV                  |     35 |
+| #SePuede                     |     33 |
+| #LonconRenuncia              |     32 |
+| #SiempreEsHoy                |     32 |
+| #1YearOfTigrayGenocide       |     31 |
+| #Chile                       |     27 |
+| #LonconRenunciaAhora         |     27 |
+| #CallItAGenocide             |     26 |
+| #CuartoRetiroDel10xCiento    |     26 |
+| #CuartoRetiroAhora           |     22 |
+| #Elecciones2021CL            |     22 |
+| #DobleOpuesto                |     20 |
+| #T13Tarde                    |     17 |
+| #Arica                       |     16 |
+| #FuerzaAbuelaConCuartoRetiro |     16 |
+| #EmboscadaTerroristaFallida  |     15 |
 
 # Cuentas
 
