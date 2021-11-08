@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-05 01:11:28
+Chile. Fecha del reporte: 2021-11-08 01:11:38
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #4RetiroAhora                |    243 |
-| #PiñeraAsesino               |     58 |
-| #SichelPresidente            |     54 |
-| #COP26                       |     36 |
-| #ContigoCHV                  |     35 |
-| #SePuede                     |     33 |
-| #LonconRenuncia              |     32 |
-| #SiempreEsHoy                |     32 |
-| #1YearOfTigrayGenocide       |     31 |
-| #Chile                       |     27 |
-| #LonconRenunciaAhora         |     27 |
-| #CallItAGenocide             |     26 |
-| #CuartoRetiroDel10xCiento    |     26 |
-| #CuartoRetiroAhora           |     22 |
-| #Elecciones2021CL            |     22 |
-| #DobleOpuesto                |     20 |
-| #T13Tarde                    |     17 |
-| #Arica                       |     16 |
-| #FuerzaAbuelaConCuartoRetiro |     16 |
-| #EmboscadaTerroristaFallida  |     15 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| #Titularidaddocente2021       |    112 |
+| #CuartoRetiro                 |     51 |
+| #CuartoRetiroAhora            |     46 |
+| #BoricPresidente              |     45 |
+| #CuartoRetiroDel10xCiento     |     45 |
+| #CuartoRetiro10xCiento        |     43 |
+| #BoricNoSeLaPuede             |     42 |
+| #SiempreEsHoy                 |     42 |
+| #Elecciones2021CL             |     38 |
+| #CacerolazoXCuartoRetiro      |     35 |
+| #4RetiroAhora                 |     33 |
+| #CuartoRetiroOALaCalle        |     32 |
+| #CuartoRetiroYa               |     32 |
+| #BoricCandidatoDelPC          |     31 |
+| #cuartoretiromv               |     31 |
+| #fuerzaabuelaconcuartoretiro  |     31 |
+| #BoricHambreYMiseriaParaChile |     30 |
+| #COP26                        |     25 |
+| #ParisiNoEstasSolo            |     24 |
+| #SichelPresidente             |     24 |
 
 # Cuentas
 
