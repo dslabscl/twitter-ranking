@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-08 01:11:38
+Chile. Fecha del reporte: 2021-11-09 01:13:25
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| #Titularidaddocente2021       |    112 |
-| #CuartoRetiro                 |     51 |
-| #CuartoRetiroAhora            |     46 |
-| #BoricPresidente              |     45 |
-| #CuartoRetiroDel10xCiento     |     45 |
-| #CuartoRetiro10xCiento        |     43 |
-| #BoricNoSeLaPuede             |     42 |
-| #SiempreEsHoy                 |     42 |
-| #Elecciones2021CL             |     38 |
-| #CacerolazoXCuartoRetiro      |     35 |
-| #4RetiroAhora                 |     33 |
-| #CuartoRetiroOALaCalle        |     32 |
-| #CuartoRetiroYa               |     32 |
-| #BoricCandidatoDelPC          |     31 |
-| #cuartoretiromv               |     31 |
-| #fuerzaabuelaconcuartoretiro  |     31 |
-| #BoricHambreYMiseriaParaChile |     30 |
-| #COP26                        |     25 |
-| #ParisiNoEstasSolo            |     24 |
-| #SichelPresidente             |     24 |
+| datos                            | Cuenta |
+|:---------------------------------|-------:|
+| #AcusacionConstitucionalAPiñera  |     71 |
+| #CongresoBasura                  |     47 |
+| #IFELABORAL                      |     47 |
+| #IFELABORALESTAFA                |     47 |
+| #SiempreEsHoy                    |     44 |
+| #ContigoCHV                      |     40 |
+| #Naranjo                         |     35 |
+| #Elecciones2021CL                |     33 |
+| #FuerzaNaranjo                   |     31 |
+| #AguanteDiputadoNaranjo          |     30 |
+| #BoricHambreYMiseriaParaChile    |     30 |
+| #BoricPresidente                 |     30 |
+| #BoricNoSeLaPuede                |     29 |
+| #CementerioGeneral               |     28 |
+| #AcusaciónConstitucional         |     27 |
+| #diezXcientoParaRentasVitalicias |     27 |
+| #HolaChileLaRed                  |     27 |
+| #BoricCandidatoDelPC             |     25 |
+| #SinRetiroNoHayVotos             |     25 |
+| #KastPresidente2022              |     24 |
 
 # Cuentas
 
