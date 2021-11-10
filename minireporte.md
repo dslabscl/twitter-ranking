@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-09 01:13:25
+Chile. Fecha del reporte: 2021-11-10 01:11:15
 
 # Hashtags más populares
 
-| datos                            | Cuenta |
-|:---------------------------------|-------:|
-| #AcusacionConstitucionalAPiñera  |     71 |
-| #CongresoBasura                  |     47 |
-| #IFELABORAL                      |     47 |
-| #IFELABORALESTAFA                |     47 |
-| #SiempreEsHoy                    |     44 |
-| #ContigoCHV                      |     40 |
-| #Naranjo                         |     35 |
-| #Elecciones2021CL                |     33 |
-| #FuerzaNaranjo                   |     31 |
-| #AguanteDiputadoNaranjo          |     30 |
-| #BoricHambreYMiseriaParaChile    |     30 |
-| #BoricPresidente                 |     30 |
-| #BoricNoSeLaPuede                |     29 |
-| #CementerioGeneral               |     28 |
-| #AcusaciónConstitucional         |     27 |
-| #diezXcientoParaRentasVitalicias |     27 |
-| #HolaChileLaRed                  |     27 |
-| #BoricCandidatoDelPC             |     25 |
-| #SinRetiroNoHayVotos             |     25 |
-| #KastPresidente2022              |     24 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| #CuartoRetiroDel10xCiento       |     86 |
+| #ContigoCHV                     |     45 |
+| #Titularidaddocente2021         |     44 |
+| #ParisiPasoABoric               |     37 |
+| #Chile                          |     29 |
+| #BoricHambreYMiseriaParaChile   |     28 |
+| #BoricNoSeLaPuede               |     28 |
+| #4toRetiro                      |     25 |
+| #SichelPresidente               |     25 |
+| #BoricCandidatoDelPC            |     24 |
+| #DobleOpuesto                   |     22 |
+| #COP26                          |     21 |
+| #MuchoGustoMega                 |     20 |
+| #AcusacionConstitucionalAPiñera |     19 |
+| #Elecciones2021CL               |     19 |
+| #IFELABORAL                     |     19 |
+| #IFELABORALESTAFA               |     19 |
+| #KastPresidente2022             |     19 |
+| #ApagaEl13                      |     18 |
+| #triangulaciondepiñera          |     18 |
 
 # Cuentas
 
