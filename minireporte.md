@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-10 01:11:15
+Chile. Fecha del reporte: 2021-11-11 01:12:46
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| #CuartoRetiroDel10xCiento       |     86 |
-| #ContigoCHV                     |     45 |
-| #Titularidaddocente2021         |     44 |
-| #ParisiPasoABoric               |     37 |
-| #Chile                          |     29 |
-| #BoricHambreYMiseriaParaChile   |     28 |
-| #BoricNoSeLaPuede               |     28 |
-| #4toRetiro                      |     25 |
-| #SichelPresidente               |     25 |
-| #BoricCandidatoDelPC            |     24 |
-| #DobleOpuesto                   |     22 |
-| #COP26                          |     21 |
-| #MuchoGustoMega                 |     20 |
-| #AcusacionConstitucionalAPiñera |     19 |
-| #Elecciones2021CL               |     19 |
-| #IFELABORAL                     |     19 |
-| #IFELABORALESTAFA               |     19 |
-| #KastPresidente2022             |     19 |
-| #ApagaEl13                      |     18 |
-| #triangulaciondepiñera          |     18 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| #BoricAcosador                |    136 |
+| #CuartoRetiroAhora            |    105 |
+| #CuartoRetiroDel10xCiento     |    104 |
+| #Titularidaddocente2021       |     99 |
+| #CuartoRetiro                 |     85 |
+| #4toRetiro                    |     56 |
+| #FuerzaAbuelaConCuartoRetiro  |     54 |
+| #BoricHambreYMiseriaParaChile |     29 |
+| #Chile                        |     28 |
+| #SichelPresidente             |     28 |
+| #BoricNoSeLaPuede             |     27 |
+| #BoricCandidatoDelPC          |     24 |
+| #ContigoCHV                   |     24 |
+| #eleccionChile                |     23 |
+| #eleccionesnoviembre          |     23 |
+| #presidenciales2021           |     23 |
+| #DebateLT                     |     22 |
+| #elecciones2021               |     22 |
+| #gabrielboric                 |     22 |
+| #presidenteGabrielBORIC       |     22 |
 
 # Cuentas
 
