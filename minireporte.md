@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-11 01:12:46
+Chile. Fecha del reporte: 2021-11-12 01:13:02
 
 # Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| #BoricAcosador                |    136 |
-| #CuartoRetiroAhora            |    105 |
-| #CuartoRetiroDel10xCiento     |    104 |
-| #Titularidaddocente2021       |     99 |
-| #CuartoRetiro                 |     85 |
-| #4toRetiro                    |     56 |
-| #FuerzaAbuelaConCuartoRetiro  |     54 |
-| #BoricHambreYMiseriaParaChile |     29 |
-| #Chile                        |     28 |
-| #SichelPresidente             |     28 |
-| #BoricNoSeLaPuede             |     27 |
-| #BoricCandidatoDelPC          |     24 |
-| #ContigoCHV                   |     24 |
-| #eleccionChile                |     23 |
-| #eleccionesnoviembre          |     23 |
-| #presidenciales2021           |     23 |
-| #DebateLT                     |     22 |
-| #elecciones2021               |     22 |
-| #gabrielboric                 |     22 |
-| #presidenteGabrielBORIC       |     22 |
+| #boricosas                    |    204 |
+| #BoricAcosador                |    167 |
+| #Titularidaddocente2021       |    120 |
+| #CuartoRetiroDel10xCiento     |     68 |
+| #ConSichelSePuede             |     57 |
+| #CuartoRetiroAhora            |     52 |
+| #CuartoRetiro                 |     41 |
+| #TigrayMassArrests            |     37 |
+| #4toRetiro                    |     36 |
+| #FuerzaAbuelaConCuartoRetiro  |     36 |
+| #BoricNoSeLaPuede             |     34 |
+| #ColusionDelGas               |     32 |
+| #StopTigrayanHate             |     31 |
+| #ExtensiónLeyesMaternales     |     29 |
+| #LaMaternidadSeCastigaEnChile |     29 |
+| #LosNiñosPrimero              |     29 |
+| #BoricHambreYMiseriaParaChile |     26 |
+| #ContigoCHV                   |     26 |
+| #BoricCandidatoDelPC          |     25 |
+| #BoricPresidente              |     25 |
 
 # Cuentas
 
