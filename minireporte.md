@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-12 01:13:02
+Chile. Fecha del reporte: 2021-11-15 01:11:39
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| #boricosas                    |    204 |
-| #BoricAcosador                |    167 |
-| #Titularidaddocente2021       |    120 |
-| #CuartoRetiroDel10xCiento     |     68 |
-| #ConSichelSePuede             |     57 |
-| #CuartoRetiroAhora            |     52 |
-| #CuartoRetiro                 |     41 |
-| #TigrayMassArrests            |     37 |
-| #4toRetiro                    |     36 |
-| #FuerzaAbuelaConCuartoRetiro  |     36 |
-| #BoricNoSeLaPuede             |     34 |
-| #ColusionDelGas               |     32 |
-| #StopTigrayanHate             |     31 |
-| #ExtensiónLeyesMaternales     |     29 |
-| #LaMaternidadSeCastigaEnChile |     29 |
-| #LosNiñosPrimero              |     29 |
-| #BoricHambreYMiseriaParaChile |     26 |
-| #ContigoCHV                   |     26 |
-| #BoricCandidatoDelPC          |     25 |
-| #BoricPresidente              |     25 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #segundoanticipoRRVV         |    167 |
+| #CuartoRetiroDel10xCiento    |     73 |
+| #KastPresidente2022          |     42 |
+| #ParisiEnDebateAnatel        |     42 |
+| #Chile                       |     40 |
+| #CuartoRetiroAhora           |     40 |
+| #CuartoRetiro10xCiento       |     39 |
+| #SegundoAnticipoRRVV         |     37 |
+| #FuerzaAbuelaConCuartoRetiro |     35 |
+| #BoricAcosador               |     34 |
+| #4toretiro                   |     33 |
+| #CuartoRetiroYa              |     33 |
+| #CuartoRetiroOaLacalle       |     32 |
+| #cuartoretiroSinLetraChica   |     31 |
+| #el4toretiroesnuestro        |     31 |
+| #MeUnoConBoric               |     31 |
+| #KastVaPorLaPaz              |     30 |
+| #SiempreEsHoy                |     28 |
+| #ContigoCHV                  |     27 |
+| #15NCuba                     |     26 |
 
 # Cuentas
 
