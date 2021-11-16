@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-15 01:11:39
+Chile. Fecha del reporte: 2021-11-16 01:12:26
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #segundoanticipoRRVV         |    167 |
-| #CuartoRetiroDel10xCiento    |     73 |
-| #KastPresidente2022          |     42 |
-| #ParisiEnDebateAnatel        |     42 |
-| #Chile                       |     40 |
-| #CuartoRetiroAhora           |     40 |
-| #CuartoRetiro10xCiento       |     39 |
-| #SegundoAnticipoRRVV         |     37 |
+| #segundoanticipoRRVV         |   1089 |
+| #DebatePresidencial2021      |    335 |
+| #150UFsincuotas              |    141 |
+| #ParisiA2vuelta              |    120 |
+| #DebateAnatel2021            |    111 |
+| #ChileVotaKast               |    106 |
+| #BoricEnPrimeraVuelta        |    103 |
+| #ConSichelSePuede            |     59 |
+| #ContigoCHV                  |     45 |
+| #MeUnoConBoric               |     42 |
+| #15NCuba                     |     39 |
+| #CongresoAprueboDignidad     |     39 |
 | #FuerzaAbuelaConCuartoRetiro |     35 |
 | #BoricAcosador               |     34 |
-| #4toretiro                   |     33 |
-| #CuartoRetiroYa              |     33 |
-| #CuartoRetiroOaLacalle       |     32 |
-| #cuartoretiroSinLetraChica   |     31 |
-| #el4toretiroesnuestro        |     31 |
-| #MeUnoConBoric               |     31 |
-| #KastVaPorLaPaz              |     30 |
-| #SiempreEsHoy                |     28 |
-| #ContigoCHV                  |     27 |
-| #15NCuba                     |     26 |
+| #BoricPresidente             |     33 |
+| #Chile                       |     33 |
+| #ParisiEnDebateAnatel        |     33 |
+| #CuartoRetiroDel10xCiento    |     30 |
+| #KastPresidente2022          |     30 |
+| #SiempreEsHoy                |     30 |
 
 # Cuentas
 
