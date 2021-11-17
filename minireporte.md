@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-16 01:12:26
+Chile. Fecha del reporte: 2021-11-17 01:14:56
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #segundoanticipoRRVV         |   1089 |
-| #DebatePresidencial2021      |    335 |
-| #150UFsincuotas              |    141 |
-| #ParisiA2vuelta              |    120 |
-| #DebateAnatel2021            |    111 |
-| #ChileVotaKast               |    106 |
-| #BoricEnPrimeraVuelta        |    103 |
-| #ConSichelSePuede            |     59 |
-| #ContigoCHV                  |     45 |
-| #MeUnoConBoric               |     42 |
-| #15NCuba                     |     39 |
-| #CongresoAprueboDignidad     |     39 |
-| #FuerzaAbuelaConCuartoRetiro |     35 |
-| #BoricAcosador               |     34 |
-| #BoricPresidente             |     33 |
-| #Chile                       |     33 |
-| #ParisiEnDebateAnatel        |     33 |
-| #CuartoRetiroDel10xCiento    |     30 |
-| #KastPresidente2022          |     30 |
-| #SiempreEsHoy                |     30 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| #segundoanticipoRRVV            |    421 |
+| #150UFsincuotas                 |    144 |
+| #sichelhizotrampa               |     77 |
+| #AcusaciónConstitucional        |     65 |
+| #SichelHizoTrampa               |     56 |
+| #DebatePresidencial2021         |     52 |
+| #BoricEnPrimeraVuelta           |     43 |
+| #AcusacionConstitucionalAPiñera |     40 |
+| #KastPresidente2022             |     39 |
+| #DebateAnatel2021               |     38 |
+| #ChileVotaKast                  |     35 |
+| #CuartoRetiroAhora              |     33 |
+| #vitaluciosyfamiliasivotamos    |     32 |
+| #SiempreEsHoy                   |     31 |
+| #Elecciones2021CL               |     27 |
+| #boricacosador                  |     26 |
+| #KastLeDaEsperanzaAChile        |     26 |
+| #florcitamotudaacosador         |     25 |
+| #lastesis                       |     25 |
+| #SichelPresidente               |     25 |
 
 # Cuentas
 
