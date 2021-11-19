@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-18 01:12:04
+Chile. Fecha del reporte: 2021-11-19 01:11:58
 
 # Hashtags más populares
 
 | datos                     | Cuenta |
 |:--------------------------|-------:|
-| #ParisiQueSomosMillones   |    187 |
-| #segundoanticipoRRVV      |    174 |
-| #OlivaFraudeAmplio        |    140 |
-| #SichelHizoTrampa         |     94 |
-| #150UFsincuotas           |     49 |
-| #KastPresidente2022       |     44 |
-| #BoricAcosador            |     41 |
-| #BoricMiente              |     41 |
-| #CuartoRetiroDel10xCiento |     40 |
-| #1deuna                   |     35 |
-| #SiempreEsHoy             |     34 |
-| #ContigoCHV               |     30 |
-| #AtreveteConKast          |     24 |
-| #SichelPresidente         |     24 |
-| #ConTorpedoNoSeDebate     |     23 |
-| #DebateAnatel2021         |     23 |
-| #DobleOpuesto             |     22 |
-| #Elecciones2021CL         |     22 |
-| #KarinaOliva              |     21 |
-| #DebatePresidencial2021   |     20 |
+| #segundoanticipoRRVV      |    199 |
+| #DebatePresidencial2021   |    159 |
+| #boricacosadorymitomano   |    128 |
+| #boricacosador            |    124 |
+| #karinaolivasenadora      |    118 |
+| #FiestaDeLosAtreviDOS     |     54 |
+| #BoricPresidente          |     49 |
+| #ContigoCHV               |     36 |
+| #KastPresidente2022       |     31 |
+| #Elecciones2021CL         |     27 |
+| #BoricEnPrimeraVuelta     |     23 |
+| #CuartoRetiroDel10xCiento |     23 |
+| #SichelPresidente         |     22 |
+| #150UFsincuotas           |     21 |
+| #MuchoGustoMega           |     21 |
+| #CongresoAprueboDignidad  |     20 |
+| #DobleOpuesto             |     20 |
+| #ConSichelSePuede         |     19 |
+| #ParisiQueSomosMillones   |     18 |
+| #Chile                    |     17 |
 
 # Cuentas
 
