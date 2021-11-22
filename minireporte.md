@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-19 01:11:58
+Chile. Fecha del reporte: 2021-11-22 01:13:11
 
 # Hashtags más populares
 
-| datos                     | Cuenta |
-|:--------------------------|-------:|
-| #segundoanticipoRRVV      |    199 |
-| #DebatePresidencial2021   |    159 |
-| #boricacosadorymitomano   |    128 |
-| #boricacosador            |    124 |
-| #karinaolivasenadora      |    118 |
-| #FiestaDeLosAtreviDOS     |     54 |
-| #BoricPresidente          |     49 |
-| #ContigoCHV               |     36 |
-| #KastPresidente2022       |     31 |
-| #Elecciones2021CL         |     27 |
-| #BoricEnPrimeraVuelta     |     23 |
-| #CuartoRetiroDel10xCiento |     23 |
-| #SichelPresidente         |     22 |
-| #150UFsincuotas           |     21 |
-| #MuchoGustoMega           |     21 |
-| #CongresoAprueboDignidad  |     20 |
-| #DobleOpuesto             |     20 |
-| #ConSichelSePuede         |     19 |
-| #ParisiQueSomosMillones   |     18 |
-| #Chile                    |     17 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| #Elecciones2021CL          |    270 |
+| #KastPresidente2022        |     71 |
+| #AlexEsLaLuchaDeLosPueblos |     60 |
+| #EleccionesChile2021       |     47 |
+| #segundoretiroRRVV         |     44 |
+| #BoricPresidente2022       |     36 |
+| #NuncaMasDerecha           |     36 |
+| #Chile                     |     32 |
+| #BoricEnPrimeraVuelta      |     25 |
+| #EleccionesCHVCNN          |     25 |
+| #ContigoCHV                |     19 |
+| #BoricPresidente           |     18 |
+| #DobleOpuesto              |     17 |
+| #KastPresidente            |     17 |
+| #segundoanticipoRRVV       |     17 |
+| #Arica                     |     15 |
+| #ChileElige                |     15 |
+| #CuartoRetiroDel10xCiento  |     15 |
+| #Elecciones2021            |     15 |
+| #CuartoRetiro10xCiento     |     14 |
 
 # Cuentas
 
