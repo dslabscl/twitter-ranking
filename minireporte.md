@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-22 01:13:11
+Chile. Fecha del reporte: 2021-11-23 01:12:26
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| #Elecciones2021CL          |    270 |
-| #KastPresidente2022        |     71 |
-| #AlexEsLaLuchaDeLosPueblos |     60 |
-| #EleccionesChile2021       |     47 |
-| #segundoretiroRRVV         |     44 |
-| #BoricPresidente2022       |     36 |
-| #NuncaMasDerecha           |     36 |
-| #Chile                     |     32 |
-| #BoricEnPrimeraVuelta      |     25 |
-| #EleccionesCHVCNN          |     25 |
-| #ContigoCHV                |     19 |
-| #BoricPresidente           |     18 |
-| #DobleOpuesto              |     17 |
-| #KastPresidente            |     17 |
-| #segundoanticipoRRVV       |     17 |
-| #Arica                     |     15 |
-| #ChileElige                |     15 |
-| #CuartoRetiroDel10xCiento  |     15 |
-| #Elecciones2021            |     15 |
-| #CuartoRetiro10xCiento     |     14 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #colegiodeprofesores         |     96 |
+| #Elecciones2021CL            |     69 |
+| #KastPresidente2022          |     63 |
+| #AlexEsLaLuchaDeLosPueblos   |     54 |
+| #BoricPresidente2022         |     38 |
+| #4toretiro                   |     34 |
+| #CuartoRetiroDel10xCiento    |     26 |
+| #BoricNoSeLaPuede            |     23 |
+| #EleccionesChile2021         |     22 |
+| #ElVolteretas                |     20 |
+| #PermanenciaDefinitiva       |     20 |
+| #Chile                       |     19 |
+| #Arica                       |     17 |
+| #Regularizacion              |     17 |
+| #VisaSujetaAContrato         |     17 |
+| #VisaTemporaria              |     17 |
+| #ContigoCHV                  |     16 |
+| #DobleOpuesto                |     16 |
+| #FuerzaAbuelaConCuartoRetiro |     16 |
+| #CuartoRetiro                |     15 |
 
 # Cuentas
 
