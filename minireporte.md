@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-23 01:12:26
+Chile. Fecha del reporte: 2021-11-24 01:11:29
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #colegiodeprofesores         |     96 |
-| #Elecciones2021CL            |     69 |
-| #KastPresidente2022          |     63 |
-| #AlexEsLaLuchaDeLosPueblos   |     54 |
-| #BoricPresidente2022         |     38 |
-| #4toretiro                   |     34 |
-| #CuartoRetiroDel10xCiento    |     26 |
-| #BoricNoSeLaPuede            |     23 |
-| #EleccionesChile2021         |     22 |
-| #ElVolteretas                |     20 |
-| #PermanenciaDefinitiva       |     20 |
-| #Chile                       |     19 |
-| #Arica                       |     17 |
-| #Regularizacion              |     17 |
-| #VisaSujetaAContrato         |     17 |
-| #VisaTemporaria              |     17 |
-| #ContigoCHV                  |     16 |
-| #DobleOpuesto                |     16 |
-| #FuerzaAbuelaConCuartoRetiro |     16 |
-| #CuartoRetiro                |     15 |
+| #BoricPresidente2022         |     91 |
+| #PermanenciaDefinitiva       |     63 |
+| #colegiodeprofesores         |     58 |
+| #CuartoRetiroAhora           |     52 |
+| #CuartoRetiroDel10xCiento    |     51 |
+| #FuerzaAbuelaConCuartoRetiro |     50 |
+| #CuartoRetiro                |     46 |
+| #CuartoRetiroYa              |     44 |
+| #Elecciones2021CL            |     44 |
+| #BoricPresidente             |     42 |
+| #KastPresidente2022          |     41 |
+| #VisaSujetaAContrato         |     37 |
+| #VisaTemporaria              |     37 |
+| #BoricMiente                 |     32 |
+| #distrito8                   |     31 |
+| #Regularizacion              |     31 |
+| #SinAlexNoHayDialogo         |     31 |
+| #cesarLEIVA                  |     30 |
+| #Chile                       |     30 |
+| #gabrielsilver               |     30 |
 
 # Cuentas
 
