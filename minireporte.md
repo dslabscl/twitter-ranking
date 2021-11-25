@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-24 01:11:29
+Chile. Fecha del reporte: 2021-11-25 01:12:46
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #BoricPresidente2022         |     91 |
-| #PermanenciaDefinitiva       |     63 |
-| #colegiodeprofesores         |     58 |
-| #CuartoRetiroAhora           |     52 |
-| #CuartoRetiroDel10xCiento    |     51 |
-| #FuerzaAbuelaConCuartoRetiro |     50 |
-| #CuartoRetiro                |     46 |
-| #CuartoRetiroYa              |     44 |
-| #Elecciones2021CL            |     44 |
-| #BoricPresidente             |     42 |
-| #KastPresidente2022          |     41 |
-| #VisaSujetaAContrato         |     37 |
-| #VisaTemporaria              |     37 |
-| #BoricMiente                 |     32 |
-| #distrito8                   |     31 |
-| #Regularizacion              |     31 |
-| #SinAlexNoHayDialogo         |     31 |
-| #cesarLEIVA                  |     30 |
-| #Chile                       |     30 |
-| #gabrielsilver               |     30 |
+| datos                             | Cuenta |
+|:----------------------------------|-------:|
+| #AbortoEsAsesinato                |    114 |
+| #CuartoRetiroAhora                |    101 |
+| #CuartoRetiroAntesDeSegundaVuelta |    100 |
+| #CuartoRetiroDel10xCiento         |     96 |
+| #CuartoRetiro                     |     93 |
+| #FuerzaAbuelaConCuartoRetiro      |     91 |
+| #KastPresidente2022               |     75 |
+| #BoricPresidente                  |     67 |
+| #AlexEsLaLuchaDeLosPueblos        |     65 |
+| #PermanenciaDefinitiva            |     47 |
+| #ContigoCHV                       |     46 |
+| #BoricPresidente2022              |     40 |
+| #BoricMiente                      |     37 |
+| #BoricAcosador                    |     34 |
+| #Elecciones2021CL                 |     27 |
+| #Chile                            |     25 |
+| #LosMatonesDeBoric                |     24 |
+| #BoricAbusador                    |     23 |
+| #GabrielNosUne                    |     23 |
+| #colegiodeprofesores              |     22 |
 
 # Cuentas
 
