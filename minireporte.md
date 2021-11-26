@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-25 01:12:46
+Chile. Fecha del reporte: 2021-11-26 01:11:14
 
 # Hashtags más populares
 
 | datos                             | Cuenta |
 |:----------------------------------|-------:|
-| #AbortoEsAsesinato                |    114 |
-| #CuartoRetiroAhora                |    101 |
-| #CuartoRetiroAntesDeSegundaVuelta |    100 |
-| #CuartoRetiroDel10xCiento         |     96 |
-| #CuartoRetiro                     |     93 |
-| #FuerzaAbuelaConCuartoRetiro      |     91 |
-| #KastPresidente2022               |     75 |
-| #BoricPresidente                  |     67 |
-| #AlexEsLaLuchaDeLosPueblos        |     65 |
-| #PermanenciaDefinitiva            |     47 |
-| #ContigoCHV                       |     46 |
-| #BoricPresidente2022              |     40 |
-| #BoricMiente                      |     37 |
-| #BoricAcosador                    |     34 |
-| #Elecciones2021CL                 |     27 |
-| #Chile                            |     25 |
-| #LosMatonesDeBoric                |     24 |
-| #BoricAbusador                    |     23 |
-| #GabrielNosUne                    |     23 |
-| #colegiodeprofesores              |     22 |
+| #Kast2022                         |    128 |
+| #BoricPresidente                  |    105 |
+| #AlexEsLaLuchaDeLosPueblos        |     82 |
+| #CuartoRetiroAntesDeSegundaVuelta |     73 |
+| #CuartoRetiroAhora                |     69 |
+| #BoricPresidente2022              |     52 |
+| #KastPresidente2022               |     52 |
+| #ContigoCHV                       |     50 |
+| #CuartoRetiroDel10xCiento         |     46 |
+| #FuerzaAbuelaConCuartoRetiro      |     43 |
+| #CuartoRetiro                     |     42 |
+| #AbortoEsAsesinato                |     41 |
+| #PermanenciaDefinitiva            |     38 |
+| #BoricAcosador                    |     35 |
+| #BoricMiente                      |     35 |
+| #Chile                            |     35 |
+| #TodosKast                        |     29 |
+| #Elecciones2021CL                 |     25 |
+| #Boric                            |     24 |
+| #KastPresidente                   |     24 |
 
 # Cuentas
 
