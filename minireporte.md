@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-11-30 01:20:24
+Chile. Fecha del reporte: 2021-12-01 01:26:26
 
 # Hashtags más populares
 
 | datos                             | Cuenta |
 |:----------------------------------|-------:|
-| #BoricPresidente                  |    125 |
-| #CuartoRetiroAntesDeSegundaVuelta |     65 |
-| #Chile                            |     56 |
-| #BoricPresidente2022              |     46 |
-| #21N                              |     39 |
-| #KastPresidente2022               |     38 |
-| #NoAlComunismo                    |     31 |
-| #asesinadas                       |     26 |
-| #comunismo                        |     26 |
-| #ContigoCHV                       |     26 |
-| #Elecciones2021CL                 |     26 |
-| #genocida                         |     26 |
-| #UnionEuropea                     |     26 |
-| #KastEsperanzaParaChile           |     24 |
-| #CuartoRetiroDel10xCiento         |     21 |
-| #BoricAcosador                    |     20 |
-| #Seguimos                         |     20 |
-| #Barinas                          |     19 |
-| #Kast                             |     19 |
-| #KastPresidente                   |     19 |
+| #KastNoSeVende                    |    295 |
+| #CuartoRetiroAntesDeSegundaVuelta |    171 |
+| #BoricPresidente                  |     95 |
+| #AlexEsLaLuchaDeLosPueblos        |     79 |
+| #CuartoRetiro                     |     69 |
+| #KastPresidente2022               |     69 |
+| #BoricPresidente2022              |     54 |
+| #boric                            |     39 |
+| #BoricMienteYSeNota               |     39 |
+| #BoricMiente                      |     37 |
+| #BoricEsComunista                 |     29 |
+| #IFELaboral                       |     28 |
+| #KastEsperanzaParaChile           |     28 |
+| #cuartoretirourgente              |     25 |
+| #Elecciones2021CL                 |     24 |
+| #Boric                            |     23 |
+| #KastPresidente                   |     22 |
+| #MujeresPorKast                   |     22 |
+| #Chile                            |     21 |
+| #BoricAcosador                    |     19 |
 
 # Cuentas
 
