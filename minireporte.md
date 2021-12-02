@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-01 01:26:26
+Chile. Fecha del reporte: 2021-12-02 01:13:51
 
 # Hashtags más populares
 
 | datos                             | Cuenta |
 |:----------------------------------|-------:|
-| #KastNoSeVende                    |    295 |
-| #CuartoRetiroAntesDeSegundaVuelta |    171 |
-| #BoricPresidente                  |     95 |
-| #AlexEsLaLuchaDeLosPueblos        |     79 |
-| #CuartoRetiro                     |     69 |
-| #KastPresidente2022               |     69 |
-| #BoricPresidente2022              |     54 |
-| #boric                            |     39 |
-| #BoricMienteYSeNota               |     39 |
-| #BoricMiente                      |     37 |
-| #BoricEsComunista                 |     29 |
-| #IFELaboral                       |     28 |
-| #KastEsperanzaParaChile           |     28 |
-| #cuartoretirourgente              |     25 |
-| #Elecciones2021CL                 |     24 |
-| #Boric                            |     23 |
-| #KastPresidente                   |     22 |
-| #MujeresPorKast                   |     22 |
-| #Chile                            |     21 |
-| #BoricAcosador                    |     19 |
+| #CuartoRetiroAntesDeSegundaVuelta |    226 |
+| #CuartoRetiro                     |    111 |
+| #BoricPresidente                  |    104 |
+| #4toretiro                        |     87 |
+| #COIforTigray                     |     59 |
+| #KastPresidente2022               |     54 |
+| #BoricPresidente2022              |     41 |
+| #Boric                            |     31 |
+| #TigrayGenocide                   |     28 |
+| #CuartoRetiroDel10xCiento         |     27 |
+| #KastEsperanzaParaChile           |     27 |
+| #Chile                            |     24 |
+| #BoricMiente                      |     20 |
+| #CuartoRetiroAhora                |     20 |
+| #CuartoRetiro10xCiento            |     18 |
+| #DobleOpuesto                     |     18 |
+| #Arica                            |     17 |
+| #BoricMienteYSeNota               |     16 |
+| #BoricNoSeLaPuede                 |     15 |
+| #CUARTORETIROURGENTE              |     15 |
 
 # Cuentas
 
