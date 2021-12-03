@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-02 01:13:51
+Chile. Fecha del reporte: 2021-12-03 01:13:01
 
 # Hashtags más populares
 
 | datos                             | Cuenta |
 |:----------------------------------|-------:|
-| #CuartoRetiroAntesDeSegundaVuelta |    226 |
-| #CuartoRetiro                     |    111 |
-| #BoricPresidente                  |    104 |
-| #4toretiro                        |     87 |
-| #COIforTigray                     |     59 |
-| #KastPresidente2022               |     54 |
-| #BoricPresidente2022              |     41 |
-| #Boric                            |     31 |
-| #TigrayGenocide                   |     28 |
-| #CuartoRetiroDel10xCiento         |     27 |
-| #KastEsperanzaParaChile           |     27 |
-| #Chile                            |     24 |
-| #BoricMiente                      |     20 |
-| #CuartoRetiroAhora                |     20 |
-| #CuartoRetiro10xCiento            |     18 |
-| #DobleOpuesto                     |     18 |
-| #Arica                            |     17 |
-| #BoricMienteYSeNota               |     16 |
-| #BoricNoSeLaPuede                 |     15 |
-| #CUARTORETIROURGENTE              |     15 |
+| #BoricPresidente                  |    114 |
+| #CuartoRetiroAntesDeSegundaVuelta |    101 |
+| #BoricNoSeAtreveDebatir           |     84 |
+| #CuartoRetiro                     |     62 |
+| #KastPresidente2022               |     61 |
+| #COIforTigray                     |     50 |
+| #CuartoRetiro10xCiento            |     48 |
+| #BoricPresidente2022              |     45 |
+| #1MillondePuertasxBoric           |     38 |
+| #CuartoRetiroDel10xCiento         |     38 |
+| #ElGallinas                       |     37 |
+| #Boric                            |     24 |
+| #4toretiro                        |     22 |
+| #BoricNoSeLaPuede                 |     22 |
+| #Chile                            |     22 |
+| #CuartoRetiroAhora                |     22 |
+| #cuartoretirourgente              |     22 |
+| #CuartoRetiroYa                   |     21 |
+| #AlexSaabLealSiempre              |     18 |
+| #BoricCaraDeRAJA                  |     17 |
 
 # Cuentas
 
