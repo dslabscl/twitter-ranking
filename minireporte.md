@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-03 01:13:01
+Chile. Fecha del reporte: 2021-12-06 01:17:29
 
 # Hashtags más populares
 
 | datos                             | Cuenta |
 |:----------------------------------|-------:|
-| #BoricPresidente                  |    114 |
-| #CuartoRetiroAntesDeSegundaVuelta |    101 |
-| #BoricNoSeAtreveDebatir           |     84 |
-| #CuartoRetiro                     |     62 |
-| #KastPresidente2022               |     61 |
-| #COIforTigray                     |     50 |
-| #CuartoRetiro10xCiento            |     48 |
-| #BoricPresidente2022              |     45 |
-| #1MillondePuertasxBoric           |     38 |
-| #CuartoRetiroDel10xCiento         |     38 |
-| #ElGallinas                       |     37 |
-| #Boric                            |     24 |
-| #4toretiro                        |     22 |
-| #BoricNoSeLaPuede                 |     22 |
-| #Chile                            |     22 |
-| #CuartoRetiroAhora                |     22 |
-| #cuartoretirourgente              |     22 |
-| #CuartoRetiroYa                   |     21 |
-| #AlexSaabLealSiempre              |     18 |
-| #BoricCaraDeRAJA                  |     17 |
+| #BoricPresidente                  |    177 |
+| #bonocompensatorio                |    152 |
+| #CuartoRetiro                     |    132 |
+| #ifeuniversal                     |    127 |
+| #creditofiscal                    |    111 |
+| #NoAlcanzoALeer                   |     68 |
+| #1MillondePuertasxBoric           |     63 |
+| #BoricPresidente2022              |     62 |
+| #KastPresidente2022               |     44 |
+| #QuintoRetiro                     |     42 |
+| #COIforTigray                     |     39 |
+| #FuerzaAbuelaConQuintoRetiro      |     39 |
+| #RutaEsperanzaxBoric              |     39 |
+| #BoricMiente                      |     37 |
+| #ParisiKastEnBadboys              |     37 |
+| #CuartoRetiroDel10xCiento         |     35 |
+| #Boric                            |     33 |
+| #CuartoRetiroAntesDeSegundaVuelta |     32 |
+| #CuartoRetiroAhora                |     31 |
+| #FuerzaAbuelaCon100xCiento        |     31 |
 
 # Cuentas
 
