@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-06 01:17:29
+Chile. Fecha del reporte: 2021-12-07 01:18:10
 
 # Hashtags más populares
 
-| datos                             | Cuenta |
-|:----------------------------------|-------:|
-| #BoricPresidente                  |    177 |
-| #bonocompensatorio                |    152 |
-| #CuartoRetiro                     |    132 |
-| #ifeuniversal                     |    127 |
-| #creditofiscal                    |    111 |
-| #NoAlcanzoALeer                   |     68 |
-| #1MillondePuertasxBoric           |     63 |
-| #BoricPresidente2022              |     62 |
-| #KastPresidente2022               |     44 |
-| #QuintoRetiro                     |     42 |
-| #COIforTigray                     |     39 |
-| #FuerzaAbuelaConQuintoRetiro      |     39 |
-| #RutaEsperanzaxBoric              |     39 |
-| #BoricMiente                      |     37 |
-| #ParisiKastEnBadboys              |     37 |
-| #CuartoRetiroDel10xCiento         |     35 |
-| #Boric                            |     33 |
-| #CuartoRetiroAntesDeSegundaVuelta |     32 |
-| #CuartoRetiroAhora                |     31 |
-| #FuerzaAbuelaCon100xCiento        |     31 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #BoricPresidente             |    132 |
+| #QuintoRetiro                |     93 |
+| #TrenesParaChile             |     79 |
+| #FuerzaAbuelaCon100xCiento   |     59 |
+| #KastPresidente2022          |     57 |
+| #FuerzaAbuelaConQuintoRetiro |     55 |
+| #CuartoRetiro                |     53 |
+| #5toretiro                   |     51 |
+| #fuerzaabuelaconcuartoretiro |     48 |
+| #BoricPresidente2022         |     46 |
+| #bonocompensatorio           |     32 |
+| #LasCarasdelamoneda          |     26 |
+| #Chile                       |     22 |
+| #ParaVivirMejor              |     22 |
+| #BoricNoSeAtreveDebatir      |     21 |
+| #COIforTigray                |     20 |
+| #KastEnMega                  |     20 |
+| #QuintoRetiro100xCiento      |     20 |
+| #BadBoys                     |     19 |
+| #BoricAcosaMujeres           |     19 |
 
 # Cuentas
 
