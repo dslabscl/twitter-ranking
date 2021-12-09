@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-08 01:16:04
+Chile. Fecha del reporte: 2021-12-09 01:15:04
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #QuintoRetiro                |    180 |
-| #FuerzaAbuelaConQuintoRetiro |    150 |
-| #BoricPresidente             |    125 |
-| #QuintoRetiroAhora           |    101 |
-| #QuintoRetiro100xCiento      |     98 |
-| #FuerzaAbuelaCon100xCiento   |     97 |
-| #TrenesParaChile             |     46 |
-| #BadBoys                     |     45 |
-| #KastPresidente2022          |     43 |
-| #MatrimonioIgualitario       |     34 |
-| #AnimalitosxBoric            |     31 |
-| #bonocompensatorio           |     26 |
-| #ElBiblias                   |     26 |
-| #BoricParaVivirMejor         |     23 |
-| #BoricPresidente2022         |     21 |
-| #BoricMiente                 |     20 |
-| #Boric                       |     18 |
-| #Chile                       |     18 |
-| #RutaEsperanzaxBoric         |     18 |
-| #Arica                       |     17 |
+| #BoricPresidente             |    101 |
+| #QuintoRetiro                |     93 |
+| #QuintoRetiroAhora           |     84 |
+| #IzkiaNoAndaSola             |     64 |
+| #KastPresidente2022          |     58 |
+| #IzkiaCorrupta               |     57 |
+| #BoricPresidentedeChile2022  |     52 |
+| #FuerzaAbuelaConQuintoRetiro |     48 |
+| #ElBiblias                   |     32 |
+| #LasCarasdelamoneda          |     25 |
+| #TrenesParaChile             |     25 |
+| #BoricPresidente2022         |     23 |
+| #bonocompensatorio           |     22 |
+| #PensiónGarantizadaUniversal |     20 |
+| #QuintoRetiro100xCiento      |     19 |
+| #StopDroneAttacks            |     19 |
+| #Arica                       |     18 |
+| #BoricMiente                 |     18 |
+| #MatrimonioIgualitario       |     18 |
+| #Chile                       |     16 |
 
 # Cuentas
 
