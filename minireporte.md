@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-09 01:15:04
+Chile. Fecha del reporte: 2021-12-10 01:15:21
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #BoricPresidente             |    101 |
-| #QuintoRetiro                |     93 |
-| #QuintoRetiroAhora           |     84 |
-| #IzkiaNoAndaSola             |     64 |
-| #KastPresidente2022          |     58 |
-| #IzkiaCorrupta               |     57 |
-| #BoricPresidentedeChile2022  |     52 |
-| #FuerzaAbuelaConQuintoRetiro |     48 |
-| #ElBiblias                   |     32 |
-| #LasCarasdelamoneda          |     25 |
-| #TrenesParaChile             |     25 |
-| #BoricPresidente2022         |     23 |
-| #bonocompensatorio           |     22 |
-| #PensiónGarantizadaUniversal |     20 |
-| #QuintoRetiro100xCiento      |     19 |
-| #StopDroneAttacks            |     19 |
-| #Arica                       |     18 |
-| #BoricMiente                 |     18 |
-| #MatrimonioIgualitario       |     18 |
-| #Chile                       |     16 |
+| #FuerzaAbuelaConQuintoRetiro |    164 |
+| #QuintoRetiro                |    129 |
+| #FuerzaAbuelaCon100xCiento   |    108 |
+| #BoricPresidente             |     78 |
+| #AnatelSinMatamala           |     61 |
+| #EsLaHoraDeKast              |     46 |
+| #BoricPresidentedeChile2022  |     45 |
+| #ElMostradorMiente           |     45 |
+| #KastPresidente2022          |     43 |
+| #CandidatoLlegoTuHora        |     27 |
+| #IzkiaCorrupta               |     26 |
+| #BoricMiente                 |     23 |
+| #BoricMienteYSeNota          |     17 |
+| #KastOComunismo              |     17 |
+| #MatrimonioIgualitario       |     17 |
+| #Arica                       |     16 |
+| #AtreveteConKast             |     16 |
+| #BadBoys                     |     16 |
+| #BoricNoSeAtreveDebatir      |     16 |
+| #BoricPresidente2022         |     16 |
 
 # Cuentas
 
