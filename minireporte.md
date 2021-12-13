@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-10 01:15:21
+Chile. Fecha del reporte: 2021-12-13 01:15:03
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #FuerzaAbuelaConQuintoRetiro |    164 |
-| #QuintoRetiro                |    129 |
-| #FuerzaAbuelaCon100xCiento   |    108 |
-| #BoricPresidente             |     78 |
-| #AnatelSinMatamala           |     61 |
-| #EsLaHoraDeKast              |     46 |
-| #BoricPresidentedeChile2022  |     45 |
-| #ElMostradorMiente           |     45 |
-| #KastPresidente2022          |     43 |
-| #CandidatoLlegoTuHora        |     27 |
-| #IzkiaCorrupta               |     26 |
-| #BoricMiente                 |     23 |
-| #BoricMienteYSeNota          |     17 |
-| #KastOComunismo              |     17 |
-| #MatrimonioIgualitario       |     17 |
-| #Arica                       |     16 |
-| #AtreveteConKast             |     16 |
-| #BadBoys                     |     16 |
-| #BoricNoSeAtreveDebatir      |     16 |
-| #BoricPresidente2022         |     16 |
+| #FuerzaAbuelaConQuintoRetiro |    230 |
+| #BoricPresidentedeChile2022  |    197 |
+| #SeLesQuemaElArbol           |     96 |
+| #QuintoRetiro                |     94 |
+| #FascistasPorBoric           |     86 |
+| #PanamaKast                  |     84 |
+| #BoricPresidente             |     70 |
+| #Vota1                       |     65 |
+| #cadem                       |     63 |
+| #KastPresidenteDeChile2022   |     50 |
+| #BoricAcosaMujeres           |     36 |
+| #MatonesDeBoric              |     33 |
+| #BoricPresidente2022         |     29 |
+| #KastMiente                  |     26 |
+| #Boric                       |     25 |
+| #KastPresidente2022          |     25 |
+| #QuintoRetiroAhora           |     23 |
+| #TerroristasXBoric           |     23 |
+| #Chile                       |     22 |
+| #KASTACOSADOR                |     22 |
 
 # Cuentas
 
