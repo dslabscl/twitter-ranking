@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-13 01:15:03
+Chile. Fecha del reporte: 2021-12-15 01:14:42
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #FuerzaAbuelaConQuintoRetiro |    230 |
-| #BoricPresidentedeChile2022  |    197 |
-| #SeLesQuemaElArbol           |     96 |
-| #QuintoRetiro                |     94 |
-| #FascistasPorBoric           |     86 |
-| #PanamaKast                  |     84 |
-| #BoricPresidente             |     70 |
-| #Vota1                       |     65 |
-| #cadem                       |     63 |
-| #KastPresidenteDeChile2022   |     50 |
-| #BoricAcosaMujeres           |     36 |
-| #MatonesDeBoric              |     33 |
-| #BoricPresidente2022         |     29 |
-| #KastMiente                  |     26 |
-| #Boric                       |     25 |
-| #KastPresidente2022          |     25 |
-| #QuintoRetiroAhora           |     23 |
-| #TerroristasXBoric           |     23 |
-| #Chile                       |     22 |
-| #KASTACOSADOR                |     22 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| #BadBoysProgramaBoric         |    304 |
+| #FuerzaAbuelaConQuintoRetiro  |    157 |
+| #BoricPresidentedeChile       |     92 |
+| #BoricMienteYSeNota           |     63 |
+| #BoricPresidente              |     53 |
+| #BoricAcosadorDeMujeres       |     50 |
+| #BoricHambreYMiseriaParaChile |     50 |
+| #TePillaronpoBorik            |     50 |
+| #KastAbreTusCuentas           |     48 |
+| #BoricPresidentedeChile2022   |     43 |
+| #Castro                       |     43 |
+| #DebateAnatel                 |     37 |
+| #ElMecheroHizoTrampa          |     37 |
+| #TodosSomosMarioVera          |     34 |
+| #QuintoRetiro                 |     33 |
+| #BoricMiente                  |     32 |
+| #KastPresidente2022           |     31 |
+| #Chile                        |     28 |
+| #QuintoRetiroAhora            |     27 |
+| #BoricNosUne                  |     26 |
 
 # Cuentas
 
