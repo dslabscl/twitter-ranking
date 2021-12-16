@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-15 01:14:42
+Chile. Fecha del reporte: 2021-12-16 01:14:28
 
 # Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| #BadBoysProgramaBoric         |    304 |
-| #FuerzaAbuelaConQuintoRetiro  |    157 |
-| #BoricPresidentedeChile       |     92 |
-| #BoricMienteYSeNota           |     63 |
-| #BoricPresidente              |     53 |
-| #BoricAcosadorDeMujeres       |     50 |
-| #BoricHambreYMiseriaParaChile |     50 |
-| #TePillaronpoBorik            |     50 |
-| #KastAbreTusCuentas           |     48 |
-| #BoricPresidentedeChile2022   |     43 |
-| #Castro                       |     43 |
-| #DebateAnatel                 |     37 |
-| #ElMecheroHizoTrampa          |     37 |
-| #TodosSomosMarioVera          |     34 |
-| #QuintoRetiro                 |     33 |
-| #BoricMiente                  |     32 |
-| #KastPresidente2022           |     31 |
-| #Chile                        |     28 |
-| #QuintoRetiroAhora            |     27 |
-| #BoricNosUne                  |     26 |
+| #FuerzaAbuelaConQuintoRetiro  |    289 |
+| #CuidadoConPinocho            |    179 |
+| #BoricPresidentedeChile       |    102 |
+| #BoricHambreParaChile         |     65 |
+| #cuartoretiro                 |     62 |
+| #FuerzaAbuelaCon100xCiento    |     62 |
+| #quintoretiro                 |     60 |
+| #BoricPresidente              |     59 |
+| #BadBoysProgramaBoric         |     51 |
+| #BoricPresidentedeChile2022   |     42 |
+| #KastPresidente2022           |     42 |
+| #BoricHambreYMiseriaParaChile |     39 |
+| #BoricMienteYSeNota           |     39 |
+| #BoricMiente                  |     30 |
+| #BoricAcosadorDeMujeres       |     25 |
+| #TePillaronpoBorik            |     25 |
+| #BoricPresidente2022          |     24 |
+| #ContigoCHV                   |     24 |
+| #DebateAnatel                 |     23 |
+| #Vota1VotaBoric               |     23 |
 
 # Cuentas
 
