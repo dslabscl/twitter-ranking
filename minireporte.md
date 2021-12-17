@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-16 01:14:28
+Chile. Fecha del reporte: 2021-12-17 01:17:21
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| #FuerzaAbuelaConQuintoRetiro  |    289 |
-| #CuidadoConPinocho            |    179 |
-| #BoricPresidentedeChile       |    102 |
-| #BoricHambreParaChile         |     65 |
-| #cuartoretiro                 |     62 |
-| #FuerzaAbuelaCon100xCiento    |     62 |
-| #quintoretiro                 |     60 |
-| #BoricPresidente              |     59 |
-| #BadBoysProgramaBoric         |     51 |
-| #BoricPresidentedeChile2022   |     42 |
-| #KastPresidente2022           |     42 |
-| #BoricHambreYMiseriaParaChile |     39 |
-| #BoricMienteYSeNota           |     39 |
-| #BoricMiente                  |     30 |
-| #BoricAcosadorDeMujeres       |     25 |
-| #TePillaronpoBorik            |     25 |
-| #BoricPresidente2022          |     24 |
-| #ContigoCHV                   |     24 |
-| #DebateAnatel                 |     23 |
-| #Vota1VotaBoric               |     23 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #FuerzaAbuelaConQuintoRetiro |    164 |
+| #BoricPresidentedeChile      |    123 |
+| #HumanRightsForOromia        |     61 |
+| #Castro                      |     57 |
+| #BoricPresidente             |     54 |
+| #BoricHambreParaChile        |     40 |
+| #KastPresidente2022          |     40 |
+| #Chile                       |     37 |
+| #LaFiestaDeChile             |     36 |
+| #EnChileNoHayEsclavos        |     31 |
+| #Elecciones2021CL            |     27 |
+| #KastPresidente              |     26 |
+| #Vota1VotaBoric              |     23 |
+| #ChileVotaKast               |     22 |
+| #MuchoGustoMega              |     22 |
+| #RT                          |     22 |
+| #Boric                       |     20 |
+| #BoricPresidentedeChile2022  |     19 |
+| #DebateAnatel                |     19 |
+| #Arica                       |     18 |
 
 # Cuentas
 
