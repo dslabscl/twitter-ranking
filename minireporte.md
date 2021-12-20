@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-17 01:17:21
+Chile. Fecha del reporte: 2021-12-20 01:17:43
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #FuerzaAbuelaConQuintoRetiro |    164 |
-| #BoricPresidentedeChile      |    123 |
-| #HumanRightsForOromia        |     61 |
-| #Castro                      |     57 |
-| #BoricPresidente             |     54 |
-| #BoricHambreParaChile        |     40 |
-| #KastPresidente2022          |     40 |
-| #Chile                       |     37 |
-| #LaFiestaDeChile             |     36 |
-| #EnChileNoHayEsclavos        |     31 |
-| #Elecciones2021CL            |     27 |
-| #KastPresidente              |     26 |
-| #Vota1VotaBoric              |     23 |
-| #ChileVotaKast               |     22 |
-| #MuchoGustoMega              |     22 |
-| #RT                          |     22 |
-| #Boric                       |     20 |
-| #BoricPresidentedeChile2022  |     19 |
-| #DebateAnatel                |     19 |
-| #Arica                       |     18 |
+| datos                    | Cuenta |
+|:-------------------------|-------:|
+| #BoricPresidentedeChile  |    133 |
+| #BOICOT                  |    113 |
+| #sacalasmicrosGloriahutt |     92 |
+| #sueltenlasmicros        |     82 |
+| #SueltenLasMicros        |     77 |
+| #Elecciones2021CL        |     62 |
+| #EleccionesChile2021     |     57 |
+| #Chile                   |     54 |
+| #BoricPresidente         |     51 |
+| #Boric                   |     27 |
+| #TigrayEthnicCleansing   |     23 |
+| #ContigoCHV              |     22 |
+| #ChileElige              |     18 |
+| #MuchoGustoMega          |     18 |
+| #Arica                   |     17 |
+| #BoricNoEsMiPresidente   |     17 |
+| #KastPresidente2022      |     17 |
+| #Castro                  |     16 |
+| #BoricPresidente2022     |     15 |
+| #Quieromi100xcientoAFP   |     14 |
 
 # Cuentas
 
