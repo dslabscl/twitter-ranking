@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-21 01:19:10
+Chile. Fecha del reporte: 2021-12-22 01:18:29
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #FuerzaAbuelaConQuintoRetiro |    158 |
-| #Quieromi100xcientoAFP       |    153 |
-| #QuieroMi100                 |    147 |
-| #Retiro100xCiento            |    106 |
-| #BoricPresidentedeChile      |     66 |
-| #SueltenLasMicros            |     60 |
-| #BOICOT                      |     53 |
-| #Allende                     |     52 |
-| #QuintoRetiro                |     51 |
-| #sacalasmicrosGloriahutt     |     48 |
-| #Elecciones2021CL            |     43 |
-| #BoricPresidente             |     40 |
-| #TigrayEthnicCleansing       |     36 |
-| #Chile                       |     35 |
-| #FuerzaAbuelacon100xCiento   |     34 |
-| #QuintoRetiroUrgente         |     33 |
-| #EleccionesChile2021         |     29 |
-| #sueltenlasmicros            |     27 |
-| #WesternTigray               |     23 |
-| #DropAidNotBombs             |     21 |
+| #Retiro100xCiento            |    376 |
+| #FirmesConKast               |    212 |
+| #FuerzaAbuelaConQuintoRetiro |    138 |
+| #ExtensionIFE                |     80 |
+| #QuintoRetiro                |     59 |
+| #QuintoRetiroUrgente         |     57 |
+| #BoricPresidentedeChile      |     48 |
+| #FuerzaAbuelacon100xCiento   |     47 |
+| #Elecciones2021CL            |     40 |
+| #TigrayEthnicCleansing       |     34 |
+| #Chile                       |     33 |
+| #BoricPresidente2022         |     25 |
+| #BoricPresidente             |     22 |
+| #ContigoCHV                  |     22 |
+| #WesternTigray               |     22 |
+| #QuintoRetiro100xCiento      |     19 |
+| #Arica                       |     17 |
+| #BoricNoEsMiPresidente       |     17 |
+| #MuchoGustoMega              |     17 |
+| #19Diciembre                 |     16 |
 
 # Cuentas
 
