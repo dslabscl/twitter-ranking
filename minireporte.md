@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-22 01:18:29
+Chile. Fecha del reporte: 2021-12-23 01:16:37
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #Retiro100xCiento            |    376 |
-| #FirmesConKast               |    212 |
-| #FuerzaAbuelaConQuintoRetiro |    138 |
-| #ExtensionIFE                |     80 |
-| #QuintoRetiro                |     59 |
-| #QuintoRetiroUrgente         |     57 |
-| #BoricPresidentedeChile      |     48 |
-| #FuerzaAbuelacon100xCiento   |     47 |
-| #Elecciones2021CL            |     40 |
-| #TigrayEthnicCleansing       |     34 |
-| #Chile                       |     33 |
-| #BoricPresidente2022         |     25 |
-| #BoricPresidente             |     22 |
-| #ContigoCHV                  |     22 |
-| #WesternTigray               |     22 |
-| #QuintoRetiro100xCiento      |     19 |
+| #FuerzaAbuelaConQuintoRetiro |    217 |
+| #Retiro100xCiento            |    204 |
+| #QuintoRetiro                |     41 |
+| #Chile                       |     38 |
+| #BoricPresidentedeChile      |     37 |
+| #QuintoRetiroUrgente         |     36 |
+| #TigrayGenocide              |     33 |
+| #NeverAgain4Tigray           |     32 |
+| #ContigoCHV                  |     29 |
+| #fraudeelectoral             |     27 |
+| #Elecciones2021CL            |     24 |
+| #BoricPresidente             |     21 |
+| #BoricPresidente2022         |     19 |
 | #Arica                       |     17 |
-| #BoricNoEsMiPresidente       |     17 |
-| #MuchoGustoMega              |     17 |
-| #19Diciembre                 |     16 |
+| #ExtensionIFE                |     17 |
+| #T13Tarde                    |     16 |
+| #BoricNoEsMiPresidente       |     15 |
+| #Boric                       |     14 |
+| #NOADOMINGA                  |     14 |
+| #QuintoRetiro100xCiento      |     14 |
 
 # Cuentas
 
