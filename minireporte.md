@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-24 01:15:40
+Chile. Fecha del reporte: 2021-12-27 01:18:03
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #QuintoRetiroUrgente         |    238 |
-| #Retiro100xCiento            |    222 |
-| #FuerzaAbuelaConQuintoRetiro |     81 |
-| #QuintoRetiro                |     52 |
-| #HolaChileLaRed              |     46 |
-| #ContigoCHV                  |     37 |
-| #Chile                       |     36 |
-| #BoricPresidentedeChile      |     25 |
-| #BoricPresidente2022         |     22 |
-| #Elecciones2021CL            |     22 |
-| #BoricPresidentedeChile2022  |     19 |
+| #QuintoRetiroUrgente         |    325 |
+| #Retiro100xCiento            |    232 |
+| #FuerzaAbuelaConQuintoRetiro |     61 |
+| #Chile                       |     41 |
+| #QuintoRetiro                |     41 |
+| #FuerzaAbuelaCon100xCiento   |     30 |
+| #DeportacionALuisLuces       |     23 |
+| #QuintoRetiro10xCiento       |     23 |
+| #TigrayGenocide              |     21 |
 | #Arica                       |     18 |
-| #EleccionesChile2021         |     18 |
-| #QuintoRetiro100xCiento      |     17 |
-| #T13Tarde                    |     17 |
-| #BoricPresidente             |     16 |
-| #ApagaTVAbierta              |     15 |
-| #NoADominga                  |     14 |
+| #ExtensionIFE                |     17 |
+| #Elecciones2021CL            |     16 |
+| #Retiro100xCientoYA          |     15 |
+| #BoricPresidentedeChile      |     14 |
 | #NOADOMINGA                  |     14 |
+| #T13Tarde                    |     14 |
+| #ApagaTVAbierta              |     13 |
+| #BoricPresidente             |     13 |
 | #PlazaAM                     |     13 |
+| #Boric                       |     11 |
 
 # Cuentas
 
