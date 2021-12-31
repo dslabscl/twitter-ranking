@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-30 01:16:27
+Chile. Fecha del reporte: 2021-12-31 01:18:41
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #QuintoRetiroUrgente         |    238 |
-| #Retiro100xCiento            |     58 |
-| #FuerzaAbuelaConQuintoRetiro |     53 |
-| #Tigray                      |     50 |
-| #QuintoRetiro                |     44 |
-| #NoMasAFP                    |     33 |
-| #ContigoCHV                  |     31 |
-| #Chile                       |     29 |
-| #Eritrean                    |     25 |
-| #Ethiopian                   |     24 |
-| #QuintoRetiro10xCiento       |     23 |
-| #ServelNoEsConfiable         |     21 |
-| #TigrayGenocide              |     20 |
-| #ADNHoy                      |     19 |
-| #Arica                       |     19 |
-| #DeportacionALuisLuces       |     19 |
-| #FuerzaAbuelaCon100xCiento   |     18 |
-| #COVID19                     |     17 |
-| #BoricPresidente             |     16 |
-| #LaConvencionAvanza          |     16 |
+| #QuintoRetiroUrgente         |    201 |
+| #Retiro100xCiento            |    101 |
+| #Tigray                      |     63 |
+| #ContigoCHV                  |     57 |
+| #FuerzaAbuelaConQuintoRetiro |     54 |
+| #QuintoRetiro                |     35 |
+| #Chile                       |     34 |
+| #Latam                       |     32 |
+| #NoMasAFP                    |     31 |
+| #Eritrean                    |     30 |
+| #Ethiopian                   |     30 |
+| #TigrayGenocide              |     29 |
+| #QuintoRetiro10xCiento       |     28 |
+| #FuerzaAbuelaCon100xCiento   |     22 |
+| #DeportacionALuisLuces       |     21 |
+| #ADNHoy                      |     20 |
+| #NOADOMINGA                  |     18 |
+| #Arica                       |     17 |
+| #QuintoRetiroYa              |     17 |
+| #EritreantroopsoutofTigray   |     16 |
 
 # Cuentas
 
