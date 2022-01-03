@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2021-12-31 01:18:41
+Chile. Fecha del reporte: 2022-01-03 01:17:42
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #QuintoRetiroUrgente         |    201 |
-| #Retiro100xCiento            |    101 |
-| #Tigray                      |     63 |
-| #ContigoCHV                  |     57 |
-| #FuerzaAbuelaConQuintoRetiro |     54 |
-| #QuintoRetiro                |     35 |
+| #QuintoRetiroUrgente         |    306 |
+| #Retiro100xCiento            |     64 |
+| #Refichajesilegitimos        |     40 |
 | #Chile                       |     34 |
-| #Latam                       |     32 |
-| #NoMasAFP                    |     31 |
-| #Eritrean                    |     30 |
-| #Ethiopian                   |     30 |
-| #TigrayGenocide              |     29 |
-| #QuintoRetiro10xCiento       |     28 |
-| #FuerzaAbuelaCon100xCiento   |     22 |
-| #DeportacionALuisLuces       |     21 |
-| #ADNHoy                      |     20 |
-| #NOADOMINGA                  |     18 |
+| #QuintoRetiro                |     34 |
+| #FuerzaAbuelaCon100xCiento   |     32 |
+| #FuerzaAbuelaConQuintoRetiro |     32 |
+| #ContigoCHV                  |     23 |
+| #QuintoRetiro100xCiento      |     23 |
+| #LATAM                       |     21 |
+| #QuintoRetiro10xCiento       |     21 |
+| #Tigray                      |     20 |
+| #ADNHoy                      |     19 |
+| #QuintoRetiroDeMi100xCiento  |     19 |
+| #Retiro100xCientoYA          |     18 |
 | #Arica                       |     17 |
-| #QuintoRetiroYa              |     17 |
-| #EritreantroopsoutofTigray   |     16 |
+| #NOADOMINGA                  |     17 |
+| #ConvencionConstitucional    |     16 |
+| #T13Tarde                    |     16 |
+| #Elecciones2021CL            |     14 |
 
 # Cuentas
 
