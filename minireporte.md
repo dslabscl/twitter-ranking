@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-01-03 01:17:42
+Chile. Fecha del reporte: 2022-01-05 01:23:22
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #QuintoRetiroUrgente         |    306 |
-| #Retiro100xCiento            |     64 |
-| #Refichajesilegitimos        |     40 |
-| #Chile                       |     34 |
-| #QuintoRetiro                |     34 |
-| #FuerzaAbuelaCon100xCiento   |     32 |
-| #FuerzaAbuelaConQuintoRetiro |     32 |
-| #ContigoCHV                  |     23 |
-| #QuintoRetiro100xCiento      |     23 |
-| #LATAM                       |     21 |
-| #QuintoRetiro10xCiento       |     21 |
-| #Tigray                      |     20 |
-| #ADNHoy                      |     19 |
-| #QuintoRetiroDeMi100xCiento  |     19 |
-| #Retiro100xCientoYA          |     18 |
-| #Arica                       |     17 |
-| #NOADOMINGA                  |     17 |
-| #ConvencionConstitucional    |     16 |
-| #T13Tarde                    |     16 |
-| #Elecciones2021CL            |     14 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| #ConvencionConstitucional     |    144 |
+| #QuintoRetiroUrgente          |    142 |
+| #discriminacionchile          |    115 |
+| #Retiro100xCiento             |     65 |
+| #FuerzaAbuelaCon100xCiento    |     64 |
+| #JusticiaParaHumbertito       |     50 |
+| #ConvencionConstituyente      |     32 |
+| #Chile                        |     31 |
+| #ConvenciónConstitucional     |     28 |
+| #FuerzaAbuelaConQuintoRetiro  |     28 |
+| #NoAlaLicitaciónDelLitio      |     28 |
+| #ContigoCHV                   |     27 |
+| #ElPeorGobiernoDeLaHistoria   |     26 |
+| #QuintoRetiro                 |     25 |
+| #QuintoRetiro100xCiento       |     24 |
+| #ElLitioNoLadrónPiñera        |     21 |
+| #QuintoRetiro10xCiento        |     21 |
+| #ElPeorPresidenteDeLaHistoria |     18 |
+| #NOADOMINGA                   |     18 |
+| #Arica                        |     17 |
 
 # Cuentas
 
