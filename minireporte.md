@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-01-05 01:23:22
+Chile. Fecha del reporte: 2022-01-06 01:24:58
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| #ConvencionConstitucional     |    144 |
-| #QuintoRetiroUrgente          |    142 |
-| #discriminacionchile          |    115 |
-| #Retiro100xCiento             |     65 |
-| #FuerzaAbuelaCon100xCiento    |     64 |
-| #JusticiaParaHumbertito       |     50 |
-| #ConvencionConstituyente      |     32 |
-| #Chile                        |     31 |
-| #ConvenciónConstitucional     |     28 |
-| #FuerzaAbuelaConQuintoRetiro  |     28 |
-| #NoAlaLicitaciónDelLitio      |     28 |
-| #ContigoCHV                   |     27 |
-| #ElPeorGobiernoDeLaHistoria   |     26 |
-| #QuintoRetiro                 |     25 |
-| #QuintoRetiro100xCiento       |     24 |
-| #ElLitioNoLadrónPiñera        |     21 |
-| #QuintoRetiro10xCiento        |     21 |
-| #ElPeorPresidenteDeLaHistoria |     18 |
-| #NOADOMINGA                   |     18 |
-| #Arica                        |     17 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #YoVotoNo                    |    193 |
+| #QuintoRetiroAhora           |    131 |
+| #QuintoRetiroUrgente         |    110 |
+| #ConvencionConstitucional    |     79 |
+| #QuintoRetiro100xCiento      |     56 |
+| #Retiro100xCiento            |     56 |
+| #NoAlaLicitaciónDelLitio     |     45 |
+| #Chile                       |     42 |
+| #ConvencionConstituyente     |     37 |
+| #QuintoRetiro                |     36 |
+| #FuerzaAbuelaCon100xCiento   |     33 |
+| #TigrayGenocide              |     30 |
+| #ContigoCHV                  |     28 |
+| #FuerzaAbuelaConQuintoRetiro |     20 |
+| #MeganoticiasActualiza       |     19 |
+| #NOADOMINGA                  |     19 |
+| #Refichajesilegitimos        |     18 |
+| #Arica                       |     17 |
+| #PrensaBasura                |     17 |
+| #QuintoRetiro10xCiento       |     15 |
 
 # Cuentas
 
