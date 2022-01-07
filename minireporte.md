@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-01-06 01:24:58
+Chile. Fecha del reporte: 2022-01-07 01:24:39
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #YoVotoNo                    |    193 |
-| #QuintoRetiroAhora           |    131 |
-| #QuintoRetiroUrgente         |    110 |
-| #ConvencionConstitucional    |     79 |
-| #QuintoRetiro100xCiento      |     56 |
-| #Retiro100xCiento            |     56 |
-| #NoAlaLicitaciónDelLitio     |     45 |
-| #Chile                       |     42 |
-| #ConvencionConstituyente     |     37 |
-| #QuintoRetiro                |     36 |
-| #FuerzaAbuelaCon100xCiento   |     33 |
-| #TigrayGenocide              |     30 |
-| #ContigoCHV                  |     28 |
-| #FuerzaAbuelaConQuintoRetiro |     20 |
-| #MeganoticiasActualiza       |     19 |
-| #NOADOMINGA                  |     19 |
-| #Refichajesilegitimos        |     18 |
-| #Arica                       |     17 |
-| #PrensaBasura                |     17 |
-| #QuintoRetiro10xCiento       |     15 |
+| datos                                   | Cuenta |
+|:----------------------------------------|-------:|
+| #FuerzaAbuelaConQuintoRetiro            |    157 |
+| #ContigoCHV                             |     95 |
+| #QuintoRetiroUrgente                    |     85 |
+| #IFELaboral                             |     74 |
+| #QuintoRetiroAhora                      |     58 |
+| #QuintoRetiro                           |     44 |
+| #ConvencionConstitucional               |     42 |
+| #Chile                                  |     36 |
+| #FuerzaAbuelaCon100xCiento              |     32 |
+| #FuerzaAbuelacon100xCiento              |     25 |
+| #QuintoRetiro100xCiento                 |     25 |
+| #PostnatalDeEmergenciaEnAlertaSanitaria |     23 |
+| #HoyEsNoticiaCNN                        |     20 |
+| #PerlaHarboe                            |     20 |
+| #Retiro100xCiento                       |     20 |
+| #NOADOMINGA                             |     19 |
+| #QuintoRetiro10xCiento                  |     18 |
+| #AFP                                    |     17 |
+| #Arica                                  |     17 |
+| #FuerzaAbuelaxMi100xCiento              |     17 |
 
 # Cuentas
 
