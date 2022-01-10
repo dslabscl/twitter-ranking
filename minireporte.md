@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-01-07 01:24:39
+Chile. Fecha del reporte: 2022-01-10 01:17:57
 
 # Hashtags más populares
 
-| datos                                   | Cuenta |
-|:----------------------------------------|-------:|
-| #FuerzaAbuelaConQuintoRetiro            |    157 |
-| #ContigoCHV                             |     95 |
-| #QuintoRetiroUrgente                    |     85 |
-| #IFELaboral                             |     74 |
-| #QuintoRetiroAhora                      |     58 |
-| #QuintoRetiro                           |     44 |
-| #ConvencionConstitucional               |     42 |
-| #Chile                                  |     36 |
-| #FuerzaAbuelaCon100xCiento              |     32 |
-| #FuerzaAbuelacon100xCiento              |     25 |
-| #QuintoRetiro100xCiento                 |     25 |
-| #PostnatalDeEmergenciaEnAlertaSanitaria |     23 |
-| #HoyEsNoticiaCNN                        |     20 |
-| #PerlaHarboe                            |     20 |
-| #Retiro100xCiento                       |     20 |
-| #NOADOMINGA                             |     19 |
-| #QuintoRetiro10xCiento                  |     18 |
-| #AFP                                    |     17 |
-| #Arica                                  |     17 |
-| #FuerzaAbuelaxMi100xCiento              |     17 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| #QuintoRetiroUrgente         |    207 |
+| #IFELABORAL                  |     94 |
+| #FuerzaAbuelaConQuintoRetiro |     87 |
+| #QuintoRetiro10xCiento       |     58 |
+| #QuintoRetiroAhora           |     49 |
+| #Chile                       |     44 |
+| #FuerzaAbuelaCon100xCiento   |     41 |
+| #FuerzaAbuelaxMi100xCiento   |     39 |
+| #ConvencionConstitucional    |     35 |
+| #Retiro100xCiento            |     29 |
+| #ContigoCHV                  |     28 |
+| #QuintoRetiro                |     24 |
+| #QuintoRetiro100xCiento      |     23 |
+| #FuerzaAbuelacon100xCiento   |     22 |
+| #MuchoGustoMega              |     21 |
+| #SiempreEsHoy                |     20 |
+| #Arica                       |     19 |
+| #NOADOMINGA                  |     19 |
+| #MeganoticiasActualiza       |     17 |
+| #PrensaBasura                |     16 |
 
 # Cuentas
 
