@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-01-17 01:20:21
+Chile. Fecha del reporte: 2022-01-18 01:21:42
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #QuintoRetiroUrgente         |    468 |
-| #QuintoRetiroAhora           |    258 |
-| #FuerzaAbuelaQuintoRetiro    |    100 |
-| #QuintoRetiro10xCiento       |     71 |
-| #QuintoRetiro100xCiento      |     66 |
-| #omicrom                     |     60 |
-| #Chile                       |     57 |
-| #FuerzaAbuelaConQuintoRetiro |     53 |
-| #QuintoRetiroDeMi100xCiento  |     53 |
-| #QuintoRetiro                |     52 |
-| #SiempreEsHoy                |     52 |
-| #QuintoRetiroSinLetraChica   |     44 |
-| #NOADOMINGA                  |     39 |
-| #ConvencionConstitucional    |     33 |
-| #EndTigraySiege              |     33 |
-| #ChildrenOfTigray            |     26 |
-| #Omicron                     |     24 |
-| #MuchoGustoMega              |     23 |
-| #MesaCentral                 |     21 |
-| #QUINTORETIROAHORA           |     20 |
+| #QuintoRetiroUrgente         |    621 |
+| #QuintoRetiroAhora           |    287 |
+| #FuerzaAbuelaQuintoRetiro    |    130 |
+| #QuintoRetiro10xCiento       |    113 |
+| #QuintoRetiroDeMi100xCiento  |     93 |
+| #QuintoRetiroSinLetraChica   |     78 |
+| #FuerzaAbuelaConQuintoRetiro |     59 |
+| #SiempreEsHoy                |     51 |
+| #Chile                       |     47 |
+| #omicrom                     |     39 |
+| #NOADOMINGA                  |     38 |
+| #QuintoRetiro                |     38 |
+| #QuintoRetiro100xCiento      |     37 |
+| #ContigoCHV                  |     31 |
+| #NUEVACONSTITUCION           |     31 |
+| #quieromi100xciento          |     26 |
+| #fuerzaabuelacon100xciento   |     25 |
+| #Arica                       |     22 |
+| #ConvencionConstitucional    |     22 |
+| #MuchoGustoMega              |     21 |
 
 # Cuentas
 
