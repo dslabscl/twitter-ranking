@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-01-18 01:21:42
+Chile. Fecha del reporte: 2022-01-19 01:11:57
 
 # Hashtags más populares
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| #QuintoRetiroUrgente         |    621 |
-| #QuintoRetiroAhora           |    287 |
-| #FuerzaAbuelaQuintoRetiro    |    130 |
-| #QuintoRetiro10xCiento       |    113 |
-| #QuintoRetiroDeMi100xCiento  |     93 |
-| #QuintoRetiroSinLetraChica   |     78 |
-| #FuerzaAbuelaConQuintoRetiro |     59 |
-| #SiempreEsHoy                |     51 |
-| #Chile                       |     47 |
+| #QuintoRetiroUrgente         |    890 |
+| #QuintoRetiro                |    257 |
+| #QuintoRetiro100xCiento      |    256 |
+| #QuintoRetiroYa              |    231 |
+| #QuintoRetiroAhora           |    156 |
+| #FuerzaAbuelaConQuintoRetiro |    148 |
+| #QuintoRetiro10xCiento       |     72 |
+| #SiempreEsHoy                |     50 |
+| #Chile                       |     45 |
+| #ContigoCHV                  |     39 |
 | #omicrom                     |     39 |
+| #quieromi100xciento          |     39 |
 | #NOADOMINGA                  |     38 |
-| #QuintoRetiro                |     38 |
-| #QuintoRetiro100xCiento      |     37 |
-| #ContigoCHV                  |     31 |
-| #NUEVACONSTITUCION           |     31 |
-| #quieromi100xciento          |     26 |
-| #fuerzaabuelacon100xciento   |     25 |
-| #Arica                       |     22 |
-| #ConvencionConstitucional    |     22 |
+| #fuerzaabuelacon100xciento   |     37 |
+| #NoAlIndulto                 |     30 |
+| #QuintoRetiroDeMi100xCiento  |     23 |
 | #MuchoGustoMega              |     21 |
+| #Arica                       |     20 |
+| #ConvencionConstitucional    |     20 |
+| #QuintoRetiroSinLetraChica   |     20 |
 
 # Cuentas
 
