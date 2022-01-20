@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-01-19 01:11:57
+Chile. Fecha del reporte: 2022-01-20 01:32:00
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| #QuintoRetiroUrgente         |    890 |
-| #QuintoRetiro                |    257 |
-| #QuintoRetiro100xCiento      |    256 |
-| #QuintoRetiroYa              |    231 |
-| #QuintoRetiroAhora           |    156 |
-| #FuerzaAbuelaConQuintoRetiro |    148 |
-| #QuintoRetiro10xCiento       |     72 |
-| #SiempreEsHoy                |     50 |
-| #Chile                       |     45 |
-| #ContigoCHV                  |     39 |
-| #omicrom                     |     39 |
-| #quieromi100xciento          |     39 |
-| #NOADOMINGA                  |     38 |
-| #fuerzaabuelacon100xciento   |     37 |
-| #NoAlIndulto                 |     30 |
-| #QuintoRetiroDeMi100xCiento  |     23 |
-| #MuchoGustoMega              |     21 |
-| #Arica                       |     20 |
-| #ConvencionConstitucional    |     20 |
-| #QuintoRetiroSinLetraChica   |     20 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| #QuintoRetiroUrgente            |    792 |
+| #FuerzaAbuelaConQuintoRetiro    |    261 |
+| #QuintoRetiro                   |    219 |
+| #QuintoRetiro100xCiento         |    206 |
+| #QuintoRetiroYa                 |    171 |
+| #QuintoRetiroAhora              |    154 |
+| #QuintoRetiro10xCiento          |     96 |
+| #quieromi100xciento             |     81 |
+| #fuerzaabuelacon100xciento      |     80 |
+| #SiempreEsHoy                   |     47 |
+| #ContigoCHV                     |     46 |
+| #Chile                          |     40 |
+| #LibertadParaLosPresosPoliticos |     40 |
+| #Cuba                           |     39 |
+| #omicrom                        |     39 |
+| #NOADOMINGA                     |     38 |
+| #PatriaYVida                    |     36 |
+| #BuenosDiasTVN                  |     33 |
+| #NoAlIndulto                    |     32 |
+| #ConvencionConstitucional       |     28 |
 
 # Cuentas
 
