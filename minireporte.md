@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-01-20 01:32:00
+Chile. Fecha del reporte: 2022-01-21 01:12:17
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| #QuintoRetiroUrgente            |    792 |
-| #FuerzaAbuelaConQuintoRetiro    |    261 |
-| #QuintoRetiro                   |    219 |
-| #QuintoRetiro100xCiento         |    206 |
-| #QuintoRetiroYa                 |    171 |
-| #QuintoRetiroAhora              |    154 |
-| #QuintoRetiro10xCiento          |     96 |
-| #quieromi100xciento             |     81 |
-| #fuerzaabuelacon100xciento      |     80 |
-| #SiempreEsHoy                   |     47 |
-| #ContigoCHV                     |     46 |
-| #Chile                          |     40 |
-| #LibertadParaLosPresosPoliticos |     40 |
-| #Cuba                           |     39 |
-| #omicrom                        |     39 |
-| #NOADOMINGA                     |     38 |
-| #PatriaYVida                    |     36 |
-| #BuenosDiasTVN                  |     33 |
-| #NoAlIndulto                    |     32 |
-| #ConvencionConstitucional       |     28 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#QuintoRetiroUrgente         |    942 |
+| \#QuintoRetiro                |    261 |
+| \#FuerzaAbuelaConQuintoRetiro |    237 |
+| \#QuintoRetiro100xCiento      |    186 |
+| \#QuintoRetiroYa              |    153 |
+| \#QuintoRetiroAhora           |    152 |
+| \#FuerzaAbuelacon100xCiento   |     96 |
+| \#QuintoRetiro10xCiento       |     79 |
+| \#YoApoyoAlGeneralCuellar     |     69 |
+| \#fuerzaabuelacon100xciento   |     66 |
+| \#quieromi100xciento          |     66 |
+| \#BuenosDiasTVN               |     50 |
+| \#SiempreEsHoy                |     46 |
+| \#Chile                       |     41 |
+| \#QUINTORETIROURGENTE         |     39 |
+| \#NOADOMINGA                  |     38 |
+| \#ConvencionConstitucional    |     34 |
+| \#SaveTigray                  |     27 |
+| \#Tigray                      |     26 |
+| \#NoAlIndulto                 |     20 |
 
 # Cuentas
 
