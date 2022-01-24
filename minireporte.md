@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-01-21 01:12:17
+Chile. Fecha del reporte: 2022-01-24 01:17:51
 
 # Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#QuintoRetiroUrgente         |    942 |
-| \#QuintoRetiro                |    261 |
-| \#FuerzaAbuelaConQuintoRetiro |    237 |
-| \#QuintoRetiro100xCiento      |    186 |
-| \#QuintoRetiroYa              |    153 |
-| \#QuintoRetiroAhora           |    152 |
-| \#FuerzaAbuelacon100xCiento   |     96 |
-| \#QuintoRetiro10xCiento       |     79 |
-| \#YoApoyoAlGeneralCuellar     |     69 |
-| \#fuerzaabuelacon100xciento   |     66 |
-| \#quieromi100xciento          |     66 |
-| \#BuenosDiasTVN               |     50 |
-| \#SiempreEsHoy                |     46 |
-| \#Chile                       |     41 |
-| \#QUINTORETIROURGENTE         |     39 |
-| \#NOADOMINGA                  |     38 |
-| \#ConvencionConstitucional    |     34 |
-| \#SaveTigray                  |     27 |
-| \#Tigray                      |     26 |
-| \#NoAlIndulto                 |     20 |
+| \#QuintoRetiroUrgente         |    865 |
+| \#QuintoRetiro100xCiento      |    509 |
+| \#QuintoRetiroYa              |    424 |
+| \#QuintoRetiro                |    423 |
+| \#QuintoRetiroAhora           |    120 |
+| \#FuerzaAbuelaConQuintoRetiro |     65 |
+| \#QuintoRetiro10xCiento       |     56 |
+| \#QUINTORETIROURGENTE         |     45 |
+| \#SiempreEsHoy                |     41 |
+| \#BuenosDiasTVN               |     40 |
+| \#StandUp4HumanRights         |     36 |
+| \#UgandaIsBleeding            |     36 |
+| \#fuerzaabuelacon100xciento   |     35 |
+| \#quieromi100xciento          |     35 |
+| \#NOADOMINGA                  |     34 |
+| \#QuintoRetiroSinLetraChica   |     30 |
+| \#ToleranciaCero              |     30 |
+| \#Chile                       |     28 |
+| \#QUINTORETIROAHORA           |     26 |
+| \#quintoretirourgente         |     25 |
 
 # Cuentas
 
