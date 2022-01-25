@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-01-24 01:17:51
+Chile. Fecha del reporte: 2022-01-25 01:20:58
 
 # Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#QuintoRetiroUrgente         |    865 |
-| \#QuintoRetiro100xCiento      |    509 |
-| \#QuintoRetiroYa              |    424 |
-| \#QuintoRetiro                |    423 |
-| \#QuintoRetiroAhora           |    120 |
-| \#FuerzaAbuelaConQuintoRetiro |     65 |
-| \#QuintoRetiro10xCiento       |     56 |
-| \#QUINTORETIROURGENTE         |     45 |
-| \#SiempreEsHoy                |     41 |
-| \#BuenosDiasTVN               |     40 |
-| \#StandUp4HumanRights         |     36 |
-| \#UgandaIsBleeding            |     36 |
-| \#fuerzaabuelacon100xciento   |     35 |
-| \#quieromi100xciento          |     35 |
-| \#NOADOMINGA                  |     34 |
-| \#QuintoRetiroSinLetraChica   |     30 |
-| \#ToleranciaCero              |     30 |
-| \#Chile                       |     28 |
-| \#QUINTORETIROAHORA           |     26 |
-| \#quintoretirourgente         |     25 |
+| \#QuintoRetiroUrgente         |    749 |
+| \#QuintoRetiro                |    372 |
+| \#QuintoRetiro100xCiento      |    278 |
+| \#QuintoRetiroYa              |    266 |
+| \#FuerzaAbuelaConQuintoRetiro |    167 |
+| \#ConvencionConstituyente     |     60 |
+| \#QuintoRetiroAhora           |     57 |
+| \#SiempreEsHoy                |     42 |
+| \#ContigoCHV                  |     38 |
+| \#NOADOMINGA                  |     36 |
+| \#ConvencionConstitucional    |     33 |
+| \#QuienQuemóElMetro           |     30 |
+| \#QuintoRetiro10xCiento       |     29 |
+| \#QUINTORETIROURGENTE         |     28 |
+| \#Chile                       |     23 |
+| \#TigrayGenocide              |     22 |
+| \#Arica                       |     21 |
+| \#omicrom                     |     19 |
+| \#quieromi100xciento          |     19 |
+| \#fuerzaabuelacon100xciento   |     18 |
 
 # Cuentas
 
