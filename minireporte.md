@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-01-25 01:20:58
+Chile. Fecha del reporte: 2022-01-26 01:22:00
 
 # Hashtags más populares
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#QuintoRetiroUrgente         |    749 |
-| \#QuintoRetiro                |    372 |
-| \#QuintoRetiro100xCiento      |    278 |
-| \#QuintoRetiroYa              |    266 |
-| \#FuerzaAbuelaConQuintoRetiro |    167 |
-| \#ConvencionConstituyente     |     60 |
-| \#QuintoRetiroAhora           |     57 |
-| \#SiempreEsHoy                |     42 |
-| \#ContigoCHV                  |     38 |
-| \#NOADOMINGA                  |     36 |
-| \#ConvencionConstitucional    |     33 |
-| \#QuienQuemóElMetro           |     30 |
-| \#QuintoRetiro10xCiento       |     29 |
-| \#QUINTORETIROURGENTE         |     28 |
-| \#Chile                       |     23 |
-| \#TigrayGenocide              |     22 |
-| \#Arica                       |     21 |
-| \#omicrom                     |     19 |
-| \#quieromi100xciento          |     19 |
-| \#fuerzaabuelacon100xciento   |     18 |
+| \#QuintoRetiroUrgente         |    548 |
+| \#QuintoRetiro                |    406 |
+| \#QuintoRetiroYa              |    161 |
+| \#QuintoRetiro100xCiento      |    153 |
+| \#FuerzaAbuelaConQuintoRetiro |    119 |
+| \#QuintoRetiro10xCiento       |    116 |
+| \#QuintoRetiroAhora           |     81 |
+| \#fuerzaabuelacon100xciento   |     65 |
+| \#quieromi100xciento          |     65 |
+| \#QuieroMi100xCiento          |     52 |
+| \#iquique                     |     51 |
+| \#ConvencionConstituyente     |     46 |
+| \#datoquetedoy                |     45 |
+| \#ContigoCHV                  |     42 |
+| \#MuchoGustoMega              |     39 |
+| \#expulsion                   |     36 |
+| \#NOADOMINGA                  |     35 |
+| \#Iquique                     |     31 |
+| \#ConvencionConstitucional    |     29 |
+| \#Chile                       |     26 |
 
 # Cuentas
 
