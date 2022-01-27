@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-01-26 01:22:00
+Chile. Fecha del reporte: 2022-01-27 01:15:37
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#QuintoRetiroUrgente         |    548 |
-| \#QuintoRetiro                |    406 |
-| \#QuintoRetiroYa              |    161 |
-| \#QuintoRetiro100xCiento      |    153 |
-| \#FuerzaAbuelaConQuintoRetiro |    119 |
-| \#QuintoRetiro10xCiento       |    116 |
-| \#QuintoRetiroAhora           |     81 |
-| \#fuerzaabuelacon100xciento   |     65 |
-| \#quieromi100xciento          |     65 |
-| \#QuieroMi100xCiento          |     52 |
-| \#iquique                     |     51 |
-| \#ConvencionConstituyente     |     46 |
-| \#datoquetedoy                |     45 |
-| \#ContigoCHV                  |     42 |
-| \#MuchoGustoMega              |     39 |
-| \#expulsion                   |     36 |
-| \#NOADOMINGA                  |     35 |
-| \#Iquique                     |     31 |
-| \#ConvencionConstitucional    |     29 |
-| \#Chile                       |     26 |
+| datos                            | Cuenta |
+|:---------------------------------|-------:|
+| \#QuintoRetiroUrgente            |    587 |
+| \#FuerzaAbuelaConQuintoRetiro    |    277 |
+| \#QuintoRetiro                   |    142 |
+| \#QuintoRetiroAhora              |    106 |
+| \#QuintoRetiro10xCiento          |     64 |
+| \#Justice4TigraysWomenAndGirls   |     53 |
+| \#TigrayGenocide                 |     53 |
+| \#fuerzaabuelacon100xciento      |     52 |
+| \#quieromi100xciento             |     52 |
+| \#StopTigrayFamine               |     52 |
+| \#TigrayanWeaponizedRapeVictims  |     52 |
+| \#TigrayIsSuffering              |     52 |
+| \#MuchoGustoMega                 |     36 |
+| \#ContigoCHV                     |     33 |
+| \#NOADOMINGA                     |     33 |
+| \#Chile                          |     32 |
+| \#LibertadParaLosPresosPoliticos |     30 |
+| \#QuintoRetiro100xCiento         |     27 |
+| \#ConvencionConstituyente        |     26 |
+| \#ConvencionConstitucional       |     25 |
 
 # Cuentas
 
