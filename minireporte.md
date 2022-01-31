@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-01-27 01:15:37
+Chile. Fecha del reporte: 2022-01-31 01:13:00
 
 # Hashtags más populares
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroUrgente            |    587 |
-| \#FuerzaAbuelaConQuintoRetiro    |    277 |
-| \#QuintoRetiro                   |    142 |
-| \#QuintoRetiroAhora              |    106 |
-| \#QuintoRetiro10xCiento          |     64 |
-| \#Justice4TigraysWomenAndGirls   |     53 |
-| \#TigrayGenocide                 |     53 |
-| \#fuerzaabuelacon100xciento      |     52 |
-| \#quieromi100xciento             |     52 |
-| \#StopTigrayFamine               |     52 |
-| \#TigrayanWeaponizedRapeVictims  |     52 |
-| \#TigrayIsSuffering              |     52 |
-| \#MuchoGustoMega                 |     36 |
-| \#ContigoCHV                     |     33 |
-| \#NOADOMINGA                     |     33 |
-| \#Chile                          |     32 |
-| \#LibertadParaLosPresosPoliticos |     30 |
-| \#QuintoRetiro100xCiento         |     27 |
-| \#ConvencionConstituyente        |     26 |
-| \#ConvencionConstitucional       |     25 |
+| \#QuintoRetiroUrgente            |    438 |
+| \#FuerzaAbuelaConQuintoRetiro    |    146 |
+| \#QuintoRetiro                   |    137 |
+| \#Iquique                        |     79 |
+| \#LibertadParaLosPresosPoliticos |     48 |
+| \#Retiro100xCiento               |     46 |
+| \#ConvencionConstitucional       |     42 |
+| \#fuerzaabuelacon100xciento      |     41 |
+| \#quieromi100xciento             |     41 |
+| \#QuintoRetiroAhora              |     38 |
+| \#ConvencionConstituyente        |     34 |
+| \#RechazoDeSalida                |     32 |
+| \#RechazoDeSalida2022            |     31 |
+| \#Chile                          |     29 |
+| \#NoEsElFormismo                 |     29 |
+| \#NOADOMINGA                     |     26 |
+| \#Arica                          |     24 |
+| \#ContigoCHV                     |     24 |
+| \#FueraLuciaDammert              |     22 |
+| \#Boric                          |     20 |
 
 # Cuentas
 
