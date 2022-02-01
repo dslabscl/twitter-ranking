@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-01-31 01:13:00
+Chile. Fecha del reporte: 2022-02-01 01:20:01
 
 # Hashtags más populares
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroUrgente            |    438 |
-| \#FuerzaAbuelaConQuintoRetiro    |    146 |
-| \#QuintoRetiro                   |    137 |
-| \#Iquique                        |     79 |
-| \#LibertadParaLosPresosPoliticos |     48 |
-| \#Retiro100xCiento               |     46 |
-| \#ConvencionConstitucional       |     42 |
-| \#fuerzaabuelacon100xciento      |     41 |
-| \#quieromi100xciento             |     41 |
-| \#QuintoRetiroAhora              |     38 |
-| \#ConvencionConstituyente        |     34 |
-| \#RechazoDeSalida                |     32 |
-| \#RechazoDeSalida2022            |     31 |
-| \#Chile                          |     29 |
-| \#NoEsElFormismo                 |     29 |
-| \#NOADOMINGA                     |     26 |
-| \#Arica                          |     24 |
-| \#ContigoCHV                     |     24 |
-| \#FueraLuciaDammert              |     22 |
-| \#Boric                          |     20 |
+| \#QuintoRetiroUrgente            |    433 |
+| \#FuerzaAbuelaConQuintoRetiro    |    178 |
+| \#QuintoRetiro                   |    119 |
+| \#QuintoRetiroAhora              |     94 |
+| \#Iquique                        |     93 |
+| \#QuintoRetiro10xCiento          |     70 |
+| \#iquique                        |     50 |
+| \#QuintoRetiro100xCiento         |     48 |
+| \#venezolanos                    |     45 |
+| \#despiertoconchv                |     44 |
+| \#Paro                           |     44 |
+| \#ParoRegional                   |     44 |
+| \#ConvencionConstituyente        |     39 |
+| \#FuerzaAbuelacon100xCiento      |     38 |
+| \#ConvencionConstitucional       |     37 |
+| \#LibertadParaLosPresosPoliticos |     37 |
+| \#MuchoGustoMega                 |     36 |
+| \#ContigoCHV                     |     33 |
+| \#fuerzaabuelacon100xciento      |     32 |
+| \#quieromi100xciento             |     31 |
 
 # Cuentas
 
