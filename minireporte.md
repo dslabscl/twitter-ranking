@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-01 01:20:01
+Chile. Fecha del reporte: 2022-02-02 01:16:10
 
 # Hashtags más populares
 
-| datos                            | Cuenta |
-|:---------------------------------|-------:|
-| \#QuintoRetiroUrgente            |    433 |
-| \#FuerzaAbuelaConQuintoRetiro    |    178 |
-| \#QuintoRetiro                   |    119 |
-| \#QuintoRetiroAhora              |     94 |
-| \#Iquique                        |     93 |
-| \#QuintoRetiro10xCiento          |     70 |
-| \#iquique                        |     50 |
-| \#QuintoRetiro100xCiento         |     48 |
-| \#venezolanos                    |     45 |
-| \#despiertoconchv                |     44 |
-| \#Paro                           |     44 |
-| \#ParoRegional                   |     44 |
-| \#ConvencionConstituyente        |     39 |
-| \#FuerzaAbuelacon100xCiento      |     38 |
-| \#ConvencionConstitucional       |     37 |
-| \#LibertadParaLosPresosPoliticos |     37 |
-| \#MuchoGustoMega                 |     36 |
-| \#ContigoCHV                     |     33 |
-| \#fuerzaabuelacon100xciento      |     32 |
-| \#quieromi100xciento             |     31 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#QuintoRetiroUrgente         |    350 |
+| \#FuerzaAbuelaConQuintoRetiro |    102 |
+| \#QuintoRetiro                |     82 |
+| \#QuintoRetiroAhora           |     79 |
+| \#Iquique                     |     60 |
+| \#iquique                     |     47 |
+| \#QuintoRetiro100xCiento      |     47 |
+| \#MuchoGustoMega              |     41 |
+| \#venezolanos                 |     41 |
+| \#ConvencionConstitucional    |     40 |
+| \#ConvencionConstituyente     |     39 |
+| \#despiertoconchv             |     38 |
+| \#Paro                        |     38 |
+| \#ParoRegional                |     38 |
+| \#ContigoCHV                  |     33 |
+| \#QuintoRetiro10xCiento       |     32 |
+| \#Arica                       |     28 |
+| \#IFELABORAL                  |     28 |
+| \#Chile                       |     27 |
+| \#RechazoDeSalida2022         |     27 |
 
 # Cuentas
 
