@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-02 01:16:10
+Chile. Fecha del reporte: 2022-02-03 01:12:31
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#QuintoRetiroUrgente         |    350 |
-| \#FuerzaAbuelaConQuintoRetiro |    102 |
-| \#QuintoRetiro                |     82 |
-| \#QuintoRetiroAhora           |     79 |
-| \#Iquique                     |     60 |
-| \#iquique                     |     47 |
-| \#QuintoRetiro100xCiento      |     47 |
-| \#MuchoGustoMega              |     41 |
-| \#venezolanos                 |     41 |
-| \#ConvencionConstitucional    |     40 |
-| \#ConvencionConstituyente     |     39 |
-| \#despiertoconchv             |     38 |
-| \#Paro                        |     38 |
-| \#ParoRegional                |     38 |
-| \#ContigoCHV                  |     33 |
-| \#QuintoRetiro10xCiento       |     32 |
-| \#Arica                       |     28 |
-| \#IFELABORAL                  |     28 |
-| \#Chile                       |     27 |
-| \#RechazoDeSalida2022         |     27 |
+| datos                            | Cuenta |
+|:---------------------------------|-------:|
+| \#QuintoRetiroUrgente            |    430 |
+| \#FuerzaAbuelaConQuintoRetiro    |     91 |
+| \#QuintoRetiro                   |     91 |
+| \#Iquique                        |     60 |
+| \#QuintoRetiro100xCiento         |     44 |
+| \#ConvencionConstitucional       |     39 |
+| \#MuchoGustoMega                 |     38 |
+| \#ContigoCHV                     |     35 |
+| \#RechazoDeSalida2022            |     35 |
+| \#Arica                          |     34 |
+| \#Chile                          |     34 |
+| \#ConvencionConstituyente        |     33 |
+| \#QuintoRetiroUrgenteConLaAbuela |     32 |
+| \#iquique                        |     31 |
+| \#QuintoRetiroEsUrgente          |     29 |
+| \#QuintoRetiroOALaCalle          |     28 |
+| \#venezolanos                    |     28 |
+| \#QuintoRetiroAhora              |     27 |
+| \#IFELABORAL                     |     26 |
+| \#BoricSeHaceElLarry             |     24 |
 
 # Cuentas
 
