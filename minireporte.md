@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-03 01:12:31
+Chile. Fecha del reporte: 2022-02-04 01:13:07
 
 # Hashtags más populares
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroUrgente            |    430 |
-| \#FuerzaAbuelaConQuintoRetiro    |     91 |
-| \#QuintoRetiro                   |     91 |
-| \#Iquique                        |     60 |
-| \#QuintoRetiro100xCiento         |     44 |
-| \#ConvencionConstitucional       |     39 |
-| \#MuchoGustoMega                 |     38 |
-| \#ContigoCHV                     |     35 |
-| \#RechazoDeSalida2022            |     35 |
-| \#Arica                          |     34 |
-| \#Chile                          |     34 |
-| \#ConvencionConstituyente        |     33 |
-| \#QuintoRetiroUrgenteConLaAbuela |     32 |
-| \#iquique                        |     31 |
-| \#QuintoRetiroEsUrgente          |     29 |
-| \#QuintoRetiroOALaCalle          |     28 |
-| \#venezolanos                    |     28 |
-| \#QuintoRetiroAhora              |     27 |
-| \#IFELABORAL                     |     26 |
-| \#BoricSeHaceElLarry             |     24 |
+| \#QuintoRetiroUrgente            |    578 |
+| \#QuintoRetiro                   |    265 |
+| \#QuintoRetiroOALaCalle          |    247 |
+| \#ConvencionConstitucional       |     43 |
+| \#Chile                          |     40 |
+| \#Iquique                        |     40 |
+| \#FuerzaAbuelaConQuintoRetiro    |     38 |
+| \#QuintoRetiroUrgenteConLaAbuela |     35 |
+| \#Arica                          |     33 |
+| \#ContigoCHV                     |     33 |
+| \#MuchoGustoMega                 |     32 |
+| \#ConvencionConstituyente        |     31 |
+| \#RechazoDeSalida2022            |     29 |
+| \#CongresoFuturo2022             |     24 |
+| \#SiempreEsHoy                   |     24 |
+| \#QuintoRetiro100xCiento         |     23 |
+| \#HolaChileLaRed                 |     21 |
+| \#Boric                          |     17 |
+| \#QuintoRetiroAhora              |     17 |
+| \#QuintoRetiro10xCiento          |     16 |
 
 # Cuentas
 
