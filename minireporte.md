@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-04 01:13:07
+Chile. Fecha del reporte: 2022-02-07 01:15:44
 
 # Hashtags más populares
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroUrgente            |    578 |
-| \#QuintoRetiro                   |    265 |
-| \#QuintoRetiroOALaCalle          |    247 |
-| \#ConvencionConstitucional       |     43 |
-| \#Chile                          |     40 |
-| \#Iquique                        |     40 |
-| \#FuerzaAbuelaConQuintoRetiro    |     38 |
-| \#QuintoRetiroUrgenteConLaAbuela |     35 |
-| \#Arica                          |     33 |
-| \#ContigoCHV                     |     33 |
-| \#MuchoGustoMega                 |     32 |
+| \#QuintoRetiroUrgente            |    446 |
+| \#QuintoRetiroOALaCalle          |    307 |
+| \#QuintoRetiro                   |    269 |
+| \#5toRetiroUrgente               |    140 |
+| \#QuintoRetiroEnMarzo            |    132 |
+| \#QuintoRetiroYa                 |    126 |
+| \#FuerzaAbuelaConQuintoRetiro    |    123 |
+| \#QuintoRetiroUrgenteConLaAbuela |     62 |
+| \#QuintoRetiro100xCiento         |     38 |
+| \#ConvencionConstitucional       |     32 |
+| \#Chile                          |     31 |
 | \#ConvencionConstituyente        |     31 |
-| \#RechazoDeSalida2022            |     29 |
-| \#CongresoFuturo2022             |     24 |
-| \#SiempreEsHoy                   |     24 |
-| \#QuintoRetiro100xCiento         |     23 |
-| \#HolaChileLaRed                 |     21 |
-| \#Boric                          |     17 |
-| \#QuintoRetiroAhora              |     17 |
-| \#QuintoRetiro10xCiento          |     16 |
+| \#CongresoFuturo2022             |     30 |
+| \#SiempreEsHoy                   |     30 |
+| \#VerguenzaNacional              |     29 |
+| \#RechazoDeSalida2022            |     27 |
+| \#Allamand                       |     24 |
+| \#ContigoCHV                     |     24 |
+| \#Arica                          |     22 |
+| \#ElPeorGobiernoDeLaHistoria     |     21 |
 
 # Cuentas
 
