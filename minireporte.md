@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-07 01:15:44
+Chile. Fecha del reporte: 2022-02-08 01:17:33
 
 # Hashtags más populares
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroUrgente            |    446 |
-| \#QuintoRetiroOALaCalle          |    307 |
-| \#QuintoRetiro                   |    269 |
-| \#5toRetiroUrgente               |    140 |
-| \#QuintoRetiroEnMarzo            |    132 |
-| \#QuintoRetiroYa                 |    126 |
-| \#FuerzaAbuelaConQuintoRetiro    |    123 |
-| \#QuintoRetiroUrgenteConLaAbuela |     62 |
-| \#QuintoRetiro100xCiento         |     38 |
-| \#ConvencionConstitucional       |     32 |
-| \#Chile                          |     31 |
-| \#ConvencionConstituyente        |     31 |
-| \#CongresoFuturo2022             |     30 |
-| \#SiempreEsHoy                   |     30 |
-| \#VerguenzaNacional              |     29 |
-| \#RechazoDeSalida2022            |     27 |
-| \#Allamand                       |     24 |
-| \#ContigoCHV                     |     24 |
-| \#Arica                          |     22 |
-| \#ElPeorGobiernoDeLaHistoria     |     21 |
+| \#QuintoRetiroEnMarzo            |    352 |
+| \#QuintoRetiro                   |    239 |
+| \#QuintoRetiroUrgente            |    228 |
+| \#5toRetiroUrgente               |    210 |
+| \#QuintoRetiroOALaCalle          |    158 |
+| \#QuintoRetiroAhora              |    114 |
+| \#QuintoRetiroYa                 |     98 |
+| \#FuerzaAbuelaConQuintoRetiro    |     80 |
+| \#QuintoRetiroUrgenteConLaAbuela |     53 |
+| \#Chile                          |     40 |
+| \#QuintoRetiro100xCiento         |     40 |
+| \#Retiro100xCiento               |     36 |
+| \#CongresoFuturo2022             |     32 |
+| \#SiempreEsHoy                   |     32 |
+| \#QuintoRetiroEsUrgente          |     31 |
+| \#SiNoHayRetiroSalimosAlaCalle   |     27 |
+| \#QuintoRetiro10xCiento          |     25 |
+| \#RechazoDeSalida2022            |     25 |
+| \#ConvencionConstitucional       |     24 |
+| \#ConvencionConstituyente        |     23 |
 
 # Cuentas
 
