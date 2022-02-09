@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-08 01:17:33
+Chile. Fecha del reporte: 2022-02-09 01:22:18
 
 # Hashtags más populares
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroEnMarzo            |    352 |
-| \#QuintoRetiro                   |    239 |
-| \#QuintoRetiroUrgente            |    228 |
-| \#5toRetiroUrgente               |    210 |
-| \#QuintoRetiroOALaCalle          |    158 |
-| \#QuintoRetiroAhora              |    114 |
-| \#QuintoRetiroYa                 |     98 |
-| \#FuerzaAbuelaConQuintoRetiro    |     80 |
-| \#QuintoRetiroUrgenteConLaAbuela |     53 |
+| \#QuintoRetiroEnMarzo            |    738 |
+| \#QuintoRetiroUrgente            |    137 |
+| \#nomasmotos                     |    130 |
+| \#5toRetiroUrgente               |     84 |
+| \#QuintoRetiroAhora              |     80 |
+| \#QuintoRetiroOALaCalle          |     72 |
+| \#QuintoRetiro                   |     66 |
+| \#QuintoRetiroUrgenteConLaAbuela |     43 |
 | \#Chile                          |     40 |
-| \#QuintoRetiro100xCiento         |     40 |
-| \#Retiro100xCiento               |     36 |
-| \#CongresoFuturo2022             |     32 |
-| \#SiempreEsHoy                   |     32 |
-| \#QuintoRetiroEsUrgente          |     31 |
-| \#SiNoHayRetiroSalimosAlaCalle   |     27 |
-| \#QuintoRetiro10xCiento          |     25 |
-| \#RechazoDeSalida2022            |     25 |
-| \#ConvencionConstitucional       |     24 |
-| \#ConvencionConstituyente        |     23 |
+| \#CongresoFuturo2022             |     34 |
+| \#SiempreEsHoy                   |     34 |
+| \#QuintoRetiroEsUrgente          |     33 |
+| \#ConvencionConstitucional       |     32 |
+| \#5toRetiroURGENTE               |     28 |
+| \#RechazoDeSalida2022            |     28 |
+| \#ContigoCHV                     |     27 |
+| \#Arica                          |     25 |
+| \#FuerzaAbuelaConQuintoRetiro    |     25 |
+| \#MuchoGustoMega                 |     23 |
+| \#ConvencionConstituyente        |     21 |
 
 # Cuentas
 
