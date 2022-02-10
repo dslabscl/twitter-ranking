@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-09 01:22:18
+Chile. Fecha del reporte: 2022-02-10 01:18:13
 
 # Hashtags más populares
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroEnMarzo            |    738 |
-| \#QuintoRetiroUrgente            |    137 |
-| \#nomasmotos                     |    130 |
-| \#5toRetiroUrgente               |     84 |
-| \#QuintoRetiroAhora              |     80 |
-| \#QuintoRetiroOALaCalle          |     72 |
-| \#QuintoRetiro                   |     66 |
-| \#QuintoRetiroUrgenteConLaAbuela |     43 |
-| \#Chile                          |     40 |
+| \#QuintoRetiroEnMarzo            |    653 |
+| \#QuintoRetiroUrgente            |    212 |
+| \#QuintoRetiroOALaCalle          |     60 |
+| \#Chile                          |     57 |
+| \#QuintoRetiroUrgenteConLaAbuela |     55 |
+| \#5toRetiroUrgente               |     42 |
+| \#ConvencionConstitucional       |     38 |
+| \#Article3UG                     |     36 |
 | \#CongresoFuturo2022             |     34 |
+| \#RechazoDeSalida2022            |     34 |
 | \#SiempreEsHoy                   |     34 |
-| \#QuintoRetiroEsUrgente          |     33 |
-| \#ConvencionConstitucional       |     32 |
-| \#5toRetiroURGENTE               |     28 |
-| \#RechazoDeSalida2022            |     28 |
-| \#ContigoCHV                     |     27 |
-| \#Arica                          |     25 |
-| \#FuerzaAbuelaConQuintoRetiro    |     25 |
-| \#MuchoGustoMega                 |     23 |
-| \#ConvencionConstituyente        |     21 |
+| \#ContigoCHV                     |     30 |
+| \#QuintoRetiroAhora              |     28 |
+| \#FuerzaAbuelaConQuintoRetiro    |     26 |
+| \#RechazoDeSalida                |     26 |
+| \#ConvencionConstituyente        |     25 |
+| \#MuchoGustoMega                 |     25 |
+| \#NoMasAFP                       |     24 |
+| \#RechazoPopular                 |     24 |
+| \#Boric                          |     23 |
 
 # Cuentas
 
