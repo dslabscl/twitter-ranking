@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-10 01:18:13
+Chile. Fecha del reporte: 2022-02-11 01:20:55
 
 # Hashtags más populares
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroEnMarzo            |    653 |
-| \#QuintoRetiroUrgente            |    212 |
-| \#QuintoRetiroOALaCalle          |     60 |
-| \#Chile                          |     57 |
-| \#QuintoRetiroUrgenteConLaAbuela |     55 |
+| \#QuintoRetiroEnMarzo            |    794 |
+| \#QuintoRetiroUrgente            |    250 |
+| \#FuerzaAbuelaConQuintoRetiro    |     72 |
+| \#QuintoRetiroOALaCalle          |     67 |
+| \#QuintoRetiroUrgenteConLaAbuela |     66 |
+| \#RechazoDeSalida2022            |     52 |
+| \#ConvencionCulia                |     51 |
+| \#ConvencionConstitucional       |     48 |
 | \#5toRetiroUrgente               |     42 |
-| \#ConvencionConstitucional       |     38 |
-| \#Article3UG                     |     36 |
 | \#CongresoFuturo2022             |     34 |
-| \#RechazoDeSalida2022            |     34 |
 | \#SiempreEsHoy                   |     34 |
-| \#ContigoCHV                     |     30 |
-| \#QuintoRetiroAhora              |     28 |
-| \#FuerzaAbuelaConQuintoRetiro    |     26 |
-| \#RechazoDeSalida                |     26 |
-| \#ConvencionConstituyente        |     25 |
-| \#MuchoGustoMega                 |     25 |
-| \#NoMasAFP                       |     24 |
-| \#RechazoPopular                 |     24 |
-| \#Boric                          |     23 |
+| \#QuintoRetiro10xCiento          |     33 |
+| \#ContigoCHV                     |     32 |
+| \#Chile                          |     31 |
+| \#5toRetiroURGENTE               |     30 |
+| \#MuchoGustoMega                 |     28 |
+| \#QuintoRetiroEnM                |     28 |
+| \#QuintoRetiroDeMi100xCiento     |     26 |
+| \#Arica                          |     24 |
+| \#ConvencionConstituyente        |     24 |
 
 # Cuentas
 
