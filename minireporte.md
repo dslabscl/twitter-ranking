@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-11 01:20:55
+Chile. Fecha del reporte: 2022-02-14 01:14:34
 
 # Hashtags más populares
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroEnMarzo            |    794 |
-| \#QuintoRetiroUrgente            |    250 |
-| \#FuerzaAbuelaConQuintoRetiro    |     72 |
-| \#QuintoRetiroOALaCalle          |     67 |
-| \#QuintoRetiroUrgenteConLaAbuela |     66 |
-| \#RechazoDeSalida2022            |     52 |
-| \#ConvencionCulia                |     51 |
-| \#ConvencionConstitucional       |     48 |
-| \#5toRetiroUrgente               |     42 |
-| \#CongresoFuturo2022             |     34 |
-| \#SiempreEsHoy                   |     34 |
-| \#QuintoRetiro10xCiento          |     33 |
-| \#ContigoCHV                     |     32 |
-| \#Chile                          |     31 |
-| \#5toRetiroURGENTE               |     30 |
-| \#MuchoGustoMega                 |     28 |
-| \#QuintoRetiroEnM                |     28 |
-| \#QuintoRetiroDeMi100xCiento     |     26 |
-| \#Arica                          |     24 |
-| \#ConvencionConstituyente        |     24 |
+| \#QuintoRetiroEnMarzo            |    666 |
+| \#CamionerosMafiosos             |    271 |
+| \#TrenesParaChile                |    258 |
+| \#QuintoRetiroUrgente            |    201 |
+| \#QuintoRetiroOALaCalle          |     74 |
+| \#Chile                          |     47 |
+| \#SergioPerezMafioso             |     46 |
+| \#ContigoCHV                     |     39 |
+| \#MuchoGustoMega                 |     39 |
+| \#QuintoRetiroUrgenteConLaAbuela |     39 |
+| \#RechazoDeSalida2022            |     38 |
+| \#CongresoFuturo2022             |     36 |
+| \#SiempreEsHoy                   |     36 |
+| \#Iquique                        |     32 |
+| \#ElPeorGobiernoDeLaHistoria     |     29 |
+| \#5toRetiroUrgente               |     28 |
+| \#ConvencionConstitucional       |     27 |
+| \#Arica                          |     26 |
+| \#ConvencionCulia                |     26 |
+| \#QuintoRetiro                   |     26 |
 
 # Cuentas
 
