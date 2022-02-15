@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-14 01:14:34
+Chile. Fecha del reporte: 2022-02-15 01:26:27
 
 # Hashtags más populares
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroEnMarzo            |    666 |
-| \#CamionerosMafiosos             |    271 |
-| \#TrenesParaChile                |    258 |
-| \#QuintoRetiroUrgente            |    201 |
-| \#QuintoRetiroOALaCalle          |     74 |
-| \#Chile                          |     47 |
-| \#SergioPerezMafioso             |     46 |
-| \#ContigoCHV                     |     39 |
-| \#MuchoGustoMega                 |     39 |
-| \#QuintoRetiroUrgenteConLaAbuela |     39 |
+| \#QuintoRetiroEnMarzo            |    702 |
+| \#CamionerosMafiosos             |    235 |
+| \#QuintoRetiroUrgente            |    212 |
+| \#TrenesParaChile                |    208 |
+| \#QuintoRetiroOALaCalle          |    142 |
+| \#SergioPerezMafioso             |    101 |
+| \#ParoDeCamioneros               |     69 |
+| \#QuintoRetiro10xCiento          |     60 |
+| \#QuintoRetiroUrgenteConLaAbuela |     60 |
+| \#QuintoRetiroDeMi100xCiento     |     48 |
+| \#quintoretiro                   |     44 |
+| \#QuintoRetiro                   |     43 |
+| \#Chile                          |     42 |
+| \#pamelajiles                    |     41 |
+| \#MuchoGustoMega                 |     40 |
+| \#datoquetedoy                   |     39 |
 | \#RechazoDeSalida2022            |     38 |
+| \#FuerzaAbuelaConQuintoRetiro    |     37 |
 | \#CongresoFuturo2022             |     36 |
-| \#SiempreEsHoy                   |     36 |
-| \#Iquique                        |     32 |
-| \#ElPeorGobiernoDeLaHistoria     |     29 |
-| \#5toRetiroUrgente               |     28 |
-| \#ConvencionConstitucional       |     27 |
-| \#Arica                          |     26 |
-| \#ConvencionCulia                |     26 |
-| \#QuintoRetiro                   |     26 |
+| \#ContigoCHV                     |     36 |
 
 # Cuentas
 
