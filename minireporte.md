@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-15 01:26:27
+Chile. Fecha del reporte: 2022-02-16 01:28:15
 
 # Hashtags más populares
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroEnMarzo            |    702 |
-| \#CamionerosMafiosos             |    235 |
-| \#QuintoRetiroUrgente            |    212 |
-| \#TrenesParaChile                |    208 |
-| \#QuintoRetiroOALaCalle          |    142 |
-| \#SergioPerezMafioso             |    101 |
-| \#ParoDeCamioneros               |     69 |
-| \#QuintoRetiro10xCiento          |     60 |
-| \#QuintoRetiroUrgenteConLaAbuela |     60 |
-| \#QuintoRetiroDeMi100xCiento     |     48 |
-| \#quintoretiro                   |     44 |
-| \#QuintoRetiro                   |     43 |
-| \#Chile                          |     42 |
-| \#pamelajiles                    |     41 |
-| \#MuchoGustoMega                 |     40 |
-| \#datoquetedoy                   |     39 |
-| \#RechazoDeSalida2022            |     38 |
-| \#FuerzaAbuelaConQuintoRetiro    |     37 |
-| \#CongresoFuturo2022             |     36 |
-| \#ContigoCHV                     |     36 |
+| \#QuintoRetiroEnMarzo            |    689 |
+| \#QuintoRetiroUrgente            |    144 |
+| \#CamionerosMafiosos             |    133 |
+| \#TrenesParaChile                |    130 |
+| \#QuintoRetiroOALaCalle          |    125 |
+| \#SergioPerezMafioso             |     56 |
+| \#CongresoFuturo2022             |     40 |
+| \#SiempreEsHoy                   |     40 |
+| \#ParoDeCamioneros               |     39 |
+| \#FuerzaAbuelaConQuintoRetiro    |     38 |
+| \#ContigoCHV                     |     37 |
+| \#MuchoGustoMega                 |     37 |
+| \#ConvencionConstitucional       |     35 |
+| \#RechazoDeSalida2022            |     35 |
+| \#Chile                          |     30 |
+| \#QuintoRetiro                   |     30 |
+| \#QuintoRetiroUrgenteConLaAbuela |     29 |
+| \#5toRetiroUrgente               |     28 |
+| \#QuintoRetiro10xCiento          |     28 |
+| \#Arica                          |     26 |
 
 # Cuentas
 
