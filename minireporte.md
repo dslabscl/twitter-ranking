@@ -2,32 +2,32 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-16 01:28:15
+Chile. Fecha del reporte: 2022-02-17 01:13:46
 
 # Hashtags más populares
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroEnMarzo            |    689 |
-| \#QuintoRetiroUrgente            |    144 |
-| \#CamionerosMafiosos             |    133 |
-| \#TrenesParaChile                |    130 |
-| \#QuintoRetiroOALaCalle          |    125 |
-| \#SergioPerezMafioso             |     56 |
-| \#CongresoFuturo2022             |     40 |
-| \#SiempreEsHoy                   |     40 |
+| \#QuintoRetiroEnMarzo            |    816 |
+| \#QuintoRetiroUrgente            |    191 |
+| \#CamionerosMafiosos             |    120 |
+| \#QuintoRetiroOALaCalle          |    117 |
+| \#TrenesParaChile                |    112 |
+| \#QuintoRetiroUrgenteConLaAbuela |     55 |
+| \#SergioPerezMafioso             |     52 |
+| \#RechazoDeSalida2022            |     46 |
+| \#CongresoFuturo2022             |     41 |
+| \#ContigoCHV                     |     41 |
+| \#SiempreEsHoy                   |     41 |
+| \#FuerzaAbuelaConQuintoRetiro    |     39 |
+| \#MuchoGustoMega                 |     39 |
 | \#ParoDeCamioneros               |     39 |
-| \#FuerzaAbuelaConQuintoRetiro    |     38 |
-| \#ContigoCHV                     |     37 |
-| \#MuchoGustoMega                 |     37 |
-| \#ConvencionConstitucional       |     35 |
-| \#RechazoDeSalida2022            |     35 |
-| \#Chile                          |     30 |
-| \#QuintoRetiro                   |     30 |
-| \#QuintoRetiroUrgenteConLaAbuela |     29 |
+| \#QuintoRetiroYa                 |     32 |
+| \#QuintoRetiro100xCiento         |     31 |
+| \#ConvencionConstitucional       |     29 |
 | \#5toRetiroUrgente               |     28 |
-| \#QuintoRetiro10xCiento          |     28 |
-| \#Arica                          |     26 |
+| \#QuintoRetiro                   |     28 |
+| \#Chile                          |     24 |
 
 # Cuentas
 
