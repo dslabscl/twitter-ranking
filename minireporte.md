@@ -2,32 +2,37 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-17 01:13:46
+Chile. Fecha del reporte: 2022-02-18 01:26:04
+
+    ## raw(0)
+    ## raw(0)
+    ## raw(0)
+    ## raw(0)
 
 # Hashtags más populares
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroEnMarzo            |    816 |
-| \#QuintoRetiroUrgente            |    191 |
-| \#CamionerosMafiosos             |    120 |
-| \#QuintoRetiroOALaCalle          |    117 |
-| \#TrenesParaChile                |    112 |
-| \#QuintoRetiroUrgenteConLaAbuela |     55 |
-| \#SergioPerezMafioso             |     52 |
-| \#RechazoDeSalida2022            |     46 |
-| \#CongresoFuturo2022             |     41 |
-| \#ContigoCHV                     |     41 |
-| \#SiempreEsHoy                   |     41 |
-| \#FuerzaAbuelaConQuintoRetiro    |     39 |
-| \#MuchoGustoMega                 |     39 |
-| \#ParoDeCamioneros               |     39 |
-| \#QuintoRetiroYa                 |     32 |
-| \#QuintoRetiro100xCiento         |     31 |
-| \#ConvencionConstitucional       |     29 |
+| \#QuintoRetiroEnMarzo            |    754 |
+| \#QuintoRetiroUrgente            |    185 |
+| \#QuintoRetiroUrgenteConLaAbuela |     98 |
+| \#QuintoRetiroOALaCalle          |     94 |
+| \#ContigoCHV                     |     52 |
+| \#CamionerosMafiosos             |     46 |
+| \#QUINTORETIROAHORA              |     44 |
+| \#CongresoFuturo2022             |     42 |
+| \#SiempreEsHoy                   |     42 |
+| \#Chile                          |     38 |
+| \#RechazoDeSalida2022            |     35 |
+| \#ConvencionConstitucional       |     33 |
+| \#FuerzaAbuelaConQuintoRetiro    |     33 |
+| \#Retiro100xCiento               |     33 |
+| \#MuchoGustoMega                 |     32 |
+| \#QuintoRetiroDeMi100xCiento     |     32 |
+| \#HolaChileLaRed                 |     30 |
+| \#QuintoRetiro10xCiento          |     30 |
 | \#5toRetiroUrgente               |     28 |
 | \#QuintoRetiro                   |     28 |
-| \#Chile                          |     24 |
 
 # Cuentas
 
