@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-18 01:26:04
+Chile. Fecha del reporte: 2022-02-21 01:16:59
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-02-18 01:26:04
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroEnMarzo            |    754 |
-| \#QuintoRetiroUrgente            |    185 |
-| \#QuintoRetiroUrgenteConLaAbuela |     98 |
-| \#QuintoRetiroOALaCalle          |     94 |
-| \#ContigoCHV                     |     52 |
-| \#CamionerosMafiosos             |     46 |
-| \#QUINTORETIROAHORA              |     44 |
-| \#CongresoFuturo2022             |     42 |
-| \#SiempreEsHoy                   |     42 |
-| \#Chile                          |     38 |
-| \#RechazoDeSalida2022            |     35 |
-| \#ConvencionConstitucional       |     33 |
-| \#FuerzaAbuelaConQuintoRetiro    |     33 |
-| \#Retiro100xCiento               |     33 |
-| \#MuchoGustoMega                 |     32 |
-| \#QuintoRetiroDeMi100xCiento     |     32 |
-| \#HolaChileLaRed                 |     30 |
-| \#QuintoRetiro10xCiento          |     30 |
-| \#5toRetiroUrgente               |     28 |
-| \#QuintoRetiro                   |     28 |
+| \#QuintoRetiroEnMarzo            |    571 |
+| \#QuintoRetiroUrgente            |    184 |
+| \#quintoretiro                   |     92 |
+| \#QuintoRetiro10xCiento          |     92 |
+| \#datoquetedoy                   |     81 |
+| \#pamelajiles                    |     81 |
+| \#QuintoRetiroOALaCalle          |     79 |
+| \#SiNoHayRetiroSalimosAlaCalle   |     69 |
+| \#CongresoFuturo2022             |     46 |
+| \#QuintoRetiroUrgenteConLaAbuela |     46 |
+| \#SiempreEsHoy                   |     46 |
+| \#FuerzaAbuelaConQuintoRetiro    |     36 |
+| \#ContigoCHV                     |     33 |
+| \#Chile                          |     32 |
+| \#RechazoPopular                 |     31 |
+| \#MuchoGustoMega                 |     30 |
+| \#QuintoRetiro100xCiento         |     29 |
+| \#QUINTORETIROAHORA              |     29 |
+| \#QuintoRetiroDeMi100xCiento     |     27 |
+| \#ConvencionConstitucional       |     25 |
 
 # Cuentas
 
