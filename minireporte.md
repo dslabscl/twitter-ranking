@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-21 01:16:59
+Chile. Fecha del reporte: 2022-02-22 01:18:35
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-02-21 01:16:59
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroEnMarzo            |    571 |
-| \#QuintoRetiroUrgente            |    184 |
-| \#quintoretiro                   |     92 |
-| \#QuintoRetiro10xCiento          |     92 |
-| \#datoquetedoy                   |     81 |
-| \#pamelajiles                    |     81 |
-| \#QuintoRetiroOALaCalle          |     79 |
-| \#SiNoHayRetiroSalimosAlaCalle   |     69 |
+| \#QuintoRetiroUrgente            |    379 |
+| \#QuintoRetiroEnMarzo            |    221 |
+| \#QUINTORETIROAHORA              |    131 |
+| \#QuintoRetiro                   |     71 |
+| \#QuintoRetiroOALaCalle          |     68 |
 | \#CongresoFuturo2022             |     46 |
-| \#QuintoRetiroUrgenteConLaAbuela |     46 |
 | \#SiempreEsHoy                   |     46 |
-| \#FuerzaAbuelaConQuintoRetiro    |     36 |
-| \#ContigoCHV                     |     33 |
-| \#Chile                          |     32 |
-| \#RechazoPopular                 |     31 |
-| \#MuchoGustoMega                 |     30 |
+| \#QuintoRetiro10xCiento          |     45 |
+| \#quintoretiro                   |     37 |
+| \#ContigoCHV                     |     36 |
+| \#FuerzaAbuelaConQuintoRetiro    |     34 |
 | \#QuintoRetiro100xCiento         |     29 |
-| \#QUINTORETIROAHORA              |     29 |
-| \#QuintoRetiroDeMi100xCiento     |     27 |
-| \#ConvencionConstitucional       |     25 |
+| \#RechazoPopular                 |     27 |
+| \#datoquetedoy                   |     26 |
+| \#LaConvencionSeDefiende         |     26 |
+| \#pamelajiles                    |     26 |
+| \#QuintoRetiroUrgenteConLaAbuela |     26 |
+| \#KastTeniaRazon                 |     24 |
+| \#RechazoDeSalida2022            |     24 |
+| \#TigrayGenocide                 |     24 |
 
 # Cuentas
 
