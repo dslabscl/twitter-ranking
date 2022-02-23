@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-22 01:18:35
+Chile. Fecha del reporte: 2022-02-23 01:27:00
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-02-22 01:18:35
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroUrgente            |    379 |
-| \#QuintoRetiroEnMarzo            |    221 |
-| \#QUINTORETIROAHORA              |    131 |
-| \#QuintoRetiro                   |     71 |
-| \#QuintoRetiroOALaCalle          |     68 |
+| \#QuintoRetiroUrgente            |    619 |
+| \#QuintoRetiroEnMarzo            |    132 |
+| \#QuintoRetiroOALaCalle          |    128 |
+| \#BadBoys                        |     84 |
+| \#QuintoRetiroUrgenteConLaAbuela |     79 |
+| \#QuintoRetiro10xCiento          |     63 |
+| \#ConvencionConstitucional       |     51 |
 | \#CongresoFuturo2022             |     46 |
+| \#quintoretiro                   |     46 |
 | \#SiempreEsHoy                   |     46 |
-| \#QuintoRetiro10xCiento          |     45 |
-| \#quintoretiro                   |     37 |
-| \#ContigoCHV                     |     36 |
-| \#FuerzaAbuelaConQuintoRetiro    |     34 |
-| \#QuintoRetiro100xCiento         |     29 |
-| \#RechazoPopular                 |     27 |
-| \#datoquetedoy                   |     26 |
-| \#LaConvencionSeDefiende         |     26 |
-| \#pamelajiles                    |     26 |
-| \#QuintoRetiroUrgenteConLaAbuela |     26 |
-| \#KastTeniaRazon                 |     24 |
-| \#RechazoDeSalida2022            |     24 |
-| \#TigrayGenocide                 |     24 |
+| \#ContigoCHV                     |     43 |
+| \#Retiro100xCiento               |     40 |
+| \#QuintoRetiroMarzo              |     39 |
+| \#datoquetedoy                   |     36 |
+| \#pamelajiles                    |     36 |
+| \#QuintoRetiro100xCiento         |     36 |
+| \#RechazoDeSalida2022            |     35 |
+| \#retiro100xciento               |     33 |
+| \#badboys                        |     30 |
+| \#Arica                          |     29 |
 
 # Cuentas
 
