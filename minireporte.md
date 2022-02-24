@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-23 01:27:00
+Chile. Fecha del reporte: 2022-02-24 01:26:00
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-02-23 01:27:00
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroUrgente            |    619 |
-| \#QuintoRetiroEnMarzo            |    132 |
-| \#QuintoRetiroOALaCalle          |    128 |
-| \#BadBoys                        |     84 |
-| \#QuintoRetiroUrgenteConLaAbuela |     79 |
-| \#QuintoRetiro10xCiento          |     63 |
-| \#ConvencionConstitucional       |     51 |
-| \#CongresoFuturo2022             |     46 |
-| \#quintoretiro                   |     46 |
-| \#SiempreEsHoy                   |     46 |
-| \#ContigoCHV                     |     43 |
-| \#Retiro100xCiento               |     40 |
-| \#QuintoRetiroMarzo              |     39 |
-| \#datoquetedoy                   |     36 |
-| \#pamelajiles                    |     36 |
-| \#QuintoRetiro100xCiento         |     36 |
-| \#RechazoDeSalida2022            |     35 |
+| \#QuintoRetiroOALaCalle          |    555 |
+| \#QuintoRetiroUrgente            |    168 |
+| \#QuintoRetiroUrgenteConLaAbuela |     59 |
+| \#QuintoRetiroEnMarzo            |     51 |
+| \#ContigoCHV                     |     46 |
+| \#CongresoFuturo2022             |     42 |
+| \#SiempreEsHoy                   |     42 |
+| \#QuintoRetiroMarzo              |     41 |
+| \#FuerzaAbuelaConQuintoRetiro    |     40 |
+| \#QuintoRetiro                   |     40 |
 | \#retiro100xciento               |     33 |
-| \#badboys                        |     30 |
-| \#Arica                          |     29 |
+| \#ConvencionConstitucional       |     31 |
+| \#RechazoDeSalida2022            |     27 |
+| \#Chile                          |     22 |
+| \#Arica                          |     20 |
+| \#PagaLaPensionPapitoCorazon     |     19 |
+| \#QuintoRetiro10xCiento          |     19 |
+| \#RechazoPopular                 |     19 |
+| \#LaConvencionSeDefiende         |     18 |
+| \#MINISTROCUMPLASUPALABRA        |     18 |
 
 # Cuentas
 
