@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-24 01:26:00
+Chile. Fecha del reporte: 2022-02-25 01:23:45
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-02-24 01:26:00
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroOALaCalle          |    555 |
-| \#QuintoRetiroUrgente            |    168 |
-| \#QuintoRetiroUrgenteConLaAbuela |     59 |
-| \#QuintoRetiroEnMarzo            |     51 |
-| \#ContigoCHV                     |     46 |
-| \#CongresoFuturo2022             |     42 |
-| \#SiempreEsHoy                   |     42 |
-| \#QuintoRetiroMarzo              |     41 |
-| \#FuerzaAbuelaConQuintoRetiro    |     40 |
-| \#QuintoRetiro                   |     40 |
-| \#retiro100xciento               |     33 |
-| \#ConvencionConstitucional       |     31 |
-| \#RechazoDeSalida2022            |     27 |
-| \#Chile                          |     22 |
-| \#Arica                          |     20 |
-| \#PagaLaPensionPapitoCorazon     |     19 |
-| \#QuintoRetiro10xCiento          |     19 |
-| \#RechazoPopular                 |     19 |
-| \#LaConvencionSeDefiende         |     18 |
-| \#MINISTROCUMPLASUPALABRA        |     18 |
+| \#QuintoRetiroOALaCalle          |    505 |
+| \#QuintoRetiroUrgente            |    218 |
+| \#QuintoRetiroEnMarzo            |     89 |
+| \#QuintoRetiro                   |     88 |
+| \#QuintoRetiro100xCiento         |     50 |
+| \#QuintoRetiroUrgenteConLaAbuela |     47 |
+| \#bonocompensatorioRRVV          |     45 |
+| \#ContigoCHV                     |     34 |
+| \#FuerzaAbuelaConQuintoRetiro    |     33 |
+| \#QuintoRetiroMarzo              |     33 |
+| \#QUINTORETIROAHORA              |     31 |
+| \#CongresoFuturo2022             |     29 |
+| \#SiempreEsHoy                   |     29 |
+| \#Chile                          |     27 |
+| \#retiro100xciento               |     26 |
+| \#RechazoDeSalida2022            |     20 |
+| \#Ucrania                        |     20 |
+| \#AmarillosporChile              |     19 |
+| \#Arica                          |     19 |
+| \#ConvencionConstitucional       |     18 |
 
 # Cuentas
 
