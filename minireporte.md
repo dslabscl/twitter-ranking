@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-25 01:23:45
+Chile. Fecha del reporte: 2022-02-28 01:23:43
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-02-25 01:23:45
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroOALaCalle          |    505 |
-| \#QuintoRetiroUrgente            |    218 |
-| \#QuintoRetiroEnMarzo            |     89 |
-| \#QuintoRetiro                   |     88 |
-| \#QuintoRetiro100xCiento         |     50 |
-| \#QuintoRetiroUrgenteConLaAbuela |     47 |
-| \#bonocompensatorioRRVV          |     45 |
-| \#ContigoCHV                     |     34 |
-| \#FuerzaAbuelaConQuintoRetiro    |     33 |
-| \#QuintoRetiroMarzo              |     33 |
-| \#QUINTORETIROAHORA              |     31 |
-| \#CongresoFuturo2022             |     29 |
-| \#SiempreEsHoy                   |     29 |
-| \#Chile                          |     27 |
-| \#retiro100xciento               |     26 |
-| \#RechazoDeSalida2022            |     20 |
-| \#Ucrania                        |     20 |
-| \#AmarillosporChile              |     19 |
-| \#Arica                          |     19 |
-| \#ConvencionConstitucional       |     18 |
+| \#QuintoRetiroOALaCalle          |    517 |
+| \#nomashertz                     |    128 |
+| \#QuintoRetiroUrgente            |    128 |
+| \#QUINTORETIROAHORA              |     74 |
+| \#QuintoRetiro                   |     65 |
+| \#QuintoRetiroMarzo              |     64 |
+| \#QuintoRetiroEnMarzo            |     49 |
+| \#Chile                          |     35 |
+| \#QuintoRetiro100xCiento         |     32 |
+| \#Retiro100xCiento               |     29 |
+| \#Rusia                          |     29 |
+| \#QuintoRetiroUrgenteConLaAbuela |     27 |
+| \#Ucrania                        |     26 |
+| \#ConvencionConstitucional       |     25 |
+| \#quintoretiro                   |     25 |
+| \#QuintoRetiro10xCiento          |     24 |
+| \#Arica                          |     20 |
+| \#comunadestruida                |     20 |
+| \#RechazoPopular                 |     20 |
+| \#FuerzaAbuelaConQuintoRetiro    |     19 |
 
 # Cuentas
 
