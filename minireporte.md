@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-02-28 01:23:43
+Chile. Fecha del reporte: 2022-03-01 01:39:29
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-02-28 01:23:43
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroOALaCalle          |    517 |
-| \#nomashertz                     |    128 |
-| \#QuintoRetiroUrgente            |    128 |
-| \#QUINTORETIROAHORA              |     74 |
-| \#QuintoRetiro                   |     65 |
-| \#QuintoRetiroMarzo              |     64 |
-| \#QuintoRetiroEnMarzo            |     49 |
-| \#Chile                          |     35 |
-| \#QuintoRetiro100xCiento         |     32 |
-| \#Retiro100xCiento               |     29 |
-| \#Rusia                          |     29 |
-| \#QuintoRetiroUrgenteConLaAbuela |     27 |
-| \#Ucrania                        |     26 |
-| \#ConvencionConstitucional       |     25 |
-| \#quintoretiro                   |     25 |
-| \#QuintoRetiro10xCiento          |     24 |
-| \#Arica                          |     20 |
-| \#comunadestruida                |     20 |
-| \#RechazoPopular                 |     20 |
-| \#FuerzaAbuelaConQuintoRetiro    |     19 |
+| \#QuintoRetiro                   |    534 |
+| \#AUstedesNo                     |    379 |
+| \#QuintoRetiroOALaCalle          |    140 |
+| \#QuintoRetiroUrgente            |     83 |
+| \#Chile                          |     37 |
+| \#QuintoRetiroEnMarzo            |     37 |
+| \#RechazoDeSalida2022            |     37 |
+| \#QUINTORETIROAHORA              |     36 |
+| \#QuintoRetiro10xCiento          |     35 |
+| \#QuintoRetiroUrgenteConLaAbuela |     35 |
+| \#ContigoCHV                     |     31 |
+| \#QuintoRetiroMarzo              |     26 |
+| \#Ucrania                        |     24 |
+| \#FuerzaAbuelaConQuintoRetiro    |     23 |
+| \#Arica                          |     22 |
+| \#MesaCentral                    |     19 |
+| \#ConvencionConstitucional       |     18 |
+| \#RechazoPopular                 |     18 |
+| \#AmarillosporChile              |     16 |
+| \#comunadestruida                |     12 |
 
 # Cuentas
 
