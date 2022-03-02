@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-01 01:39:29
+Chile. Fecha del reporte: 2022-03-02 01:36:04
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-03-01 01:39:29
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiro                   |    534 |
-| \#AUstedesNo                     |    379 |
-| \#QuintoRetiroOALaCalle          |    140 |
-| \#QuintoRetiroUrgente            |     83 |
-| \#Chile                          |     37 |
-| \#QuintoRetiroEnMarzo            |     37 |
-| \#RechazoDeSalida2022            |     37 |
+| \#QuintoRetiro                   |    457 |
+| \#AUstedesNo                     |    351 |
+| \#QuintoRetiroOALaCalle          |    173 |
+| \#QuintoRetiroUrgente            |    156 |
+| \#bonocompensatorioRRVV          |     83 |
+| \#LaTereEnBadBoys                |     74 |
+| \#QuintoRetiroUrgenteConLaAbuela |     63 |
+| \#QuintoRetiroEnMarzo            |     61 |
 | \#QUINTORETIROAHORA              |     36 |
-| \#QuintoRetiro10xCiento          |     35 |
-| \#QuintoRetiroUrgenteConLaAbuela |     35 |
-| \#ContigoCHV                     |     31 |
-| \#QuintoRetiroMarzo              |     26 |
-| \#Ucrania                        |     24 |
-| \#FuerzaAbuelaConQuintoRetiro    |     23 |
-| \#Arica                          |     22 |
-| \#MesaCentral                    |     19 |
-| \#ConvencionConstitucional       |     18 |
-| \#RechazoPopular                 |     18 |
-| \#AmarillosporChile              |     16 |
-| \#comunadestruida                |     12 |
+| \#QuintoRetiro100xCiento         |     34 |
+| \#Chile                          |     32 |
+| \#NOAlTPP11                      |     32 |
+| \#discriminacionchile            |     26 |
+| \#ContigoCHV                     |     25 |
+| \#ConvencionConstitucional       |     24 |
+| \#FuerzaAbuelaConQuintoRetiro    |     22 |
+| \#MesaCentral                    |     22 |
+| \#Arica                          |     21 |
+| \#RechazoDeSalida2022            |     21 |
+| \#QuintoRetiroMarzo              |     20 |
 
 # Cuentas
 
