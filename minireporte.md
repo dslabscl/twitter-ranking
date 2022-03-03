@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-02 01:36:04
+Chile. Fecha del reporte: 2022-03-03 01:39:19
 
     ## raw(0)
     ## raw(0)
@@ -11,28 +11,28 @@ Chile. Fecha del reporte: 2022-03-02 01:36:04
 
 # Hashtags más populares
 
-| datos                            | Cuenta |
-|:---------------------------------|-------:|
-| \#QuintoRetiro                   |    457 |
-| \#AUstedesNo                     |    351 |
-| \#QuintoRetiroOALaCalle          |    173 |
-| \#QuintoRetiroUrgente            |    156 |
-| \#bonocompensatorioRRVV          |     83 |
-| \#LaTereEnBadBoys                |     74 |
-| \#QuintoRetiroUrgenteConLaAbuela |     63 |
-| \#QuintoRetiroEnMarzo            |     61 |
-| \#QUINTORETIROAHORA              |     36 |
-| \#QuintoRetiro100xCiento         |     34 |
-| \#Chile                          |     32 |
-| \#NOAlTPP11                      |     32 |
-| \#discriminacionchile            |     26 |
-| \#ContigoCHV                     |     25 |
-| \#ConvencionConstitucional       |     24 |
-| \#FuerzaAbuelaConQuintoRetiro    |     22 |
-| \#MesaCentral                    |     22 |
-| \#Arica                          |     21 |
-| \#RechazoDeSalida2022            |     21 |
-| \#QuintoRetiroMarzo              |     20 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#QuintoRetiro                |    369 |
+| \#AUstedesNo                  |    292 |
+| \#QuintoRetiroOALaCalle       |     91 |
+| \#NoAlTPP11                   |     46 |
+| \#NOAlTPP11                   |     44 |
+| \#bonocompensatorioRRVV       |     40 |
+| \#QuintoRetiroUrgente         |     31 |
+| \#QuintoRetiro100xCiento      |     30 |
+| \#Chile                       |     27 |
+| \#discriminacionchile         |     26 |
+| \#QUINTORETIROAHORA           |     25 |
+| \#ContigoCHV                  |     23 |
+| \#Arica                       |     20 |
+| \#Ucrania                     |     20 |
+| \#ConvencionConstitucional    |     18 |
+| \#FuerzaAbuelaConQuintoRetiro |     18 |
+| \#NoAlTTP11                   |     16 |
+| \#QuintoRetiroMarzo           |     15 |
+| \#QuintoRetiroYa              |     15 |
+| \#RechazoDeSalida2022         |     15 |
 
 # Cuentas
 
