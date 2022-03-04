@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-03 01:39:19
+Chile. Fecha del reporte: 2022-03-04 01:42:00
 
     ## raw(0)
     ## raw(0)
@@ -11,28 +11,28 @@ Chile. Fecha del reporte: 2022-03-03 01:39:19
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#QuintoRetiro                |    369 |
-| \#AUstedesNo                  |    292 |
-| \#QuintoRetiroOALaCalle       |     91 |
-| \#NoAlTPP11                   |     46 |
-| \#NOAlTPP11                   |     44 |
-| \#bonocompensatorioRRVV       |     40 |
-| \#QuintoRetiroUrgente         |     31 |
-| \#QuintoRetiro100xCiento      |     30 |
-| \#Chile                       |     27 |
-| \#discriminacionchile         |     26 |
-| \#QUINTORETIROAHORA           |     25 |
-| \#ContigoCHV                  |     23 |
-| \#Arica                       |     20 |
-| \#Ucrania                     |     20 |
-| \#ConvencionConstitucional    |     18 |
-| \#FuerzaAbuelaConQuintoRetiro |     18 |
-| \#NoAlTTP11                   |     16 |
-| \#QuintoRetiroMarzo           |     15 |
-| \#QuintoRetiroYa              |     15 |
-| \#RechazoDeSalida2022         |     15 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#QuintoRetiro                 |    298 |
+| \#AUstedesNo                   |    176 |
+| \#QuintoRetiroOALaCalle        |    163 |
+| \#QuintoRetiro100xCiento       |     57 |
+| \#NOAlTPP11                    |     44 |
+| \#QUINTORETIROAHORA            |     43 |
+| \#QuintoRetiroYa               |     35 |
+| \#QuintoRetiroEsUrgente        |     30 |
+| \#QuintoRetiroUrgente          |     28 |
+| \#ConvencionConstitucional     |     26 |
+| \#discriminacionchile          |     25 |
+| \#QuintoRetiroMarzo            |     25 |
+| \#ContigoCHV                   |     24 |
+| \#QuintoRetiro10xCiento        |     24 |
+| \#RechazoDeSalida2022          |     24 |
+| \#Chile                        |     22 |
+| \#Ucrania                      |     21 |
+| \#Arica                        |     20 |
+| \#ElPeorPresidenteDeLaHistoria |     19 |
+| \#PymesUnidas                  |     19 |
 
 # Cuentas
 
