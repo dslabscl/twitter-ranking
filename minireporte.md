@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-04 01:42:00
+Chile. Fecha del reporte: 2022-03-07 01:26:55
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-03-04 01:42:00
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#QuintoRetiro                 |    298 |
-| \#AUstedesNo                   |    176 |
-| \#QuintoRetiroOALaCalle        |    163 |
-| \#QuintoRetiro100xCiento       |     57 |
-| \#NOAlTPP11                    |     44 |
-| \#QUINTORETIROAHORA            |     43 |
-| \#QuintoRetiroYa               |     35 |
-| \#QuintoRetiroEsUrgente        |     30 |
-| \#QuintoRetiroUrgente          |     28 |
-| \#ConvencionConstitucional     |     26 |
-| \#discriminacionchile          |     25 |
-| \#QuintoRetiroMarzo            |     25 |
-| \#ContigoCHV                   |     24 |
-| \#QuintoRetiro10xCiento        |     24 |
-| \#RechazoDeSalida2022          |     24 |
-| \#Chile                        |     22 |
-| \#Ucrania                      |     21 |
-| \#Arica                        |     20 |
-| \#ElPeorPresidenteDeLaHistoria |     19 |
-| \#PymesUnidas                  |     19 |
+| \#QuintoRetiroOALaCalle        |    208 |
+| \#QuintoRetiro                 |    124 |
+| \#AUstedesNo                   |     84 |
+| \#ConvencionConstitucional     |     83 |
+| \#comunadestruida              |     80 |
+| \#ElPeorPresidenteDeLaHistoria |     71 |
+| \#ElPeorGobiernoDeLaHistoria   |     69 |
+| \#quintoretiro                 |     69 |
+| \#QuintoRetiro10xCiento        |     65 |
+| \#LosRulos                     |     59 |
+| \#pamelajiles                  |     59 |
+| \#datoquetedoy                 |     58 |
+| \#NoaLaTermo                   |     58 |
+| \#QuintoRetiro100xCiento       |     47 |
+| \#NOAlTPP11                    |     43 |
+| \#QuintoRetiroUrgente          |     39 |
+| \#Chile                        |     38 |
+| \#QUINTORETIROAHORA            |     32 |
+| \#FuerzaAbuelaConQuintoRetiro  |     25 |
+| \#RechazoDeSalida2022          |     25 |
 
 # Cuentas
 
