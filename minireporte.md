@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-07 01:26:55
+Chile. Fecha del reporte: 2022-03-08 01:26:31
 
     ## raw(0)
     ## raw(0)
@@ -11,28 +11,28 @@ Chile. Fecha del reporte: 2022-03-07 01:26:55
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#QuintoRetiroOALaCalle        |    208 |
-| \#QuintoRetiro                 |    124 |
-| \#AUstedesNo                   |     84 |
-| \#ConvencionConstitucional     |     83 |
-| \#comunadestruida              |     80 |
-| \#ElPeorPresidenteDeLaHistoria |     71 |
-| \#ElPeorGobiernoDeLaHistoria   |     69 |
-| \#quintoretiro                 |     69 |
-| \#QuintoRetiro10xCiento        |     65 |
-| \#LosRulos                     |     59 |
-| \#pamelajiles                  |     59 |
-| \#datoquetedoy                 |     58 |
-| \#NoaLaTermo                   |     58 |
-| \#QuintoRetiro100xCiento       |     47 |
-| \#NOAlTPP11                    |     43 |
-| \#QuintoRetiroUrgente          |     39 |
-| \#Chile                        |     38 |
-| \#QUINTORETIROAHORA            |     32 |
-| \#FuerzaAbuelaConQuintoRetiro  |     25 |
-| \#RechazoDeSalida2022          |     25 |
+| datos                            | Cuenta |
+|:---------------------------------|-------:|
+| \#QuintoRetiroOALaCalle          |    223 |
+| \#QuintoRetiro                   |    162 |
+| \#ConvencionConstitucional       |     94 |
+| \#QuintoRetiro100xCiento         |     72 |
+| \#quintoretiro                   |     63 |
+| \#QuintoRetiroUrgente            |     63 |
+| \#QuintoRetiro10xCiento          |     62 |
+| \#AUstedesNo                     |     59 |
+| \#ElPeorPresidenteDeLaHistoria   |     57 |
+| \#ElPeorGobiernoDeLaHistoria     |     56 |
+| \#RechazoElMamarracho            |     51 |
+| \#datoquetedoy                   |     45 |
+| \#LosRulos                       |     45 |
+| \#NoaLaTermo                     |     45 |
+| \#pamelajiles                    |     45 |
+| \#QuintoRetiroMarzo              |     41 |
+| \#QUINTORETIROAHORA              |     36 |
+| \#QuintoRetiroUrgenteConLaAbuela |     34 |
+| \#ConvencionConstituyente        |     33 |
+| \#Chile                          |     29 |
 
 # Cuentas
 
