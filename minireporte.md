@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-08 01:26:31
+Chile. Fecha del reporte: 2022-03-09 01:36:00
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-03-08 01:26:31
 
 | datos                            | Cuenta |
 |:---------------------------------|-------:|
-| \#QuintoRetiroOALaCalle          |    223 |
-| \#QuintoRetiro                   |    162 |
-| \#ConvencionConstitucional       |     94 |
-| \#QuintoRetiro100xCiento         |     72 |
-| \#quintoretiro                   |     63 |
-| \#QuintoRetiroUrgente            |     63 |
-| \#QuintoRetiro10xCiento          |     62 |
-| \#AUstedesNo                     |     59 |
-| \#ElPeorPresidenteDeLaHistoria   |     57 |
-| \#ElPeorGobiernoDeLaHistoria     |     56 |
-| \#RechazoElMamarracho            |     51 |
-| \#datoquetedoy                   |     45 |
-| \#LosRulos                       |     45 |
-| \#NoaLaTermo                     |     45 |
-| \#pamelajiles                    |     45 |
-| \#QuintoRetiroMarzo              |     41 |
-| \#QUINTORETIROAHORA              |     36 |
-| \#QuintoRetiroUrgenteConLaAbuela |     34 |
-| \#ConvencionConstituyente        |     33 |
-| \#Chile                          |     29 |
+| \#QuintoRetiroOALaCalle          |    191 |
+| \#QuintoRetiro                   |     87 |
+| \#Justice4TigrayWomen            |     73 |
+| \#ConvencionConstitucional       |     63 |
+| \#IWD2022                        |     62 |
+| \#GarinEnBadboys                 |     53 |
+| \#Tigray                         |     50 |
+| \#8Marzo2022                     |     48 |
+| \#QuintoRetiro100xCiento         |     48 |
+| \#QuintoRetiroUrgente            |     40 |
+| \#ElPeorGobiernoDeLaHistoria     |     39 |
+| \#QuintoRetiro10xCiento          |     39 |
+| \#ElPeorPresidenteDeLaHistoria   |     36 |
+| \#Ucrania                        |     35 |
+| \#8M                             |     33 |
+| \#QuintoRetiroUrgenteConLaAbuela |     32 |
+| \#QuintoRetiroMarzo              |     31 |
+| \#AUstedesNo                     |     29 |
+| \#quintoretiro                   |     29 |
+| \#datoquetedoy                   |     26 |
 
 # Cuentas
 
