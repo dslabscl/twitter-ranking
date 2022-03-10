@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-09 01:36:00
+Chile. Fecha del reporte: 2022-03-10 01:41:29
 
     ## raw(0)
     ## raw(0)
@@ -11,28 +11,28 @@ Chile. Fecha del reporte: 2022-03-09 01:36:00
 
 # Hashtags más populares
 
-| datos                            | Cuenta |
-|:---------------------------------|-------:|
-| \#QuintoRetiroOALaCalle          |    191 |
-| \#QuintoRetiro                   |     87 |
-| \#Justice4TigrayWomen            |     73 |
-| \#ConvencionConstitucional       |     63 |
-| \#IWD2022                        |     62 |
-| \#GarinEnBadboys                 |     53 |
-| \#Tigray                         |     50 |
-| \#8Marzo2022                     |     48 |
-| \#QuintoRetiro100xCiento         |     48 |
-| \#QuintoRetiroUrgente            |     40 |
-| \#ElPeorGobiernoDeLaHistoria     |     39 |
-| \#QuintoRetiro10xCiento          |     39 |
-| \#ElPeorPresidenteDeLaHistoria   |     36 |
-| \#Ucrania                        |     35 |
-| \#8M                             |     33 |
-| \#QuintoRetiroUrgenteConLaAbuela |     32 |
-| \#QuintoRetiroMarzo              |     31 |
-| \#AUstedesNo                     |     29 |
-| \#quintoretiro                   |     29 |
-| \#datoquetedoy                   |     26 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#QuintoRetiroOALaCalle        |    101 |
+| \#QuintoRetiro                 |     68 |
+| \#ElPeorGobiernoDeLaHistoria   |     41 |
+| \#Chile                        |     36 |
+| \#Justice4TigrayWomen          |     36 |
+| \#RechazoElMamarracho          |     34 |
+| \#QuintoRetiro100xCiento       |     32 |
+| \#QuintoRetiroUrgente          |     32 |
+| \#CadenaNacional               |     31 |
+| \#ConvencionConstitucional     |     31 |
+| \#ContigoCHV                   |     30 |
+| \#IWD2022                      |     27 |
+| \#8Marzo2022                   |     25 |
+| \#Ucrania                      |     25 |
+| \#8M                           |     24 |
+| \#ElPeorPresidenteDeLaHistoria |     24 |
+| \#RechazoDeSalida2022          |     23 |
+| \#Tigray                       |     23 |
+| \#QUINTORETIROAHORA            |     20 |
+| \#ConvencionConstituyente      |     18 |
 
 # Cuentas
 
