@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-10 01:41:29
+Chile. Fecha del reporte: 2022-03-11 01:41:24
 
     ## raw(0)
     ## raw(0)
@@ -11,28 +11,28 @@ Chile. Fecha del reporte: 2022-03-10 01:41:29
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#QuintoRetiroOALaCalle        |    101 |
-| \#QuintoRetiro                 |     68 |
-| \#ElPeorGobiernoDeLaHistoria   |     41 |
-| \#Chile                        |     36 |
-| \#Justice4TigrayWomen          |     36 |
-| \#RechazoElMamarracho          |     34 |
-| \#QuintoRetiro100xCiento       |     32 |
-| \#QuintoRetiroUrgente          |     32 |
-| \#CadenaNacional               |     31 |
-| \#ConvencionConstitucional     |     31 |
-| \#ContigoCHV                   |     30 |
-| \#IWD2022                      |     27 |
-| \#8Marzo2022                   |     25 |
-| \#Ucrania                      |     25 |
-| \#8M                           |     24 |
-| \#ElPeorPresidenteDeLaHistoria |     24 |
-| \#RechazoDeSalida2022          |     23 |
-| \#Tigray                       |     23 |
-| \#QUINTORETIROAHORA            |     20 |
-| \#ConvencionConstituyente      |     18 |
+| datos                                                     | Cuenta |
+|:----------------------------------------------------------|-------:|
+| \#QuintoRetiroOALaCalle                                   |     85 |
+| \#QuintoRetiroUrgente                                     |     82 |
+| \#NOalaESIenlaCC                                          |     70 |
+| \#QuintoRetiro                                            |     58 |
+| \#Chile                                                   |     37 |
+| \#QuintoRetiro100xCiento                                  |     36 |
+| \#ConvencionConstitucional                                |     31 |
+| \#mascarilla                                              |     28 |
+| \#ContigoCHV                                              |     27 |
+| \#ElPeorGobiernoDeLaHistoria                              |     27 |
+| \#ChileEstaDeLuto                                         |     24 |
+| \#Ucrania                                                 |     24 |
+| \#QUINTORETIROAHORA                                       |     23 |
+| \#FirmaPorQuintoRetiro                                    |     22 |
+| \#RechazoElMamarracho                                     |     22 |
+| \#SiNoHayRetiroNOAprueboNUEVAConstituciónOnunistaDEPIÑERA |     22 |
+| \#RechazoDeSalida2022                                     |     21 |
+| \#8M                                                      |     20 |
+| \#Justice4TigrayWomen                                     |     20 |
+| \#ConvencionConstituyente                                 |     19 |
 
 # Cuentas
 
