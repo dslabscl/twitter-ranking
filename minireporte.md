@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-11 01:41:24
+Chile. Fecha del reporte: 2022-03-14 01:39:07
 
     ## raw(0)
     ## raw(0)
@@ -11,28 +11,28 @@ Chile. Fecha del reporte: 2022-03-11 01:41:24
 
 # Hashtags más populares
 
-| datos                                                     | Cuenta |
-|:----------------------------------------------------------|-------:|
-| \#QuintoRetiroOALaCalle                                   |     85 |
-| \#QuintoRetiroUrgente                                     |     82 |
-| \#NOalaESIenlaCC                                          |     70 |
-| \#QuintoRetiro                                            |     58 |
-| \#Chile                                                   |     37 |
-| \#QuintoRetiro100xCiento                                  |     36 |
-| \#ConvencionConstitucional                                |     31 |
-| \#mascarilla                                              |     28 |
-| \#ContigoCHV                                              |     27 |
-| \#ElPeorGobiernoDeLaHistoria                              |     27 |
-| \#ChileEstaDeLuto                                         |     24 |
-| \#Ucrania                                                 |     24 |
-| \#QUINTORETIROAHORA                                       |     23 |
-| \#FirmaPorQuintoRetiro                                    |     22 |
-| \#RechazoElMamarracho                                     |     22 |
-| \#SiNoHayRetiroNOAprueboNUEVAConstituciónOnunistaDEPIÑERA |     22 |
-| \#RechazoDeSalida2022                                     |     21 |
-| \#8M                                                      |     20 |
-| \#Justice4TigrayWomen                                     |     20 |
-| \#ConvencionConstituyente                                 |     19 |
+| datos                    | Cuenta |
+|:-------------------------|-------:|
+| \#2doanticiporrvv        |    752 |
+| \#QuintoRetiroUrgente    |     83 |
+| \#QuintoRetiro           |     78 |
+| \#TigrayGenocide         |     58 |
+| \#Tigray                 |     54 |
+| \#Ethiopia               |     52 |
+| \#QuintoRetiroEsUrgente  |     47 |
+| \#CambioDeMando          |     42 |
+| \#Chile                  |     42 |
+| \#QUINTORETIRO           |     33 |
+| \#QuintoRetiroOALaCalle  |     33 |
+| \#CUARTORETIRO           |     31 |
+| \#QUINTORETIROAHORA      |     31 |
+| \#mascarilla             |     30 |
+| \#Amhara                 |     29 |
+| \#CarcelParaPiñera       |     24 |
+| \#QuintoRetiro100xCiento |     24 |
+| \#QuintoRetiroMarzo      |     24 |
+| \#FreeAlexSaab           |     23 |
+| \#13Mar                  |     22 |
 
 # Cuentas
 
