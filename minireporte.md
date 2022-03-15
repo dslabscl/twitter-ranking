@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-14 01:39:07
+Chile. Fecha del reporte: 2022-03-15 01:38:49
 
     ## raw(0)
     ## raw(0)
@@ -11,28 +11,28 @@ Chile. Fecha del reporte: 2022-03-14 01:39:07
 
 # Hashtags más populares
 
-| datos                    | Cuenta |
-|:-------------------------|-------:|
-| \#2doanticiporrvv        |    752 |
-| \#QuintoRetiroUrgente    |     83 |
-| \#QuintoRetiro           |     78 |
-| \#TigrayGenocide         |     58 |
-| \#Tigray                 |     54 |
-| \#Ethiopia               |     52 |
-| \#QuintoRetiroEsUrgente  |     47 |
-| \#CambioDeMando          |     42 |
-| \#Chile                  |     42 |
-| \#QUINTORETIRO           |     33 |
-| \#QuintoRetiroOALaCalle  |     33 |
-| \#CUARTORETIRO           |     31 |
-| \#QUINTORETIROAHORA      |     31 |
-| \#mascarilla             |     30 |
-| \#Amhara                 |     29 |
-| \#CarcelParaPiñera       |     24 |
-| \#QuintoRetiro100xCiento |     24 |
-| \#QuintoRetiroMarzo      |     24 |
-| \#FreeAlexSaab           |     23 |
-| \#13Mar                  |     22 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#2doanticiporrvv             |    655 |
+| \#QuintoRetiro                |    120 |
+| \#QuintoRetiroUrgente         |     89 |
+| \#FuerzaAbuelaConQuintoRetiro |     71 |
+| \#FuerzaAbuelacon100xCiento   |     61 |
+| \#AlPuebloSeLoDejaNacer       |     53 |
+| \#TigrayGenocide              |     51 |
+| \#14Mar                       |     47 |
+| \#PescadoresDePaz             |     46 |
+| \#QuintoRetiroMarzo           |     40 |
+| \#ContigoCHV                  |     39 |
+| \#Chile                       |     38 |
+| \#CambioDeMando               |     33 |
+| \#mascarilla                  |     30 |
+| \#Tigray                      |     27 |
+| \#QuintoRetiro100xCiento      |     26 |
+| \#QuintoRetiroOALaCalle       |     26 |
+| \#QUINTORETIROAHORA           |     24 |
+| \#SiempreEsHoy                |     23 |
+| \#LasCarasDeLaMoneda          |     22 |
 
 # Cuentas
 
