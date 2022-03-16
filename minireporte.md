@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-15 01:38:49
+Chile. Fecha del reporte: 2022-03-16 01:41:22
 
     ## raw(0)
     ## raw(0)
@@ -11,28 +11,28 @@ Chile. Fecha del reporte: 2022-03-15 01:38:49
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#2doanticiporrvv             |    655 |
-| \#QuintoRetiro                |    120 |
-| \#QuintoRetiroUrgente         |     89 |
-| \#FuerzaAbuelaConQuintoRetiro |     71 |
-| \#FuerzaAbuelacon100xCiento   |     61 |
-| \#AlPuebloSeLoDejaNacer       |     53 |
-| \#TigrayGenocide              |     51 |
-| \#14Mar                       |     47 |
-| \#PescadoresDePaz             |     46 |
-| \#QuintoRetiroMarzo           |     40 |
-| \#ContigoCHV                  |     39 |
-| \#Chile                       |     38 |
-| \#CambioDeMando               |     33 |
-| \#mascarilla                  |     30 |
-| \#Tigray                      |     27 |
-| \#QuintoRetiro100xCiento      |     26 |
-| \#QuintoRetiroOALaCalle       |     26 |
-| \#QUINTORETIROAHORA           |     24 |
-| \#SiempreEsHoy                |     23 |
-| \#LasCarasDeLaMoneda          |     22 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#2doanticiporrvv              |    665 |
+| \#QuintoRetiroUrgente          |    170 |
+| \#QuintoRetiro                 |    141 |
+| \#LealesALaRevolución          |     67 |
+| \#15Mar                        |     64 |
+| \#QUINTORETIROAHORA            |     61 |
+| \#TigrayGenocide               |     47 |
+| \#FuerzaAbuelaConQuintoRetiro  |     39 |
+| \#QuintoRetiroOALaCalle        |     38 |
+| \#Chile                        |     31 |
+| \#ContigoCHV                   |     31 |
+| \#mascarilla                   |     30 |
+| \#AFPladrones                  |     29 |
+| \#SiNoHayRetiroSalimosAlaCalle |     29 |
+| \#Tigray                       |     29 |
+| \#QuintoRetiro100xCiento       |     27 |
+| \#AlPuebloSeLoDejaNacer        |     25 |
+| \#CambioDeMando                |     25 |
+| \#SiempreEsHoy                 |     23 |
+| \#ElPeorGobiernoDeLaHistoria   |     21 |
 
 # Cuentas
 
