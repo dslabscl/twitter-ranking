@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-16 01:41:22
+Chile. Fecha del reporte: 2022-03-17 01:38:29
 
     ## raw(0)
     ## raw(0)
@@ -11,28 +11,28 @@ Chile. Fecha del reporte: 2022-03-16 01:41:22
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#2doanticiporrvv              |    665 |
-| \#QuintoRetiroUrgente          |    170 |
-| \#QuintoRetiro                 |    141 |
-| \#LealesALaRevolución          |     67 |
-| \#15Mar                        |     64 |
-| \#QUINTORETIROAHORA            |     61 |
-| \#TigrayGenocide               |     47 |
-| \#FuerzaAbuelaConQuintoRetiro  |     39 |
-| \#QuintoRetiroOALaCalle        |     38 |
-| \#Chile                        |     31 |
-| \#ContigoCHV                   |     31 |
-| \#mascarilla                   |     30 |
-| \#AFPladrones                  |     29 |
-| \#SiNoHayRetiroSalimosAlaCalle |     29 |
-| \#Tigray                       |     29 |
-| \#QuintoRetiro100xCiento       |     27 |
-| \#AlPuebloSeLoDejaNacer        |     25 |
-| \#CambioDeMando                |     25 |
-| \#SiempreEsHoy                 |     23 |
-| \#ElPeorGobiernoDeLaHistoria   |     21 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#2doanticiporrvv             |    610 |
+| \#QuintoRetiro                |    238 |
+| \#QuintoRetiroUrgente         |    135 |
+| \#QUINTORETIROAHORA           |     94 |
+| \#QuintoRetiroOALaCalle       |     41 |
+| \#HarboeSeTaimo               |     39 |
+| \#QuintoRetiro100xCiento      |     36 |
+| \#Chile                       |     34 |
+| \#FuerzaAbuelaConQuintoRetiro |     33 |
+| \#ContigoCHV                  |     32 |
+| \#mascarilla                  |     31 |
+| \#TigrayGenocide              |     28 |
+| \#SiempreEsHoy                |     26 |
+| \#QuintoRetiro10xCiento       |     24 |
+| \#Réplica                     |     23 |
+| \#AlPuebloSeLoDejaNacer       |     22 |
+| \#Tigray                      |     19 |
+| \#CambioDeMando               |     18 |
+| \#OliveraDelincuente          |     18 |
+| \#QuintoRetiroAhora           |     17 |
 
 # Cuentas
 
