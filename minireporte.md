@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-17 01:38:29
+Chile. Fecha del reporte: 2022-03-18 01:42:00
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-03-17 01:38:29
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#2doanticiporrvv             |    610 |
-| \#QuintoRetiro                |    238 |
-| \#QuintoRetiroUrgente         |    135 |
-| \#QUINTORETIROAHORA           |     94 |
-| \#QuintoRetiroOALaCalle       |     41 |
-| \#HarboeSeTaimo               |     39 |
-| \#QuintoRetiro100xCiento      |     36 |
-| \#Chile                       |     34 |
-| \#FuerzaAbuelaConQuintoRetiro |     33 |
-| \#ContigoCHV                  |     32 |
-| \#mascarilla                  |     31 |
-| \#TigrayGenocide              |     28 |
+| \#2doanticiporrvv             |    588 |
+| \#QuintoRetiro                |    301 |
+| \#QuintoRetiroUrgente         |    110 |
+| \#ElMerluzoNoSeLaPuede        |     63 |
+| \#QUINTORETIROAHORA           |     57 |
+| \#QuintoRetiroOALaCalle       |     55 |
+| \#QuintoRetiro100xCiento      |     54 |
+| \#FuerzaAbuelaConQuintoRetiro |     46 |
+| \#Chile                       |     36 |
+| \#ContigoCHV                  |     34 |
+| \#TigrayGenocide              |     34 |
+| \#QuintoRetiroSinLetraChica   |     32 |
+| \#Réplica                     |     29 |
 | \#SiempreEsHoy                |     26 |
-| \#QuintoRetiro10xCiento       |     24 |
-| \#Réplica                     |     23 |
-| \#AlPuebloSeLoDejaNacer       |     22 |
-| \#Tigray                      |     19 |
-| \#CambioDeMando               |     18 |
-| \#OliveraDelincuente          |     18 |
-| \#QuintoRetiroAhora           |     17 |
+| \#AlPuebloSeLoDejaNacer       |     21 |
+| \#censura                     |     20 |
+| \#QuintoRetiroAhora           |     20 |
+| \#RechazoPopular              |     18 |
+| \#CambioDeMando               |     17 |
+| \#HarboeSeTaimo               |     17 |
 
 # Cuentas
 
