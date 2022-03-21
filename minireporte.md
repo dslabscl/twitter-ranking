@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-18 01:42:00
+Chile. Fecha del reporte: 2022-03-21 01:49:53
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-03-18 01:42:00
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#2doanticiporrvv             |    588 |
-| \#QuintoRetiro                |    301 |
-| \#QuintoRetiroUrgente         |    110 |
-| \#ElMerluzoNoSeLaPuede        |     63 |
-| \#QUINTORETIROAHORA           |     57 |
-| \#QuintoRetiroOALaCalle       |     55 |
-| \#QuintoRetiro100xCiento      |     54 |
-| \#FuerzaAbuelaConQuintoRetiro |     46 |
-| \#Chile                       |     36 |
-| \#ContigoCHV                  |     34 |
-| \#TigrayGenocide              |     34 |
-| \#QuintoRetiroSinLetraChica   |     32 |
-| \#Réplica                     |     29 |
-| \#SiempreEsHoy                |     26 |
-| \#AlPuebloSeLoDejaNacer       |     21 |
-| \#censura                     |     20 |
-| \#QuintoRetiroAhora           |     20 |
-| \#RechazoPopular              |     18 |
-| \#CambioDeMando               |     17 |
-| \#HarboeSeTaimo               |     17 |
+| \#QuintoRetiro                |    269 |
+| \#2doanticiporrvv             |    202 |
+| \#QuintoRetiroUrgente         |    121 |
+| \#QuintoRetiroOALaCalle       |     90 |
+| \#ElMerluzoNoSeLaPuede        |     62 |
+| \#QuintoRetiro100xCiento      |     47 |
+| \#QUINTORETIROAHORA           |     43 |
+| \#Chile                       |     42 |
+| \#RETIRODEL100                |     42 |
+| \#NoMasHertz                  |     37 |
+| \#ViveAVenezuela              |     29 |
+| \#ContigoCHV                  |     27 |
+| \#FuerzaAbuelaConQuintoRetiro |     22 |
+| \#500DaysOfTigrayGenocide     |     21 |
+| \#RechazoDeSalida2022         |     20 |
+| \#Ucrania                     |     20 |
+| \#MesaCentral                 |     19 |
+| \#QuintoRetiro10xCiento       |     19 |
+| \#QuintoRetiroAhora           |     18 |
+| \#QuintoRetiroSinLetraChica   |     18 |
 
 # Cuentas
 
