@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-21 01:49:53
+Chile. Fecha del reporte: 2022-03-22 01:47:21
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-03-21 01:49:53
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#QuintoRetiro                |    269 |
-| \#2doanticiporrvv             |    202 |
-| \#QuintoRetiroUrgente         |    121 |
-| \#QuintoRetiroOALaCalle       |     90 |
-| \#ElMerluzoNoSeLaPuede        |     62 |
-| \#QuintoRetiro100xCiento      |     47 |
+| \#QuintoRetiroUrgente         |    533 |
+| \#QuintoRetiro                |    330 |
+| \#QuintoRetiroOALaCalle       |    106 |
+| \#ElMerluzoNoSeLaPuede        |     60 |
+| \#QuintoRetiro100xCiento      |     55 |
+| \#Chile                       |     47 |
+| \#FuerzaAbuelaConQuintoRetiro |     43 |
 | \#QUINTORETIROAHORA           |     43 |
-| \#Chile                       |     42 |
-| \#RETIRODEL100                |     42 |
-| \#NoMasHertz                  |     37 |
-| \#ViveAVenezuela              |     29 |
-| \#ContigoCHV                  |     27 |
-| \#FuerzaAbuelaConQuintoRetiro |     22 |
-| \#500DaysOfTigrayGenocide     |     21 |
-| \#RechazoDeSalida2022         |     20 |
-| \#Ucrania                     |     20 |
-| \#MesaCentral                 |     19 |
-| \#QuintoRetiro10xCiento       |     19 |
-| \#QuintoRetiroAhora           |     18 |
-| \#QuintoRetiroSinLetraChica   |     18 |
+| \#QuintoRetiro10xCiento       |     35 |
+| \#ContigoCHV                  |     28 |
+| \#PedofiliaNoEsArte           |     23 |
+| \#Boricosas                   |     19 |
+| \#QuintoRetiroAlaCalle        |     19 |
+| \#PautaLibre                  |     18 |
+| \#SiempreEsHoy                |     17 |
+| \#quintoretirourgente         |     16 |
+| \#ENacional                   |     15 |
+| \#Intensamente                |     15 |
+| \#MejoresMomentos             |     15 |
+| \#Arica                       |     14 |
 
 # Cuentas
 
