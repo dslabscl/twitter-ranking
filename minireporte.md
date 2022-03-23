@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-22 01:47:21
+Chile. Fecha del reporte: 2022-03-23 01:50:30
 
     ## raw(0)
     ## raw(0)
@@ -11,28 +11,28 @@ Chile. Fecha del reporte: 2022-03-22 01:47:21
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#QuintoRetiroUrgente         |    533 |
-| \#QuintoRetiro                |    330 |
-| \#QuintoRetiroOALaCalle       |    106 |
-| \#ElMerluzoNoSeLaPuede        |     60 |
-| \#QuintoRetiro100xCiento      |     55 |
-| \#Chile                       |     47 |
-| \#FuerzaAbuelaConQuintoRetiro |     43 |
-| \#QUINTORETIROAHORA           |     43 |
-| \#QuintoRetiro10xCiento       |     35 |
-| \#ContigoCHV                  |     28 |
-| \#PedofiliaNoEsArte           |     23 |
-| \#Boricosas                   |     19 |
-| \#QuintoRetiroAlaCalle        |     19 |
-| \#PautaLibre                  |     18 |
-| \#SiempreEsHoy                |     17 |
-| \#quintoretirourgente         |     16 |
-| \#ENacional                   |     15 |
-| \#Intensamente                |     15 |
-| \#MejoresMomentos             |     15 |
-| \#Arica                       |     14 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#QuintoRetiroUrgente          |    240 |
+| \#QuintoRetiro                 |    166 |
+| \#QuintoRetiroOALaCalle        |    135 |
+| \#QuintoRetiroAlaCalle         |    128 |
+| \#SiNoHayRetiroSalimosAlaCalle |    101 |
+| \#QUINTORETIROAHORA            |     46 |
+| \#Chile                        |     44 |
+| \#QuintoRetiro100xCiento       |     44 |
+| \#ElMerluzoNoSeLaPuede         |     42 |
+| \#NoEsSequiaEsSaqueo           |     32 |
+| \#QuintoRetiro10xCiento        |     30 |
+| \#QuintoRetiroMarzo            |     24 |
+| \#Ucrania                      |     24 |
+| \#500DaysOfTigrayGenocide      |     23 |
+| \#FuerzaAbuelaConQuintoRetiro  |     23 |
+| \#SiempreEsHoy                 |     23 |
+| \#QuintoRetiroSinLetraChica    |     20 |
+| \#QuintoRetiroYa               |     20 |
+| \#ContigoCHV                   |     19 |
+| \#Intensamente                 |     16 |
 
 # Cuentas
 
