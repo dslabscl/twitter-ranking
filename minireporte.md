@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-23 01:50:30
+Chile. Fecha del reporte: 2022-03-24 01:51:49
 
     ## raw(0)
     ## raw(0)
@@ -11,28 +11,28 @@ Chile. Fecha del reporte: 2022-03-23 01:50:30
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#QuintoRetiroUrgente          |    240 |
-| \#QuintoRetiro                 |    166 |
-| \#QuintoRetiroOALaCalle        |    135 |
-| \#QuintoRetiroAlaCalle         |    128 |
-| \#SiNoHayRetiroSalimosAlaCalle |    101 |
-| \#QUINTORETIROAHORA            |     46 |
-| \#Chile                        |     44 |
-| \#QuintoRetiro100xCiento       |     44 |
-| \#ElMerluzoNoSeLaPuede         |     42 |
-| \#NoEsSequiaEsSaqueo           |     32 |
-| \#QuintoRetiro10xCiento        |     30 |
-| \#QuintoRetiroMarzo            |     24 |
-| \#Ucrania                      |     24 |
-| \#500DaysOfTigrayGenocide      |     23 |
-| \#FuerzaAbuelaConQuintoRetiro  |     23 |
-| \#SiempreEsHoy                 |     23 |
-| \#QuintoRetiroSinLetraChica    |     20 |
-| \#QuintoRetiroYa               |     20 |
-| \#ContigoCHV                   |     19 |
-| \#Intensamente                 |     16 |
+| datos                             | Cuenta |
+|:----------------------------------|-------:|
+| \#QuintoRetiroUrgente             |    398 |
+| \#QuintoRetiro                    |    125 |
+| \#QuintoRetiroOALaCalle           |    112 |
+| \#2doanticiporrvv                 |    104 |
+| \#QuintoRetiroAlaCalle            |     83 |
+| \#BoricMiente                     |     75 |
+| \#ElMerluzoNoEsMiPresidente       |     51 |
+| \#ElMerluzoNoSeLaPuede            |     49 |
+| \#Chile                           |     40 |
+| \#QuintoRetiro100xCiento          |     37 |
+| \#QUINTORETIROAHORA               |     32 |
+| \#RetiroTotalAFP                  |     32 |
+| \#diezXcientoParaRentasVitalicias |     28 |
+| \#ContigoCHV                      |     26 |
+| \#FuerzaAbuelaConQuintoRetiro     |     24 |
+| \#SiempreEsHoy                    |     24 |
+| \#SiNoHayRetiroSalimosAlaCalle    |     22 |
+| \#QuieroMi100xCiento              |     17 |
+| \#Intensamente                    |     16 |
+| \#MejoresMomentos                 |     16 |
 
 # Cuentas
 
