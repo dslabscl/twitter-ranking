@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-25 01:46:51
+Chile. Fecha del reporte: 2022-03-28 01:53:56
 
     ## raw(0)
     ## raw(0)
@@ -11,28 +11,28 @@ Chile. Fecha del reporte: 2022-03-25 01:46:51
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#QuintoRetiroUrgente         |    212 |
-| \#QuintoRetiro                |    164 |
-| \#QuintoRetiroOALaCalle       |    148 |
-| \#ElMerluzoNoSeLaPuede        |     86 |
-| \#2doanticiporrvv             |     61 |
-| \#SeVieneElZarpazo            |     49 |
-| \#Chile                       |     44 |
-| \#QuintoRetiroAlaCalle        |     42 |
-| \#QUINTORETIROAHORA           |     38 |
-| \#AllowAccessToTigray         |     37 |
-| \#ContigoCHV                  |     32 |
-| \#Ethiopia                    |     31 |
-| \#BoricMiente                 |     29 |
-| \#NoALaReformaConstitucional  |     24 |
-| \#QuintoRetiro100xCiento      |     24 |
-| \#SiempreEsHoy                |     24 |
-| \#FuerzaAbuelaConQuintoRetiro |     23 |
-| \#ElRechazoVive               |     20 |
-| \#RechazoPopular              |     20 |
-| \#Retiro100xCiento            |     20 |
+| datos                                | Cuenta |
+|:-------------------------------------|-------:|
+| \#QuintoRetiroUrgente                |    188 |
+| \#QuintoRetiro                       |    143 |
+| \#SinRetiroAfpNoAlPlebiscitoDeSalida |     97 |
+| \#QuintoRetiroAlaCalle               |     68 |
+| \#QuintoRetiroOALaCalle              |     68 |
+| \#BoricNoSeLaPuede                   |     65 |
+| \#QuintoRetiro100xCiento             |     65 |
+| \#QUINTORETIROAHORA                  |     43 |
+| \#TigrayGenocide                     |     42 |
+| \#EndTigraySiege                     |     41 |
+| \#SupportHR6600                      |     41 |
+| \#SiempreEsHoy                       |     40 |
+| \#IzkiaNoSeLaPuede                   |     37 |
+| \#SupportS3199                       |     35 |
+| \#MesaCentral                        |     31 |
+| \#ElMerluzoNoSeLaPuede               |     30 |
+| \#Chile                              |     28 |
+| \#Intensamente                       |     23 |
+| \#MejoresMomentos                    |     23 |
+| \#PautaLibre                         |     23 |
 
 # Cuentas
 
