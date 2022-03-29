@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-28 01:53:56
+Chile. Fecha del reporte: 2022-03-29 01:52:28
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-03-28 01:53:56
 
 | datos                                | Cuenta |
 |:-------------------------------------|-------:|
-| \#QuintoRetiroUrgente                |    188 |
-| \#QuintoRetiro                       |    143 |
-| \#SinRetiroAfpNoAlPlebiscitoDeSalida |     97 |
-| \#QuintoRetiroAlaCalle               |     68 |
-| \#QuintoRetiroOALaCalle              |     68 |
-| \#BoricNoSeLaPuede                   |     65 |
-| \#QuintoRetiro100xCiento             |     65 |
-| \#QUINTORETIROAHORA                  |     43 |
-| \#TigrayGenocide                     |     42 |
-| \#EndTigraySiege                     |     41 |
-| \#SupportHR6600                      |     41 |
-| \#SiempreEsHoy                       |     40 |
-| \#IzkiaNoSeLaPuede                   |     37 |
-| \#SupportS3199                       |     35 |
-| \#MesaCentral                        |     31 |
-| \#ElMerluzoNoSeLaPuede               |     30 |
-| \#Chile                              |     28 |
-| \#Intensamente                       |     23 |
-| \#MejoresMomentos                    |     23 |
-| \#PautaLibre                         |     23 |
+| \#QuintoRetiroUrgente                |    225 |
+| \#QuintoRetiro                       |    162 |
+| \#QuintoRetiroAlaCalle               |     98 |
+| \#QuintoRetiroOALaCalle              |     72 |
+| \#QuintoRetiro100xCiento             |     67 |
+| \#SinRetiroAfpNoAlPlebiscitoDeSalida |     48 |
+| \#SiempreEsHoy                       |     44 |
+| \#QUINTORETIROAHORA                  |     40 |
+| \#FuerzaAbuelaConQuintoRetiro        |     39 |
+| \#MesaCentral                        |     32 |
+| \#ContigoCHV                         |     31 |
+| \#MERLUZOinepto                      |     27 |
+| \#RetiroTotalAFP                     |     26 |
+| \#Chile                              |     24 |
+| \#ElMerluzoNoSeLaPuede               |     24 |
+| \#Intensamente                       |     22 |
+| \#MejoresMomentos                    |     22 |
+| \#QUINTORETIRO                       |     18 |
+| \#NoMasAFP                           |     15 |
+| \#RechazoPopular                     |     15 |
 
 # Cuentas
 
