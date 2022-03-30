@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-29 01:52:28
+Chile. Fecha del reporte: 2022-03-30 01:53:20
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-03-29 01:52:28
 
 | datos                                | Cuenta |
 |:-------------------------------------|-------:|
-| \#QuintoRetiroUrgente                |    225 |
-| \#QuintoRetiro                       |    162 |
-| \#QuintoRetiroAlaCalle               |     98 |
-| \#QuintoRetiroOALaCalle              |     72 |
-| \#QuintoRetiro100xCiento             |     67 |
-| \#SinRetiroAfpNoAlPlebiscitoDeSalida |     48 |
-| \#SiempreEsHoy                       |     44 |
-| \#QUINTORETIROAHORA                  |     40 |
-| \#FuerzaAbuelaConQuintoRetiro        |     39 |
-| \#MesaCentral                        |     32 |
-| \#ContigoCHV                         |     31 |
-| \#MERLUZOinepto                      |     27 |
-| \#RetiroTotalAFP                     |     26 |
-| \#Chile                              |     24 |
-| \#ElMerluzoNoSeLaPuede               |     24 |
+| \#QuintoRetiroUrgente                |    239 |
+| \#SinRetiroAfpNoAlPlebiscitoDeSalida |     96 |
+| \#BoricNoSeLaPuede                   |     92 |
+| \#QuintoRetiro                       |     90 |
+| \#QuintoRetiro100xCiento             |     74 |
+| \#QuintoRetiroOALaCalle              |     50 |
+| \#SiempreEsHoy                       |     46 |
+| \#QuintoRetiroAlaCalle               |     37 |
+| \#Chile                              |     28 |
+| \#ConMiPlataNo                       |     28 |
+| \#DiaDelJovenDelincuente             |     28 |
+| \#QUINTORETIROAHORA                  |     28 |
+| \#ConvencionalesRateros              |     27 |
+| \#DisuelvanLaConvencion              |     24 |
+| \#FuerzaAbuelaConQuintoRetiro        |     24 |
+| \#MerluzoVergüenzaNacional           |     23 |
+| \#CorruptosPorElManotazo             |     22 |
 | \#Intensamente                       |     22 |
 | \#MejoresMomentos                    |     22 |
-| \#QUINTORETIRO                       |     18 |
-| \#NoMasAFP                           |     15 |
-| \#RechazoPopular                     |     15 |
+| \#RechazoElMamarracho                |     22 |
 
 # Cuentas
 
