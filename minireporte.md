@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-30 01:53:20
+Chile. Fecha del reporte: 2022-03-31 01:48:59
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-03-30 01:53:20
 
 | datos                                | Cuenta |
 |:-------------------------------------|-------:|
-| \#QuintoRetiroUrgente                |    239 |
-| \#SinRetiroAfpNoAlPlebiscitoDeSalida |     96 |
-| \#BoricNoSeLaPuede                   |     92 |
-| \#QuintoRetiro                       |     90 |
-| \#QuintoRetiro100xCiento             |     74 |
-| \#QuintoRetiroOALaCalle              |     50 |
-| \#SiempreEsHoy                       |     46 |
-| \#QuintoRetiroAlaCalle               |     37 |
-| \#Chile                              |     28 |
-| \#ConMiPlataNo                       |     28 |
-| \#DiaDelJovenDelincuente             |     28 |
-| \#QUINTORETIROAHORA                  |     28 |
-| \#ConvencionalesRateros              |     27 |
-| \#DisuelvanLaConvencion              |     24 |
-| \#FuerzaAbuelaConQuintoRetiro        |     24 |
-| \#MerluzoVergüenzaNacional           |     23 |
-| \#CorruptosPorElManotazo             |     22 |
-| \#Intensamente                       |     22 |
-| \#MejoresMomentos                    |     22 |
-| \#RechazoElMamarracho                |     22 |
+| \#QuintoRetiroUrgente                |    297 |
+| \#QuintoRetiro                       |    182 |
+| \#QuintoRetiro100xCiento             |    105 |
+| \#ConvencionalesRateros              |     63 |
+| \#ConMiPlataNo                       |     55 |
+| \#SOSCuba                            |     52 |
+| \#SiempreEsHoy                       |     48 |
+| \#CorruptosPorElManotazo             |     46 |
+| \#QuintoRetiroAlaCalle               |     46 |
+| \#QuintoRetiroOALaCalle              |     42 |
+| \#QUINTORETIROAHORA                  |     34 |
+| \#Chile                              |     32 |
+| \#FuerzaAbuelaCon100xCiento          |     26 |
+| \#BoricNoSeLaPuede                   |     25 |
+| \#FuerzaAbuelaConQuintoRetiro        |     25 |
+| \#Intensamente                       |     23 |
+| \#MejoresMomentos                    |     23 |
+| \#SinRetiroAfpNoAlPlebiscitoDeSalida |     21 |
+| \#RechazoDeSalida2022                |     20 |
+| \#RechazoElMamarracho                |     20 |
 
 # Cuentas
 
