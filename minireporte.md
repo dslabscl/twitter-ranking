@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-03-31 01:48:59
+Chile. Fecha del reporte: 2022-04-01 02:03:34
 
     ## raw(0)
     ## raw(0)
@@ -11,28 +11,28 @@ Chile. Fecha del reporte: 2022-03-31 01:48:59
 
 # Hashtags más populares
 
-| datos                                | Cuenta |
-|:-------------------------------------|-------:|
-| \#QuintoRetiroUrgente                |    297 |
-| \#QuintoRetiro                       |    182 |
-| \#QuintoRetiro100xCiento             |    105 |
-| \#ConvencionalesRateros              |     63 |
-| \#ConMiPlataNo                       |     55 |
-| \#SOSCuba                            |     52 |
-| \#SiempreEsHoy                       |     48 |
-| \#CorruptosPorElManotazo             |     46 |
-| \#QuintoRetiroAlaCalle               |     46 |
-| \#QuintoRetiroOALaCalle              |     42 |
-| \#QUINTORETIROAHORA                  |     34 |
-| \#Chile                              |     32 |
-| \#FuerzaAbuelaCon100xCiento          |     26 |
-| \#BoricNoSeLaPuede                   |     25 |
-| \#FuerzaAbuelaConQuintoRetiro        |     25 |
-| \#Intensamente                       |     23 |
-| \#MejoresMomentos                    |     23 |
-| \#SinRetiroAfpNoAlPlebiscitoDeSalida |     21 |
-| \#RechazoDeSalida2022                |     20 |
-| \#RechazoElMamarracho                |     20 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#QuintoRetiroUrgente         |    249 |
+| \#QuintoRetiro                |    203 |
+| \#QuintoRetiro100xCiento      |    108 |
+| \#ConMiPlataNo                |     66 |
+| \#Corruptos                   |     55 |
+| \#ConvencionalesRateros       |     47 |
+| \#NoMasHertz                  |     42 |
+| \#SiempreEsHoy                |     42 |
+| \#NoMasAFP                    |     40 |
+| \#GobiernoDeLaMentira         |     32 |
+| \#QuintoRetiroAlaCalle        |     29 |
+| \#QUINTORETIROAHORA           |     28 |
+| \#StopGalgueros               |     28 |
+| \#FuerzaAbuelaConQuintoRetiro |     27 |
+| \#Chile                       |     25 |
+| \#QuintoRetiroOALaCalle       |     24 |
+| \#Intensamente                |     22 |
+| \#MejoresMomentos             |     22 |
+| \#MesaCentral                 |     21 |
+| \#ContigoCHV                  |     19 |
 
 # Cuentas
 
