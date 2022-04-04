@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-01 02:03:34
+Chile. Fecha del reporte: 2022-04-04 01:57:10
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-04-01 02:03:34
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#QuintoRetiroUrgente         |    249 |
-| \#QuintoRetiro                |    203 |
-| \#QuintoRetiro100xCiento      |    108 |
-| \#ConMiPlataNo                |     66 |
-| \#Corruptos                   |     55 |
-| \#ConvencionalesRateros       |     47 |
-| \#NoMasHertz                  |     42 |
-| \#SiempreEsHoy                |     42 |
-| \#NoMasAFP                    |     40 |
-| \#GobiernoDeLaMentira         |     32 |
-| \#QuintoRetiroAlaCalle        |     29 |
-| \#QUINTORETIROAHORA           |     28 |
-| \#StopGalgueros               |     28 |
-| \#FuerzaAbuelaConQuintoRetiro |     27 |
-| \#Chile                       |     25 |
-| \#QuintoRetiroOALaCalle       |     24 |
-| \#Intensamente                |     22 |
-| \#MejoresMomentos             |     22 |
-| \#MesaCentral                 |     21 |
-| \#ContigoCHV                  |     19 |
+| \#QuintoRetiro                |    186 |
+| \#QuintoRetiroUrgente         |    164 |
+| \#QuintoRetiro100xCiento      |    100 |
+| \#ConMiPlataNo                |     85 |
+| \#ConvencionalesRateros       |     48 |
+| \#SiempreEsHoy                |     43 |
+| \#devuelvemelacasa            |     40 |
+| \#QuintoRetiroOALaCalle       |     40 |
+| \#QuintoRetiroAlaCalle        |     36 |
+| \#Chile                       |     30 |
+| \#NoMasAFP                    |     27 |
+| \#RetiroTotalAFP              |     26 |
+| \#ConvencionConstitucional    |     21 |
+| \#FuerzaAbuelaConQuintoRetiro |     21 |
+| \#Intensamente                |     20 |
+| \#MejoresMomentos             |     20 |
+| \#ContigoCHV                  |     18 |
+| \#Cuba                        |     18 |
+| \#GobiernoDeInutiles          |     18 |
+| \#QUINTORETIROAHORA           |     18 |
 
 # Cuentas
 
