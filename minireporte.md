@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-04 01:57:10
+Chile. Fecha del reporte: 2022-04-05 01:48:43
 
     ## raw(0)
     ## raw(0)
@@ -13,26 +13,26 @@ Chile. Fecha del reporte: 2022-04-04 01:57:10
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#QuintoRetiro                |    186 |
-| \#QuintoRetiroUrgente         |    164 |
-| \#QuintoRetiro100xCiento      |    100 |
-| \#ConMiPlataNo                |     85 |
-| \#ConvencionalesRateros       |     48 |
-| \#SiempreEsHoy                |     43 |
-| \#devuelvemelacasa            |     40 |
-| \#QuintoRetiroOALaCalle       |     40 |
-| \#QuintoRetiroAlaCalle        |     36 |
-| \#Chile                       |     30 |
-| \#NoMasAFP                    |     27 |
-| \#RetiroTotalAFP              |     26 |
-| \#ConvencionConstitucional    |     21 |
-| \#FuerzaAbuelaConQuintoRetiro |     21 |
+| \#QuintoRetiroUrgente         |    213 |
+| \#QuintoRetiro                |    183 |
+| \#ConMiPlataNo                |     95 |
+| \#QuintoRetiroOALaCalle       |     51 |
+| \#ConvencionalesRateros       |     44 |
+| \#SiempreEsHoy                |     44 |
+| \#RetiroTotalAFP              |     43 |
+| \#QuintoRetiro100xCiento      |     40 |
+| \#QuintoRetiroAlaCalle        |     32 |
+| \#ContigoCHV                  |     26 |
+| \#FuerzaAbuelaConQuintoRetiro |     25 |
+| \#QuintoRetiroAhora           |     25 |
+| \#NoMasAFP                    |     24 |
+| \#RechazoDeSalida2022         |     24 |
+| \#Chile                       |     21 |
 | \#Intensamente                |     20 |
 | \#MejoresMomentos             |     20 |
-| \#ContigoCHV                  |     18 |
-| \#Cuba                        |     18 |
-| \#GobiernoDeInutiles          |     18 |
-| \#QUINTORETIROAHORA           |     18 |
+| \#MuchoGustoMega              |     19 |
+| \#AprueboDeSalida             |     17 |
+| \#Ucrania                     |     16 |
 
 # Cuentas
 
