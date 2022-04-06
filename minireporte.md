@@ -2,8 +2,9 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-05 01:48:43
+Chile. Fecha del reporte: 2022-04-06 01:51:02
 
+    ## raw(0)
     ## raw(0)
     ## raw(0)
     ## raw(0)
@@ -11,28 +12,28 @@ Chile. Fecha del reporte: 2022-04-05 01:48:43
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#QuintoRetiroUrgente         |    213 |
-| \#QuintoRetiro                |    183 |
-| \#ConMiPlataNo                |     95 |
-| \#QuintoRetiroOALaCalle       |     51 |
-| \#ConvencionalesRateros       |     44 |
-| \#SiempreEsHoy                |     44 |
-| \#RetiroTotalAFP              |     43 |
-| \#QuintoRetiro100xCiento      |     40 |
-| \#QuintoRetiroAlaCalle        |     32 |
-| \#ContigoCHV                  |     26 |
-| \#FuerzaAbuelaConQuintoRetiro |     25 |
-| \#QuintoRetiroAhora           |     25 |
-| \#NoMasAFP                    |     24 |
-| \#RechazoDeSalida2022         |     24 |
-| \#Chile                       |     21 |
-| \#Intensamente                |     20 |
-| \#MejoresMomentos             |     20 |
-| \#MuchoGustoMega              |     19 |
-| \#AprueboDeSalida             |     17 |
-| \#Ucrania                     |     16 |
+| datos                    | Cuenta |
+|:-------------------------|-------:|
+| \#QuintoRetiro           |    151 |
+| \#QuintoRetiroUrgente    |    138 |
+| \#RechazoDeSalida2022    |    132 |
+| \#ConMiPlataNo           |     71 |
+| \#QuintoRetiro100xCiento |     57 |
+| \#RechazoElMamarracho    |     42 |
+| \#SiempreEsHoy           |     42 |
+| \#RetiroTotalAFP         |     40 |
+| \#QuintoRetiroOALaCalle  |     36 |
+| \#ContigoCHV             |     33 |
+| \#RECHAZOCRECE           |     33 |
+| \#TigrayGenocide         |     31 |
+| \#AprueboDeSalida        |     29 |
+| \#ConvencionalesRateros  |     27 |
+| \#Ucrania                |     26 |
+| \#MuchoGustoMega         |     25 |
+| \#Bucha                  |     20 |
+| \#Chile                  |     20 |
+| \#Intensamente           |     20 |
+| \#MejoresMomentos        |     20 |
 
 # Cuentas
 
