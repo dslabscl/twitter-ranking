@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-06 01:51:02
+Chile. Fecha del reporte: 2022-04-07 01:46:26
 
     ## raw(0)
     ## raw(0)
@@ -12,28 +12,28 @@ Chile. Fecha del reporte: 2022-04-06 01:51:02
 
 # Hashtags más populares
 
-| datos                    | Cuenta |
-|:-------------------------|-------:|
-| \#QuintoRetiro           |    151 |
-| \#QuintoRetiroUrgente    |    138 |
-| \#RechazoDeSalida2022    |    132 |
-| \#ConMiPlataNo           |     71 |
-| \#QuintoRetiro100xCiento |     57 |
-| \#RechazoElMamarracho    |     42 |
-| \#SiempreEsHoy           |     42 |
-| \#RetiroTotalAFP         |     40 |
-| \#QuintoRetiroOALaCalle  |     36 |
-| \#ContigoCHV             |     33 |
-| \#RECHAZOCRECE           |     33 |
-| \#TigrayGenocide         |     31 |
-| \#AprueboDeSalida        |     29 |
-| \#ConvencionalesRateros  |     27 |
-| \#Ucrania                |     26 |
-| \#MuchoGustoMega         |     25 |
-| \#Bucha                  |     20 |
-| \#Chile                  |     20 |
-| \#Intensamente           |     20 |
-| \#MejoresMomentos        |     20 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#RECHAZOCRECE                |    200 |
+| \#QuintoRetiroUrgente         |    161 |
+| \#QuintoRetiro                |    140 |
+| \#QuintoRetiro100xCiento      |     43 |
+| \#SiempreEsHoy                |     42 |
+| \#RechazoDeSalida2022         |     38 |
+| \#QuintoRetiroOALaCalle       |     37 |
+| \#AprueboDeSalida             |     35 |
+| \#ContigoCHV                  |     33 |
+| \#MuchoGustoMega              |     33 |
+| \#ConMiPlataNo                |     32 |
+| \#QuintoRetiroAlaCalle        |     32 |
+| \#FuerzaAbuelaConQuintoRetiro |     28 |
+| \#RechazoElMamarracho         |     26 |
+| \#Chile                       |     24 |
+| \#QuintoRetiroAhora           |     24 |
+| \#Ucrania                     |     23 |
+| \#QuintoRetiro10xCiento       |     22 |
+| \#Giorgiogate                 |     21 |
+| \#Intensamente                |     20 |
 
 # Cuentas
 
