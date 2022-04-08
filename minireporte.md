@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-07 01:46:26
+Chile. Fecha del reporte: 2022-04-08 01:54:11
 
     ## raw(0)
     ## raw(0)
@@ -12,28 +12,28 @@ Chile. Fecha del reporte: 2022-04-07 01:46:26
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#RECHAZOCRECE                |    200 |
-| \#QuintoRetiroUrgente         |    161 |
-| \#QuintoRetiro                |    140 |
-| \#QuintoRetiro100xCiento      |     43 |
-| \#SiempreEsHoy                |     42 |
-| \#RechazoDeSalida2022         |     38 |
-| \#QuintoRetiroOALaCalle       |     37 |
-| \#AprueboDeSalida             |     35 |
-| \#ContigoCHV                  |     33 |
-| \#MuchoGustoMega              |     33 |
-| \#ConMiPlataNo                |     32 |
-| \#QuintoRetiroAlaCalle        |     32 |
-| \#FuerzaAbuelaConQuintoRetiro |     28 |
-| \#RechazoElMamarracho         |     26 |
-| \#Chile                       |     24 |
-| \#QuintoRetiroAhora           |     24 |
-| \#Ucrania                     |     23 |
-| \#QuintoRetiro10xCiento       |     22 |
-| \#Giorgiogate                 |     21 |
-| \#Intensamente                |     20 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| \#QuintoRetiroUrgente        |    126 |
+| \#QuintoRetiro               |     95 |
+| \#QuintoRetiro100xCiento     |     81 |
+| \#RenunciaIzkia              |     41 |
+| \#SiempreEsHoy               |     40 |
+| \#QuintoRetiroOALaCalle      |     39 |
+| \#ContigoCHV                 |     34 |
+| \#QuintoRetiroAhora          |     29 |
+| \#QuintoRetiroAlaCalle       |     26 |
+| \#RechazoDeSalida2022        |     24 |
+| \#EndTigraySiege             |     23 |
+| \#CallItAGenocide            |     22 |
+| \#ConMiPlataNo               |     22 |
+| \#Giorgiogate                |     22 |
+| \#Chile                      |     21 |
+| \#Intensamente               |     20 |
+| \#MejoresMomentos            |     20 |
+| \#MuchoGustoMega             |     20 |
+| \#AprueboDeSalida            |     19 |
+| \#ElPeorGobiernoDeLaHistoria |     19 |
 
 # Cuentas
 
