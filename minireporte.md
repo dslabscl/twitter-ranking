@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-08 01:54:11
+Chile. Fecha del reporte: 2022-04-11 02:02:32
 
     ## raw(0)
     ## raw(0)
@@ -12,28 +12,28 @@ Chile. Fecha del reporte: 2022-04-08 01:54:11
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| \#QuintoRetiroUrgente        |    126 |
-| \#QuintoRetiro               |     95 |
-| \#QuintoRetiro100xCiento     |     81 |
-| \#RenunciaIzkia              |     41 |
-| \#SiempreEsHoy               |     40 |
-| \#QuintoRetiroOALaCalle      |     39 |
-| \#ContigoCHV                 |     34 |
-| \#QuintoRetiroAhora          |     29 |
-| \#QuintoRetiroAlaCalle       |     26 |
-| \#RechazoDeSalida2022        |     24 |
-| \#EndTigraySiege             |     23 |
-| \#CallItAGenocide            |     22 |
-| \#ConMiPlataNo               |     22 |
-| \#Giorgiogate                |     22 |
-| \#Chile                      |     21 |
-| \#Intensamente               |     20 |
-| \#MejoresMomentos            |     20 |
-| \#MuchoGustoMega             |     20 |
-| \#AprueboDeSalida            |     19 |
-| \#ElPeorGobiernoDeLaHistoria |     19 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#QuintoRetiroUrgente         |    347 |
+| \#QuintoRetiroOALaCalle       |    176 |
+| \#QuintoRetiro                |    154 |
+| \#WesternTigray               |     76 |
+| \#QuintoRetiro100xCiento      |     56 |
+| \#AmharaMilitiasOutOfTigray   |     53 |
+| \#QuintoRetiroAhora           |     50 |
+| \#RechazoElMamarracho         |     45 |
+| \#ConMiPlataNo                |     41 |
+| \#MetallicaAlNacional         |     38 |
+| \#SiempreEsHoy                |     36 |
+| \#AprueboDeSalida             |     35 |
+| \#ContigoCHV                  |     35 |
+| \#Chile                       |     34 |
+| \#RetiroTotalAFP              |     34 |
+| \#MuchoGustoMega              |     28 |
+| \#RechazoDeSalida2022         |     27 |
+| \#RenunciaIzkia               |     26 |
+| \#FuerzaAbuelaConQuintoRetiro |     25 |
+| \#Giorgiogate                 |     24 |
 
 # Cuentas
 
