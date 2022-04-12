@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-11 02:02:32
+Chile. Fecha del reporte: 2022-04-12 01:53:12
 
     ## raw(0)
     ## raw(0)
@@ -14,26 +14,26 @@ Chile. Fecha del reporte: 2022-04-11 02:02:32
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#QuintoRetiroUrgente         |    347 |
-| \#QuintoRetiroOALaCalle       |    176 |
-| \#QuintoRetiro                |    154 |
-| \#WesternTigray               |     76 |
-| \#QuintoRetiro100xCiento      |     56 |
-| \#AmharaMilitiasOutOfTigray   |     53 |
-| \#QuintoRetiroAhora           |     50 |
-| \#RechazoElMamarracho         |     45 |
-| \#ConMiPlataNo                |     41 |
-| \#MetallicaAlNacional         |     38 |
-| \#SiempreEsHoy                |     36 |
-| \#AprueboDeSalida             |     35 |
-| \#ContigoCHV                  |     35 |
-| \#Chile                       |     34 |
-| \#RetiroTotalAFP              |     34 |
-| \#MuchoGustoMega              |     28 |
-| \#RechazoDeSalida2022         |     27 |
-| \#RenunciaIzkia               |     26 |
-| \#FuerzaAbuelaConQuintoRetiro |     25 |
-| \#Giorgiogate                 |     24 |
+| \#QuintoRetiroOALaCalle       |    343 |
+| \#QuintoRetiro                |    167 |
+| \#QuintoRetiroUrgente         |    157 |
+| \#QuintoRetiro100xCiento      |     84 |
+| \#FuerzaAbuelaConQuintoRetiro |     43 |
+| \#QuintoRetiroAhora           |     41 |
+| \#ConMiPlataNo                |     40 |
+| \#ConvencionalesRateros       |     38 |
+| \#5toRetiro                   |     37 |
+| \#RechazoElMamarracho         |     37 |
+| \#SiempreEsHoy                |     37 |
+| \#ContigoCHV                  |     34 |
+| \#QuintoRetiroAlaCalle        |     33 |
+| \#AprueboDeSalida             |     32 |
+| \#Chile                       |     29 |
+| \#RechazoGanaEl4deSeptiembre  |     27 |
+| \#QuintoRetiroYa              |     23 |
+| \#CNNPrime                    |     22 |
+| \#QuintoRetiro10xCiento       |     21 |
+| \#Rechazo                     |     20 |
 
 # Cuentas
 
