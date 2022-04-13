@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-12 01:53:12
+Chile. Fecha del reporte: 2022-04-13 02:00:13
 
     ## raw(0)
     ## raw(0)
@@ -14,26 +14,26 @@ Chile. Fecha del reporte: 2022-04-12 01:53:12
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#QuintoRetiroOALaCalle       |    343 |
-| \#QuintoRetiro                |    167 |
-| \#QuintoRetiroUrgente         |    157 |
-| \#QuintoRetiro100xCiento      |     84 |
-| \#FuerzaAbuelaConQuintoRetiro |     43 |
-| \#QuintoRetiroAhora           |     41 |
-| \#ConMiPlataNo                |     40 |
-| \#ConvencionalesRateros       |     38 |
-| \#5toRetiro                   |     37 |
-| \#RechazoElMamarracho         |     37 |
-| \#SiempreEsHoy                |     37 |
-| \#ContigoCHV                  |     34 |
-| \#QuintoRetiroAlaCalle        |     33 |
-| \#AprueboDeSalida             |     32 |
-| \#Chile                       |     29 |
-| \#RechazoGanaEl4deSeptiembre  |     27 |
-| \#QuintoRetiroYa              |     23 |
-| \#CNNPrime                    |     22 |
-| \#QuintoRetiro10xCiento       |     21 |
-| \#Rechazo                     |     20 |
+| \#QuintoRetiro                |    222 |
+| \#QuintoRetiroOALaCalle       |    188 |
+| \#5toRetiro                   |    115 |
+| \#QuintoRetiroUrgente         |     91 |
+| \#LaLeyDeAlquileresSeDefiende |     60 |
+| \#QuintoRetiro100xCiento      |     60 |
+| \#ContigoCHV                  |     58 |
+| \#MuchoGustoMega              |     43 |
+| \#FuerzaAbuelaConQuintoRetiro |     38 |
+| \#SiempreEsHoy                |     36 |
+| \#QuintoRetiroAhora           |     35 |
+| \#QuintoRetiro10xCiento       |     31 |
+| \#AprueboDeSalida             |     29 |
+| \#QuintoRetiroAlaCalle        |     29 |
+| \#Chile                       |     27 |
+| \#Traidora                    |     26 |
+| \#RechazoElMamarracho         |     25 |
+| \#RetiroTotalAFP              |     24 |
+| \#NuevaConstitucion           |     22 |
+| \#RETIRO100XCIENTO            |     21 |
 
 # Cuentas
 
