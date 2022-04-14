@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-13 02:00:13
+Chile. Fecha del reporte: 2022-04-14 02:01:07
 
     ## raw(0)
     ## raw(0)
@@ -14,26 +14,26 @@ Chile. Fecha del reporte: 2022-04-13 02:00:13
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#QuintoRetiro                |    222 |
-| \#QuintoRetiroOALaCalle       |    188 |
-| \#5toRetiro                   |    115 |
-| \#QuintoRetiroUrgente         |     91 |
-| \#LaLeyDeAlquileresSeDefiende |     60 |
-| \#QuintoRetiro100xCiento      |     60 |
-| \#ContigoCHV                  |     58 |
-| \#MuchoGustoMega              |     43 |
-| \#FuerzaAbuelaConQuintoRetiro |     38 |
+| \#QuintoRetiroOALaCalle       |    151 |
+| \#QuintoRetiro                |    135 |
+| \#5toRetiro                   |    128 |
+| \#QuintoRetiroUrgente         |     69 |
+| \#ContigoCHV                  |     54 |
+| \#QuintoRetiro100xCiento      |     42 |
+| \#RechazoElMamarracho         |     36 |
 | \#SiempreEsHoy                |     36 |
-| \#QuintoRetiroAhora           |     35 |
+| \#MuchoGustoMega              |     33 |
+| \#RechazoDeSalida2022         |     32 |
 | \#QuintoRetiro10xCiento       |     31 |
-| \#AprueboDeSalida             |     29 |
-| \#QuintoRetiroAlaCalle        |     29 |
 | \#Chile                       |     27 |
-| \#Traidora                    |     26 |
-| \#RechazoElMamarracho         |     25 |
-| \#RetiroTotalAFP              |     24 |
-| \#NuevaConstitucion           |     22 |
-| \#RETIRO100XCIENTO            |     21 |
+| \#holachilelared              |     27 |
+| \#Bancos                      |     25 |
+| \#Pueblo                      |     24 |
+| \#Pulperias                   |     24 |
+| \#QuintoRetiroAlaCalle        |     24 |
+| \#FuerzaAbuelaConQuintoRetiro |     22 |
+| \#QuintoRetiroAhora           |     21 |
+| \#NuevaConstitucion           |     20 |
 
 # Cuentas
 
