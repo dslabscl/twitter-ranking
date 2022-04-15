@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-14 02:01:07
+Chile. Fecha del reporte: 2022-04-15 02:03:23
 
     ## raw(0)
     ## raw(0)
@@ -14,26 +14,26 @@ Chile. Fecha del reporte: 2022-04-14 02:01:07
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#QuintoRetiroOALaCalle       |    151 |
-| \#QuintoRetiro                |    135 |
-| \#5toRetiro                   |    128 |
-| \#QuintoRetiroUrgente         |     69 |
-| \#ContigoCHV                  |     54 |
-| \#QuintoRetiro100xCiento      |     42 |
-| \#RechazoElMamarracho         |     36 |
-| \#SiempreEsHoy                |     36 |
-| \#MuchoGustoMega              |     33 |
-| \#RechazoDeSalida2022         |     32 |
-| \#QuintoRetiro10xCiento       |     31 |
-| \#Chile                       |     27 |
-| \#holachilelared              |     27 |
-| \#Bancos                      |     25 |
-| \#Pueblo                      |     24 |
-| \#Pulperias                   |     24 |
-| \#QuintoRetiroAlaCalle        |     24 |
-| \#FuerzaAbuelaConQuintoRetiro |     22 |
-| \#QuintoRetiroAhora           |     21 |
-| \#NuevaConstitucion           |     20 |
+| \#QuintoRetiro                |    258 |
+| \#QuintoRetiroOALaCalle       |    139 |
+| \#QuintoRetiroUrgente         |    115 |
+| \#5toRetiro                   |    100 |
+| \#QuintoRetiro100xCiento      |     69 |
+| \#QuintoRetiroAhora           |     65 |
+| \#ChaoSenado                  |     48 |
+| \#RechazoDeSalida2022         |     47 |
+| \#FuerzaAbuelaConQuintoRetiro |     44 |
+| \#ContigoCHV                  |     36 |
+| \#SiempreEsHoy                |     34 |
+| \#RechazoElMamarracho         |     33 |
+| \#Chile                       |     32 |
+| \#MuchoGustoMega              |     30 |
+| \#QuintoRetiroAlaCalle        |     30 |
+| \#Temblor                     |     28 |
+| \#AprueboDeSalida             |     27 |
+| \#AmharaOutOfTigray           |     25 |
+| \#Tigray                      |     25 |
+| \#WesternTigray               |     25 |
 
 # Cuentas
 
