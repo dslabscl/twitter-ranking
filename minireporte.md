@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-15 02:03:23
+Chile. Fecha del reporte: 2022-04-18 02:11:13
 
     ## raw(0)
     ## raw(0)
@@ -14,26 +14,26 @@ Chile. Fecha del reporte: 2022-04-15 02:03:23
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#QuintoRetiro                |    258 |
-| \#QuintoRetiroOALaCalle       |    139 |
-| \#QuintoRetiroUrgente         |    115 |
-| \#5toRetiro                   |    100 |
-| \#QuintoRetiro100xCiento      |     69 |
-| \#QuintoRetiroAhora           |     65 |
-| \#ChaoSenado                  |     48 |
-| \#RechazoDeSalida2022         |     47 |
-| \#FuerzaAbuelaConQuintoRetiro |     44 |
-| \#ContigoCHV                  |     36 |
-| \#SiempreEsHoy                |     34 |
-| \#RechazoElMamarracho         |     33 |
-| \#Chile                       |     32 |
-| \#MuchoGustoMega              |     30 |
-| \#QuintoRetiroAlaCalle        |     30 |
-| \#Temblor                     |     28 |
-| \#AprueboDeSalida             |     27 |
-| \#AmharaOutOfTigray           |     25 |
-| \#Tigray                      |     25 |
-| \#WesternTigray               |     25 |
+| \#QuintoRetiro                |    203 |
+| \#QuintoRetiroOALaCalle       |    196 |
+| \#QuintoRetiro100xCiento      |    137 |
+| \#QuintoRetiro10xCiento       |    116 |
+| \#YoApoyoACarabinerosDeChile  |    112 |
+| \#QuintoRetiroYa              |    109 |
+| \#QuintoRetiroSinVolteretas   |    106 |
+| \#datoquetedoy                |    105 |
+| \#QuintoRetiroUrgente         |     87 |
+| \#FuerzaAbuelaConQuintoRetiro |     60 |
+| \#RechazoGanaEl4deSeptiembre  |     41 |
+| \#RechazoTransversal          |     40 |
+| \#RechazoDeSalida2022         |     37 |
+| \#Chile                       |     35 |
+| \#SiempreEsHoy                |     35 |
+| \#BoricVerdugoClaseMedia      |     29 |
+| \#5toRetiro                   |     27 |
+| \#Rechazo                     |     20 |
+| \#RechazoElMamarracho         |     20 |
+| \#ContigoCHV                  |     19 |
 
 # Cuentas
 
