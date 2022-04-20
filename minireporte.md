@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-18 02:11:13
+Chile. Fecha del reporte: 2022-04-20 02:14:14
 
     ## raw(0)
     ## raw(0)
@@ -12,28 +12,28 @@ Chile. Fecha del reporte: 2022-04-18 02:11:13
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#QuintoRetiro                |    203 |
-| \#QuintoRetiroOALaCalle       |    196 |
-| \#QuintoRetiro100xCiento      |    137 |
-| \#QuintoRetiro10xCiento       |    116 |
-| \#YoApoyoACarabinerosDeChile  |    112 |
-| \#QuintoRetiroYa              |    109 |
-| \#QuintoRetiroSinVolteretas   |    106 |
-| \#datoquetedoy                |    105 |
-| \#QuintoRetiroUrgente         |     87 |
-| \#FuerzaAbuelaConQuintoRetiro |     60 |
-| \#RechazoGanaEl4deSeptiembre  |     41 |
-| \#RechazoTransversal          |     40 |
-| \#RechazoDeSalida2022         |     37 |
-| \#Chile                       |     35 |
-| \#SiempreEsHoy                |     35 |
-| \#BoricVerdugoClaseMedia      |     29 |
-| \#5toRetiro                   |     27 |
-| \#Rechazo                     |     20 |
-| \#RechazoElMamarracho         |     20 |
-| \#ContigoCHV                  |     19 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#ParoNacional          |    204 |
+| \#QuintoRetiroOALaCalle |    107 |
+| \#QuintoRetiro          |     87 |
+| \#ContigoCHV            |     65 |
+| \#EstallidoSocial2      |     64 |
+| \#holachilelared        |     57 |
+| \#SextoRetiro           |     45 |
+| \#RechazoTransversal    |     42 |
+| \#GabrielYoTeApoyo      |     40 |
+| \#5toRetiro             |     35 |
+| \#SiempreEsHoy          |     35 |
+| \#Chile                 |     34 |
+| \#QuieroMi100xCiento    |     31 |
+| \#25DeAbrilParoNacional |     28 |
+| \#Eritrea               |     28 |
+| \#Ethiopia              |     28 |
+| \#KeepItOn              |     28 |
+| \#ParoNacional25abril   |     28 |
+| \#ReconnectTigray       |     28 |
+| \#Tigray                |     28 |
 
 # Cuentas
 
