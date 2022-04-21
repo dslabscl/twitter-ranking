@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-20 02:14:14
+Chile. Fecha del reporte: 2022-04-21 02:03:52
 
     ## raw(0)
     ## raw(0)
@@ -12,28 +12,28 @@ Chile. Fecha del reporte: 2022-04-20 02:14:14
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#ParoNacional          |    204 |
-| \#QuintoRetiroOALaCalle |    107 |
-| \#QuintoRetiro          |     87 |
-| \#ContigoCHV            |     65 |
-| \#EstallidoSocial2      |     64 |
-| \#holachilelared        |     57 |
-| \#SextoRetiro           |     45 |
-| \#RechazoTransversal    |     42 |
-| \#GabrielYoTeApoyo      |     40 |
-| \#5toRetiro             |     35 |
-| \#SiempreEsHoy          |     35 |
-| \#Chile                 |     34 |
-| \#QuieroMi100xCiento    |     31 |
-| \#25DeAbrilParoNacional |     28 |
-| \#Eritrea               |     28 |
-| \#Ethiopia              |     28 |
-| \#KeepItOn              |     28 |
-| \#ParoNacional25abril   |     28 |
-| \#ReconnectTigray       |     28 |
-| \#Tigray                |     28 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#ContigoCHV                   |     82 |
+| \#QuintoRetiro                 |     74 |
+| \#QuintoRetiroOALaCalle        |     68 |
+| \#ParoNacional                 |     63 |
+| \#MuchoGustoMega               |     53 |
+| \#SiempreEsHoy                 |     33 |
+| \#RechazoTransversal           |     31 |
+| \#SextoRetiro                  |     31 |
+| \#RechazoDeSalida2022          |     28 |
+| \#Chile                        |     27 |
+| \#5toRetiro                    |     22 |
+| \#RechazoElMamarrachoComunista |     21 |
+| \#RechazoGanaEl4deSeptiembre   |     21 |
+| \#QuintoRetiroUrgente          |     20 |
+| \#AprueboDeSalida              |     19 |
+| \#Iquique                      |     19 |
+| \#RechazoElMamarracho          |     18 |
+| \#Tigray                       |     17 |
+| \#ViejaLoca                    |     17 |
+| \#NuevaConstitucion            |     16 |
 
 # Cuentas
 
