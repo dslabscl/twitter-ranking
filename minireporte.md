@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-21 02:03:52
+Chile. Fecha del reporte: 2022-04-22 02:15:17
 
     ## raw(0)
     ## raw(0)
@@ -14,26 +14,26 @@ Chile. Fecha del reporte: 2022-04-21 02:03:52
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#ContigoCHV                   |     82 |
-| \#QuintoRetiro                 |     74 |
-| \#QuintoRetiroOALaCalle        |     68 |
-| \#ParoNacional                 |     63 |
-| \#MuchoGustoMega               |     53 |
-| \#SiempreEsHoy                 |     33 |
-| \#RechazoTransversal           |     31 |
-| \#SextoRetiro                  |     31 |
-| \#RechazoDeSalida2022          |     28 |
-| \#Chile                        |     27 |
-| \#5toRetiro                    |     22 |
-| \#RechazoElMamarrachoComunista |     21 |
-| \#RechazoGanaEl4deSeptiembre   |     21 |
-| \#QuintoRetiroUrgente          |     20 |
-| \#AprueboDeSalida              |     19 |
-| \#Iquique                      |     19 |
-| \#RechazoElMamarracho          |     18 |
-| \#Tigray                       |     17 |
-| \#ViejaLoca                    |     17 |
-| \#NuevaConstitucion            |     16 |
+| \#SextoRetiro                  |     83 |
+| \#QuintoRetiroOALaCalle        |     82 |
+| \#QuintoRetiro                 |     80 |
+| \#ContigoCHV                   |     66 |
+| \#MuchoGustoMega               |     57 |
+| \#25DeAbrilParoNacional        |     43 |
+| \#RechazoElMamarrachoComunista |     42 |
+| \#QuieroMi100xCiento           |     41 |
+| \#RechazoGanaEl4deSeptiembre   |     34 |
+| \#Chile                        |     29 |
+| \#RechazoTransversal           |     29 |
+| \#Iquique                      |     27 |
+| \#SiempreEsHoy                 |     26 |
+| \#AprueboDeSalida              |     25 |
+| \#BoricNoSeLaPuede             |     25 |
+| \#EstallidoSocial2             |     24 |
+| \#ParoNacional                 |     23 |
+| \#QuintoRetiroUrgente          |     23 |
+| \#YasnaProvoste                |     23 |
+| \#GobiernoDeInutiles           |     22 |
 
 # Cuentas
 
