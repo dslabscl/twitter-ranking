@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-22 02:15:17
+Chile. Fecha del reporte: 2022-04-25 02:02:05
 
     ## raw(0)
     ## raw(0)
@@ -12,28 +12,28 @@ Chile. Fecha del reporte: 2022-04-22 02:15:17
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#SextoRetiro                  |     83 |
-| \#QuintoRetiroOALaCalle        |     82 |
-| \#QuintoRetiro                 |     80 |
-| \#ContigoCHV                   |     66 |
-| \#MuchoGustoMega               |     57 |
-| \#25DeAbrilParoNacional        |     43 |
-| \#RechazoElMamarrachoComunista |     42 |
-| \#QuieroMi100xCiento           |     41 |
-| \#RechazoGanaEl4deSeptiembre   |     34 |
-| \#Chile                        |     29 |
-| \#RechazoTransversal           |     29 |
-| \#Iquique                      |     27 |
-| \#SiempreEsHoy                 |     26 |
-| \#AprueboDeSalida              |     25 |
-| \#BoricNoSeLaPuede             |     25 |
-| \#EstallidoSocial2             |     24 |
-| \#ParoNacional                 |     23 |
-| \#QuintoRetiroUrgente          |     23 |
-| \#YasnaProvoste                |     23 |
-| \#GobiernoDeInutiles           |     22 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| \#QuintoRetiroUrgente        |     93 |
+| \#QuintoRetiroOALaCalle      |     82 |
+| \#QuintoRetiro               |     72 |
+| \#Chile                      |     41 |
+| \#ParoNacional25abril        |     38 |
+| \#MuchoGustoMega             |     37 |
+| \#AprueboDeSalida            |     36 |
+| \#ContigoCHV                 |     36 |
+| \#BoricValeCallampa          |     35 |
+| \#RechazoTransversal         |     35 |
+| \#RechazoDeSalida2022        |     34 |
+| \#RechazoGanaEl4deSeptiembre |     33 |
+| \#ConvencionConstitucional   |     30 |
+| \#SextoRetiro                |     27 |
+| \#SiempreEsHoy               |     27 |
+| \#QuintoRetiroAhora          |     26 |
+| \#GobiernoDeInutiles         |     25 |
+| \#datoquetedoy               |     24 |
+| \#Iquique                    |     24 |
+| \#RechazoElMamarracho        |     24 |
 
 # Cuentas
 
