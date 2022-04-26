@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-25 02:02:05
+Chile. Fecha del reporte: 2022-04-26 02:11:59
 
     ## raw(0)
     ## raw(0)
@@ -12,28 +12,28 @@ Chile. Fecha del reporte: 2022-04-25 02:02:05
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| \#QuintoRetiroUrgente        |     93 |
-| \#QuintoRetiroOALaCalle      |     82 |
-| \#QuintoRetiro               |     72 |
-| \#Chile                      |     41 |
-| \#ParoNacional25abril        |     38 |
-| \#MuchoGustoMega             |     37 |
-| \#AprueboDeSalida            |     36 |
-| \#ContigoCHV                 |     36 |
-| \#BoricValeCallampa          |     35 |
-| \#RechazoTransversal         |     35 |
-| \#RechazoDeSalida2022        |     34 |
-| \#RechazoGanaEl4deSeptiembre |     33 |
-| \#ConvencionConstitucional   |     30 |
-| \#SextoRetiro                |     27 |
-| \#SiempreEsHoy               |     27 |
-| \#QuintoRetiroAhora          |     26 |
-| \#GobiernoDeInutiles         |     25 |
-| \#datoquetedoy               |     24 |
-| \#Iquique                    |     24 |
-| \#RechazoElMamarracho        |     24 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| \#QuintoRetiro             |    126 |
+| \#QuintoRetiroOALaCalle    |    115 |
+| \#ConvencionConstitucional |     94 |
+| \#QuintoRetiroAhora        |     93 |
+| \#senadores                |     88 |
+| \#datoquetedoy             |     87 |
+| \#sextoretiro              |     87 |
+| \#YoAprueboDeSalida        |     83 |
+| \#yoapruebo                |     82 |
+| \#CamionerosGolpistas      |     71 |
+| \#QuintoRetiroUrgente      |     70 |
+| \#CamionerosTerroristas    |     66 |
+| \#GabrielYoTeApoyo         |     66 |
+| \#AprueboDeSalida          |     64 |
+| \#AlestadioconBetsson      |     44 |
+| \#VerdadesOcultas          |     43 |
+| \#holachilelared           |     42 |
+| \#ParoNacional25abril      |     42 |
+| \#Chile                    |     31 |
+| \#ContigoCHV               |     30 |
 
 # Cuentas
 
