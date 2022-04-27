@@ -2,8 +2,9 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-26 02:11:59
+Chile. Fecha del reporte: 2022-04-27 02:17:17
 
+    ## raw(0)
     ## raw(0)
     ## raw(0)
     ## raw(0)
@@ -14,26 +15,26 @@ Chile. Fecha del reporte: 2022-04-26 02:11:59
 
 | datos                      | Cuenta |
 |:---------------------------|-------:|
-| \#QuintoRetiro             |    126 |
-| \#QuintoRetiroOALaCalle    |    115 |
-| \#ConvencionConstitucional |     94 |
-| \#QuintoRetiroAhora        |     93 |
-| \#senadores                |     88 |
-| \#datoquetedoy             |     87 |
-| \#sextoretiro              |     87 |
-| \#YoAprueboDeSalida        |     83 |
-| \#yoapruebo                |     82 |
-| \#CamionerosGolpistas      |     71 |
-| \#QuintoRetiroUrgente      |     70 |
-| \#CamionerosTerroristas    |     66 |
-| \#GabrielYoTeApoyo         |     66 |
-| \#AprueboDeSalida          |     64 |
-| \#AlestadioconBetsson      |     44 |
-| \#VerdadesOcultas          |     43 |
-| \#holachilelared           |     42 |
-| \#ParoNacional25abril      |     42 |
-| \#Chile                    |     31 |
-| \#ContigoCHV               |     30 |
+| \#AprueboDeSalida          |     81 |
+| \#Lluvia                   |     66 |
+| \#SextoRetiroUrgente       |     58 |
+| \#QuintoRetiroDelSenado    |     56 |
+| \#SextoRetiroSinLetraChica |     49 |
+| \#UltimoMinuto             |     47 |
+| \#QuintoRetiro             |     40 |
+| \#CamionerosGolpistas      |     38 |
+| \#LeyDeSeguridadDelEstado  |     36 |
+| \#yonomarchoconfachos      |     36 |
+| \#Chile                    |     35 |
+| \#QuintoRetiroOALaCalle    |     35 |
+| \#CamionerosTerroristas    |     31 |
+| \#SiempreEsHoy             |     31 |
+| \#GabrielYoTeApoyo         |     27 |
+| \#ContigoCHV               |     26 |
+| \#GabrielYoteApoyo         |     26 |
+| \#NuevaConstitucion        |     25 |
+| \#QuintoRetiroUrgente      |     25 |
+| \#GobiernoDeInutiles       |     23 |
 
 # Cuentas
 
