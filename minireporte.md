@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-27 02:17:17
+Chile. Fecha del reporte: 2022-04-28 02:51:39
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-04-27 02:17:17
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#AprueboDeSalida          |     81 |
-| \#Lluvia                   |     66 |
-| \#SextoRetiroUrgente       |     58 |
-| \#QuintoRetiroDelSenado    |     56 |
-| \#SextoRetiroSinLetraChica |     49 |
-| \#UltimoMinuto             |     47 |
-| \#QuintoRetiro             |     40 |
-| \#CamionerosGolpistas      |     38 |
-| \#LeyDeSeguridadDelEstado  |     36 |
-| \#yonomarchoconfachos      |     36 |
-| \#Chile                    |     35 |
-| \#QuintoRetiroOALaCalle    |     35 |
-| \#CamionerosTerroristas    |     31 |
-| \#SiempreEsHoy             |     31 |
-| \#GabrielYoTeApoyo         |     27 |
-| \#ContigoCHV               |     26 |
-| \#GabrielYoteApoyo         |     26 |
-| \#NuevaConstitucion        |     25 |
-| \#QuintoRetiroUrgente      |     25 |
-| \#GobiernoDeInutiles       |     23 |
+| datos                                | Cuenta |
+|:-------------------------------------|-------:|
+| \#LeySeguridad                       |     86 |
+| \#AprueboDeSalida                    |     63 |
+| \#QuintoRetiroOALaCalle              |     61 |
+| \#QuintoRetiroDelSenado              |     44 |
+| \#QuintoRetiro                       |     41 |
+| \#ContigoCHV                         |     40 |
+| \#SextoRetiroUrgente                 |     40 |
+| \#GobiernoCriminalCorruptoyMentiroso |     36 |
+| \#SextoRetiroSinLetraChica           |     35 |
+| \#MerluzoYlaCTM                      |     31 |
+| \#QuintoRetiroUrgente                |     31 |
+| \#SiempreEsHoy                       |     29 |
+| \#Rechazo                            |     28 |
+| \#RechazoTransversal                 |     26 |
+| \#BoricVerdugoClaseMedia             |     24 |
+| \#Chile                              |     24 |
+| \#MetallicaEnChile                   |     22 |
+| \#SextoRetiro                        |     22 |
+| \#CamionerosGolpistas                |     21 |
+| \#NuevaConstitucion                  |     21 |
 
 # Cuentas
 
