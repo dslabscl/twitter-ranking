@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-28 02:51:39
+Chile. Fecha del reporte: 2022-04-29 02:12:36
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-04-28 02:51:39
 
 | datos                                | Cuenta |
 |:-------------------------------------|-------:|
-| \#LeySeguridad                       |     86 |
-| \#AprueboDeSalida                    |     63 |
-| \#QuintoRetiroOALaCalle              |     61 |
-| \#QuintoRetiroDelSenado              |     44 |
-| \#QuintoRetiro                       |     41 |
-| \#ContigoCHV                         |     40 |
-| \#SextoRetiroUrgente                 |     40 |
-| \#GobiernoCriminalCorruptoyMentiroso |     36 |
-| \#SextoRetiroSinLetraChica           |     35 |
-| \#MerluzoYlaCTM                      |     31 |
-| \#QuintoRetiroUrgente                |     31 |
+| \#LeySeguridad                       |     74 |
+| \#QuintoRetiroUrgente                |     51 |
+| \#QuintoRetiroOALaCalle              |     45 |
+| \#AprueboDeSalida                    |     39 |
+| \#QuintoRetiro                       |     33 |
+| \#ContigoCHV                         |     31 |
+| \#RechazoTransversal                 |     31 |
+| \#SextoRetiro                        |     31 |
+| \#GobiernoCriminalCorruptoyMentiroso |     30 |
 | \#SiempreEsHoy                       |     29 |
-| \#Rechazo                            |     28 |
-| \#RechazoTransversal                 |     26 |
-| \#BoricVerdugoClaseMedia             |     24 |
-| \#Chile                              |     24 |
-| \#MetallicaEnChile                   |     22 |
-| \#SextoRetiro                        |     22 |
-| \#CamionerosGolpistas                |     21 |
-| \#NuevaConstitucion                  |     21 |
+| \#TigrayGenocide                     |     28 |
+| \#sextoretiro                        |     27 |
+| \#QuintoRetiroDelSenado              |     26 |
+| \#quintoretiroOalacalle              |     26 |
+| \#SextoRetiroUrgente                 |     26 |
+| \#Tigray                             |     25 |
+| \#AbiyAhmed                          |     24 |
+| \#MuchoGustoMega                     |     24 |
+| \#UNHCR                              |     24 |
+| \#UNOnlyForTigray                    |     24 |
 
 # Cuentas
 
