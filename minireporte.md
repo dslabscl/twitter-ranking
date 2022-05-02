@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-04-29 02:12:36
+Chile. Fecha del reporte: 2022-05-02 02:25:46
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-04-29 02:12:36
 
 # Hashtags más populares
 
-| datos                                | Cuenta |
-|:-------------------------------------|-------:|
-| \#LeySeguridad                       |     74 |
-| \#QuintoRetiroUrgente                |     51 |
-| \#QuintoRetiroOALaCalle              |     45 |
-| \#AprueboDeSalida                    |     39 |
-| \#QuintoRetiro                       |     33 |
-| \#ContigoCHV                         |     31 |
-| \#RechazoTransversal                 |     31 |
-| \#SextoRetiro                        |     31 |
-| \#GobiernoCriminalCorruptoyMentiroso |     30 |
-| \#SiempreEsHoy                       |     29 |
-| \#TigrayGenocide                     |     28 |
-| \#sextoretiro                        |     27 |
-| \#QuintoRetiroDelSenado              |     26 |
-| \#quintoretiroOalacalle              |     26 |
-| \#SextoRetiroUrgente                 |     26 |
-| \#Tigray                             |     25 |
-| \#AbiyAhmed                          |     24 |
-| \#MuchoGustoMega                     |     24 |
-| \#UNHCR                              |     24 |
-| \#UNOnlyForTigray                    |     24 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| \#FueraYañez               |    205 |
+| \#QuintoRetiro             |    112 |
+| \#DiaDelTrabajador         |    105 |
+| \#QuintoRetiroOALaCalle    |    104 |
+| \#24HorasCentral           |     97 |
+| \#ConvencionConstitucional |     93 |
+| \#sextoretiro              |     92 |
+| \#datoquetedoy             |     87 |
+| \#QuintoRetiroAhora        |     87 |
+| \#senadores                |     84 |
+| \#ServelNoEsConfiable      |     71 |
+| \#yoapruebo                |     66 |
+| \#YoAprueboDeSalida        |     66 |
+| \#PacosCriminales          |     65 |
+| \#GabrielYoteApoyo         |     61 |
+| \#AmbulantesNarcos         |     58 |
+| \#MesaCentral              |     57 |
+| \#IzkiaHazteCargo          |     44 |
+| \#CarcelParaYañez          |     42 |
+| \#SiempreEsHoy             |     36 |
 
 # Cuentas
 
