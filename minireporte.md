@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-02 02:25:46
+Chile. Fecha del reporte: 2022-05-03 02:15:19
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-02 02:25:46
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#FueraYañez               |    205 |
-| \#QuintoRetiro             |    112 |
-| \#DiaDelTrabajador         |    105 |
-| \#QuintoRetiroOALaCalle    |    104 |
-| \#24HorasCentral           |     97 |
-| \#ConvencionConstitucional |     93 |
-| \#sextoretiro              |     92 |
-| \#datoquetedoy             |     87 |
-| \#QuintoRetiroAhora        |     87 |
-| \#senadores                |     84 |
-| \#ServelNoEsConfiable      |     71 |
-| \#yoapruebo                |     66 |
-| \#YoAprueboDeSalida        |     66 |
-| \#PacosCriminales          |     65 |
-| \#GabrielYoteApoyo         |     61 |
-| \#AmbulantesNarcos         |     58 |
-| \#MesaCentral              |     57 |
-| \#IzkiaHazteCargo          |     44 |
-| \#CarcelParaYañez          |     42 |
-| \#SiempreEsHoy             |     36 |
+| datos                    | Cuenta |
+|:-------------------------|-------:|
+| \#NoMatenAPetro          |     40 |
+| \#SiempreEsHoy           |     35 |
+| \#24HorasCentral         |     33 |
+| \#AprueboDeSalida        |     30 |
+| \#FueraYañez             |     28 |
+| \#GabrielYoTeApoyo       |     28 |
+| \#MuchoGustoMega         |     28 |
+| \#PacosCriminales        |     28 |
+| \#QuintoRetiro           |     27 |
+| \#DiaDelTrabajador       |     26 |
+| \#MesaCentral            |     26 |
+| \#AmbulantesNarcos       |     25 |
+| \#Chile                  |     24 |
+| \#BoricVerdugoClaseMedia |     23 |
+| \#GobiernoDeInutiles     |     21 |
+| \#EscazúAhoraChile       |     20 |
+| \#RechazoTransversal     |     20 |
+| \#ContigoCHV             |     19 |
+| \#EstacionCentral        |     18 |
+| \#HolaChileLaRed         |     18 |
 
 # Cuentas
 
