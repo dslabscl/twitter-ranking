@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-03 02:15:19
+Chile. Fecha del reporte: 2022-05-04 02:18:16
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-03 02:15:19
 
 # Hashtags más populares
 
-| datos                    | Cuenta |
-|:-------------------------|-------:|
-| \#NoMatenAPetro          |     40 |
-| \#SiempreEsHoy           |     35 |
-| \#24HorasCentral         |     33 |
-| \#AprueboDeSalida        |     30 |
-| \#FueraYañez             |     28 |
-| \#GabrielYoTeApoyo       |     28 |
-| \#MuchoGustoMega         |     28 |
-| \#PacosCriminales        |     28 |
-| \#QuintoRetiro           |     27 |
-| \#DiaDelTrabajador       |     26 |
-| \#MesaCentral            |     26 |
-| \#AmbulantesNarcos       |     25 |
-| \#Chile                  |     24 |
-| \#BoricVerdugoClaseMedia |     23 |
-| \#GobiernoDeInutiles     |     21 |
-| \#EscazúAhoraChile       |     20 |
-| \#RechazoTransversal     |     20 |
-| \#ContigoCHV             |     19 |
-| \#EstacionCentral        |     18 |
-| \#HolaChileLaRed         |     18 |
+| datos                                | Cuenta |
+|:-------------------------------------|-------:|
+| \#YoQuieroEstadoDeExcepción          |    120 |
+| \#QuintoRetiro                       |    116 |
+| \#SextoRetiro                        |     42 |
+| \#AprueboDeSalida                    |     40 |
+| \#SiempreEsHoy                       |     39 |
+| \#VamosPorSextoRetiro                |     39 |
+| \#RechazoCrece                       |     32 |
+| \#MuchoGustoMega                     |     31 |
+| \#ContigoCHV                         |     30 |
+| \#MesaCentral                        |     26 |
+| \#FuerzaAbuelacon100xCiento          |     24 |
+| \#RechazoElMamarrachoComunista       |     24 |
+| \#Rechazo                            |     23 |
+| \#RechazoTransversal                 |     22 |
+| \#QuintoRetiroDelSenado              |     21 |
+| \#RechazoGanaEl4deSeptiembre         |     21 |
+| \#SextoRetiroUrgente                 |     21 |
+| \#Chile                              |     20 |
+| \#GobiernoCriminalCorruptoyMentiroso |     20 |
+| \#Apruebo4deSeptiembre               |     19 |
 
 # Cuentas
 
