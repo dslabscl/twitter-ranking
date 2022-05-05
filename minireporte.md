@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-04 02:18:16
+Chile. Fecha del reporte: 2022-05-05 02:00:59
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-04 02:18:16
 
 # Hashtags más populares
 
-| datos                                | Cuenta |
-|:-------------------------------------|-------:|
-| \#YoQuieroEstadoDeExcepción          |    120 |
-| \#QuintoRetiro                       |    116 |
-| \#SextoRetiro                        |     42 |
-| \#AprueboDeSalida                    |     40 |
-| \#SiempreEsHoy                       |     39 |
-| \#VamosPorSextoRetiro                |     39 |
-| \#RechazoCrece                       |     32 |
-| \#MuchoGustoMega                     |     31 |
-| \#ContigoCHV                         |     30 |
-| \#MesaCentral                        |     26 |
-| \#FuerzaAbuelacon100xCiento          |     24 |
-| \#RechazoElMamarrachoComunista       |     24 |
-| \#Rechazo                            |     23 |
-| \#RechazoTransversal                 |     22 |
-| \#QuintoRetiroDelSenado              |     21 |
-| \#RechazoGanaEl4deSeptiembre         |     21 |
-| \#SextoRetiroUrgente                 |     21 |
-| \#Chile                              |     20 |
-| \#GobiernoCriminalCorruptoyMentiroso |     20 |
-| \#Apruebo4deSeptiembre               |     19 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#QuintoRetiro                 |     61 |
+| \#MuchoGustoMega               |     58 |
+| \#ContigoCHV                   |     56 |
+| \#QuintoRetiroOALaCalle        |     44 |
+| \#VamosPorSextoRetiro          |     43 |
+| \#SiempreEsHoy                 |     40 |
+| \#AprueboDeSalida              |     39 |
+| \#FuerzaAbuelacon100xCiento    |     34 |
+| \#GabrielYoTeApoyo             |     34 |
+| \#ConvencionConstitucional     |     30 |
+| \#sextoretiro                  |     30 |
+| \#RechazoCrece                 |     29 |
+| \#MesaCentral                  |     26 |
+| \#RechazoTransversal           |     25 |
+| \#SextoRetiro                  |     25 |
+| \#QuintoRetiroAhora            |     24 |
+| \#Rechazo                      |     24 |
+| \#ServelNoEsConfiable          |     24 |
+| \#datoquetedoy                 |     23 |
+| \#RechazoElMamarrachoComunista |     23 |
 
 # Cuentas
 
