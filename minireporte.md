@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-05 02:00:59
+Chile. Fecha del reporte: 2022-05-06 01:58:29
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-05 02:00:59
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#QuintoRetiro                 |     61 |
-| \#MuchoGustoMega               |     58 |
-| \#ContigoCHV                   |     56 |
-| \#QuintoRetiroOALaCalle        |     44 |
-| \#VamosPorSextoRetiro          |     43 |
-| \#SiempreEsHoy                 |     40 |
-| \#AprueboDeSalida              |     39 |
-| \#FuerzaAbuelacon100xCiento    |     34 |
-| \#GabrielYoTeApoyo             |     34 |
-| \#ConvencionConstitucional     |     30 |
-| \#sextoretiro                  |     30 |
-| \#RechazoCrece                 |     29 |
-| \#MesaCentral                  |     26 |
-| \#RechazoTransversal           |     25 |
-| \#SextoRetiro                  |     25 |
-| \#QuintoRetiroAhora            |     24 |
-| \#Rechazo                      |     24 |
-| \#ServelNoEsConfiable          |     24 |
-| \#datoquetedoy                 |     23 |
-| \#RechazoElMamarrachoComunista |     23 |
+| datos                       | Cuenta |
+|:----------------------------|-------:|
+| \#QuintoRetiro              |     95 |
+| \#QuintoRetiroOALaCalle     |     73 |
+| \#ContigoCHV                |     71 |
+| \#ConvencionConstitucional  |     67 |
+| \#sextoretiro               |     67 |
+| \#AprueboDeSalida           |     61 |
+| \#ServelNoEsConfiable       |     60 |
+| \#datoquetedoy              |     59 |
+| \#QuintoRetiroAhora         |     59 |
+| \#senadores                 |     59 |
+| \#yoapruebo                 |     59 |
+| \#YoAprueboDeSalida         |     59 |
+| \#RechazoCrece              |     57 |
+| \#SextoRetiroUrgente        |     51 |
+| \#MuchoGustoMega            |     44 |
+| \#SiempreEsHoy              |     43 |
+| \#VamosPorSextoRetiro       |     41 |
+| \#RechazoTransversal        |     37 |
+| \#SextoRetiro               |     37 |
+| \#FuerzaAbuelacon100xCiento |     35 |
 
 # Cuentas
 
