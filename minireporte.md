@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-06 01:58:29
+Chile. Fecha del reporte: 2022-05-09 02:10:45
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-06 01:58:29
 
 # Hashtags más populares
 
-| datos                       | Cuenta |
-|:----------------------------|-------:|
-| \#QuintoRetiro              |     95 |
-| \#QuintoRetiroOALaCalle     |     73 |
-| \#ContigoCHV                |     71 |
-| \#ConvencionConstitucional  |     67 |
-| \#sextoretiro               |     67 |
-| \#AprueboDeSalida           |     61 |
-| \#ServelNoEsConfiable       |     60 |
-| \#datoquetedoy              |     59 |
-| \#QuintoRetiroAhora         |     59 |
-| \#senadores                 |     59 |
-| \#yoapruebo                 |     59 |
-| \#YoAprueboDeSalida         |     59 |
-| \#RechazoCrece              |     57 |
-| \#SextoRetiroUrgente        |     51 |
-| \#MuchoGustoMega            |     44 |
-| \#SiempreEsHoy              |     43 |
-| \#VamosPorSextoRetiro       |     41 |
-| \#RechazoTransversal        |     37 |
-| \#SextoRetiro               |     37 |
-| \#FuerzaAbuelacon100xCiento |     35 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| \#SextoRetiro              |     72 |
+| \#MuchoGustoMega           |     62 |
+| \#YoAprueboDeSalida        |     48 |
+| \#ContigoCHV               |     47 |
+| \#ConvencionConstitucional |     47 |
+| \#sextoretiro              |     47 |
+| \#SiempreEsHoy             |     47 |
+| \#AprueboDeSalida          |     46 |
+| \#QuintoRetiro             |     46 |
+| \#QuintoRetiroOALaCalle    |     42 |
+| \#datoquetedoy             |     38 |
+| \#QuintoRetiroAhora        |     38 |
+| \#senadores                |     38 |
+| \#ServelNoEsConfiable      |     38 |
+| \#yoapruebo                |     38 |
+| \#ParoCamioneros           |     37 |
+| \#LosCruzados              |     34 |
+| \#MesaCentral              |     34 |
+| \#RechazoTransversal       |     34 |
+| \#BoricVerdugoClaseMedia   |     33 |
 
 # Cuentas
 
