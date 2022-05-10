@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-09 02:10:45
+Chile. Fecha del reporte: 2022-05-10 01:43:52
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-09 02:10:45
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#SextoRetiro              |     72 |
-| \#MuchoGustoMega           |     62 |
-| \#YoAprueboDeSalida        |     48 |
-| \#ContigoCHV               |     47 |
-| \#ConvencionConstitucional |     47 |
-| \#sextoretiro              |     47 |
-| \#SiempreEsHoy             |     47 |
-| \#AprueboDeSalida          |     46 |
-| \#QuintoRetiro             |     46 |
-| \#QuintoRetiroOALaCalle    |     42 |
-| \#datoquetedoy             |     38 |
-| \#QuintoRetiroAhora        |     38 |
-| \#senadores                |     38 |
-| \#ServelNoEsConfiable      |     38 |
-| \#yoapruebo                |     38 |
-| \#ParoCamioneros           |     37 |
-| \#LosCruzados              |     34 |
-| \#MesaCentral              |     34 |
-| \#RechazoTransversal       |     34 |
-| \#BoricVerdugoClaseMedia   |     33 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#SextoRetiro                  |     71 |
+| \#AprueboDeSalida              |     53 |
+| \#MuchoGustoMega               |     52 |
+| \#SiempreEsHoy                 |     49 |
+| \#ContigoCHV                   |     48 |
+| \#RechazoTransversal           |     40 |
+| \#SextoRetirodel100            |     40 |
+| \#EsMiPlataYPunto              |     39 |
+| \#MesaCentral                  |     28 |
+| \#RechazoCrece                 |     28 |
+| \#Rechazo                      |     24 |
+| \#RechazoSalvaChile            |     24 |
+| \#ParoCamioneros               |     23 |
+| \#RechazoElMamarrachoComunista |     23 |
+| \#Chile                        |     21 |
+| \#NuevaConstituciónParaChile   |     20 |
+| \#Retiro100xCiento             |     20 |
+| \#CNNPrime                     |     19 |
+| \#AprueboPlebicitoDeSalida     |     18 |
+| \#RechazoDeSalida              |     18 |
 
 # Cuentas
 
