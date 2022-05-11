@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-10 01:43:52
+Chile. Fecha del reporte: 2022-05-11 02:07:49
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-05-10 01:43:52
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#SextoRetiro                  |     71 |
-| \#AprueboDeSalida              |     53 |
-| \#MuchoGustoMega               |     52 |
-| \#SiempreEsHoy                 |     49 |
-| \#ContigoCHV                   |     48 |
-| \#RechazoTransversal           |     40 |
-| \#SextoRetirodel100            |     40 |
-| \#EsMiPlataYPunto              |     39 |
-| \#MesaCentral                  |     28 |
-| \#RechazoCrece                 |     28 |
-| \#Rechazo                      |     24 |
-| \#RechazoSalvaChile            |     24 |
-| \#ParoCamioneros               |     23 |
-| \#RechazoElMamarrachoComunista |     23 |
-| \#Chile                        |     21 |
-| \#NuevaConstituciónParaChile   |     20 |
-| \#Retiro100xCiento             |     20 |
-| \#CNNPrime                     |     19 |
-| \#AprueboPlebicitoDeSalida     |     18 |
-| \#RechazoDeSalida              |     18 |
+| \#QuintoRetiro                 |     77 |
+| \#sextoretiro                  |     74 |
+| \#ConvencionConstitucional     |     72 |
+| \#QuintoRetiroOALaCalle        |     72 |
+| \#datoquetedoy                 |     67 |
+| \#QuintoRetiroAhora            |     67 |
+| \#senadores                    |     67 |
+| \#ServelNoEsConfiable          |     67 |
+| \#yoapruebo                    |     67 |
+| \#YoAprueboDeSalida            |     67 |
+| \#RechazoTransversal           |     63 |
+| \#MuchoGustoMega               |     62 |
+| \#ContigoCHV                   |     57 |
+| \#AprueboDeSalida              |     44 |
+| \#SextoRetiro                  |     36 |
+| \#RechazoElMamarrachoComunista |     35 |
+| \#SiempreEsHoy                 |     35 |
+| \#Chile                        |     34 |
+| \#MesaCentral                  |     27 |
+| \#Rechazo                      |     26 |
 
 # Cuentas
 
