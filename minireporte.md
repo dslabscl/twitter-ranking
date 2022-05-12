@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-11 02:07:49
+Chile. Fecha del reporte: 2022-05-12 02:08:04
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-11 02:07:49
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#QuintoRetiro                 |     77 |
-| \#sextoretiro                  |     74 |
-| \#ConvencionConstitucional     |     72 |
-| \#QuintoRetiroOALaCalle        |     72 |
-| \#datoquetedoy                 |     67 |
-| \#QuintoRetiroAhora            |     67 |
-| \#senadores                    |     67 |
-| \#ServelNoEsConfiable          |     67 |
-| \#yoapruebo                    |     67 |
-| \#YoAprueboDeSalida            |     67 |
-| \#RechazoTransversal           |     63 |
-| \#MuchoGustoMega               |     62 |
-| \#ContigoCHV                   |     57 |
-| \#AprueboDeSalida              |     44 |
-| \#SextoRetiro                  |     36 |
-| \#RechazoElMamarrachoComunista |     35 |
-| \#SiempreEsHoy                 |     35 |
-| \#Chile                        |     34 |
-| \#MesaCentral                  |     27 |
-| \#Rechazo                      |     26 |
+| datos                                    | Cuenta |
+|:-----------------------------------------|-------:|
+| \#SextoRetiro                            |    136 |
+| \#SextoRetirodel100                      |     55 |
+| \#EsMiPlataYPunto                        |     54 |
+| \#SextoRetiroAhora                       |     50 |
+| \#RechazoTransversal                     |     49 |
+| \#Rechazo                                |     40 |
+| \#AprueboDeSalida                        |     37 |
+| \#ContigoCHV                             |     35 |
+| \#RechazoSalvaChile                      |     30 |
+| \#MuchoGustoMega                         |     27 |
+| \#RechazoCrece                           |     27 |
+| \#Apruebo4deSeptiembre                   |     24 |
+| \#Chile                                  |     24 |
+| \#SiempreEsHoy                           |     24 |
+| \#AprueboPlebicitoDeSalida               |     22 |
+| \#postnataldeemergenciaenalertasanitaria |     22 |
+| \#MesaCentral                            |     21 |
+| \#QuintoRetiro                           |     20 |
+| \#RechazoElMamarrachoComunista           |     19 |
+| \#RechazoGanaEl4deSeptiembre             |     19 |
 
 # Cuentas
 
