@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-12 02:08:04
+Chile. Fecha del reporte: 2022-05-13 02:21:12
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-12 02:08:04
 
 # Hashtags más populares
 
-| datos                                    | Cuenta |
-|:-----------------------------------------|-------:|
-| \#SextoRetiro                            |    136 |
-| \#SextoRetirodel100                      |     55 |
-| \#EsMiPlataYPunto                        |     54 |
-| \#SextoRetiroAhora                       |     50 |
-| \#RechazoTransversal                     |     49 |
-| \#Rechazo                                |     40 |
-| \#AprueboDeSalida                        |     37 |
-| \#ContigoCHV                             |     35 |
-| \#RechazoSalvaChile                      |     30 |
-| \#MuchoGustoMega                         |     27 |
-| \#RechazoCrece                           |     27 |
-| \#Apruebo4deSeptiembre                   |     24 |
-| \#Chile                                  |     24 |
-| \#SiempreEsHoy                           |     24 |
-| \#AprueboPlebicitoDeSalida               |     22 |
-| \#postnataldeemergenciaenalertasanitaria |     22 |
-| \#MesaCentral                            |     21 |
-| \#QuintoRetiro                           |     20 |
-| \#RechazoElMamarrachoComunista           |     19 |
-| \#RechazoGanaEl4deSeptiembre             |     19 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| \#QuintoRetiro                  |     68 |
+| \#Apruebo                       |     65 |
+| \#sextoretiro                   |     59 |
+| \#ConvencionConstitucional      |     57 |
+| \#QuintoRetiroOALaCalle         |     57 |
+| \#yoapruebo                     |     53 |
+| \#datoquetedoy                  |     52 |
+| \#QuintoRetiroAhora             |     52 |
+| \#senadores                     |     52 |
+| \#ServelNoEsConfiable           |     52 |
+| \#YoAprueboDeSalida             |     52 |
+| \#GabrielYoTeApoyo              |     50 |
+| \#CorteDeLuz                    |     45 |
+| \#SextoRetiro                   |     41 |
+| \#MuchoGustoMega                |     38 |
+| \#EsMiPlataYPunto               |     33 |
+| \#JusticiaParaFranciscaSandoval |     33 |
+| \#SextoRetiroAhora              |     33 |
+| \#SextoRetirodel100             |     33 |
+| \#FueraYañez                    |     32 |
 
 # Cuentas
 
