@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-13 02:21:12
+Chile. Fecha del reporte: 2022-05-16 01:58:06
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-13 02:21:12
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| \#QuintoRetiro                  |     68 |
-| \#Apruebo                       |     65 |
-| \#sextoretiro                   |     59 |
-| \#ConvencionConstitucional      |     57 |
-| \#QuintoRetiroOALaCalle         |     57 |
-| \#yoapruebo                     |     53 |
-| \#datoquetedoy                  |     52 |
-| \#QuintoRetiroAhora             |     52 |
-| \#senadores                     |     52 |
-| \#ServelNoEsConfiable           |     52 |
-| \#YoAprueboDeSalida             |     52 |
-| \#GabrielYoTeApoyo              |     50 |
-| \#CorteDeLuz                    |     45 |
-| \#SextoRetiro                   |     41 |
-| \#MuchoGustoMega                |     38 |
-| \#EsMiPlataYPunto               |     33 |
-| \#JusticiaParaFranciscaSandoval |     33 |
-| \#SextoRetiroAhora              |     33 |
-| \#SextoRetirodel100             |     33 |
-| \#FueraYañez                    |     32 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#AprueboDeSalida              |     84 |
+| \#MesaCentral                  |     82 |
+| \#Apruebo                      |     50 |
+| \#Apruebo4deSeptiembre         |     46 |
+| \#SextoRetiro                  |     46 |
+| \#RechazoTransversal           |     37 |
+| \#Rechazo                      |     36 |
+| \#RechazoElMamarrachoComunista |     36 |
+| \#GabrielYoTeApoyo             |     35 |
+| \#RechazoCrece                 |     35 |
+| \#MuchoGustoMega               |     34 |
+| \#RechazoSalvaChile            |     32 |
+| \#NuevaConstituciónParaChile   |     30 |
+| \#GobiernoDeInutiles           |     27 |
+| \#rechazolaconstituciondeboric |     27 |
+| \#LTWTChile                    |     26 |
+| \#QuintoRetiroUrgente          |     23 |
+| \#499RazonesParaRechazar       |     22 |
+| \#SextoRetiroAhora             |     22 |
+| \#Chile                        |     21 |
 
 # Cuentas
 
