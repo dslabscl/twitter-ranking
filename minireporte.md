@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-16 01:58:06
+Chile. Fecha del reporte: 2022-05-17 02:15:45
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-05-16 01:58:06
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#AprueboDeSalida              |     84 |
-| \#MesaCentral                  |     82 |
-| \#Apruebo                      |     50 |
-| \#Apruebo4deSeptiembre         |     46 |
-| \#SextoRetiro                  |     46 |
-| \#RechazoTransversal           |     37 |
-| \#Rechazo                      |     36 |
-| \#RechazoElMamarrachoComunista |     36 |
-| \#GabrielYoTeApoyo             |     35 |
-| \#RechazoCrece                 |     35 |
-| \#MuchoGustoMega               |     34 |
-| \#RechazoSalvaChile            |     32 |
-| \#NuevaConstituciónParaChile   |     30 |
-| \#GobiernoDeInutiles           |     27 |
-| \#rechazolaconstituciondeboric |     27 |
-| \#LTWTChile                    |     26 |
-| \#QuintoRetiroUrgente          |     23 |
-| \#499RazonesParaRechazar       |     22 |
-| \#SextoRetiroAhora             |     22 |
-| \#Chile                        |     21 |
+| \#Apruebo4deSeptiembre         |     83 |
+| \#499RazonesParaRechazar       |     61 |
+| \#ContigoCHV                   |     59 |
+| \#SextoRetiro                  |     56 |
+| \#nicolaslopez                 |     54 |
+| \#EstadoDeExcepcion            |     47 |
+| \#AprueboDeSalida              |     43 |
+| \#MuchoGustoMega               |     43 |
+| \#RechazoTransversal           |     33 |
+| \#Rechazo                      |     26 |
+| \#RechazoSalvaChile            |     26 |
+| \#SEXTORETIRO                  |     26 |
+| \#AprueboPlebicitoDeSalida     |     24 |
+| \#RechazoElMamarracho          |     23 |
+| \#RechazoElMamarrachoComunista |     23 |
+| \#JCRodriguez                  |     22 |
+| \#GiorgioGranFraude            |     20 |
+| \#QuintoRetiro                 |     19 |
+| \#GobiernoDeInutiles           |     18 |
+| \#RechazoCrece                 |     18 |
 
 # Cuentas
 
