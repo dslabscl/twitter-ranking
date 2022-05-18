@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-17 02:15:45
+Chile. Fecha del reporte: 2022-05-18 01:56:50
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-17 02:15:45
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#Apruebo4deSeptiembre         |     83 |
-| \#499RazonesParaRechazar       |     61 |
-| \#ContigoCHV                   |     59 |
-| \#SextoRetiro                  |     56 |
-| \#nicolaslopez                 |     54 |
-| \#EstadoDeExcepcion            |     47 |
-| \#AprueboDeSalida              |     43 |
-| \#MuchoGustoMega               |     43 |
-| \#RechazoTransversal           |     33 |
-| \#Rechazo                      |     26 |
-| \#RechazoSalvaChile            |     26 |
-| \#SEXTORETIRO                  |     26 |
-| \#AprueboPlebicitoDeSalida     |     24 |
-| \#RechazoElMamarracho          |     23 |
-| \#RechazoElMamarrachoComunista |     23 |
-| \#JCRodriguez                  |     22 |
-| \#GiorgioGranFraude            |     20 |
-| \#QuintoRetiro                 |     19 |
-| \#GobiernoDeInutiles           |     18 |
-| \#RechazoCrece                 |     18 |
+| datos                                    | Cuenta |
+|:-----------------------------------------|-------:|
+| \#SextoRetiro                            |    451 |
+| \#Apruebo4deSeptiembre                   |     59 |
+| \#AprueboDeSalida                        |     40 |
+| \#ContigoCHV                             |     36 |
+| \#TigrayCantWait                         |     31 |
+| \#AprueboPlebicitoDeSalida               |     30 |
+| \#StopStarvingTigray                     |     30 |
+| \#MuchoGustoMega                         |     29 |
+| \#Apruebo                                |     26 |
+| \#postnataldeemergenciaenalertasanitaria |     24 |
+| \#RechazoTransversal                     |     24 |
+| \#RechazoCrece                           |     23 |
+| \#RechazoElMamarrachoComunista           |     22 |
+| \#YoTeAcuso                              |     21 |
+| \#Chile                                  |     20 |
+| \#RechazoSalvaChile                      |     20 |
+| \#Boric                                  |     19 |
+| \#Rechazo                                |     19 |
+| \#MeganoticiasPrime                      |     16 |
+| \#PostnatalDeEmergencia                  |     15 |
 
 # Cuentas
 
