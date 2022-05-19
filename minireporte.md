@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-18 01:56:50
+Chile. Fecha del reporte: 2022-05-19 02:15:09
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-18 01:56:50
 
 # Hashtags más populares
 
-| datos                                    | Cuenta |
-|:-----------------------------------------|-------:|
-| \#SextoRetiro                            |    451 |
-| \#Apruebo4deSeptiembre                   |     59 |
-| \#AprueboDeSalida                        |     40 |
-| \#ContigoCHV                             |     36 |
-| \#TigrayCantWait                         |     31 |
-| \#AprueboPlebicitoDeSalida               |     30 |
-| \#StopStarvingTigray                     |     30 |
-| \#MuchoGustoMega                         |     29 |
-| \#Apruebo                                |     26 |
-| \#postnataldeemergenciaenalertasanitaria |     24 |
-| \#RechazoTransversal                     |     24 |
-| \#RechazoCrece                           |     23 |
-| \#RechazoElMamarrachoComunista           |     22 |
-| \#YoTeAcuso                              |     21 |
-| \#Chile                                  |     20 |
-| \#RechazoSalvaChile                      |     20 |
-| \#Boric                                  |     19 |
-| \#Rechazo                                |     19 |
-| \#MeganoticiasPrime                      |     16 |
-| \#PostnatalDeEmergencia                  |     15 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#SextoRetiro                  |     47 |
+| \#Apruebo4deSeptiembre         |     38 |
+| \#ContigoCHV                   |     37 |
+| \#RechazoElMamarrachoComunista |     34 |
+| \#YoTeAcuso                    |     32 |
+| \#RechazoTransversal           |     31 |
+| \#Rechazo                      |     26 |
+| \#RechazoCrece                 |     26 |
+| \#Apruebo                      |     25 |
+| \#MuchoGustoMega               |     25 |
+| \#AprueboDeSalida              |     24 |
+| \#QuintoRetiroUrgente          |     24 |
+| \#RechazoSalvaChile            |     24 |
+| \#ChileVamosTraidores          |     22 |
+| \#sextoretiro                  |     21 |
+| \#VamosPorSextoRetiro          |     20 |
+| \#Chile                        |     15 |
+| \#GobiernoDeInutiles           |     15 |
+| \#NeverAgain4Tigray            |     15 |
+| \#CNNPrime                     |     14 |
 
 # Cuentas
 
