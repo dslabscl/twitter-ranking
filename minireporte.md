@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-19 02:15:09
+Chile. Fecha del reporte: 2022-05-20 02:04:12
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-19 02:15:09
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#SextoRetiro                  |     47 |
-| \#Apruebo4deSeptiembre         |     38 |
-| \#ContigoCHV                   |     37 |
-| \#RechazoElMamarrachoComunista |     34 |
-| \#YoTeAcuso                    |     32 |
-| \#RechazoTransversal           |     31 |
-| \#Rechazo                      |     26 |
-| \#RechazoCrece                 |     26 |
-| \#Apruebo                      |     25 |
-| \#MuchoGustoMega               |     25 |
-| \#AprueboDeSalida              |     24 |
-| \#QuintoRetiroUrgente          |     24 |
-| \#RechazoSalvaChile            |     24 |
-| \#ChileVamosTraidores          |     22 |
-| \#sextoretiro                  |     21 |
-| \#VamosPorSextoRetiro          |     20 |
-| \#Chile                        |     15 |
-| \#GobiernoDeInutiles           |     15 |
-| \#NeverAgain4Tigray            |     15 |
-| \#CNNPrime                     |     14 |
+| datos                                    | Cuenta |
+|:-----------------------------------------|-------:|
+| \#SextoRetiro                            |     73 |
+| \#ContigoCHV                             |     47 |
+| \#Apruebo4deSeptiembre                   |     36 |
+| \#postnataldeemergenciaenalertasanitaria |     31 |
+| \#MuchoGustoMega                         |     30 |
+| \#RechazoElMamarrachoComunista           |     30 |
+| \#AprueboDeSalida                        |     27 |
+| \#YoTeAcuso                              |     27 |
+| \#Chile                                  |     21 |
+| \#Rechazo                                |     21 |
+| \#RechazoCrece                           |     19 |
+| \#RechazoTransversal                     |     19 |
+| \#ChileVamosTraidores                    |     15 |
+| \#NoEsPorNosotrasEsPorEllos              |     15 |
+| \#QuintoRetiroUrgente                    |     15 |
+| \#VamosPorSextoRetiro                    |     15 |
+| \#ApagaEl13                              |     14 |
+| \#Apruebo                                |     14 |
+| \#Iquique                                |     14 |
+| \#POSTNATALDEEMERGENCIAENALERTASANITARIA |     14 |
 
 # Cuentas
 
