@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-20 02:04:12
+Chile. Fecha del reporte: 2022-05-23 02:02:32
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-05-20 02:04:12
 
 | datos                                    | Cuenta |
 |:-----------------------------------------|-------:|
-| \#SextoRetiro                            |     73 |
-| \#ContigoCHV                             |     47 |
-| \#Apruebo4deSeptiembre                   |     36 |
-| \#postnataldeemergenciaenalertasanitaria |     31 |
-| \#MuchoGustoMega                         |     30 |
-| \#RechazoElMamarrachoComunista           |     30 |
-| \#AprueboDeSalida                        |     27 |
-| \#YoTeAcuso                              |     27 |
-| \#Chile                                  |     21 |
-| \#Rechazo                                |     21 |
-| \#RechazoCrece                           |     19 |
-| \#RechazoTransversal                     |     19 |
-| \#ChileVamosTraidores                    |     15 |
-| \#NoEsPorNosotrasEsPorEllos              |     15 |
-| \#QuintoRetiroUrgente                    |     15 |
-| \#VamosPorSextoRetiro                    |     15 |
-| \#ApagaEl13                              |     14 |
-| \#Apruebo                                |     14 |
-| \#Iquique                                |     14 |
-| \#POSTNATALDEEMERGENCIAENALERTASANITARIA |     14 |
+| \#Rechazo                                |     52 |
+| \#Apruebo4deSeptiembre                   |     40 |
+| \#SextoRetiro                            |     40 |
+| \#ContigoCHV                             |     35 |
+| \#Cadem                                  |     32 |
+| \#AprueboDeSalida                        |     31 |
+| \#RechazoSalvaChile                      |     30 |
+| \#Apruebo                                |     29 |
+| \#RechazoElMamarrachoComunista           |     29 |
+| \#RechazoEl4deSeptiembre                 |     26 |
+| \#MuchoGustoMega                         |     24 |
+| \#Postnataldeemergencia                  |     23 |
+| \#RechazoLaDestruccionDeChile            |     23 |
+| \#RechazoTransversal                     |     23 |
+| \#postnataldeemergenciaenalertasanitaria |     19 |
+| \#GobiernoDeInutiles                     |     17 |
+| \#NoEsPorNosotrasEsPorEllos              |     17 |
+| \#CNNPrime                               |     16 |
+| \#PautaLibre                             |     16 |
+| \#QuintoRetiroUrgente                    |     16 |
 
 # Cuentas
 
