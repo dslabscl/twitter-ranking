@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-23 02:02:32
+Chile. Fecha del reporte: 2022-05-24 02:10:43
 
     ## raw(0)
     ## raw(0)
@@ -16,25 +16,25 @@ Chile. Fecha del reporte: 2022-05-23 02:02:32
 | datos                                    | Cuenta |
 |:-----------------------------------------|-------:|
 | \#Rechazo                                |     52 |
-| \#Apruebo4deSeptiembre                   |     40 |
-| \#SextoRetiro                            |     40 |
-| \#ContigoCHV                             |     35 |
-| \#Cadem                                  |     32 |
-| \#AprueboDeSalida                        |     31 |
-| \#RechazoSalvaChile                      |     30 |
-| \#Apruebo                                |     29 |
-| \#RechazoElMamarrachoComunista           |     29 |
-| \#RechazoEl4deSeptiembre                 |     26 |
-| \#MuchoGustoMega                         |     24 |
+| \#SextoRetiro                            |     48 |
+| \#ContigoCHV                             |     45 |
+| \#Apruebo4deSeptiembre                   |     32 |
+| \#sextoretiro                            |     29 |
+| \#MuchoGustoMega                         |     28 |
+| \#RechazoEl4deSeptiembre                 |     28 |
+| \#Chile                                  |     25 |
+| \#CNNPrime                               |     25 |
 | \#Postnataldeemergencia                  |     23 |
-| \#RechazoLaDestruccionDeChile            |     23 |
-| \#RechazoTransversal                     |     23 |
+| \#AprueboDeSalida                        |     22 |
+| \#QuintoRetiro                           |     21 |
+| \#RechazoSalvaChile                      |     20 |
+| \#RechazoTransversal                     |     20 |
 | \#postnataldeemergenciaenalertasanitaria |     19 |
-| \#GobiernoDeInutiles                     |     17 |
+| \#SiempreEsHoy                           |     18 |
+| \#Apruebo                                |     17 |
+| \#ConvencionConstitucional               |     17 |
 | \#NoEsPorNosotrasEsPorEllos              |     17 |
-| \#CNNPrime                               |     16 |
-| \#PautaLibre                             |     16 |
-| \#QuintoRetiroUrgente                    |     16 |
+| \#AprueboNuevaConstitucion               |     16 |
 
 # Cuentas
 
