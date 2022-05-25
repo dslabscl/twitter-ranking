@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-24 02:10:43
+Chile. Fecha del reporte: 2022-05-25 02:08:21
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-24 02:10:43
 
 # Hashtags más populares
 
-| datos                                    | Cuenta |
-|:-----------------------------------------|-------:|
-| \#Rechazo                                |     52 |
-| \#SextoRetiro                            |     48 |
-| \#ContigoCHV                             |     45 |
-| \#Apruebo4deSeptiembre                   |     32 |
-| \#sextoretiro                            |     29 |
-| \#MuchoGustoMega                         |     28 |
-| \#RechazoEl4deSeptiembre                 |     28 |
-| \#Chile                                  |     25 |
-| \#CNNPrime                               |     25 |
-| \#Postnataldeemergencia                  |     23 |
-| \#AprueboDeSalida                        |     22 |
-| \#QuintoRetiro                           |     21 |
-| \#RechazoSalvaChile                      |     20 |
-| \#RechazoTransversal                     |     20 |
-| \#postnataldeemergenciaenalertasanitaria |     19 |
-| \#SiempreEsHoy                           |     18 |
-| \#Apruebo                                |     17 |
-| \#ConvencionConstitucional               |     17 |
-| \#NoEsPorNosotrasEsPorEllos              |     17 |
-| \#AprueboNuevaConstitucion               |     16 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| \#sextoretiro              |    136 |
+| \#QuintoRetiro             |     71 |
+| \#ConvencionConstitucional |     68 |
+| \#YoAprueboDeSalida        |     67 |
+| \#QuintoRetiroOALaCalle    |     66 |
+| \#yoapruebo                |     65 |
+| \#datoquetedoy             |     64 |
+| \#QuieroMi100xCiento       |     64 |
+| \#QuintoRetiroAhora        |     64 |
+| \#senadores                |     64 |
+| \#ServelNoEsConfiable      |     64 |
+| \#SextoRetiro              |     57 |
+| \#RenunciaIzkia            |     46 |
+| \#RechazoEl4deSeptiembre   |     44 |
+| \#ContigoCHV               |     38 |
+| \#MuchoGustoMega           |     36 |
+| \#Apruebo4deSeptiembre     |     30 |
+| \#Rechazo                  |     30 |
+| \#Chile                    |     27 |
+| \#GobiernoDeInutiles       |     24 |
 
 # Cuentas
 
