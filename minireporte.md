@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-25 02:08:21
+Chile. Fecha del reporte: 2022-05-26 02:16:55
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-25 02:08:21
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#sextoretiro              |    136 |
-| \#QuintoRetiro             |     71 |
-| \#ConvencionConstitucional |     68 |
-| \#YoAprueboDeSalida        |     67 |
-| \#QuintoRetiroOALaCalle    |     66 |
-| \#yoapruebo                |     65 |
-| \#datoquetedoy             |     64 |
-| \#QuieroMi100xCiento       |     64 |
-| \#QuintoRetiroAhora        |     64 |
-| \#senadores                |     64 |
-| \#ServelNoEsConfiable      |     64 |
-| \#SextoRetiro              |     57 |
-| \#RenunciaIzkia            |     46 |
-| \#RechazoEl4deSeptiembre   |     44 |
-| \#ContigoCHV               |     38 |
-| \#MuchoGustoMega           |     36 |
-| \#Apruebo4deSeptiembre     |     30 |
-| \#Rechazo                  |     30 |
-| \#Chile                    |     27 |
-| \#GobiernoDeInutiles       |     24 |
+| datos                                    | Cuenta |
+|:-----------------------------------------|-------:|
+| \#NoEsPorNosotrasEsPorEllos              |    195 |
+| \#postnataldeemergenciaenalertasanitaria |    175 |
+| \#Postnataldeemergencia                  |     86 |
+| \#sextoretiro                            |     85 |
+| \#QuieroMi100xCiento                     |     70 |
+| \#PostNataldeemergencia                  |     55 |
+| \#RECHAZO                                |     51 |
+| \#lamaternidadescastigada                |     43 |
+| \#RechazoEl4deSeptiembre                 |     39 |
+| \#NoAlCOMUNISMO                          |     36 |
+| \#RechazoSalvaChile                      |     36 |
+| \#BoricEsTuCulpa                         |     35 |
+| \#Apruebo4deSeptiembre                   |     34 |
+| \#POSTNATALDEEMERGENCIAENALERTASANITARIA |     31 |
+| \#Rechazo                                |     28 |
+| \#SextoRetiro                            |     28 |
+| \#RechazoCrece                           |     26 |
+| \#RechazoLaDestruccionDeChile            |     23 |
+| \#AprueboDeSalida                        |     22 |
+| \#SiempreEsHoy                           |     22 |
 
 # Cuentas
 
