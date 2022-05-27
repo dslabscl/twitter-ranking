@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-26 02:16:55
+Chile. Fecha del reporte: 2022-05-27 02:08:39
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-05-26 02:16:55
 
 | datos                                    | Cuenta |
 |:-----------------------------------------|-------:|
-| \#NoEsPorNosotrasEsPorEllos              |    195 |
-| \#postnataldeemergenciaenalertasanitaria |    175 |
-| \#Postnataldeemergencia                  |     86 |
-| \#sextoretiro                            |     85 |
-| \#QuieroMi100xCiento                     |     70 |
-| \#PostNataldeemergencia                  |     55 |
-| \#RECHAZO                                |     51 |
-| \#lamaternidadescastigada                |     43 |
-| \#RechazoEl4deSeptiembre                 |     39 |
-| \#NoAlCOMUNISMO                          |     36 |
-| \#RechazoSalvaChile                      |     36 |
-| \#BoricEsTuCulpa                         |     35 |
-| \#Apruebo4deSeptiembre                   |     34 |
-| \#POSTNATALDEEMERGENCIAENALERTASANITARIA |     31 |
-| \#Rechazo                                |     28 |
-| \#SextoRetiro                            |     28 |
-| \#RechazoCrece                           |     26 |
-| \#RechazoLaDestruccionDeChile            |     23 |
-| \#AprueboDeSalida                        |     22 |
-| \#SiempreEsHoy                           |     22 |
+| \#postnataldeemergencia                  |    300 |
+| \#postnataldeemergenciaenalertasanitaria |    297 |
+| \#NoEsPorNosotrasEsPorEllos              |    261 |
+| \#noespornosotrasesporellos              |    102 |
+| \#sextoretiro                            |     89 |
+| \#ConvencionConstitucional               |     66 |
+| \#QuintoRetiro                           |     64 |
+| \#ServelNoEsConfiable                    |     61 |
+| \#QuintoRetiroOALaCalle                  |     60 |
+| \#SextoRetiro                            |     59 |
+| \#yoapruebo                              |     59 |
+| \#YoAprueboDeSalida                      |     59 |
+| \#datoquetedoy                           |     58 |
+| \#QuintoRetiroAhora                      |     58 |
+| \#senadores                              |     58 |
+| \#PostNataldeemergencia                  |     53 |
+| \#lamaternidadescastigada                |     46 |
+| \#RechazoSalvaChile                      |     45 |
+| \#RechazoCrece                           |     44 |
+| \#fueraONU                               |     36 |
 
 # Cuentas
 
