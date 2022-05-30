@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-27 02:08:39
+Chile. Fecha del reporte: 2022-05-30 02:20:49
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-05-27 02:08:39
 
 | datos                                    | Cuenta |
 |:-----------------------------------------|-------:|
-| \#postnataldeemergencia                  |    300 |
-| \#postnataldeemergenciaenalertasanitaria |    297 |
-| \#NoEsPorNosotrasEsPorEllos              |    261 |
-| \#noespornosotrasesporellos              |    102 |
-| \#sextoretiro                            |     89 |
-| \#ConvencionConstitucional               |     66 |
-| \#QuintoRetiro                           |     64 |
-| \#ServelNoEsConfiable                    |     61 |
-| \#QuintoRetiroOALaCalle                  |     60 |
-| \#SextoRetiro                            |     59 |
-| \#yoapruebo                              |     59 |
-| \#YoAprueboDeSalida                      |     59 |
-| \#datoquetedoy                           |     58 |
-| \#QuintoRetiroAhora                      |     58 |
-| \#senadores                              |     58 |
-| \#PostNataldeemergencia                  |     53 |
-| \#lamaternidadescastigada                |     46 |
-| \#RechazoSalvaChile                      |     45 |
-| \#RechazoCrece                           |     44 |
-| \#fueraONU                               |     36 |
+| \#sextoretiro                            |    193 |
+| \#QuieroMi100xCiento                     |    153 |
+| \#postnataldeemergencia                  |    101 |
+| \#SextoRetiro                            |     95 |
+| \#noespornosotrasesporellos              |     50 |
+| \#MesaCentral                            |     49 |
+| \#AprueboDeSalida                        |     45 |
+| \#RechazoSalvaChile                      |     43 |
+| \#Apruebo4deSeptiembre                   |     42 |
+| \#Rechazo                                |     42 |
+| \#SiempreEsHoy                           |     38 |
+| \#postnataldeemergenciaenalertasanitaria |     37 |
+| \#ChildrenOfTigray                       |     36 |
+| \#EndTigraySiege                         |     36 |
+| \#NoEsPorNosotrasEsPorEllos              |     36 |
+| \#RechazoEl4deSeptiembre                 |     34 |
+| \#Apruebo                                |     25 |
+| \#curico                                 |     25 |
+| \#PulsoCiudadano                         |     25 |
+| \#RechazoElMamarrachoComunista           |     25 |
 
 # Cuentas
 
