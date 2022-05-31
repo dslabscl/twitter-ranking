@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-30 02:20:49
+Chile. Fecha del reporte: 2022-05-31 02:12:21
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-05-30 02:20:49
 
 # Hashtags más populares
 
-| datos                                    | Cuenta |
-|:-----------------------------------------|-------:|
-| \#sextoretiro                            |    193 |
-| \#QuieroMi100xCiento                     |    153 |
-| \#postnataldeemergencia                  |    101 |
-| \#SextoRetiro                            |     95 |
-| \#noespornosotrasesporellos              |     50 |
-| \#MesaCentral                            |     49 |
-| \#AprueboDeSalida                        |     45 |
-| \#RechazoSalvaChile                      |     43 |
-| \#Apruebo4deSeptiembre                   |     42 |
-| \#Rechazo                                |     42 |
-| \#SiempreEsHoy                           |     38 |
-| \#postnataldeemergenciaenalertasanitaria |     37 |
-| \#ChildrenOfTigray                       |     36 |
-| \#EndTigraySiege                         |     36 |
-| \#NoEsPorNosotrasEsPorEllos              |     36 |
-| \#RechazoEl4deSeptiembre                 |     34 |
-| \#Apruebo                                |     25 |
-| \#curico                                 |     25 |
-| \#PulsoCiudadano                         |     25 |
-| \#RechazoElMamarrachoComunista           |     25 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#postnataldeemergencia        |    129 |
+| \#SextoRetiro                  |     96 |
+| \#Postnataldeemergencia        |     53 |
+| \#Apruebo4deSeptiembre         |     50 |
+| \#RechazoSalvaChile            |     48 |
+| \#Rechazo                      |     35 |
+| \#AprueboDeSalida              |     34 |
+| \#sextoretiro                  |     32 |
+| \#SiempreEsHoy                 |     32 |
+| \#NoEsPorNosotrasEsPorEllos    |     31 |
+| \#YaNoConfioEnServel           |     29 |
+| \#ContigoCHV                   |     27 |
+| \#RechazoEl4deSeptiembre       |     27 |
+| \#RechazoCrece                 |     26 |
+| \#RechazoLaDestruccionDeChile  |     26 |
+| \#RECHAZO                      |     24 |
+| \#Chile                        |     23 |
+| \#EndTigraySiege               |     22 |
+| \#MesaCentral                  |     22 |
+| \#RechazoElMamarrachoComunista |     22 |
 
 # Cuentas
 
