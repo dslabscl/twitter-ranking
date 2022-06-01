@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-05-31 02:12:21
+Chile. Fecha del reporte: 2022-06-01 02:32:11
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-05-31 02:12:21
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#postnataldeemergencia        |    129 |
-| \#SextoRetiro                  |     96 |
-| \#Postnataldeemergencia        |     53 |
-| \#Apruebo4deSeptiembre         |     50 |
-| \#RechazoSalvaChile            |     48 |
-| \#Rechazo                      |     35 |
-| \#AprueboDeSalida              |     34 |
-| \#sextoretiro                  |     32 |
-| \#SiempreEsHoy                 |     32 |
-| \#NoEsPorNosotrasEsPorEllos    |     31 |
-| \#YaNoConfioEnServel           |     29 |
-| \#ContigoCHV                   |     27 |
-| \#RechazoEl4deSeptiembre       |     27 |
-| \#RechazoCrece                 |     26 |
-| \#RechazoLaDestruccionDeChile  |     26 |
-| \#RECHAZO                      |     24 |
-| \#Chile                        |     23 |
-| \#EndTigraySiege               |     22 |
-| \#MesaCentral                  |     22 |
-| \#RechazoElMamarrachoComunista |     22 |
+| \#sextoretiro                  |    129 |
+| \#QuieroMi100xCiento           |    102 |
+| \#SextoRetiro                  |     75 |
+| \#PostnatalDeEmergencia        |     64 |
+| \#RechazoEl4deSeptiembre       |     39 |
+| \#postnataldeemergencia        |     38 |
+| \#RechazoSalvaChile            |     36 |
+| \#Rechazo                      |     30 |
+| \#Apruebo4deSeptiembre         |     28 |
+| \#ChileApoyaALaArmada          |     27 |
+| \#RechazoLaDestruccionDeChile  |     27 |
+| \#SiempreEsHoy                 |     26 |
+| \#CuentaPública                |     21 |
+| \#RechazoElMamarrachoComunista |     21 |
+| \#AprueboDeSalida              |     19 |
+| \#LoQueFaltaba                 |     19 |
+| \#Apruebo                      |     18 |
+| \#AprueboPlebicitoDeSalida     |     18 |
+| \#AprueboNuevaConstitucion     |     16 |
+| \#HoyEsNoticiaCNN              |     16 |
 
 # Cuentas
 
