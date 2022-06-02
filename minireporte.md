@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-01 02:32:11
+Chile. Fecha del reporte: 2022-06-02 02:12:40
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-06-01 02:32:11
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#sextoretiro                  |    129 |
-| \#QuieroMi100xCiento           |    102 |
-| \#SextoRetiro                  |     75 |
-| \#PostnatalDeEmergencia        |     64 |
-| \#RechazoEl4deSeptiembre       |     39 |
-| \#postnataldeemergencia        |     38 |
-| \#RechazoSalvaChile            |     36 |
-| \#Rechazo                      |     30 |
-| \#Apruebo4deSeptiembre         |     28 |
-| \#ChileApoyaALaArmada          |     27 |
-| \#RechazoLaDestruccionDeChile  |     27 |
-| \#SiempreEsHoy                 |     26 |
-| \#CuentaPública                |     21 |
-| \#RechazoElMamarrachoComunista |     21 |
+| \#SextoRetiro                  |     57 |
+| \#sextoretiro                  |     54 |
+| \#MentiraPublica               |     42 |
+| \#cuentapublica2022            |     40 |
+| \#BoricYoTeApoyo               |     36 |
+| \#CuentaPública2022            |     35 |
+| \#RechazoEl4deSeptiembre       |     35 |
+| \#GabrielYoTeApoyo             |     34 |
+| \#QuieroMi100xCiento           |     34 |
+| \#PostnatalDeEmergencia        |     31 |
+| \#CuentaPublica                |     29 |
+| \#Rechazo                      |     28 |
+| \#CuentaPública                |     27 |
+| \#RechazoElMamarrachoComunista |     25 |
+| \#RechazoSalvaChile            |     24 |
+| \#ElPeorGobiernoDeLaHistoria   |     23 |
+| \#SiempreEsHoy                 |     23 |
+| \#Apruebo4deSeptiembre         |     22 |
+| \#RechazoLaDestruccionDeChile  |     22 |
 | \#AprueboDeSalida              |     19 |
-| \#LoQueFaltaba                 |     19 |
-| \#Apruebo                      |     18 |
-| \#AprueboPlebicitoDeSalida     |     18 |
-| \#AprueboNuevaConstitucion     |     16 |
-| \#HoyEsNoticiaCNN              |     16 |
 
 # Cuentas
 
