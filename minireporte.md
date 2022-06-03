@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-02 02:12:40
+Chile. Fecha del reporte: 2022-06-03 01:56:59
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-06-02 02:12:40
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#SextoRetiro                  |     57 |
-| \#sextoretiro                  |     54 |
-| \#MentiraPublica               |     42 |
-| \#cuentapublica2022            |     40 |
-| \#BoricYoTeApoyo               |     36 |
-| \#CuentaPública2022            |     35 |
-| \#RechazoEl4deSeptiembre       |     35 |
+| \#PostnatalDeEmergencia        |    157 |
+| \#EndTigraySiege               |     64 |
+| \#boric                        |     62 |
+| \#ChildrenOfTigray             |     58 |
+| \#RechazoEl4deSeptiembre       |     57 |
+| \#SextoRetiro                  |     50 |
+| \#Boric                        |     40 |
+| \#BoricYoTeApoyo               |     34 |
 | \#GabrielYoTeApoyo             |     34 |
-| \#QuieroMi100xCiento           |     34 |
-| \#PostnatalDeEmergencia        |     31 |
-| \#CuentaPublica                |     29 |
-| \#Rechazo                      |     28 |
-| \#CuentaPública                |     27 |
-| \#RechazoElMamarrachoComunista |     25 |
-| \#RechazoSalvaChile            |     24 |
-| \#ElPeorGobiernoDeLaHistoria   |     23 |
+| \#RechazoElMamarrachoComunista |     34 |
+| \#Apruebo4deSeptiembre         |     30 |
+| \#CuentaPública2022            |     29 |
+| \#MuchoGustoMega               |     26 |
+| \#Rechazo                      |     26 |
+| \#RechazoSalvaChile            |     26 |
+| \#sextoretiro                  |     25 |
+| \#RechazoLaDestruccionDeChile  |     24 |
+| \#CuentaPública                |     23 |
+| \#RechazoCrece                 |     23 |
 | \#SiempreEsHoy                 |     23 |
-| \#Apruebo4deSeptiembre         |     22 |
-| \#RechazoLaDestruccionDeChile  |     22 |
-| \#AprueboDeSalida              |     19 |
 
 # Cuentas
 
