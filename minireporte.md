@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-03 01:56:59
+Chile. Fecha del reporte: 2022-06-06 02:08:20
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-06-03 01:56:59
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#PostnatalDeEmergencia        |    157 |
-| \#EndTigraySiege               |     64 |
-| \#boric                        |     62 |
-| \#ChildrenOfTigray             |     58 |
-| \#RechazoEl4deSeptiembre       |     57 |
-| \#SextoRetiro                  |     50 |
-| \#Boric                        |     40 |
-| \#BoricYoTeApoyo               |     34 |
-| \#GabrielYoTeApoyo             |     34 |
-| \#RechazoElMamarrachoComunista |     34 |
-| \#Apruebo4deSeptiembre         |     30 |
-| \#CuentaPública2022            |     29 |
-| \#MuchoGustoMega               |     26 |
-| \#Rechazo                      |     26 |
-| \#RechazoSalvaChile            |     26 |
-| \#sextoretiro                  |     25 |
-| \#RechazoLaDestruccionDeChile  |     24 |
-| \#CuentaPública                |     23 |
-| \#RechazoCrece                 |     23 |
-| \#SiempreEsHoy                 |     23 |
+| \#RechazoEl4deSeptiembre       |     83 |
+| \#RechazoElMamarrachoComunista |     71 |
+| \#SextoRetiro                  |     71 |
+| \#RechazoElPlurimamarracho     |     46 |
+| \#EndTigraySiege               |     45 |
+| \#AprueboDeSalida              |     43 |
+| \#Rechazo                      |     40 |
+| \#MesaCentral                  |     35 |
+| \#AprueboPlebicitoDeSalida     |     32 |
+| \#alerta                       |     30 |
+| \#SiempreEsHoy                 |     30 |
+| \#Apruebo                      |     29 |
+| \#sextoretiro                  |     28 |
+| \#RechazoGanaEl4deSeptiembre   |     27 |
+| \#postnataldeemergencia        |     26 |
+| \#RechazoSalvaChile            |     25 |
+| \#ChildrenOfTigray             |     23 |
+| \#CuentaPública2022            |     23 |
+| \#MuchoGustoMega               |     22 |
+| \#SEXTORETIRO                  |     22 |
 
 # Cuentas
 
