@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-06 02:08:20
+Chile. Fecha del reporte: 2022-06-07 02:05:30
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-06-06 02:08:20
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#RechazoEl4deSeptiembre       |     83 |
-| \#RechazoElMamarrachoComunista |     71 |
-| \#SextoRetiro                  |     71 |
-| \#RechazoElPlurimamarracho     |     46 |
-| \#EndTigraySiege               |     45 |
-| \#AprueboDeSalida              |     43 |
-| \#Rechazo                      |     40 |
-| \#MesaCentral                  |     35 |
-| \#AprueboPlebicitoDeSalida     |     32 |
-| \#alerta                       |     30 |
-| \#SiempreEsHoy                 |     30 |
-| \#Apruebo                      |     29 |
-| \#sextoretiro                  |     28 |
-| \#RechazoGanaEl4deSeptiembre   |     27 |
-| \#postnataldeemergencia        |     26 |
-| \#RechazoSalvaChile            |     25 |
-| \#ChildrenOfTigray             |     23 |
-| \#CuentaPública2022            |     23 |
-| \#MuchoGustoMega               |     22 |
-| \#SEXTORETIRO                  |     22 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#digamosNO                   |     65 |
+| \#Rechazo                     |     46 |
+| \#SextoRetiro                 |     46 |
+| \#aprueboEl4deSeptiembre      |     39 |
+| \#ContigoCHV                  |     38 |
+| \#Apruebo                     |     36 |
+| \#AprueboPlebicitoDeSalida    |     32 |
+| \#MesaCentral                 |     31 |
+| \#SiempreEsHoy                |     29 |
+| \#RechazoEl4deSeptiembre      |     26 |
+| \#Hypocrisy                   |     24 |
+| \#sextoretiro                 |     24 |
+| \#StopSponsoringOurOppression |     24 |
+| \#MuchoGustoMega              |     23 |
+| \#Apruebo4deSeptiembre        |     21 |
+| \#CuentaPública2022           |     21 |
+| \#AprueboDeSalida             |     20 |
+| \#Chile                       |     18 |
+| \#ElAguaSeDefiende            |     18 |
+| \#InformaciónEsencial         |     13 |
 
 # Cuentas
 
