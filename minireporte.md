@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-07 02:05:30
+Chile. Fecha del reporte: 2022-06-08 02:03:59
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-06-07 02:05:30
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#digamosNO                   |     65 |
-| \#Rechazo                     |     46 |
-| \#SextoRetiro                 |     46 |
-| \#aprueboEl4deSeptiembre      |     39 |
-| \#ContigoCHV                  |     38 |
-| \#Apruebo                     |     36 |
-| \#AprueboPlebicitoDeSalida    |     32 |
-| \#MesaCentral                 |     31 |
-| \#SiempreEsHoy                |     29 |
-| \#RechazoEl4deSeptiembre      |     26 |
-| \#Hypocrisy                   |     24 |
-| \#sextoretiro                 |     24 |
-| \#StopSponsoringOurOppression |     24 |
-| \#MuchoGustoMega              |     23 |
-| \#Apruebo4deSeptiembre        |     21 |
-| \#CuentaPública2022           |     21 |
-| \#AprueboDeSalida             |     20 |
-| \#Chile                       |     18 |
-| \#ElAguaSeDefiende            |     18 |
-| \#InformaciónEsencial         |     13 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| \#SextoRetiro              |    259 |
+| \#QuiroMi100Por100         |    217 |
+| \#aprueboEl4deSeptiembre   |     83 |
+| \#digamosNO                |     62 |
+| \#Rechazo                  |     62 |
+| \#ChaoPase                 |     51 |
+| \#ContigoCHV               |     39 |
+| \#ElAguaSeDefiende         |     38 |
+| \#StopStarvingTigray       |     35 |
+| \#TigrayGenocide           |     32 |
+| \#Apruebo                  |     31 |
+| \#AprueboPlebicitoDeSalida |     31 |
+| \#chaopase                 |     31 |
+| \#SiempreEsHoy             |     28 |
+| \#AprueboDeSalida          |     25 |
+| \#RechazoEl4deSeptiembre   |     25 |
+| \#MuchoGustoMega           |     24 |
+| \#Chile                    |     21 |
+| \#Apruebo4deSeptiembre     |     20 |
+| \#CuentaPública2022        |     20 |
 
 # Cuentas
 
