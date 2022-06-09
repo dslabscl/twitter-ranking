@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-08 02:03:59
+Chile. Fecha del reporte: 2022-06-09 02:05:35
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-06-08 02:03:59
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#SextoRetiro              |    259 |
-| \#QuiroMi100Por100         |    217 |
-| \#aprueboEl4deSeptiembre   |     83 |
-| \#digamosNO                |     62 |
-| \#Rechazo                  |     62 |
-| \#ChaoPase                 |     51 |
-| \#ContigoCHV               |     39 |
-| \#ElAguaSeDefiende         |     38 |
-| \#StopStarvingTigray       |     35 |
-| \#TigrayGenocide           |     32 |
-| \#Apruebo                  |     31 |
-| \#AprueboPlebicitoDeSalida |     31 |
-| \#chaopase                 |     31 |
-| \#SiempreEsHoy             |     28 |
-| \#AprueboDeSalida          |     25 |
-| \#RechazoEl4deSeptiembre   |     25 |
-| \#MuchoGustoMega           |     24 |
-| \#Chile                    |     21 |
-| \#Apruebo4deSeptiembre     |     20 |
-| \#CuentaPública2022        |     20 |
+| datos                       | Cuenta |
+|:----------------------------|-------:|
+| \#SextoRetiro               |    139 |
+| \#QuiroMi100Por100          |     97 |
+| \#aprueboEl4deSeptiembre    |     69 |
+| \#digamosNO                 |     59 |
+| \#EndTigraySiege            |     49 |
+| \#PostnatalDeEmergencia     |     47 |
+| \#sextoretiro               |     45 |
+| \#ChaoPase                  |     38 |
+| \#NoEsPorNosotrasEsPorEllos |     37 |
+| \#Postnataldeemergencia     |     36 |
+| \#Apruebo                   |     35 |
+| \#ChildrenOfTigray          |     33 |
+| \#Rechazo                   |     32 |
+| \#chaopase                  |     31 |
+| \#SiempreEsHoy              |     31 |
+| \#ContigoCHV                |     30 |
+| \#RechazoEl4deSeptiembre    |     30 |
+| \#AprueboPlebicitoDeSalida  |     28 |
+| \#SEXTORETIRO               |     25 |
+| \#MuchoGustoMega            |     22 |
 
 # Cuentas
 
