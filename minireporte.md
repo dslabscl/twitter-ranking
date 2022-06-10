@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-09 02:05:35
+Chile. Fecha del reporte: 2022-06-10 02:10:46
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-06-09 02:05:35
 
 # Hashtags más populares
 
-| datos                       | Cuenta |
-|:----------------------------|-------:|
-| \#SextoRetiro               |    139 |
-| \#QuiroMi100Por100          |     97 |
-| \#aprueboEl4deSeptiembre    |     69 |
-| \#digamosNO                 |     59 |
-| \#EndTigraySiege            |     49 |
-| \#PostnatalDeEmergencia     |     47 |
-| \#sextoretiro               |     45 |
-| \#ChaoPase                  |     38 |
-| \#NoEsPorNosotrasEsPorEllos |     37 |
-| \#Postnataldeemergencia     |     36 |
-| \#Apruebo                   |     35 |
-| \#ChildrenOfTigray          |     33 |
-| \#Rechazo                   |     32 |
-| \#chaopase                  |     31 |
-| \#SiempreEsHoy              |     31 |
-| \#ContigoCHV                |     30 |
-| \#RechazoEl4deSeptiembre    |     30 |
-| \#AprueboPlebicitoDeSalida  |     28 |
-| \#SEXTORETIRO               |     25 |
-| \#MuchoGustoMega            |     22 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| \#PostnatalDeEmergencia    |     95 |
+| \#SextoRetiro              |     89 |
+| \#sextoretiro              |     74 |
+| \#Rechazo                  |     71 |
+| \#Apruebo                  |     65 |
+| \#aprueboEl4deSeptiembre   |     41 |
+| \#datoquetedoy             |     40 |
+| \#ChaoPase                 |     34 |
+| \#digamosNO                |     34 |
+| \#RechazoEl4deSeptiembre   |     34 |
+| \#EncuestaCEP              |     33 |
+| \#Despinochetizate         |     32 |
+| \#chaopase                 |     31 |
+| \#SiempreEsHoy             |     30 |
+| \#MuchoGustoMega           |     26 |
+| \#AprueboDeSalida          |     25 |
+| \#ContigoCHV               |     24 |
+| \#AprueboPlebicitoDeSalida |     23 |
+| \#ChileVamosEsUnaMafia     |     23 |
+| \#Chile                    |     21 |
 
 # Cuentas
 
