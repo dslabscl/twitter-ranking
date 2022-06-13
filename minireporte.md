@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-10 02:10:46
+Chile. Fecha del reporte: 2022-06-13 02:23:01
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-06-10 02:10:46
 
 | datos                      | Cuenta |
 |:---------------------------|-------:|
-| \#PostnatalDeEmergencia    |     95 |
-| \#SextoRetiro              |     89 |
-| \#sextoretiro              |     74 |
-| \#Rechazo                  |     71 |
-| \#Apruebo                  |     65 |
-| \#aprueboEl4deSeptiembre   |     41 |
-| \#datoquetedoy             |     40 |
-| \#ChaoPase                 |     34 |
-| \#digamosNO                |     34 |
-| \#RechazoEl4deSeptiembre   |     34 |
-| \#EncuestaCEP              |     33 |
-| \#Despinochetizate         |     32 |
-| \#chaopase                 |     31 |
-| \#SiempreEsHoy             |     30 |
-| \#MuchoGustoMega           |     26 |
-| \#AprueboDeSalida          |     25 |
-| \#ContigoCHV               |     24 |
-| \#AprueboPlebicitoDeSalida |     23 |
-| \#ChileVamosEsUnaMafia     |     23 |
-| \#Chile                    |     21 |
+| \#Rechazo                  |     64 |
+| \#SextoRetiro              |     53 |
+| \#Apruebo                  |     52 |
+| \#RechazoEl4deSeptiembre   |     41 |
+| \#Apruebo4deSeptiembre     |     39 |
+| \#SiempreEsHoy             |     38 |
+| \#MesaCentral              |     34 |
+| \#ChaoPase                 |     32 |
+| \#digamosNO                |     31 |
+| \#chaopase                 |     29 |
+| \#aprueboEl4deSeptiembre   |     28 |
+| \#sextoretiro              |     27 |
+| \#AprueboDeSalida          |     24 |
+| \#MonicaRinconMiente       |     24 |
+| \#MuchoGustoMega           |     22 |
+| \#AprueboPlebicitoDeSalida |     21 |
+| \#postnataldeemergencia    |     21 |
+| \#AprueboNuevaConstitucion |     20 |
+| \#datoquetedoy             |     19 |
+| \#EndTigraySiege           |     19 |
 
 # Cuentas
 
