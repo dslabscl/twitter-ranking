@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-13 02:23:01
+Chile. Fecha del reporte: 2022-06-14 02:24:03
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-06-13 02:23:01
 
 | datos                      | Cuenta |
 |:---------------------------|-------:|
-| \#Rechazo                  |     64 |
-| \#SextoRetiro              |     53 |
-| \#Apruebo                  |     52 |
-| \#RechazoEl4deSeptiembre   |     41 |
-| \#Apruebo4deSeptiembre     |     39 |
-| \#SiempreEsHoy             |     38 |
-| \#MesaCentral              |     34 |
-| \#ChaoPase                 |     32 |
-| \#digamosNO                |     31 |
-| \#chaopase                 |     29 |
-| \#aprueboEl4deSeptiembre   |     28 |
-| \#sextoretiro              |     27 |
-| \#AprueboDeSalida          |     24 |
-| \#MonicaRinconMiente       |     24 |
-| \#MuchoGustoMega           |     22 |
-| \#AprueboPlebicitoDeSalida |     21 |
-| \#postnataldeemergencia    |     21 |
-| \#AprueboNuevaConstitucion |     20 |
-| \#datoquetedoy             |     19 |
-| \#EndTigraySiege           |     19 |
+| \#Rechazo                  |     75 |
+| \#SextoRetiro              |     58 |
+| \#Apruebo                  |     56 |
+| \#sextoretiro              |     52 |
+| \#Apruebo4deSeptiembre     |     44 |
+| \#RechazoEl4deSeptiembre   |     43 |
+| \#SiempreEsHoy             |     39 |
+| \#AprueboDeSalida          |     29 |
+| \#digamosNO                |     29 |
+| \#ChaoPase                 |     28 |
+| \#GobiernoDeInutiles       |     28 |
+| \#rechazo                  |     28 |
+| \#chaopase                 |     27 |
+| \#Chile                    |     24 |
+| \#AprueboNuevaConstitucion |     21 |
+| \#MeganoticiasActualiza    |     21 |
+| \#aprueboEl4deSeptiembre   |     20 |
+| \#AprueboPlebicitoDeSalida |     20 |
+| \#RechazoElPlurimamarracho |     20 |
+| \#RechazoSalvaChile        |     20 |
 
 # Cuentas
 
