@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-14 02:24:03
+Chile. Fecha del reporte: 2022-06-16 02:09:21
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-06-14 02:24:03
 
 | datos                      | Cuenta |
 |:---------------------------|-------:|
-| \#Rechazo                  |     75 |
-| \#SextoRetiro              |     58 |
-| \#Apruebo                  |     56 |
-| \#sextoretiro              |     52 |
-| \#Apruebo4deSeptiembre     |     44 |
-| \#RechazoEl4deSeptiembre   |     43 |
-| \#SiempreEsHoy             |     39 |
-| \#AprueboDeSalida          |     29 |
+| \#PostnatalDeEmergencia    |    110 |
+| \#Rechazo                  |     70 |
+| \#SextoRetiro              |     53 |
+| \#sextoretiro              |     39 |
+| \#Apruebo                  |     36 |
+| \#ContigoCHV               |     36 |
+| \#SiempreEsHoy             |     36 |
+| \#Apruebo4deSeptiembre     |     33 |
+| \#MuchoGustoMega           |     33 |
+| \#AprueboDeSalida          |     32 |
+| \#RechazoXChile            |     31 |
+| \#RechazoEl4deSeptiembre   |     30 |
 | \#digamosNO                |     29 |
-| \#ChaoPase                 |     28 |
-| \#GobiernoDeInutiles       |     28 |
-| \#rechazo                  |     28 |
-| \#chaopase                 |     27 |
-| \#Chile                    |     24 |
-| \#AprueboNuevaConstitucion |     21 |
-| \#MeganoticiasActualiza    |     21 |
-| \#aprueboEl4deSeptiembre   |     20 |
-| \#AprueboPlebicitoDeSalida |     20 |
-| \#RechazoElPlurimamarracho |     20 |
-| \#RechazoSalvaChile        |     20 |
+| \#PepeKasMillonario        |     27 |
+| \#postnataldeemergencia    |     27 |
+| \#AprueboNuevaConstitucion |     25 |
+| \#chaopase                 |     24 |
+| \#aprueboEl4deSeptiembre   |     23 |
+| \#Chile                    |     23 |
+| \#ChaoPase                 |     19 |
 
 # Cuentas
 
