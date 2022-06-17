@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-16 02:09:21
+Chile. Fecha del reporte: 2022-06-17 02:11:04
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-06-16 02:09:21
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#PostnatalDeEmergencia    |    110 |
-| \#Rechazo                  |     70 |
-| \#SextoRetiro              |     53 |
-| \#sextoretiro              |     39 |
-| \#Apruebo                  |     36 |
-| \#ContigoCHV               |     36 |
-| \#SiempreEsHoy             |     36 |
-| \#Apruebo4deSeptiembre     |     33 |
-| \#MuchoGustoMega           |     33 |
-| \#AprueboDeSalida          |     32 |
-| \#RechazoXChile            |     31 |
-| \#RechazoEl4deSeptiembre   |     30 |
-| \#digamosNO                |     29 |
-| \#PepeKasMillonario        |     27 |
-| \#postnataldeemergencia    |     27 |
-| \#AprueboNuevaConstitucion |     25 |
-| \#chaopase                 |     24 |
-| \#aprueboEl4deSeptiembre   |     23 |
-| \#Chile                    |     23 |
-| \#ChaoPase                 |     19 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| \#LaDerechaMiente               |    160 |
+| \#SextoRetiro                   |     71 |
+| \#PostnatalDeEmergencia         |     63 |
+| \#postnataldeemergencia         |     61 |
+| \#RechazoXChile                 |     56 |
+| \#Rechazo                       |     52 |
+| \#Apruebo4deSeptiembre          |     51 |
+| \#ChaoPase                      |     46 |
+| \#ContigoCHV                    |     43 |
+| \#MuchoGustoMega                |     42 |
+| \#Apruebo                       |     41 |
+| \#AcusacionConstitucionalAIzkia |     38 |
+| \#AprueboDeSalida               |     35 |
+| \#RechazoEl4deSeptiembre        |     32 |
+| \#SiempreEsHoy                  |     32 |
+| \#ChileRobamos                  |     29 |
+| \#digamosNO                     |     27 |
+| \#PepeKasMillonario             |     27 |
+| \#aprueboEl4deSeptiembre        |     23 |
+| \#Chile                         |     20 |
 
 # Cuentas
 
