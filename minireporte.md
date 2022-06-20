@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-17 02:11:04
+Chile. Fecha del reporte: 2022-06-20 02:14:42
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-06-17 02:11:04
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| \#LaDerechaMiente               |    160 |
-| \#SextoRetiro                   |     71 |
-| \#PostnatalDeEmergencia         |     63 |
-| \#postnataldeemergencia         |     61 |
-| \#RechazoXChile                 |     56 |
-| \#Rechazo                       |     52 |
-| \#Apruebo4deSeptiembre          |     51 |
-| \#ChaoPase                      |     46 |
-| \#ContigoCHV                    |     43 |
-| \#MuchoGustoMega                |     42 |
-| \#Apruebo                       |     41 |
-| \#AcusacionConstitucionalAIzkia |     38 |
-| \#AprueboDeSalida               |     35 |
-| \#RechazoEl4deSeptiembre        |     32 |
-| \#SiempreEsHoy                  |     32 |
-| \#ChileRobamos                  |     29 |
-| \#digamosNO                     |     27 |
-| \#PepeKasMillonario             |     27 |
-| \#aprueboEl4deSeptiembre        |     23 |
-| \#Chile                         |     20 |
+| datos                    | Cuenta |
+|:-------------------------|-------:|
+| \#SextoRetiro            |    135 |
+| \#digamosNO              |     90 |
+| \#PostnatalDeEmergencia  |     83 |
+| \#ChaoPase               |     64 |
+| \#ContigoCHV             |     60 |
+| \#MuchoGustoMega         |     58 |
+| \#FelizDiaDelPadre       |     56 |
+| \#postnataldeemergencia  |     52 |
+| \#Rechazo                |     51 |
+| \#Apruebo                |     45 |
+| \#ApagaEl13              |     44 |
+| \#Iquique                |     44 |
+| \#RechazoCiudadano       |     43 |
+| \#triangulaciondepiñera  |     42 |
+| \#YasnaProvoste          |     42 |
+| \#Apruebo4deSeptiembre   |     40 |
+| \#RechazoEl4deSeptiembre |     40 |
+| \#RechazoXChile          |     39 |
+| \#LaDerechaMiente        |     38 |
+| \#SiempreEsHoy           |     28 |
 
 # Cuentas
 
