@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-21 02:11:11
+Chile. Fecha del reporte: 2022-06-22 02:24:46
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-06-21 02:11:11
 
 | datos                      | Cuenta |
 |:---------------------------|-------:|
-| \#SextoRetiro              |    187 |
-| \#digamosNO                |    106 |
-| \#ChaoPase                 |     80 |
+| \#SextoRetiro              |     98 |
+| \#ChaoPase                 |     87 |
+| \#Apruebo4deSeptiembre     |     71 |
+| \#AprueboSinMiedo          |     61 |
+| \#digamosNO                |     61 |
 | \#اخنوش_إرحل               |     52 |
-| \#RechazoXChile            |     50 |
-| \#RechazoEl4deSeptiembre   |     47 |
-| \#LaDerechaMiente          |     41 |
-| \#Rechazo                  |     37 |
-| \#Apruebo4deSeptiembre     |     36 |
-| \#ContigoCHV               |     35 |
-| \#MuchoGustoMega           |     33 |
-| \#postnataldeemergencia    |     31 |
-| \#PostnatalDeEmergencia    |     26 |
-| \#AprueboDeSalida          |     25 |
-| \#Apruebo                  |     24 |
-| \#RechazoElPlurimamarracho |     24 |
-| \#RechazoCiudadano         |     22 |
-| \#ApagaEl13                |     21 |
-| \#AprueboSinMiedo          |     21 |
-| \#Chile                    |     21 |
+| \#PostnatalDeEmergencia    |     49 |
+| \#RechazoXChile            |     49 |
+| \#GabrielYoTeApoyo         |     47 |
+| \#UZIparaCarabineros       |     42 |
+| \#RechazoEl4deSeptiembre   |     38 |
+| \#WeTripantu               |     31 |
+| \#LaDerechaMiente          |     30 |
+| \#Rechazo                  |     30 |
+| \#ContigoCHV               |     26 |
+| \#MuchoGustoMega           |     26 |
+| \#RechazoElPlurimamarracho |     25 |
+| \#Chile                    |     20 |
+| \#Apruebo                  |     19 |
+| \#AprueboDeSalida          |     18 |
 
 # Cuentas
 
