@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-22 02:24:46
+Chile. Fecha del reporte: 2022-06-23 02:13:33
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-06-22 02:24:46
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#SextoRetiro              |     98 |
-| \#ChaoPase                 |     87 |
-| \#Apruebo4deSeptiembre     |     71 |
-| \#AprueboSinMiedo          |     61 |
-| \#digamosNO                |     61 |
-| \#اخنوش_إرحل               |     52 |
-| \#PostnatalDeEmergencia    |     49 |
-| \#RechazoXChile            |     49 |
-| \#GabrielYoTeApoyo         |     47 |
-| \#UZIparaCarabineros       |     42 |
-| \#RechazoEl4deSeptiembre   |     38 |
-| \#WeTripantu               |     31 |
-| \#LaDerechaMiente          |     30 |
-| \#Rechazo                  |     30 |
-| \#ContigoCHV               |     26 |
-| \#MuchoGustoMega           |     26 |
-| \#RechazoElPlurimamarracho |     25 |
-| \#Chile                    |     20 |
-| \#Apruebo                  |     19 |
-| \#AprueboDeSalida          |     18 |
+| datos                    | Cuenta |
+|:-------------------------|-------:|
+| \#SextoRetiro            |    288 |
+| \#PostnatalDeEmergencia  |    116 |
+| \#ChaoPase               |     85 |
+| \#chaopase               |     64 |
+| \#digamosNO              |     46 |
+| \#Apruebo4deSeptiembre   |     43 |
+| \#Rechazo                |     38 |
+| \#RechazoXChile          |     35 |
+| \#minerosmiserables      |     28 |
+| \#aprueboEl4deSeptiembre |     27 |
+| \#LaDerechaMiente        |     27 |
+| \#MuchoGustoMega         |     27 |
+| \#StandUp4HumanRights    |     26 |
+| \#RechazoEl4deSeptiembre |     25 |
+| \#Apruebo                |     24 |
+| \#OromoVoice             |     24 |
+| \#AprueboSinMiedo        |     23 |
+| \#Oromo                  |     23 |
+| \#GobiernoDePayasos      |     22 |
+| \#Chile                  |     21 |
 
 # Cuentas
 
