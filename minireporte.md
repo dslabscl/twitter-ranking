@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-23 02:13:33
+Chile. Fecha del reporte: 2022-06-24 02:19:02
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-06-23 02:13:33
 
 # Hashtags más populares
 
-| datos                    | Cuenta |
-|:-------------------------|-------:|
-| \#SextoRetiro            |    288 |
-| \#PostnatalDeEmergencia  |    116 |
-| \#ChaoPase               |     85 |
-| \#chaopase               |     64 |
-| \#digamosNO              |     46 |
-| \#Apruebo4deSeptiembre   |     43 |
-| \#Rechazo                |     38 |
-| \#RechazoXChile          |     35 |
-| \#minerosmiserables      |     28 |
-| \#aprueboEl4deSeptiembre |     27 |
-| \#LaDerechaMiente        |     27 |
-| \#MuchoGustoMega         |     27 |
-| \#StandUp4HumanRights    |     26 |
-| \#RechazoEl4deSeptiembre |     25 |
-| \#Apruebo                |     24 |
-| \#OromoVoice             |     24 |
-| \#AprueboSinMiedo        |     23 |
-| \#Oromo                  |     23 |
-| \#GobiernoDePayasos      |     22 |
-| \#Chile                  |     21 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| \#SextoRetiro              |    215 |
+| \#ChaoPase                 |     85 |
+| \#digamosNO                |     72 |
+| \#Rechazo                  |     54 |
+| \#LaDerechaMiente          |     41 |
+| \#RechazoXChile            |     38 |
+| \#chaopase                 |     37 |
+| \#PostnatalDeEmergencia    |     34 |
+| \#NoHayTerceraOpcion       |     30 |
+| \#Apruebo4deSeptiembre     |     26 |
+| \#MuchoGustoMega           |     23 |
+| \#RechazoEl4deSeptiembre   |     23 |
+| \#Apruebo                  |     21 |
+| \#AprueboNuevaConstitucion |     20 |
+| \#ContigoCHV               |     20 |
+| \#postnataldeemergencia    |     19 |
+| \#Chile                    |     18 |
+| \#AprueboDeSalida          |     17 |
+| \#aprueboEl4deSeptiembre   |     17 |
+| \#RechazoElPlurimamarracho |     17 |
 
 # Cuentas
 
