@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-27 02:18:42
+Chile. Fecha del reporte: 2022-06-28 02:18:07
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-06-27 02:18:42
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#ChaoPase                 |     84 |
-| \#RechazoXChile            |     64 |
-| \#RechazoTransversal       |     48 |
-| \#Rechazo                  |     46 |
-| \#digamosNO                |     42 |
-| \#Apruebo4deSeptiembre     |     41 |
-| \#Cadem                    |     39 |
-| \#SextoRetiro              |     38 |
-| \#RechazoElPlurimamarracho |     36 |
-| \#AprueboSinMiedo          |     28 |
-| \#PostnatalDeEmergencia    |     28 |
-| \#Apruebo                  |     26 |
-| \#MesaCentral              |     26 |
-| \#RechazoEl4deSeptiembre   |     25 |
-| \#AprueboDeSalida          |     19 |
-| \#MuchoGustoMega           |     19 |
-| \#AprueboNuevaConstitucion |     18 |
-| \#rechazo                  |     17 |
-| \#ContigoCHV               |     16 |
-| \#postnataldeemergencia    |     16 |
+| datos                       | Cuenta |
+|:----------------------------|-------:|
+| \#PostnatalDeEmergencia     |    206 |
+| \#postnataldeemergencia     |    111 |
+| \#chaopase                  |     96 |
+| \#ChaoPase                  |     85 |
+| \#SextoRetiro               |     57 |
+| \#Rechazo                   |     56 |
+| \#RechazoTransversal        |     54 |
+| \#RechazoXChile             |     48 |
+| \#PostNataldeemergencia     |     37 |
+| \#RechazoElPlurimamarracho  |     36 |
+| \#postNatalDeEmergencia     |     32 |
+| \#Apruebo                   |     31 |
+| \#digamosNO                 |     31 |
+| \#Apruebo4deSeptiembre      |     27 |
+| \#AprueboSinMiedo           |     26 |
+| \#EndTigraySiege            |     24 |
+| \#NoEsPorNosotrasEsPorEllos |     23 |
+| \#RechazoEl4deSeptiembre    |     22 |
+| \#AprueboDeSalida           |     20 |
+| \#ChildrenOfTigray          |     19 |
 
 # Cuentas
 
