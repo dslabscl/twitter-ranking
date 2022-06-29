@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-28 02:18:07
+Chile. Fecha del reporte: 2022-06-29 02:25:50
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-06-28 02:18:07
 
 # Hashtags más populares
 
-| datos                       | Cuenta |
-|:----------------------------|-------:|
-| \#PostnatalDeEmergencia     |    206 |
-| \#postnataldeemergencia     |    111 |
-| \#chaopase                  |     96 |
-| \#ChaoPase                  |     85 |
-| \#SextoRetiro               |     57 |
-| \#Rechazo                   |     56 |
-| \#RechazoTransversal        |     54 |
-| \#RechazoXChile             |     48 |
-| \#PostNataldeemergencia     |     37 |
-| \#RechazoElPlurimamarracho  |     36 |
-| \#postNatalDeEmergencia     |     32 |
-| \#Apruebo                   |     31 |
-| \#digamosNO                 |     31 |
-| \#Apruebo4deSeptiembre      |     27 |
-| \#AprueboSinMiedo           |     26 |
-| \#EndTigraySiege            |     24 |
-| \#NoEsPorNosotrasEsPorEllos |     23 |
-| \#RechazoEl4deSeptiembre    |     22 |
-| \#AprueboDeSalida           |     20 |
-| \#ChildrenOfTigray          |     19 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| \#SextoRetiro              |    236 |
+| \#PostnatalDeEmergencia    |    109 |
+| \#ChaoPase                 |     95 |
+| \#PostNataldeemergencia    |     64 |
+| \#AprueboSinMiedo          |     62 |
+| \#Apruebo4deSeptiembre     |     61 |
+| \#chaopase                 |     58 |
+| \#Apruebo                  |     57 |
+| \#RechazoTransversal       |     53 |
+| \#RechazoXChile            |     43 |
+| \#postnataldeemergencia    |     38 |
+| \#Rechazo                  |     37 |
+| \#aprueboEl4deSeptiembre   |     33 |
+| \#sextoretiro              |     32 |
+| \#digamosNO                |     31 |
+| \#RechazoElPlurimamarracho |     31 |
+| \#AprueboNuevaConstitucion |     29 |
+| \#AprueboDeSalida          |     28 |
+| \#VamosColoColo            |     27 |
+| \#GabrielYoTeApoyo         |     24 |
 
 # Cuentas
 
