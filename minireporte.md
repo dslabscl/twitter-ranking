@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-29 02:25:50
+Chile. Fecha del reporte: 2022-06-30 02:22:34
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-06-29 02:25:50
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#SextoRetiro              |    236 |
-| \#PostnatalDeEmergencia    |    109 |
-| \#ChaoPase                 |     95 |
-| \#PostNataldeemergencia    |     64 |
-| \#AprueboSinMiedo          |     62 |
-| \#Apruebo4deSeptiembre     |     61 |
-| \#chaopase                 |     58 |
-| \#Apruebo                  |     57 |
-| \#RechazoTransversal       |     53 |
-| \#RechazoXChile            |     43 |
-| \#postnataldeemergencia    |     38 |
-| \#Rechazo                  |     37 |
-| \#aprueboEl4deSeptiembre   |     33 |
-| \#sextoretiro              |     32 |
-| \#digamosNO                |     31 |
-| \#RechazoElPlurimamarracho |     31 |
-| \#AprueboNuevaConstitucion |     29 |
-| \#AprueboDeSalida          |     28 |
-| \#VamosColoColo            |     27 |
-| \#GabrielYoTeApoyo         |     24 |
+| datos                    | Cuenta |
+|:-------------------------|-------:|
+| \#PostnatalDeEmergencia  |    402 |
+| \#SextoRetiro            |    264 |
+| \#ChaoPase               |     91 |
+| \#SEXTORETIRO            |     80 |
+| \#6RETIRO100             |     70 |
+| \#FUERABORIC             |     70 |
+| \#FUERAYAÑEZ             |     70 |
+| \#chaopase               |     60 |
+| \#RechazoTransversal     |     53 |
+| \#AprueboSinMiedo        |     52 |
+| \#Apruebo                |     38 |
+| \#AprueboDeSalida        |     33 |
+| \#RechazoXChile          |     33 |
+| \#PostNataldeemergencia  |     31 |
+| \#Rechazo                |     31 |
+| \#postnataldeemergencia  |     29 |
+| \#digamosNO              |     28 |
+| \#Chile                  |     27 |
+| \#YoAprueboFeliz         |     27 |
+| \#aprueboEl4deSeptiembre |     26 |
 
 # Cuentas
 
