@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-06-30 02:22:34
+Chile. Fecha del reporte: 2022-07-01 02:34:36
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-06-30 02:22:34
 
 # Hashtags más populares
 
-| datos                    | Cuenta |
-|:-------------------------|-------:|
-| \#PostnatalDeEmergencia  |    402 |
-| \#SextoRetiro            |    264 |
-| \#ChaoPase               |     91 |
-| \#SEXTORETIRO            |     80 |
-| \#6RETIRO100             |     70 |
-| \#FUERABORIC             |     70 |
-| \#FUERAYAÑEZ             |     70 |
-| \#chaopase               |     60 |
-| \#RechazoTransversal     |     53 |
-| \#AprueboSinMiedo        |     52 |
-| \#Apruebo                |     38 |
-| \#AprueboDeSalida        |     33 |
-| \#RechazoXChile          |     33 |
-| \#PostNataldeemergencia  |     31 |
-| \#Rechazo                |     31 |
-| \#postnataldeemergencia  |     29 |
-| \#digamosNO              |     28 |
-| \#Chile                  |     27 |
-| \#YoAprueboFeliz         |     27 |
-| \#aprueboEl4deSeptiembre |     26 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| \#SextoRetiro              |    445 |
+| \#PostnatalDeEmergencia    |    214 |
+| \#ChaoPase                 |     87 |
+| \#El4AjiPalFacho           |     64 |
+| \#chaopase                 |     59 |
+| \#AprueboSinMiedo          |     58 |
+| \#RechazoTransversal       |     53 |
+| \#RechazoXChile            |     48 |
+| \#Apruebo                  |     43 |
+| \#ContigoCHV               |     41 |
+| \#Apruebo4deSeptiembre     |     35 |
+| \#RechazoEl4deSeptiembre   |     33 |
+| \#AprueboDeSalida          |     32 |
+| \#RechazoElPlurimamarracho |     31 |
+| \#Rechazo                  |     28 |
+| \#digamosNO                |     27 |
+| \#aprueboEl4deSeptiembre   |     26 |
+| \#AprueboNuevaConstitucion |     26 |
+| \#postnataldeemergencia    |     25 |
+| \#Emol                     |     23 |
 
 # Cuentas
 
