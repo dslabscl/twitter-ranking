@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-01 02:34:36
+Chile. Fecha del reporte: 2022-07-04 02:32:42
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-07-01 02:34:36
 
 | datos                      | Cuenta |
 |:---------------------------|-------:|
-| \#SextoRetiro              |    445 |
-| \#PostnatalDeEmergencia    |    214 |
-| \#ChaoPase                 |     87 |
-| \#El4AjiPalFacho           |     64 |
-| \#chaopase                 |     59 |
-| \#AprueboSinMiedo          |     58 |
-| \#RechazoTransversal       |     53 |
-| \#RechazoXChile            |     48 |
-| \#Apruebo                  |     43 |
-| \#ContigoCHV               |     41 |
-| \#Apruebo4deSeptiembre     |     35 |
-| \#RechazoEl4deSeptiembre   |     33 |
+| \#SextoRetiro              |    329 |
+| \#RechazoTransversal       |     72 |
+| \#ChaoPase                 |     64 |
+| \#Apruebo                  |     60 |
+| \#Rechazo                  |     59 |
+| \#PostnatalDeEmergencia    |     56 |
+| \#AprueboSinMiedo          |     55 |
+| \#RechazoXChile            |     41 |
+| \#ReformaTributaria        |     41 |
+| \#AprueboFeliz             |     40 |
+| \#RechazoElPlurimamarracho |     39 |
+| \#ContigoCHV               |     34 |
+| \#aprueboEl4deSeptiembre   |     33 |
 | \#AprueboDeSalida          |     32 |
-| \#RechazoElPlurimamarracho |     31 |
-| \#Rechazo                  |     28 |
-| \#digamosNO                |     27 |
-| \#aprueboEl4deSeptiembre   |     26 |
-| \#AprueboNuevaConstitucion |     26 |
-| \#postnataldeemergencia    |     25 |
-| \#Emol                     |     23 |
+| \#SiempreEsHoy             |     30 |
+| \#chaopase                 |     28 |
+| \#CongresoPL               |     28 |
+| \#RECHAZO                  |     27 |
+| \#Chile                    |     24 |
+| \#MuchoGustoMega           |     24 |
 
 # Cuentas
 
