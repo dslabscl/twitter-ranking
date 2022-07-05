@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-04 02:32:42
+Chile. Fecha del reporte: 2022-07-05 02:27:27
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-07-04 02:32:42
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#SextoRetiro              |    329 |
-| \#RechazoTransversal       |     72 |
-| \#ChaoPase                 |     64 |
-| \#Apruebo                  |     60 |
-| \#Rechazo                  |     59 |
-| \#PostnatalDeEmergencia    |     56 |
-| \#AprueboSinMiedo          |     55 |
-| \#RechazoXChile            |     41 |
-| \#ReformaTributaria        |     41 |
-| \#AprueboFeliz             |     40 |
-| \#RechazoElPlurimamarracho |     39 |
-| \#ContigoCHV               |     34 |
-| \#aprueboEl4deSeptiembre   |     33 |
-| \#AprueboDeSalida          |     32 |
-| \#SiempreEsHoy             |     30 |
-| \#chaopase                 |     28 |
-| \#CongresoPL               |     28 |
-| \#RECHAZO                  |     27 |
-| \#Chile                    |     24 |
-| \#MuchoGustoMega           |     24 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#SextoRetiro                 |    315 |
+| \#sextoretiro                 |     93 |
+| \#AprueboFeliz                |     72 |
+| \#RechazoDeSalida             |     72 |
+| \#Rechazo                     |     69 |
+| \#Apruebo                     |     61 |
+| \#ChaoPase                    |     58 |
+| \#aprueboEl4deSeptiembre      |     57 |
+| \#AprueboDeSalida             |     53 |
+| \#RechazoTransversal          |     50 |
+| \#PostnatalDeEmergencia       |     49 |
+| \#AprueboSinMiedo             |     48 |
+| \#RechazoXChile               |     42 |
+| \#RechazoLaDestruccionDeChile |     38 |
+| \#RechazoElPlurimamarracho    |     34 |
+| \#RechazoEl4deSeptiembre      |     33 |
+| \#EndTigraySiege              |     32 |
+| \#TigrayGenocide              |     31 |
+| \#CongresoPL                  |     28 |
+| \#ContigoCHV                  |     28 |
 
 # Cuentas
 
