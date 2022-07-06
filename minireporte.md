@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-05 02:27:27
+Chile. Fecha del reporte: 2022-07-06 02:33:04
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-07-05 02:27:27
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#SextoRetiro                 |    315 |
-| \#sextoretiro                 |     93 |
-| \#AprueboFeliz                |     72 |
-| \#RechazoDeSalida             |     72 |
-| \#Rechazo                     |     69 |
-| \#Apruebo                     |     61 |
-| \#ChaoPase                    |     58 |
-| \#aprueboEl4deSeptiembre      |     57 |
-| \#AprueboDeSalida             |     53 |
-| \#RechazoTransversal          |     50 |
-| \#PostnatalDeEmergencia       |     49 |
-| \#AprueboSinMiedo             |     48 |
-| \#RechazoXChile               |     42 |
-| \#RechazoLaDestruccionDeChile |     38 |
-| \#RechazoElPlurimamarracho    |     34 |
-| \#RechazoEl4deSeptiembre      |     33 |
-| \#EndTigraySiege              |     32 |
-| \#TigrayGenocide              |     31 |
+| \#PostnatalDeEmergencia       |    377 |
+| \#SextoRetiro                 |    306 |
+| \#AprueboFeliz                |     65 |
+| \#ChaoPase                    |     60 |
+| \#Apruebo                     |     56 |
+| \#Rechazo                     |     48 |
+| \#RechazoDeSalida             |     48 |
+| \#ContigoCHV                  |     43 |
+| \#AprueboDeSalida             |     41 |
+| \#aprueboEl4deSeptiembre      |     37 |
+| \#AprueboSinMiedo             |     33 |
+| \#RechazoTransversal          |     32 |
+| \#RechazoElPlurimamarracho    |     31 |
+| \#RechazoXChile               |     31 |
 | \#CongresoPL                  |     28 |
-| \#ContigoCHV                  |     28 |
+| \#RECHAZO                     |     27 |
+| \#Chile                       |     25 |
+| \#RechazoLaDestruccionDeChile |     22 |
+| \#MuchoGustoMega              |     21 |
+| \#rechazo                     |     21 |
 
 # Cuentas
 
