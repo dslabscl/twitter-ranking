@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-06 02:33:04
+Chile. Fecha del reporte: 2022-07-07 02:30:17
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-07-06 02:33:04
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#PostnatalDeEmergencia       |    377 |
-| \#SextoRetiro                 |    306 |
-| \#AprueboFeliz                |     65 |
-| \#ChaoPase                    |     60 |
-| \#Apruebo                     |     56 |
-| \#Rechazo                     |     48 |
-| \#RechazoDeSalida             |     48 |
-| \#ContigoCHV                  |     43 |
-| \#AprueboDeSalida             |     41 |
-| \#aprueboEl4deSeptiembre      |     37 |
-| \#AprueboSinMiedo             |     33 |
-| \#RechazoTransversal          |     32 |
-| \#RechazoElPlurimamarracho    |     31 |
+| \#SextoRetiro                 |    469 |
+| \#PostnatalDeEmergencia       |    202 |
+| \#AprueboFeliz                |    107 |
+| \#Apruebo                     |     98 |
+| \#RechazoDeSalida             |     72 |
+| \#RECHAZO                     |     60 |
+| \#Apruebo4deSeptiembre        |     52 |
+| \#RechazoLaDestruccionDeChile |     49 |
+| \#ChaoPase                    |     45 |
+| \#RechazoTransversal          |     45 |
+| \#Rechazo                     |     42 |
+| \#AprueboSinMiedo             |     40 |
+| \#aprueboEl4deSeptiembre      |     33 |
+| \#EndTigraySiege              |     32 |
 | \#RechazoXChile               |     31 |
+| \#SEXTORETIRO                 |     31 |
+| \#RechazoElPlurimamarracho    |     30 |
+| \#AprueboDeSalida             |     29 |
+| \#ContigoCHV                  |     29 |
 | \#CongresoPL                  |     28 |
-| \#RECHAZO                     |     27 |
-| \#Chile                       |     25 |
-| \#RechazoLaDestruccionDeChile |     22 |
-| \#MuchoGustoMega              |     21 |
-| \#rechazo                     |     21 |
 
 # Cuentas
 
