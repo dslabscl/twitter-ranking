@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-07 02:30:17
+Chile. Fecha del reporte: 2022-07-08 02:26:34
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-07-07 02:30:17
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#SextoRetiro                 |    469 |
-| \#PostnatalDeEmergencia       |    202 |
-| \#AprueboFeliz                |    107 |
-| \#Apruebo                     |     98 |
-| \#RechazoDeSalida             |     72 |
-| \#RECHAZO                     |     60 |
-| \#Apruebo4deSeptiembre        |     52 |
-| \#RechazoLaDestruccionDeChile |     49 |
-| \#ChaoPase                    |     45 |
-| \#RechazoTransversal          |     45 |
-| \#Rechazo                     |     42 |
-| \#AprueboSinMiedo             |     40 |
-| \#aprueboEl4deSeptiembre      |     33 |
-| \#EndTigraySiege              |     32 |
+| \#SextoRetiro                 |    271 |
+| \#PostnatalDeEmergencia       |    197 |
+| \#AprueboFeliz                |     90 |
+| \#Apruebo                     |     78 |
+| \#Rechazo                     |     66 |
+| \#RechazoDeSalida             |     57 |
+| \#AprueboSinMiedo             |     52 |
+| \#RechazoTransversal          |     46 |
+| \#Apruebo4deSeptiembre        |     41 |
+| \#AprueboDeSalida             |     39 |
+| \#ChaoPase                    |     37 |
+| \#SOSCuba                     |     36 |
 | \#RechazoXChile               |     31 |
-| \#SEXTORETIRO                 |     31 |
-| \#RechazoElPlurimamarracho    |     30 |
-| \#AprueboDeSalida             |     29 |
-| \#ContigoCHV                  |     29 |
-| \#CongresoPL                  |     28 |
+| \#AComerALosHoteles           |     30 |
+| \#aprueboEl4deSeptiembre      |     28 |
+| \#CandelaParaIluminarACuba    |     28 |
+| \#RechazoLaDestruccionDeChile |     28 |
+| \#CongresoPL                  |     26 |
+| \#SiempreEsHoy                |     24 |
+| \#Chile                       |     23 |
 
 # Cuentas
 
