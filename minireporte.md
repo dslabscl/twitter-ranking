@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-08 02:26:34
+Chile. Fecha del reporte: 2022-07-11 02:22:38
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-07-08 02:26:34
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#SextoRetiro                 |    271 |
-| \#PostnatalDeEmergencia       |    197 |
-| \#AprueboFeliz                |     90 |
-| \#Apruebo                     |     78 |
-| \#Rechazo                     |     66 |
-| \#RechazoDeSalida             |     57 |
-| \#AprueboSinMiedo             |     52 |
-| \#RechazoTransversal          |     46 |
-| \#Apruebo4deSeptiembre        |     41 |
-| \#AprueboDeSalida             |     39 |
-| \#ChaoPase                    |     37 |
-| \#SOSCuba                     |     36 |
-| \#RechazoXChile               |     31 |
-| \#AComerALosHoteles           |     30 |
-| \#aprueboEl4deSeptiembre      |     28 |
-| \#CandelaParaIluminarACuba    |     28 |
-| \#RechazoLaDestruccionDeChile |     28 |
-| \#CongresoPL                  |     26 |
-| \#SiempreEsHoy                |     24 |
-| \#Chile                       |     23 |
+| \#AprueboFeliz                |    102 |
+| \#SextoRetiro                 |     91 |
+| \#Apruebo                     |     73 |
+| \#PostnatalDeEmergencia       |     67 |
+| \#Rechazo                     |     58 |
+| \#RechazoTransversal          |     53 |
+| \#AprueboSinMiedo             |     51 |
+| \#Apruebo4deSeptiembre        |     38 |
+| \#RechazoDeSalida             |     38 |
+| \#RechazoXChile               |     37 |
+| \#ChaoPase                    |     35 |
+| \#Chile                       |     32 |
+| \#AprueboCrece                |     29 |
+| \#AprueboNuevaConstitucion    |     27 |
+| \#RechazoLaDestruccionDeChile |     27 |
+| \#AprueboDeSalida             |     26 |
+| \#MesaCentral                 |     26 |
+| \#rechazo                     |     26 |
+| \#GobiernoDeInutiles          |     23 |
+| \#SiempreEsHoy                |     23 |
 
 # Cuentas
 
