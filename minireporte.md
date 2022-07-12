@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-11 02:22:38
+Chile. Fecha del reporte: 2022-07-12 02:40:56
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-07-11 02:22:38
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#AprueboFeliz                |    102 |
-| \#SextoRetiro                 |     91 |
-| \#Apruebo                     |     73 |
-| \#PostnatalDeEmergencia       |     67 |
-| \#Rechazo                     |     58 |
-| \#RechazoTransversal          |     53 |
-| \#AprueboSinMiedo             |     51 |
-| \#Apruebo4deSeptiembre        |     38 |
-| \#RechazoDeSalida             |     38 |
-| \#RechazoXChile               |     37 |
-| \#ChaoPase                    |     35 |
-| \#Chile                       |     32 |
-| \#AprueboCrece                |     29 |
-| \#AprueboNuevaConstitucion    |     27 |
-| \#RechazoLaDestruccionDeChile |     27 |
-| \#AprueboDeSalida             |     26 |
-| \#MesaCentral                 |     26 |
-| \#rechazo                     |     26 |
-| \#GobiernoDeInutiles          |     23 |
-| \#SiempreEsHoy                |     23 |
+| datos                              | Cuenta |
+|:-----------------------------------|-------:|
+| \#SextoRetiro                      |    102 |
+| \#AprueboFeliz                     |     95 |
+| \#PostnatalDeEmergencia            |     67 |
+| \#Apruebo                          |     64 |
+| \#BonoApruebo                      |     59 |
+| \#Rechazo                          |     57 |
+| \#RechazoTransversal               |     49 |
+| \#AprueboSinMiedo                  |     43 |
+| \#RechazoDeSalida                  |     39 |
+| \#RechazoLaDestruccionDeChile      |     37 |
+| \#Apruebo4deSeptiembre             |     36 |
+| \#ChaoPase                         |     33 |
+| \#AprueboCrece                     |     31 |
+| \#Chile                            |     30 |
+| \#AprueboDeSalida                  |     29 |
+| \#SiempreEsHoy                     |     25 |
+| \#PostnatalDeEmergenciaRetroactivo |     23 |
+| \#postnataldeemergencia            |     21 |
+| \#RechazoXChile                    |     21 |
+| \#aprueboEl4deSeptiembre           |     20 |
 
 # Cuentas
 
