@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-12 02:40:56
+Chile. Fecha del reporte: 2022-07-13 02:34:54
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-07-12 02:40:56
 
 | datos                              | Cuenta |
 |:-----------------------------------|-------:|
-| \#SextoRetiro                      |    102 |
-| \#AprueboFeliz                     |     95 |
-| \#PostnatalDeEmergencia            |     67 |
-| \#Apruebo                          |     64 |
-| \#BonoApruebo                      |     59 |
-| \#Rechazo                          |     57 |
-| \#RechazoTransversal               |     49 |
-| \#AprueboSinMiedo                  |     43 |
-| \#RechazoDeSalida                  |     39 |
-| \#RechazoLaDestruccionDeChile      |     37 |
-| \#Apruebo4deSeptiembre             |     36 |
-| \#ChaoPase                         |     33 |
-| \#AprueboCrece                     |     31 |
-| \#Chile                            |     30 |
-| \#AprueboDeSalida                  |     29 |
-| \#SiempreEsHoy                     |     25 |
-| \#PostnatalDeEmergenciaRetroactivo |     23 |
-| \#postnataldeemergencia            |     21 |
-| \#RechazoXChile                    |     21 |
-| \#aprueboEl4deSeptiembre           |     20 |
+| \#AprueboFeliz                     |     81 |
+| \#SextoRetiro                      |     71 |
+| \#Apruebo                          |     60 |
+| \#RechazoTransversal               |     51 |
+| \#PostnatalDeEmergencia            |     47 |
+| \#Rechazo                          |     45 |
+| \#AprueboSinMiedo                  |     39 |
+| \#RechazoDeSalida                  |     38 |
+| \#Apruebo4deSeptiembre             |     33 |
+| \#AprueboCrece                     |     33 |
+| \#ContigoCHV                       |     33 |
+| \#RechazoXChile                    |     31 |
+| \#BajarSueldosDelEstado            |     30 |
+| \#ChaoPase                         |     28 |
+| \#SiempreEsHoy                     |     28 |
+| \#PostnatalDeEmergenciaRetroactivo |     26 |
+| \#FauEnCrisis                      |     23 |
+| \#AprueboDeSalida                  |     21 |
+| \#Chile                            |     21 |
+| \#GobiernoDeInutiles               |     21 |
 
 # Cuentas
 
