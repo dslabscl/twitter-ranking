@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-13 02:34:54
+Chile. Fecha del reporte: 2022-07-14 02:30:34
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-07-13 02:34:54
 
 # Hashtags más populares
 
-| datos                              | Cuenta |
-|:-----------------------------------|-------:|
-| \#AprueboFeliz                     |     81 |
-| \#SextoRetiro                      |     71 |
-| \#Apruebo                          |     60 |
-| \#RechazoTransversal               |     51 |
-| \#PostnatalDeEmergencia            |     47 |
-| \#Rechazo                          |     45 |
-| \#AprueboSinMiedo                  |     39 |
-| \#RechazoDeSalida                  |     38 |
-| \#Apruebo4deSeptiembre             |     33 |
-| \#AprueboCrece                     |     33 |
-| \#ContigoCHV                       |     33 |
-| \#RechazoXChile                    |     31 |
-| \#BajarSueldosDelEstado            |     30 |
-| \#ChaoPase                         |     28 |
-| \#SiempreEsHoy                     |     28 |
-| \#PostnatalDeEmergenciaRetroactivo |     26 |
-| \#FauEnCrisis                      |     23 |
-| \#AprueboDeSalida                  |     21 |
-| \#Chile                            |     21 |
-| \#GobiernoDeInutiles               |     21 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| \#AprueboFeliz             |     90 |
+| \#SEXTORETIRO              |     73 |
+| \#Rechazo                  |     59 |
+| \#Apruebo                  |     57 |
+| \#AprueboCrece             |     48 |
+| \#Chile                    |     46 |
+| \#SextoRetiro              |     46 |
+| \#RechazoTransversal       |     44 |
+| \#RechazoDeSalida          |     43 |
+| \#AprueboSinMiedo          |     35 |
+| \#MuchoGustoMega           |     35 |
+| \#Apruebo4deSeptiembre     |     33 |
+| \#ContigoCHV               |     32 |
+| \#AprueboDeSalida          |     30 |
+| \#ChaoPase                 |     28 |
+| \#SiempreEsHoy             |     28 |
+| \#PostnatalDeEmergencia    |     27 |
+| \#ALERTA                   |     25 |
+| \#aprueboEl4deSeptiembre   |     22 |
+| \#AprueboNuevaConstitucion |     22 |
 
 # Cuentas
 
