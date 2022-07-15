@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-14 02:30:34
+Chile. Fecha del reporte: 2022-07-15 02:38:04
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-07-14 02:30:34
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#AprueboFeliz             |     90 |
-| \#SEXTORETIRO              |     73 |
-| \#Rechazo                  |     59 |
-| \#Apruebo                  |     57 |
-| \#AprueboCrece             |     48 |
-| \#Chile                    |     46 |
-| \#SextoRetiro              |     46 |
-| \#RechazoTransversal       |     44 |
-| \#RechazoDeSalida          |     43 |
-| \#AprueboSinMiedo          |     35 |
-| \#MuchoGustoMega           |     35 |
-| \#Apruebo4deSeptiembre     |     33 |
-| \#ContigoCHV               |     32 |
-| \#AprueboDeSalida          |     30 |
-| \#ChaoPase                 |     28 |
-| \#SiempreEsHoy             |     28 |
-| \#PostnatalDeEmergencia    |     27 |
-| \#ALERTA                   |     25 |
-| \#aprueboEl4deSeptiembre   |     22 |
-| \#AprueboNuevaConstitucion |     22 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#AprueboFeliz                 |     87 |
+| \#RechazoTransversal           |     80 |
+| \#Rechazo                      |     73 |
+| \#RechazoXChile                |     62 |
+| \#RechazoDeSalida              |     60 |
+| \#Apruebo                      |     56 |
+| \#RechazoLaDestruccionDeChile  |     52 |
+| \#AprueboCrece                 |     48 |
+| \#BoricEnPicada                |     40 |
+| \#Chile                        |     39 |
+| \#SextoRetiro                  |     39 |
+| \#AprueboSinMiedo              |     36 |
+| \#ContigoCHV                   |     32 |
+| \#Apruebo4deSeptiembre         |     29 |
+| \#ElPeorGobiernoDeLaHistoria   |     29 |
+| \#ChaoPase                     |     27 |
+| \#BoricVerdugoClaseMedia       |     26 |
+| \#SiempreEsHoy                 |     26 |
+| \#ElPeorPresidenteDeLaHistoria |     23 |
+| \#ComunismoEsMiseria           |     22 |
 
 # Cuentas
 
