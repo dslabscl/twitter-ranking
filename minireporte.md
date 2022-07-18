@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-15 02:38:04
+Chile. Fecha del reporte: 2022-07-18 02:30:52
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-07-15 02:38:04
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#AprueboFeliz                 |     87 |
-| \#RechazoTransversal           |     80 |
-| \#Rechazo                      |     73 |
-| \#RechazoXChile                |     62 |
-| \#RechazoDeSalida              |     60 |
-| \#Apruebo                      |     56 |
-| \#RechazoLaDestruccionDeChile  |     52 |
-| \#AprueboCrece                 |     48 |
-| \#BoricEnPicada                |     40 |
-| \#Chile                        |     39 |
-| \#SextoRetiro                  |     39 |
-| \#AprueboSinMiedo              |     36 |
-| \#ContigoCHV                   |     32 |
-| \#Apruebo4deSeptiembre         |     29 |
-| \#ElPeorGobiernoDeLaHistoria   |     29 |
-| \#ChaoPase                     |     27 |
-| \#BoricVerdugoClaseMedia       |     26 |
-| \#SiempreEsHoy                 |     26 |
-| \#ElPeorPresidenteDeLaHistoria |     23 |
-| \#ComunismoEsMiseria           |     22 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| \#RechazoXAmorAChile         |     95 |
+| \#Apruebo                    |     83 |
+| \#AprueboXAmor               |     78 |
+| \#SextoRetiro                |     74 |
+| \#RechazoTransversal         |     70 |
+| \#AprueboFeliz               |     61 |
+| \#Rechazo                    |     57 |
+| \#AprueboSinMiedo            |     54 |
+| \#Apruebo4deSeptiembre       |     51 |
+| \#RechazoXChile              |     44 |
+| \#BoricDictador              |     40 |
+| \#RechazoGanaEl4deSeptiembre |     34 |
+| \#Chile                      |     33 |
+| \#100Indecisos               |     32 |
+| \#MesaCentral                |     32 |
+| \#rechazo                    |     32 |
+| \#ChaoPase                   |     31 |
+| \#RechazoDeSalida            |     29 |
+| \#SiempreEsHoy               |     28 |
+| \#TikTok                     |     28 |
 
 # Cuentas
 
