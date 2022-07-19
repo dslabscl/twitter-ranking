@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-18 02:30:52
+Chile. Fecha del reporte: 2022-07-19 02:38:20
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-07-18 02:30:52
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| \#RechazoXAmorAChile         |     95 |
-| \#Apruebo                    |     83 |
-| \#AprueboXAmor               |     78 |
-| \#SextoRetiro                |     74 |
-| \#RechazoTransversal         |     70 |
-| \#AprueboFeliz               |     61 |
-| \#Rechazo                    |     57 |
-| \#AprueboSinMiedo            |     54 |
-| \#Apruebo4deSeptiembre       |     51 |
-| \#RechazoXChile              |     44 |
-| \#BoricDictador              |     40 |
-| \#RechazoGanaEl4deSeptiembre |     34 |
-| \#Chile                      |     33 |
-| \#100Indecisos               |     32 |
-| \#MesaCentral                |     32 |
-| \#rechazo                    |     32 |
-| \#ChaoPase                   |     31 |
-| \#RechazoDeSalida            |     29 |
-| \#SiempreEsHoy               |     28 |
-| \#TikTok                     |     28 |
+| datos                              | Cuenta |
+|:-----------------------------------|-------:|
+| \#Apruebo                          |     99 |
+| \#SextoRetiro                      |     89 |
+| \#PostnatalDeEmergencia            |     70 |
+| \#AprueboXAmor                     |     68 |
+| \#RechazoXAmorAChile               |     66 |
+| \#PostnatalDeEmergenciaRetroactivo |     63 |
+| \#AprueboSinMiedo                  |     57 |
+| \#AprueboFeliz                     |     55 |
+| \#Rechazo                          |     55 |
+| \#RechazoTransversal               |     51 |
+| \#CarcelParaPiñera                 |     46 |
+| \#Apruebo4deSeptiembre             |     40 |
+| \#AprueboSinMentiras               |     40 |
+| \#RechazoDeSalida                  |     39 |
+| \#postnataldeemergencia            |     37 |
+| \#SEXTORETIRO                      |     35 |
+| \#AprueboCrece                     |     33 |
+| \#PostNatalDeEmergencia            |     33 |
+| \#ChaoPase                         |     31 |
+| \#postnatalretroactivo             |     31 |
 
 # Cuentas
 
