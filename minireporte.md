@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-19 02:38:20
+Chile. Fecha del reporte: 2022-07-20 02:24:30
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-07-19 02:38:20
 
 # Hashtags más populares
 
-| datos                              | Cuenta |
-|:-----------------------------------|-------:|
-| \#Apruebo                          |     99 |
-| \#SextoRetiro                      |     89 |
-| \#PostnatalDeEmergencia            |     70 |
-| \#AprueboXAmor                     |     68 |
-| \#RechazoXAmorAChile               |     66 |
-| \#PostnatalDeEmergenciaRetroactivo |     63 |
-| \#AprueboSinMiedo                  |     57 |
-| \#AprueboFeliz                     |     55 |
-| \#Rechazo                          |     55 |
-| \#RechazoTransversal               |     51 |
-| \#CarcelParaPiñera                 |     46 |
-| \#Apruebo4deSeptiembre             |     40 |
-| \#AprueboSinMentiras               |     40 |
-| \#RechazoDeSalida                  |     39 |
-| \#postnataldeemergencia            |     37 |
-| \#SEXTORETIRO                      |     35 |
-| \#AprueboCrece                     |     33 |
-| \#PostNatalDeEmergencia            |     33 |
-| \#ChaoPase                         |     31 |
-| \#postnatalretroactivo             |     31 |
+| datos                    | Cuenta |
+|:-------------------------|-------:|
+| \#SextoRetiro            |     87 |
+| \#Apruebo                |     81 |
+| \#AprueboFeliz           |     71 |
+| \#Rechazo                |     63 |
+| \#AprueboSinMiedo        |     59 |
+| \#RechazoTransversal     |     58 |
+| \#AprueboSinMentiras     |     49 |
+| \#AprueboXAmor           |     45 |
+| \#ContigoCHV             |     41 |
+| \#RechazoDeSalida        |     38 |
+| \#Chile                  |     34 |
+| \#MuchoGustoMega         |     34 |
+| \#AprueboDeSalida        |     33 |
+| \#Apruebo4deSeptiembre   |     31 |
+| \#RechazoXAmorAChile     |     31 |
+| \#SEXTORETIRO            |     30 |
+| \#100Indecisos           |     28 |
+| \#ChaoPase               |     28 |
+| \#aprueboEl4deSeptiembre |     24 |
+| \#PostnatalDeEmergencia  |     24 |
 
 # Cuentas
 
