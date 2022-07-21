@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-20 02:24:30
+Chile. Fecha del reporte: 2022-07-21 02:27:37
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-07-20 02:24:30
 
 # Hashtags más populares
 
-| datos                    | Cuenta |
-|:-------------------------|-------:|
-| \#SextoRetiro            |     87 |
-| \#Apruebo                |     81 |
-| \#AprueboFeliz           |     71 |
-| \#Rechazo                |     63 |
-| \#AprueboSinMiedo        |     59 |
-| \#RechazoTransversal     |     58 |
-| \#AprueboSinMentiras     |     49 |
-| \#AprueboXAmor           |     45 |
-| \#ContigoCHV             |     41 |
-| \#RechazoDeSalida        |     38 |
-| \#Chile                  |     34 |
-| \#MuchoGustoMega         |     34 |
-| \#AprueboDeSalida        |     33 |
-| \#Apruebo4deSeptiembre   |     31 |
-| \#RechazoXAmorAChile     |     31 |
-| \#SEXTORETIRO            |     30 |
-| \#100Indecisos           |     28 |
-| \#ChaoPase               |     28 |
-| \#aprueboEl4deSeptiembre |     24 |
-| \#PostnatalDeEmergencia  |     24 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#Apruebo                     |    108 |
+| \#SEXTORETIRO                 |     58 |
+| \#AprueboNuevaConstitucion    |     54 |
+| \#SextoRetiro                 |     54 |
+| \#AprueboSinMiedo             |     53 |
+| \#AprueboFeliz                |     51 |
+| \#ApruebaSeraHermoso          |     49 |
+| \#Rechazo                     |     48 |
+| \#RechazoTransversal          |     47 |
+| \#ContigoCHV                  |     46 |
+| \#RechazoXAmorAChile          |     45 |
+| \#RechazoDeSalida             |     39 |
+| \#BoricVerguenzaInternacional |     38 |
+| \#MuchoGustoMega              |     38 |
+| \#AprueboDeSalida             |     33 |
+| \#AprueboSinMentiras          |     33 |
+| \#Chile                       |     32 |
+| \#AprueboXAmor                |     31 |
+| \#LaWeaCompletaEsUnError      |     26 |
+| \#ChaoPase                    |     24 |
 
 # Cuentas
 
