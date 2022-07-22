@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-21 02:27:37
+Chile. Fecha del reporte: 2022-07-22 02:30:32
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-07-21 02:27:37
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#Apruebo                     |    108 |
-| \#SEXTORETIRO                 |     58 |
-| \#AprueboNuevaConstitucion    |     54 |
-| \#SextoRetiro                 |     54 |
-| \#AprueboSinMiedo             |     53 |
-| \#AprueboFeliz                |     51 |
-| \#ApruebaSeraHermoso          |     49 |
-| \#Rechazo                     |     48 |
-| \#RechazoTransversal          |     47 |
-| \#ContigoCHV                  |     46 |
-| \#RechazoXAmorAChile          |     45 |
-| \#RechazoDeSalida             |     39 |
-| \#BoricVerguenzaInternacional |     38 |
-| \#MuchoGustoMega              |     38 |
-| \#AprueboDeSalida             |     33 |
-| \#AprueboSinMentiras          |     33 |
-| \#Chile                       |     32 |
-| \#AprueboXAmor                |     31 |
-| \#LaWeaCompletaEsUnError      |     26 |
-| \#ChaoPase                    |     24 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| \#Apruebo                  |     80 |
+| \#SextoRetiro              |     70 |
+| \#RechazoTransversal       |     52 |
+| \#AprueboSinMiedo          |     49 |
+| \#sextoretiro              |     49 |
+| \#SinFiltrostv             |     45 |
+| \#Rechazo                  |     43 |
+| \#AprueboFeliz             |     41 |
+| \#AprueboSinMentiras       |     38 |
+| \#ContigoCHV               |     38 |
+| \#RechazoXAmorAChile       |     37 |
+| \#SriLanka                 |     36 |
+| \#ApruebaSeraHermoso       |     35 |
+| \#MuchoGustoMega           |     35 |
+| \#AprueboNuevaConstitucion |     32 |
+| \#Chile                    |     31 |
+| \#RechazoDeSalida          |     30 |
+| \#SEXTORETIRO              |     30 |
+| \#AprueboDeSalida          |     28 |
+| \#GotaGoGama               |     24 |
 
 # Cuentas
 
