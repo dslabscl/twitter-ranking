@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-22 02:30:32
+Chile. Fecha del reporte: 2022-07-25 02:24:42
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-07-22 02:30:32
 
 | datos                      | Cuenta |
 |:---------------------------|-------:|
-| \#Apruebo                  |     80 |
-| \#SextoRetiro              |     70 |
-| \#RechazoTransversal       |     52 |
-| \#AprueboSinMiedo          |     49 |
-| \#sextoretiro              |     49 |
-| \#SinFiltrostv             |     45 |
-| \#Rechazo                  |     43 |
-| \#AprueboFeliz             |     41 |
-| \#AprueboSinMentiras       |     38 |
-| \#ContigoCHV               |     38 |
-| \#RechazoXAmorAChile       |     37 |
-| \#SriLanka                 |     36 |
-| \#ApruebaSeraHermoso       |     35 |
-| \#MuchoGustoMega           |     35 |
-| \#AprueboNuevaConstitucion |     32 |
-| \#Chile                    |     31 |
-| \#RechazoDeSalida          |     30 |
-| \#SEXTORETIRO              |     30 |
-| \#AprueboDeSalida          |     28 |
-| \#GotaGoGama               |     24 |
+| \#RechazoElPlanC           |    138 |
+| \#SextoRetiro              |    123 |
+| \#Apruebo                  |    121 |
+| \#Rechazo                  |    106 |
+| \#RechazoXAmorAChile       |     62 |
+| \#RechazoTransversal       |     59 |
+| \#ApruebaSeraHermoso       |     54 |
+| \#SextoRetiroUrgente       |     51 |
+| \#QuintoRetiroEsViable     |     49 |
+| \#QuintoRetiroKarimBianchi |     49 |
+| \#QuintoRetiroSenado       |     49 |
+| \#SextoRetiroAhora         |     49 |
+| \#SextoRetiroConLaAbuela   |     49 |
+| \#AprueboSinMiedo          |     48 |
+| \#RechazoYPunto            |     48 |
+| \#AprueboNuevaConstitucion |     44 |
+| \#Cadem                    |     44 |
+| \#Chile                    |     43 |
+| \#AprueboFeliz             |     42 |
+| \#AprueboSinMentiras       |     41 |
 
 # Cuentas
 
