@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-25 02:24:42
+Chile. Fecha del reporte: 2022-07-26 02:38:51
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-07-25 02:24:42
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#RechazoElPlanC           |    138 |
-| \#SextoRetiro              |    123 |
-| \#Apruebo                  |    121 |
-| \#Rechazo                  |    106 |
-| \#RechazoXAmorAChile       |     62 |
-| \#RechazoTransversal       |     59 |
-| \#ApruebaSeraHermoso       |     54 |
-| \#SextoRetiroUrgente       |     51 |
-| \#QuintoRetiroEsViable     |     49 |
-| \#QuintoRetiroKarimBianchi |     49 |
-| \#QuintoRetiroSenado       |     49 |
-| \#SextoRetiroAhora         |     49 |
-| \#SextoRetiroConLaAbuela   |     49 |
-| \#AprueboSinMiedo          |     48 |
-| \#RechazoYPunto            |     48 |
-| \#AprueboNuevaConstitucion |     44 |
-| \#Cadem                    |     44 |
-| \#Chile                    |     43 |
-| \#AprueboFeliz             |     42 |
-| \#AprueboSinMentiras       |     41 |
+| datos                 | Cuenta |
+|:----------------------|-------:|
+| \#Rechazo             |    107 |
+| \#RechazoTransversal  |     96 |
+| \#Apruebo             |     93 |
+| \#SextoRetiro         |     79 |
+| \#RechazoXAmorAChile  |     62 |
+| \#AprueboSinMiedo     |     45 |
+| \#ApruebaSeraHermoso  |     44 |
+| \#rechazo             |     41 |
+| \#ChaoPase            |     39 |
+| \#RechazoElPlanC      |     36 |
+| \#SEXTORETIRO         |     31 |
+| \#AprueboFeliz        |     30 |
+| \#RechazoDeSalida     |     30 |
+| \#ALERTA              |     29 |
+| \#AprueboConEsperanza |     29 |
+| \#AprueboSinMentiras  |     29 |
+| \#Chile               |     28 |
+| \#RECHAZO             |     28 |
+| \#BoricPromulgaLaLey  |     27 |
+| \#ContigoCHV          |     27 |
 
 # Cuentas
 
