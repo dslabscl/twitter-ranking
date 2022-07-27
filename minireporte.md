@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-26 02:38:51
+Chile. Fecha del reporte: 2022-07-27 02:32:47
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-07-26 02:38:51
 
 # Hashtags más populares
 
-| datos                 | Cuenta |
-|:----------------------|-------:|
-| \#Rechazo             |    107 |
-| \#RechazoTransversal  |     96 |
-| \#Apruebo             |     93 |
-| \#SextoRetiro         |     79 |
-| \#RechazoXAmorAChile  |     62 |
-| \#AprueboSinMiedo     |     45 |
-| \#ApruebaSeraHermoso  |     44 |
-| \#rechazo             |     41 |
-| \#ChaoPase            |     39 |
-| \#RechazoElPlanC      |     36 |
-| \#SEXTORETIRO         |     31 |
-| \#AprueboFeliz        |     30 |
-| \#RechazoDeSalida     |     30 |
-| \#ALERTA              |     29 |
-| \#AprueboConEsperanza |     29 |
-| \#AprueboSinMentiras  |     29 |
-| \#Chile               |     28 |
-| \#RECHAZO             |     28 |
-| \#BoricPromulgaLaLey  |     27 |
-| \#ContigoCHV          |     27 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#sextoretiro                 |    135 |
+| \#Apruebo                     |    110 |
+| \#Rechazo                     |    107 |
+| \#RechazoTransversal          |     87 |
+| \#SextoRetiro                 |     75 |
+| \#AprueboConEsperanza         |     48 |
+| \#AprueboSinMiedo             |     48 |
+| \#ContigoCHV                  |     48 |
+| \#ApruebaSeraHermoso          |     47 |
+| \#AmharaGenocide              |     46 |
+| \#ChaoPase                    |     45 |
+| \#RechazoXAmorAChile          |     44 |
+| \#RechazoElPlanC              |     39 |
+| \#RechazoLaDestruccionDeChile |     37 |
+| \#SEXTORETIRO                 |     37 |
+| \#MuchoGustoMega              |     35 |
+| \#AprueboSinMentiras          |     33 |
+| \#Chile                       |     31 |
+| \#RechazoElMamarracho         |     31 |
+| \#Iquique                     |     28 |
 
 # Cuentas
 
