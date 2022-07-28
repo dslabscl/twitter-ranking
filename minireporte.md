@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-27 02:32:47
+Chile. Fecha del reporte: 2022-07-28 02:24:13
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-07-27 02:32:47
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#sextoretiro                 |    135 |
-| \#Apruebo                     |    110 |
-| \#Rechazo                     |    107 |
-| \#RechazoTransversal          |     87 |
-| \#SextoRetiro                 |     75 |
-| \#AprueboConEsperanza         |     48 |
-| \#AprueboSinMiedo             |     48 |
-| \#ContigoCHV                  |     48 |
-| \#ApruebaSeraHermoso          |     47 |
-| \#AmharaGenocide              |     46 |
-| \#ChaoPase                    |     45 |
-| \#RechazoXAmorAChile          |     44 |
-| \#RechazoElPlanC              |     39 |
-| \#RechazoLaDestruccionDeChile |     37 |
-| \#SEXTORETIRO                 |     37 |
-| \#MuchoGustoMega              |     35 |
-| \#AprueboSinMentiras          |     33 |
-| \#Chile                       |     31 |
-| \#RechazoElMamarracho         |     31 |
-| \#Iquique                     |     28 |
+| \#Apruebo                     |    121 |
+| \#AprueboConEsperanza         |     92 |
+| \#Rechazo                     |     81 |
+| \#RechazoTransversal          |     59 |
+| \#sinfiltrostv                |     57 |
+| \#NoSoyFachoVotoRechazo       |     53 |
+| \#CopagoCero                  |     48 |
+| \#AprueboNuevaconstitucion    |     46 |
+| \#ChaoPase                    |     46 |
+| \#AprueboSinMiedo             |     43 |
+| \#RechazoDeSalida             |     42 |
+| \#Chile                       |     40 |
+| \#AprueboSinMentiras          |     37 |
+| \#SextoRetiro                 |     35 |
+| \#SEXTORETIRO                 |     34 |
+| \#RechazoXAmorAChile          |     33 |
+| \#ApruebaSeraHermoso          |     32 |
+| \#RechazoElMamarracho         |     32 |
+| \#RechazoLaDestruccionDeChile |     32 |
+| \#ContigoCHV                  |     30 |
 
 # Cuentas
 
