@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-28 02:24:13
+Chile. Fecha del reporte: 2022-07-29 02:33:37
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-07-28 02:24:13
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#Apruebo                     |    121 |
-| \#AprueboConEsperanza         |     92 |
-| \#Rechazo                     |     81 |
-| \#RechazoTransversal          |     59 |
-| \#sinfiltrostv                |     57 |
-| \#NoSoyFachoVotoRechazo       |     53 |
-| \#CopagoCero                  |     48 |
-| \#AprueboNuevaconstitucion    |     46 |
+| \#Rechazo                     |     80 |
+| \#Apruebo                     |     79 |
+| \#RechazoTransversal          |     57 |
+| \#AprueboConEsperanza         |     55 |
+| \#SextoRetiro                 |     55 |
 | \#ChaoPase                    |     46 |
-| \#AprueboSinMiedo             |     43 |
-| \#RechazoDeSalida             |     42 |
-| \#Chile                       |     40 |
-| \#AprueboSinMentiras          |     37 |
-| \#SextoRetiro                 |     35 |
-| \#SEXTORETIRO                 |     34 |
-| \#RechazoXAmorAChile          |     33 |
-| \#ApruebaSeraHermoso          |     32 |
-| \#RechazoElMamarracho         |     32 |
-| \#RechazoLaDestruccionDeChile |     32 |
-| \#ContigoCHV                  |     30 |
+| \#AprueboSinMiedo             |     42 |
+| \#RechazoXAmorAChile          |     37 |
+| \#AprueboFeliz                |     34 |
+| \#RechazoDeSalida             |     32 |
+| \#SEXTORETIRO                 |     32 |
+| \#RechazoLaDestruccionDeChile |     31 |
+| \#AprueboSinMentiras          |     29 |
+| \#AprueboCrece                |     28 |
+| \#Chile                       |     27 |
+| \#ContigoCHV                  |     26 |
+| \#100Indecisos                |     25 |
+| \#sinfiltrostv                |     25 |
+| \#ApruebaSeraHermoso          |     22 |
+| \#MeganoticiasActualiza       |     22 |
 
 # Cuentas
 
