@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-07-29 02:33:37
+Chile. Fecha del reporte: 2022-08-01 02:40:06
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-07-29 02:33:37
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#Rechazo                     |     80 |
-| \#Apruebo                     |     79 |
-| \#RechazoTransversal          |     57 |
-| \#AprueboConEsperanza         |     55 |
-| \#SextoRetiro                 |     55 |
-| \#ChaoPase                    |     46 |
-| \#AprueboSinMiedo             |     42 |
+| \#Apruebo                     |    104 |
+| \#AprueboCrece                |     88 |
+| \#Rechazo                     |     67 |
+| \#RechazoTransversal          |     64 |
+| \#RechazoPorChile             |     57 |
+| \#AprueboSinMentiras          |     48 |
+| \#AprueboFeliz                |     46 |
+| \#RechazoLaDestruccionDeChile |     45 |
+| \#100Indecisos                |     39 |
+| \#AprueboSinMiedo             |     37 |
 | \#RechazoXAmorAChile          |     37 |
-| \#AprueboFeliz                |     34 |
-| \#RechazoDeSalida             |     32 |
-| \#SEXTORETIRO                 |     32 |
-| \#RechazoLaDestruccionDeChile |     31 |
-| \#AprueboSinMentiras          |     29 |
-| \#AprueboCrece                |     28 |
-| \#Chile                       |     27 |
-| \#ContigoCHV                  |     26 |
-| \#100Indecisos                |     25 |
-| \#sinfiltrostv                |     25 |
-| \#ApruebaSeraHermoso          |     22 |
-| \#MeganoticiasActualiza       |     22 |
+| \#TodosSomosMatiasDelRio      |     33 |
+| \#ApruebaSeraHermoso          |     30 |
+| \#AprueboConEsperanza         |     30 |
+| \#RechazoDeSalida             |     27 |
+| \#SePegaronEnLaCabeza         |     27 |
+| \#SEXTORETIRO                 |     25 |
+| \#Cadem                       |     23 |
+| \#ContigoCHV                  |     23 |
+| \#MesaCentral                 |     23 |
 
 # Cuentas
 
