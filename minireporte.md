@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-01 02:40:06
+Chile. Fecha del reporte: 2022-08-02 02:39:56
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-01 02:40:06
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#Apruebo                     |    104 |
-| \#AprueboCrece                |     88 |
-| \#Rechazo                     |     67 |
-| \#RechazoTransversal          |     64 |
-| \#RechazoPorChile             |     57 |
-| \#AprueboSinMentiras          |     48 |
-| \#AprueboFeliz                |     46 |
-| \#RechazoLaDestruccionDeChile |     45 |
-| \#100Indecisos                |     39 |
-| \#AprueboSinMiedo             |     37 |
-| \#RechazoXAmorAChile          |     37 |
-| \#TodosSomosMatiasDelRio      |     33 |
-| \#ApruebaSeraHermoso          |     30 |
-| \#AprueboConEsperanza         |     30 |
-| \#RechazoDeSalida             |     27 |
-| \#SePegaronEnLaCabeza         |     27 |
-| \#SEXTORETIRO                 |     25 |
-| \#Cadem                       |     23 |
-| \#ContigoCHV                  |     23 |
-| \#MesaCentral                 |     23 |
+| \#Apruebo                     |    151 |
+| \#RechazoPorChile             |    106 |
+| \#AprueboCrece                |     77 |
+| \#Rechazo                     |     71 |
+| \#enacional                   |     65 |
+| \#SinFiltros                  |     50 |
+| \#CENTRODERECHAPORELAPRUEBO   |     45 |
+| \#laleydebaltazar             |     41 |
+| \#RechazoXAmorAChile          |     40 |
+| \#AprueboSinMentiras          |     37 |
+| \#RechazoLaDestruccionDeChile |     37 |
+| \#100Indecisos                |     35 |
+| \#ChaoPase                    |     35 |
+| \#AprueboSinMiedo             |     34 |
+| \#AprueboFeliz                |     32 |
+| \#ContigoCHV                  |     32 |
+| \#RECHAZO                     |     28 |
+| \#Chile                       |     26 |
+| \#EstadoNacional              |     25 |
+| \#RechazoDeSalida             |     25 |
 
 # Cuentas
 
