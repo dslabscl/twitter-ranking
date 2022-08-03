@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-02 02:39:56
+Chile. Fecha del reporte: 2022-08-03 02:29:27
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-02 02:39:56
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#Apruebo                     |    151 |
-| \#RechazoPorChile             |    106 |
-| \#AprueboCrece                |     77 |
-| \#Rechazo                     |     71 |
-| \#enacional                   |     65 |
-| \#SinFiltros                  |     50 |
-| \#CENTRODERECHAPORELAPRUEBO   |     45 |
-| \#laleydebaltazar             |     41 |
-| \#RechazoXAmorAChile          |     40 |
-| \#AprueboSinMentiras          |     37 |
-| \#RechazoLaDestruccionDeChile |     37 |
-| \#100Indecisos                |     35 |
-| \#ChaoPase                    |     35 |
-| \#AprueboSinMiedo             |     34 |
-| \#AprueboFeliz                |     32 |
-| \#ContigoCHV                  |     32 |
-| \#RECHAZO                     |     28 |
+| \#Apruebo                     |    102 |
+| \#AprueboCrece                |     66 |
+| \#RechazoPorChile             |     66 |
+| \#Rechazo                     |     58 |
+| \#AprueboSinMentiras          |     51 |
+| \#ContigoCHV                  |     43 |
+| \#RechazoXAmorAChile          |     41 |
+| \#AprueboFeliz                |     31 |
+| \#SextoRetiro                 |     29 |
+| \#AprueboSinMiedo             |     26 |
 | \#Chile                       |     26 |
-| \#EstadoNacional              |     25 |
-| \#RechazoDeSalida             |     25 |
+| \#RechazoLaDestruccionDeChile |     26 |
+| \#RechazoDeSalida             |     24 |
+| \#RechazoTransversal          |     24 |
+| \#MuchoGustoMega              |     22 |
+| \#TamaraSi365No               |     21 |
+| \#rechazo                     |     20 |
+| \#AprueboConEsperanza         |     19 |
+| \#MatchConstituyente          |     19 |
+| \#TerceraGuerraMundial        |     19 |
 
 # Cuentas
 
