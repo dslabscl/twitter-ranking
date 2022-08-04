@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-03 02:29:27
+Chile. Fecha del reporte: 2022-08-04 02:14:54
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-03 02:29:27
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#Apruebo                     |    102 |
-| \#AprueboCrece                |     66 |
-| \#RechazoPorChile             |     66 |
-| \#Rechazo                     |     58 |
-| \#AprueboSinMentiras          |     51 |
-| \#ContigoCHV                  |     43 |
-| \#RechazoXAmorAChile          |     41 |
-| \#AprueboFeliz                |     31 |
-| \#SextoRetiro                 |     29 |
-| \#AprueboSinMiedo             |     26 |
-| \#Chile                       |     26 |
-| \#RechazoLaDestruccionDeChile |     26 |
-| \#RechazoDeSalida             |     24 |
-| \#RechazoTransversal          |     24 |
-| \#MuchoGustoMega              |     22 |
-| \#TamaraSi365No               |     21 |
-| \#rechazo                     |     20 |
-| \#AprueboConEsperanza         |     19 |
-| \#MatchConstituyente          |     19 |
-| \#TerceraGuerraMundial        |     19 |
+| \#AprueboCrece                |     78 |
+| \#Apruebo                     |     71 |
+| \#Rechazo                     |     51 |
+| \#RechazoPorChile             |     50 |
+| \#AprueboConEsperanza         |     35 |
+| \#RechazoXAmorAChile          |     35 |
+| \#AprueboSinMentiras          |     31 |
+| \#ContigoCHV                  |     30 |
+| \#RechazoTransversal          |     29 |
+| \#aprueboEl4deSeptiembre      |     23 |
+| \#AprueboFeliz                |     23 |
+| \#AprueboSinMiedo             |     22 |
+| \#ApruebaSeraHermoso          |     21 |
+| \#Chile                       |     21 |
+| \#RechazoDeSalida             |     21 |
+| \#RECHAZO                     |     19 |
+| \#RechazoLaDestruccionDeChile |     19 |
+| \#SiempreEsHoy                |     19 |
+| \#Emol                        |     18 |
+| \#MuchoGustoMega              |     18 |
 
 # Cuentas
 
