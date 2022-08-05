@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-04 02:14:54
+Chile. Fecha del reporte: 2022-08-05 02:23:11
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-08-04 02:14:54
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#AprueboCrece                |     78 |
-| \#Apruebo                     |     71 |
-| \#Rechazo                     |     51 |
-| \#RechazoPorChile             |     50 |
-| \#AprueboConEsperanza         |     35 |
-| \#RechazoXAmorAChile          |     35 |
-| \#AprueboSinMentiras          |     31 |
-| \#ContigoCHV                  |     30 |
-| \#RechazoTransversal          |     29 |
-| \#aprueboEl4deSeptiembre      |     23 |
-| \#AprueboFeliz                |     23 |
-| \#AprueboSinMiedo             |     22 |
-| \#ApruebaSeraHermoso          |     21 |
-| \#Chile                       |     21 |
-| \#RechazoDeSalida             |     21 |
-| \#RECHAZO                     |     19 |
-| \#RechazoLaDestruccionDeChile |     19 |
-| \#SiempreEsHoy                |     19 |
-| \#Emol                        |     18 |
-| \#MuchoGustoMega              |     18 |
+| datos                              | Cuenta |
+|:-----------------------------------|-------:|
+| \#Apruebo                          |     70 |
+| \#AprueboCrece                     |     69 |
+| \#RechazoPorChile                  |     58 |
+| \#Rechazo                          |     53 |
+| \#RechazoTransversal               |     45 |
+| \#SextoRetiro                      |     45 |
+| \#AprueboConEsperanza              |     43 |
+| \#RechazoXAmorAChile               |     41 |
+| \#ContigoCHV                       |     36 |
+| \#RechazoDeSalida                  |     34 |
+| \#Chile                            |     31 |
+| \#AprueboSinMentiras               |     27 |
+| \#AprueboFeliz                     |     24 |
+| \#RechazoLaDestruccionDeChile      |     24 |
+| \#RechazoXChile                    |     22 |
+| \#AprueboSinMiedo                  |     21 |
+| \#apruebo                          |     20 |
+| \#MuchoGustoMega                   |     19 |
+| \#ApruebaSeraHermoso               |     18 |
+| \#fueraIzkiaJacksonGrauYarzaDammer |     18 |
 
 # Cuentas
 
