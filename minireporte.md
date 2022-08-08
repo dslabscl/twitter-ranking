@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-05 02:23:11
+Chile. Fecha del reporte: 2022-08-08 02:17:11
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-08-05 02:23:11
 
 # Hashtags más populares
 
-| datos                              | Cuenta |
-|:-----------------------------------|-------:|
-| \#Apruebo                          |     70 |
-| \#AprueboCrece                     |     69 |
-| \#RechazoPorChile                  |     58 |
-| \#Rechazo                          |     53 |
-| \#RechazoTransversal               |     45 |
-| \#SextoRetiro                      |     45 |
-| \#AprueboConEsperanza              |     43 |
-| \#RechazoXAmorAChile               |     41 |
-| \#ContigoCHV                       |     36 |
-| \#RechazoDeSalida                  |     34 |
-| \#Chile                            |     31 |
-| \#AprueboSinMentiras               |     27 |
-| \#AprueboFeliz                     |     24 |
-| \#RechazoLaDestruccionDeChile      |     24 |
-| \#RechazoXChile                    |     22 |
-| \#AprueboSinMiedo                  |     21 |
-| \#apruebo                          |     20 |
-| \#MuchoGustoMega                   |     19 |
-| \#ApruebaSeraHermoso               |     18 |
-| \#fueraIzkiaJacksonGrauYarzaDammer |     18 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#RechazoPorChile              |     94 |
+| \#Apruebo                      |     84 |
+| \#Rechazo                      |     75 |
+| \#RechazoElMamarrachoComunista |     61 |
+| \#RechazoTransversal           |     56 |
+| \#AprueboSinMentiras           |     54 |
+| \#RechazoXAmorAChile           |     51 |
+| \#AprueboConEsperanza          |     49 |
+| \#RechazoLaDestruccionDeChile  |     45 |
+| \#AprueboCrece                 |     40 |
+| \#AprueboSinMiedo              |     39 |
+| \#RechazoConTodos              |     37 |
+| \#Chile                        |     35 |
+| \#AprueboFeliz                 |     32 |
+| \#RechazoDeSalida              |     29 |
+| \#SextoRetiro                  |     28 |
+| \#apruebo                      |     25 |
+| \#ApruebaSeraHermoso           |     23 |
+| \#ContigoCHV                   |     23 |
+| \#merluzo                      |     23 |
 
 # Cuentas
 
