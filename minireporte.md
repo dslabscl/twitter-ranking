@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-08 02:17:11
+Chile. Fecha del reporte: 2022-08-09 02:27:40
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-08 02:17:11
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#RechazoPorChile              |     94 |
-| \#Apruebo                      |     84 |
-| \#Rechazo                      |     75 |
-| \#RechazoElMamarrachoComunista |     61 |
-| \#RechazoTransversal           |     56 |
-| \#AprueboSinMentiras           |     54 |
-| \#RechazoXAmorAChile           |     51 |
-| \#AprueboConEsperanza          |     49 |
-| \#RechazoLaDestruccionDeChile  |     45 |
-| \#AprueboCrece                 |     40 |
-| \#AprueboSinMiedo              |     39 |
-| \#RechazoConTodos              |     37 |
-| \#Chile                        |     35 |
-| \#AprueboFeliz                 |     32 |
-| \#RechazoDeSalida              |     29 |
-| \#SextoRetiro                  |     28 |
-| \#apruebo                      |     25 |
-| \#ApruebaSeraHermoso           |     23 |
-| \#ContigoCHV                   |     23 |
-| \#merluzo                      |     23 |
+| \#Apruebo                      |     98 |
+| \#RechazoPorChile              |     77 |
+| \#Rechazo                      |     74 |
+| \#SEXTORETIRO                  |     67 |
+| \#AprueboSinMentiras           |     53 |
+| \#AprueboCrece                 |     43 |
+| \#AprueboConEsperanza          |     40 |
+| \#ContigoCHV                   |     37 |
+| \#SextoRetiro                  |     37 |
+| \#RechazoXAmorAChile           |     35 |
+| \#AprueboSinMiedo              |     33 |
+| \#RechazoTransversal           |     33 |
+| \#RechazoElMamarrachoComunista |     31 |
+| \#AprueboFeliz                 |     29 |
+| \#MuchoGustoMega               |     29 |
+| \#MerluzosXElApruebo           |     28 |
+| \#ApruebaSeraHermoso           |     27 |
+| \#AprueboDeSalida              |     26 |
+| \#rechazo                      |     26 |
+| \#AprueboXAmor                 |     23 |
 
 # Cuentas
 
