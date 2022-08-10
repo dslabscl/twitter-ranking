@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-09 02:27:40
+Chile. Fecha del reporte: 2022-08-10 02:01:51
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-09 02:27:40
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#Apruebo                      |     98 |
+| \#Apruebo                      |    105 |
+| \#Rechazo                      |     94 |
 | \#RechazoPorChile              |     77 |
-| \#Rechazo                      |     74 |
-| \#SEXTORETIRO                  |     67 |
-| \#AprueboSinMentiras           |     53 |
-| \#AprueboCrece                 |     43 |
-| \#AprueboConEsperanza          |     40 |
-| \#ContigoCHV                   |     37 |
-| \#SextoRetiro                  |     37 |
-| \#RechazoXAmorAChile           |     35 |
-| \#AprueboSinMiedo              |     33 |
-| \#RechazoTransversal           |     33 |
-| \#RechazoElMamarrachoComunista |     31 |
-| \#AprueboFeliz                 |     29 |
-| \#MuchoGustoMega               |     29 |
-| \#MerluzosXElApruebo           |     28 |
-| \#ApruebaSeraHermoso           |     27 |
-| \#AprueboDeSalida              |     26 |
-| \#rechazo                      |     26 |
-| \#AprueboXAmor                 |     23 |
+| \#AprueboSinMentiras           |     66 |
+| \#RechazoElMamarrachoComunista |     66 |
+| \#AprueboConEsperanza          |     47 |
+| \#SextoRetiro                  |     46 |
+| \#RechazoTransversal           |     42 |
+| \#AprueboCrece                 |     41 |
+| \#AprueboDeSalida              |     41 |
+| \#rechazo                      |     40 |
+| \#AprueboSinMiedo              |     39 |
+| \#AprueboFeliz                 |     36 |
+| \#sextoretiro                  |     34 |
+| \#ApruebaSeraHermoso           |     33 |
+| \#RechazoXAmorAChile           |     31 |
+| \#Chile                        |     26 |
+| \#apruebo                      |     25 |
+| \#AprueboXAmor                 |     25 |
+| \#MuchoGustoMega               |     23 |
 
 # Cuentas
 
