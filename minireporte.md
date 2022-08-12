@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-10 02:01:51
+Chile. Fecha del reporte: 2022-08-12 02:19:39
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-10 02:01:51
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#Apruebo                      |    105 |
-| \#Rechazo                      |     94 |
-| \#RechazoPorChile              |     77 |
-| \#AprueboSinMentiras           |     66 |
-| \#RechazoElMamarrachoComunista |     66 |
-| \#AprueboConEsperanza          |     47 |
-| \#SextoRetiro                  |     46 |
-| \#RechazoTransversal           |     42 |
-| \#AprueboCrece                 |     41 |
-| \#AprueboDeSalida              |     41 |
-| \#rechazo                      |     40 |
-| \#AprueboSinMiedo              |     39 |
+| \#SEXTORETIRO                  |    475 |
+| \#Rechazo                      |    139 |
+| \#Apruebo                      |    120 |
+| \#SextoRetiro                  |     79 |
+| \#RechazoElMamarrachoComunista |     70 |
+| \#RechazoXAmorAChile           |     60 |
+| \#RechazoTransversal           |     53 |
+| \#RechazoPorChile              |     52 |
+| \#AprueboSinMentiras           |     48 |
+| \#AprobamosFelices             |     47 |
+| \#ApruebaSeraHermoso           |     46 |
+| \#FelizJueves                  |     38 |
+| \#FRENTEAMPLIO                 |     38 |
+| \#PC                           |     38 |
+| \#PS                           |     38 |
 | \#AprueboFeliz                 |     36 |
-| \#sextoretiro                  |     34 |
-| \#ApruebaSeraHermoso           |     33 |
-| \#RechazoXAmorAChile           |     31 |
-| \#Chile                        |     26 |
-| \#apruebo                      |     25 |
-| \#AprueboXAmor                 |     25 |
-| \#MuchoGustoMega               |     23 |
+| \#AprueboConEsperanza          |     35 |
+| \#CocinarParaAprobar           |     35 |
+| \#MaquillarParaAprobar         |     34 |
+| \#MuchoGustoMega               |     34 |
 
 # Cuentas
 
