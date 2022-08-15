@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-12 02:19:39
+Chile. Fecha del reporte: 2022-08-15 02:30:33
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-12 02:19:39
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#SEXTORETIRO                  |    475 |
-| \#Rechazo                      |    139 |
-| \#Apruebo                      |    120 |
-| \#SextoRetiro                  |     79 |
-| \#RechazoElMamarrachoComunista |     70 |
-| \#RechazoXAmorAChile           |     60 |
-| \#RechazoTransversal           |     53 |
-| \#RechazoPorChile              |     52 |
-| \#AprueboSinMentiras           |     48 |
-| \#AprobamosFelices             |     47 |
-| \#ApruebaSeraHermoso           |     46 |
-| \#FelizJueves                  |     38 |
-| \#FRENTEAMPLIO                 |     38 |
-| \#PC                           |     38 |
-| \#PS                           |     38 |
+| \#RechazoTransversal           |    151 |
+| \#Rechazo                      |    126 |
+| \#Apruebo                      |    123 |
+| \#SextoRetiro                  |     62 |
+| \#RechazoElMamarrachoComunista |     61 |
+| \#RechazoXAmorAChile           |     50 |
+| \#RechazoPorChile              |     41 |
+| \#AprueboSinMentiras           |     38 |
+| \#AprobamosFelices             |     37 |
 | \#AprueboFeliz                 |     36 |
-| \#AprueboConEsperanza          |     35 |
-| \#CocinarParaAprobar           |     35 |
-| \#MaquillarParaAprobar         |     34 |
-| \#MuchoGustoMega               |     34 |
+| \#Cadem                        |     30 |
+| \#rechazo                      |     30 |
+| \#SiempreEsHoy                 |     30 |
+| \#ApruebaSeraHermoso           |     28 |
+| \#AprueboSinCondiciones        |     28 |
+| \#RechazoDeSalida              |     28 |
+| \#ContigoCHV                   |     27 |
+| \#RECHAZO                      |     27 |
+| \#AprueboConEsperanza          |     26 |
+| \#AprueboCrece                 |     26 |
 
 # Cuentas
 
