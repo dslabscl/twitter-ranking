@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-15 02:30:33
+Chile. Fecha del reporte: 2022-08-16 02:27:53
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-15 02:30:33
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#RechazoTransversal           |    151 |
-| \#Rechazo                      |    126 |
-| \#Apruebo                      |    123 |
-| \#SextoRetiro                  |     62 |
-| \#RechazoElMamarrachoComunista |     61 |
-| \#RechazoXAmorAChile           |     50 |
-| \#RechazoPorChile              |     41 |
-| \#AprueboSinMentiras           |     38 |
-| \#AprobamosFelices             |     37 |
-| \#AprueboFeliz                 |     36 |
-| \#Cadem                        |     30 |
-| \#rechazo                      |     30 |
-| \#SiempreEsHoy                 |     30 |
-| \#ApruebaSeraHermoso           |     28 |
-| \#AprueboSinCondiciones        |     28 |
-| \#RechazoDeSalida              |     28 |
-| \#ContigoCHV                   |     27 |
-| \#RECHAZO                      |     27 |
-| \#AprueboConEsperanza          |     26 |
-| \#AprueboCrece                 |     26 |
+| \#Rechazo                      |    127 |
+| \#RechazoTransversal           |     93 |
+| \#Apruebo                      |     83 |
+| \#RechazoElMamarrachoComunista |     70 |
+| \#SextoRetiro                  |     61 |
+| \#RechazoPorChile              |     56 |
+| \#ContigoCHV                   |     45 |
+| \#AprueboCrece                 |     35 |
+| \#AprueboFeliz                 |     33 |
+| \#AprueboSinMentiras           |     32 |
+| \#RechazoXAmorAChile           |     31 |
+| \#SiempreEsHoy                 |     31 |
+| \#Chile                        |     27 |
+| \#rechazo                      |     27 |
+| \#AprueboSinCondiciones        |     25 |
+| \#AprueboConEsperanza          |     24 |
+| \#apruebo                      |     23 |
+| \#AprueboDeSalida              |     23 |
+| \#AprobamosFelices             |     22 |
+| \#RechazoLaDestruccionDeChile  |     21 |
 
 # Cuentas
 
