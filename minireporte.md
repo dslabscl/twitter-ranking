@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-16 02:27:53
+Chile. Fecha del reporte: 2022-08-17 02:38:53
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-16 02:27:53
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#Rechazo                      |    127 |
-| \#RechazoTransversal           |     93 |
-| \#Apruebo                      |     83 |
-| \#RechazoElMamarrachoComunista |     70 |
-| \#SextoRetiro                  |     61 |
-| \#RechazoPorChile              |     56 |
-| \#ContigoCHV                   |     45 |
-| \#AprueboCrece                 |     35 |
-| \#AprueboFeliz                 |     33 |
-| \#AprueboSinMentiras           |     32 |
-| \#RechazoXAmorAChile           |     31 |
-| \#SiempreEsHoy                 |     31 |
-| \#Chile                        |     27 |
-| \#rechazo                      |     27 |
-| \#AprueboSinCondiciones        |     25 |
-| \#AprueboConEsperanza          |     24 |
-| \#apruebo                      |     23 |
-| \#AprueboDeSalida              |     23 |
-| \#AprobamosFelices             |     22 |
-| \#RechazoLaDestruccionDeChile  |     21 |
+| \#Rechazo                      |    114 |
+| \#Apruebo                      |     90 |
+| \#RechazoTransversal           |     65 |
+| \#SextoRetiro                  |     54 |
+| \#sextoretiro                  |     50 |
+| \#RechazoPorChile              |     47 |
+| \#AprueboSinMentiras           |     46 |
+| \#RechazoElMamarrachoComunista |     46 |
+| \#ContigoCHV                   |     42 |
+| \#MuchoGustoMega               |     34 |
+| \#SiempreEsHoy                 |     33 |
+| \#AprueboSinMiedo              |     32 |
+| \#AprueboSinCondiciones        |     31 |
+| \#AprueboDeSalida              |     30 |
+| \#AprueboFeliz                 |     28 |
+| \#Chile                        |     26 |
+| \#AprueboConEsperanza          |     25 |
+| \#rechazo                      |     24 |
+| \#AprueboCrece                 |     21 |
+| \#AprueboXAmor                 |     20 |
 
 # Cuentas
 
