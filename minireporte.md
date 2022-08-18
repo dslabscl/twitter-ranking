@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-17 02:38:53
+Chile. Fecha del reporte: 2022-08-18 02:39:18
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-17 02:38:53
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#Rechazo                      |    114 |
-| \#Apruebo                      |     90 |
-| \#RechazoTransversal           |     65 |
-| \#SextoRetiro                  |     54 |
-| \#sextoretiro                  |     50 |
-| \#RechazoPorChile              |     47 |
-| \#AprueboSinMentiras           |     46 |
-| \#RechazoElMamarrachoComunista |     46 |
-| \#ContigoCHV                   |     42 |
-| \#MuchoGustoMega               |     34 |
-| \#SiempreEsHoy                 |     33 |
-| \#AprueboSinMiedo              |     32 |
-| \#AprueboSinCondiciones        |     31 |
-| \#AprueboDeSalida              |     30 |
-| \#AprueboFeliz                 |     28 |
-| \#Chile                        |     26 |
-| \#AprueboConEsperanza          |     25 |
-| \#rechazo                      |     24 |
-| \#AprueboCrece                 |     21 |
-| \#AprueboXAmor                 |     20 |
+| \#SextoRetiro                  |    202 |
+| \#Apruebo                      |    173 |
+| \#Rechazo                      |    124 |
+| \#AprueboSinMentiras           |     91 |
+| \#AprueboSinMiedo              |     89 |
+| \#ChaoALaVieja                 |     68 |
+| \#panchomiedo                  |     60 |
+| \#PineraVotaRechazo            |     59 |
+| \#VamosColoColo                |     56 |
+| \#RechazoTransversal           |     52 |
+| \#RechazoElMamarrachoComunista |     45 |
+| \#AprueboCrece                 |     39 |
+| \#RechazoPorChile              |     38 |
+| \#AprueboDeSalida              |     37 |
+| \#Chile                        |     37 |
+| \#MuchoGustoMega               |     37 |
+| \#SectoRetiro                  |     35 |
+| \#AprueboFeliz                 |     34 |
+| \#temblor                      |     34 |
+| \#AprueboConEsperanza          |     32 |
 
 # Cuentas
 
