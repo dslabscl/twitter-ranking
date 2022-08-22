@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-18 02:39:18
+Chile. Fecha del reporte: 2022-08-22 02:27:40
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-18 02:39:18
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#SextoRetiro                  |    202 |
-| \#Apruebo                      |    173 |
-| \#Rechazo                      |    124 |
-| \#AprueboSinMentiras           |     91 |
-| \#AprueboSinMiedo              |     89 |
-| \#ChaoALaVieja                 |     68 |
-| \#panchomiedo                  |     60 |
-| \#PineraVotaRechazo            |     59 |
-| \#VamosColoColo                |     56 |
-| \#RechazoTransversal           |     52 |
-| \#RechazoElMamarrachoComunista |     45 |
-| \#AprueboCrece                 |     39 |
-| \#RechazoPorChile              |     38 |
-| \#AprueboDeSalida              |     37 |
-| \#Chile                        |     37 |
-| \#MuchoGustoMega               |     37 |
-| \#SectoRetiro                  |     35 |
-| \#AprueboFeliz                 |     34 |
-| \#temblor                      |     34 |
-| \#AprueboConEsperanza          |     32 |
+| \#Rechazo                      |    127 |
+| \#Apruebo                      |     98 |
+| \#AprueboUnChileMejor          |     61 |
+| \#RechazoElMamarrachoComunista |     58 |
+| \#RechazoTransversal           |     58 |
+| \#Apruebazo                    |     57 |
+| \#SextoRetiro                  |     56 |
+| \#RechazoXAmorAChile           |     53 |
+| \#sextoretiro                  |     53 |
+| \#AprueboDeSalida              |     40 |
+| \#AprueboSinMentiras           |     38 |
+| \#AprueboConEsperanza          |     34 |
+| \#RechazoPorChile              |     31 |
+| \#ContigoCHV                   |     27 |
+| \#apruebo                      |     26 |
+| \#AprueboCrece                 |     26 |
+| \#rechazo                      |     26 |
+| \#RechazoElMamarracho          |     26 |
+| \#MesaCentral                  |     22 |
+| \#RechazoCrece                 |     22 |
 
 # Cuentas
 
