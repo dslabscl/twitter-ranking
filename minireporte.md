@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-22 02:27:40
+Chile. Fecha del reporte: 2022-08-23 02:37:23
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-22 02:27:40
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#Rechazo                      |    127 |
-| \#Apruebo                      |     98 |
-| \#AprueboUnChileMejor          |     61 |
-| \#RechazoElMamarrachoComunista |     58 |
-| \#RechazoTransversal           |     58 |
-| \#Apruebazo                    |     57 |
-| \#SextoRetiro                  |     56 |
-| \#RechazoXAmorAChile           |     53 |
-| \#sextoretiro                  |     53 |
-| \#AprueboDeSalida              |     40 |
-| \#AprueboSinMentiras           |     38 |
-| \#AprueboConEsperanza          |     34 |
-| \#RechazoPorChile              |     31 |
-| \#ContigoCHV                   |     27 |
-| \#apruebo                      |     26 |
-| \#AprueboCrece                 |     26 |
-| \#rechazo                      |     26 |
-| \#RechazoElMamarracho          |     26 |
-| \#MesaCentral                  |     22 |
-| \#RechazoCrece                 |     22 |
+| \#Rechazo                      |     90 |
+| \#Apruebo                      |     89 |
+| \#AprueboUnChileMejor          |     62 |
+| \#Apruebazo                    |     58 |
+| \#AprueboDeSalida              |     58 |
+| \#RechazoTransversal           |     51 |
+| \#RechazoXAmorAChile           |     42 |
+| \#CherryPicking                |     39 |
+| \#RechazoElMamarrachoComunista |     39 |
+| \#sextoretiro                  |     39 |
+| \#MuchoGustoMega               |     34 |
+| \#AprueboSinMentiras           |     30 |
+| \#ContigoCHV                   |     30 |
+| \#FranjaDelRechazo             |     28 |
+| \#RECHAZO                      |     28 |
+| \#AprueboConEsperanza          |     26 |
+| \#rechazo                      |     25 |
+| \#SextoRetiro                  |     25 |
+| \#AprueboCrece                 |     24 |
+| \#RechazoElMamarracho          |     24 |
 
 # Cuentas
 
