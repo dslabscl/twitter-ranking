@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-23 02:37:23
+Chile. Fecha del reporte: 2022-08-24 02:37:29
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-23 02:37:23
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#Rechazo                      |     90 |
-| \#Apruebo                      |     89 |
-| \#AprueboUnChileMejor          |     62 |
-| \#Apruebazo                    |     58 |
-| \#AprueboDeSalida              |     58 |
-| \#RechazoTransversal           |     51 |
-| \#RechazoXAmorAChile           |     42 |
-| \#CherryPicking                |     39 |
-| \#RechazoElMamarrachoComunista |     39 |
-| \#sextoretiro                  |     39 |
-| \#MuchoGustoMega               |     34 |
-| \#AprueboSinMentiras           |     30 |
-| \#ContigoCHV                   |     30 |
-| \#FranjaDelRechazo             |     28 |
-| \#RECHAZO                      |     28 |
-| \#AprueboConEsperanza          |     26 |
-| \#rechazo                      |     25 |
-| \#SextoRetiro                  |     25 |
-| \#AprueboCrece                 |     24 |
-| \#RechazoElMamarracho          |     24 |
+| \#Apruebo                      |    121 |
+| \#Rechazo                      |    115 |
+| \#AprueboUnChileMejor          |     79 |
+| \#RechazoElMamarrachoComunista |     58 |
+| \#AprueboSinMentiras           |     57 |
+| \#AprueboDeSalida              |     56 |
+| \#RechazoXAmorAChile           |     52 |
+| \#CherryPicking                |     51 |
+| \#sinfiltros_tv                |     49 |
+| \#Apruebazo                    |     45 |
+| \#AprueboSinMiedo              |     44 |
+| \#RechazoTransversal           |     44 |
+| \#rechazo                      |     42 |
+| \#TodosPorElRechazo            |     42 |
+| \#BoricGOLPISTA                |     41 |
+| \#40Horas                      |     38 |
+| \#DerechaMiserable             |     36 |
+| \#RechazoPorChile              |     33 |
+| \#ContigoCHV                   |     32 |
+| \#AprueboConEsperanza          |     30 |
 
 # Cuentas
 
