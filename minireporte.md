@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-24 02:37:29
+Chile. Fecha del reporte: 2022-08-25 02:40:01
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-24 02:37:29
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#Apruebo                      |    121 |
-| \#Rechazo                      |    115 |
-| \#AprueboUnChileMejor          |     79 |
-| \#RechazoElMamarrachoComunista |     58 |
-| \#AprueboSinMentiras           |     57 |
-| \#AprueboDeSalida              |     56 |
-| \#RechazoXAmorAChile           |     52 |
-| \#CherryPicking                |     51 |
-| \#sinfiltros_tv                |     49 |
-| \#Apruebazo                    |     45 |
-| \#AprueboSinMiedo              |     44 |
-| \#RechazoTransversal           |     44 |
-| \#rechazo                      |     42 |
-| \#TodosPorElRechazo            |     42 |
-| \#BoricGOLPISTA                |     41 |
-| \#40Horas                      |     38 |
-| \#DerechaMiserable             |     36 |
-| \#RechazoPorChile              |     33 |
-| \#ContigoCHV                   |     32 |
-| \#AprueboConEsperanza          |     30 |
+| \#Apruebo                      |    100 |
+| \#Rechazo                      |    100 |
+| \#AprueboUnChileMejor          |     66 |
+| \#Llaitul                      |     39 |
+| \#Apruebazo                    |     38 |
+| \#RechazoElMamarrachoComunista |     38 |
+| \#RechazoTransversal           |     36 |
+| \#AprueboDeSalida              |     35 |
+| \#MuchoGustoMega               |     34 |
+| \#AprueboSinMentiras           |     33 |
+| \#AprueboSinMiedo              |     31 |
+| \#RechazoXAmorAChile           |     29 |
+| \#SiempreEsHoy                 |     27 |
+| \#DerechaMiserable             |     26 |
+| \#RECHAZO                      |     26 |
+| \#Chile                        |     24 |
+| \#rechazo                      |     23 |
+| \#RechazoPorChile              |     22 |
+| \#SextoRetiro                  |     22 |
+| \#AprueboCrece                 |     21 |
 
 # Cuentas
 
