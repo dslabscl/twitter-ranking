@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-25 02:40:01
+Chile. Fecha del reporte: 2022-08-26 02:45:21
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-25 02:40:01
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#Apruebo                      |    100 |
-| \#Rechazo                      |    100 |
-| \#AprueboUnChileMejor          |     66 |
-| \#Llaitul                      |     39 |
-| \#Apruebazo                    |     38 |
-| \#RechazoElMamarrachoComunista |     38 |
-| \#RechazoTransversal           |     36 |
-| \#AprueboDeSalida              |     35 |
-| \#MuchoGustoMega               |     34 |
-| \#AprueboSinMentiras           |     33 |
-| \#AprueboSinMiedo              |     31 |
-| \#RechazoXAmorAChile           |     29 |
-| \#SiempreEsHoy                 |     27 |
-| \#DerechaMiserable             |     26 |
-| \#RECHAZO                      |     26 |
-| \#Chile                        |     24 |
-| \#rechazo                      |     23 |
-| \#RechazoPorChile              |     22 |
-| \#SextoRetiro                  |     22 |
-| \#AprueboCrece                 |     21 |
+| \#Rechazo                      |    132 |
+| \#Apruebo                      |    121 |
+| \#AprueboCrece                 |     96 |
+| \#GobiernoTerrorista           |     79 |
+| \#RechazoConFuerza             |     75 |
+| \#GobiernoCorruptoyMentiroso   |     72 |
+| \#AprueboSinMiedo              |     66 |
+| \#AprueboUnChileMejor          |     50 |
+| \#RechazoElMamarrachoComunista |     46 |
+| \#sinfiltros_tv                |     45 |
+| \#Llaitul                      |     44 |
+| \#AprueboSinMentirasm          |     43 |
+| \#RechazoTransversal           |     42 |
+| \#RechazoPorChile              |     38 |
+| \#AprueboDeSalida              |     37 |
+| \#RechazoDeSalida              |     35 |
+| \#ContigoCHV                   |     29 |
+| \#SiempreEsHoy                 |     28 |
+| \#RechazoXAmorAChile           |     27 |
+| \#Apruebazo                    |     24 |
 
 # Cuentas
 
