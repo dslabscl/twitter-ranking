@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-26 02:45:21
+Chile. Fecha del reporte: 2022-08-29 02:43:01
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-26 02:45:21
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#Rechazo                      |    132 |
-| \#Apruebo                      |    121 |
-| \#AprueboCrece                 |     96 |
-| \#GobiernoTerrorista           |     79 |
-| \#RechazoConFuerza             |     75 |
-| \#GobiernoCorruptoyMentiroso   |     72 |
-| \#AprueboSinMiedo              |     66 |
-| \#AprueboUnChileMejor          |     50 |
-| \#RechazoElMamarrachoComunista |     46 |
-| \#sinfiltros_tv                |     45 |
-| \#Llaitul                      |     44 |
-| \#AprueboSinMentirasm          |     43 |
-| \#RechazoTransversal           |     42 |
-| \#RechazoPorChile              |     38 |
-| \#AprueboDeSalida              |     37 |
-| \#RechazoDeSalida              |     35 |
-| \#ContigoCHV                   |     29 |
-| \#SiempreEsHoy                 |     28 |
-| \#RechazoXAmorAChile           |     27 |
-| \#Apruebazo                    |     24 |
+| \#Rechazo                      |    203 |
+| \#Apruebo                      |    102 |
+| \#RechazoConFuerza             |     68 |
+| \#RechazoTransversal           |     68 |
+| \#Apruebo4deSeptiembre         |     43 |
+| \#RechazoPorChile              |     37 |
+| \#RechazoSinDegenerados        |     36 |
+| \#AprueboCrece                 |     32 |
+| \#AprueboUnChileMejor          |     31 |
+| \#Apruebazo                    |     30 |
+| \#Valparaiso                   |     29 |
+| \#MiVotoNoCambia               |     28 |
+| \#rechazo                      |     28 |
+| \#RechazoElMamarrachoComunista |     28 |
+| \#SiempreEsHoy                 |     27 |
+| \#AprueboSinMiedo              |     23 |
+| \#AprueboDeSalida              |     22 |
+| \#apruebo                      |     21 |
+| \#Llaitul                      |     21 |
+| \#RechazoXAmorAChile           |     21 |
 
 # Cuentas
 
