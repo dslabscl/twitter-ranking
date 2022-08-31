@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-29 02:43:01
+Chile. Fecha del reporte: 2022-08-31 02:55:26
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-29 02:43:01
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#Rechazo                      |    203 |
-| \#Apruebo                      |    102 |
-| \#RechazoConFuerza             |     68 |
-| \#RechazoTransversal           |     68 |
-| \#Apruebo4deSeptiembre         |     43 |
-| \#RechazoPorChile              |     37 |
-| \#RechazoSinDegenerados        |     36 |
-| \#AprueboCrece                 |     32 |
-| \#AprueboUnChileMejor          |     31 |
-| \#Apruebazo                    |     30 |
-| \#Valparaiso                   |     29 |
-| \#MiVotoNoCambia               |     28 |
-| \#rechazo                      |     28 |
-| \#RechazoElMamarrachoComunista |     28 |
-| \#SiempreEsHoy                 |     27 |
-| \#AprueboSinMiedo              |     23 |
-| \#AprueboDeSalida              |     22 |
-| \#apruebo                      |     21 |
-| \#Llaitul                      |     21 |
+| \#Apruebo                      |    107 |
+| \#Rechazo                      |     94 |
+| \#Apruebo4deSeptiembre         |     47 |
+| \#RechazoPorChile              |     34 |
+| \#RechazoConFuerza             |     27 |
+| \#RechazoElMamarrachoComunista |     27 |
+| \#AprueboUnChileMejor          |     26 |
+| \#SiempreEsHoy                 |     24 |
+| \#Chile                        |     23 |
+| \#ContigoCHV                   |     23 |
+| \#RechazoTransversal           |     22 |
 | \#RechazoXAmorAChile           |     21 |
+| \#apruebo                      |     20 |
+| \#RechazoSinDegenerados        |     20 |
+| \#SiempreJuntos                |     20 |
+| \#DeLaCarreraSeLaJuega         |     19 |
+| \#rechazo                      |     18 |
+| \#RechazoYNoSoyFacho           |     18 |
+| \#TeAmoYPunto                  |     18 |
+| \#Apruebazo                    |     17 |
 
 # Cuentas
 
