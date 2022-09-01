@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-08-31 02:55:26
+Chile. Fecha del reporte: 2022-09-01 02:36:26
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-08-31 02:55:26
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#Apruebo                      |    107 |
-| \#Rechazo                      |     94 |
-| \#Apruebo4deSeptiembre         |     47 |
-| \#RechazoPorChile              |     34 |
-| \#RechazoConFuerza             |     27 |
-| \#RechazoElMamarrachoComunista |     27 |
-| \#AprueboUnChileMejor          |     26 |
-| \#SiempreEsHoy                 |     24 |
-| \#Chile                        |     23 |
-| \#ContigoCHV                   |     23 |
-| \#RechazoTransversal           |     22 |
-| \#RechazoXAmorAChile           |     21 |
-| \#apruebo                      |     20 |
-| \#RechazoSinDegenerados        |     20 |
+| \#Rechazo                      |    121 |
+| \#Apruebo                      |    120 |
+| \#Apruebo4deSeptiembre         |     72 |
+| \#AprueboDeSalida              |     41 |
+| \#AprueboUnChileMejor          |     38 |
+| \#SextoRetiro                  |     35 |
+| \#rechazo                      |     33 |
+| \#RechazoPorChile              |     32 |
+| \#RechazoElMamarrachoComunista |     31 |
+| \#ContigoCHV                   |     28 |
+| \#RechazoCrece                 |     26 |
+| \#RechazoTransversal           |     26 |
+| \#RechazoElTerrorismo          |     25 |
+| \#AprobarEsHumano              |     22 |
+| \#NuevaConstituciónParaChile   |     20 |
+| \#SiempreEsHoy                 |     20 |
 | \#SiempreJuntos                |     20 |
-| \#DeLaCarreraSeLaJuega         |     19 |
-| \#rechazo                      |     18 |
-| \#RechazoYNoSoyFacho           |     18 |
-| \#TeAmoYPunto                  |     18 |
-| \#Apruebazo                    |     17 |
+| \#AprueboConEsperanza          |     19 |
+| \#RechazoConFuerza             |     19 |
+| \#apruebo                      |     18 |
 
 # Cuentas
 
