@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-01 02:36:26
+Chile. Fecha del reporte: 2022-09-02 02:44:18
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-09-01 02:36:26
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#Rechazo                      |    121 |
-| \#Apruebo                      |    120 |
-| \#Apruebo4deSeptiembre         |     72 |
-| \#AprueboDeSalida              |     41 |
-| \#AprueboUnChileMejor          |     38 |
-| \#SextoRetiro                  |     35 |
-| \#rechazo                      |     33 |
-| \#RechazoPorChile              |     32 |
-| \#RechazoElMamarrachoComunista |     31 |
-| \#ContigoCHV                   |     28 |
-| \#RechazoCrece                 |     26 |
-| \#RechazoTransversal           |     26 |
-| \#RechazoElTerrorismo          |     25 |
-| \#AprobarEsHumano              |     22 |
-| \#NuevaConstituciónParaChile   |     20 |
-| \#SiempreEsHoy                 |     20 |
-| \#SiempreJuntos                |     20 |
-| \#AprueboConEsperanza          |     19 |
-| \#RechazoConFuerza             |     19 |
-| \#apruebo                      |     18 |
+| \#Rechazo                      |    110 |
+| \#Apruebo4deSeptiembre         |     96 |
+| \#Apruebo                      |     91 |
+| \#AprueboDeSalida              |     54 |
+| \#RechazoEl4deSeptiembre       |     42 |
+| \#RechazoPorChile              |     35 |
+| \#RechazoTransversal           |     32 |
+| \#AprueboUnChileMejor          |     26 |
+| \#RechazoElMamarrachoComunista |     26 |
+| \#apruebo                      |     25 |
+| \#4deSeptiembre                |     23 |
+| \#Apruebazo                    |     23 |
+| \#MuchoGustoMega               |     23 |
+| \#CierredeCampaña              |     22 |
+| \#AprueboConEsperanza          |     21 |
+| \#Chile                        |     21 |
+| \#100Indecisos                 |     20 |
+| \#AprueboFeliz                 |     20 |
+| \#CierredeCampañaApruebo       |     20 |
+| \#RechazoDeSalida              |     20 |
 
 # Cuentas
 
