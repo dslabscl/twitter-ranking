@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-02 02:44:18
+Chile. Fecha del reporte: 2022-09-05 02:43:35
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-02 02:44:18
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#Rechazo                      |    110 |
-| \#Apruebo4deSeptiembre         |     96 |
-| \#Apruebo                      |     91 |
-| \#AprueboDeSalida              |     54 |
-| \#RechazoEl4deSeptiembre       |     42 |
-| \#RechazoPorChile              |     35 |
-| \#RechazoTransversal           |     32 |
-| \#AprueboUnChileMejor          |     26 |
-| \#RechazoElMamarrachoComunista |     26 |
-| \#apruebo                      |     25 |
-| \#4deSeptiembre                |     23 |
-| \#Apruebazo                    |     23 |
-| \#MuchoGustoMega               |     23 |
-| \#CierredeCampaña              |     22 |
-| \#AprueboConEsperanza          |     21 |
-| \#Chile                        |     21 |
-| \#100Indecisos                 |     20 |
-| \#AprueboFeliz                 |     20 |
-| \#CierredeCampañaApruebo       |     20 |
-| \#RechazoDeSalida              |     20 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| \#Rechazo                  |    122 |
+| \#RechazoEl4deSeptiembre   |    100 |
+| \#Apruebo                  |     77 |
+| \#PlebiscitoChile          |     58 |
+| \#Chile                    |     44 |
+| \#Elecciones2022           |     44 |
+| \#RechazoSalvaAChile       |     40 |
+| \#AprueboDeSalida          |     36 |
+| \#rechazo                  |     32 |
+| \#PlebiscitoConstitucional |     29 |
+| \#Apruebo4deSeptiembre     |     26 |
+| \#SextoRetiro              |     20 |
+| \#RechazoYPunto            |     19 |
+| \#SiempreEsHoy             |     19 |
+| \#SiempreJuntos            |     19 |
+| \#RechazoTransversal       |     18 |
+| \#AprueboUnChileMejor      |     17 |
+| \#TeAmoYPunto              |     17 |
+| \#ContigoCHV               |     14 |
+| \#MegaPlebiscito2022       |     14 |
 
 # Cuentas
 
