@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-05 02:43:35
+Chile. Fecha del reporte: 2022-09-06 02:49:33
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-05 02:43:35
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#Rechazo                  |    122 |
-| \#RechazoEl4deSeptiembre   |    100 |
-| \#Apruebo                  |     77 |
-| \#PlebiscitoChile          |     58 |
-| \#Chile                    |     44 |
-| \#Elecciones2022           |     44 |
-| \#RechazoSalvaAChile       |     40 |
-| \#AprueboDeSalida          |     36 |
-| \#rechazo                  |     32 |
-| \#PlebiscitoConstitucional |     29 |
-| \#Apruebo4deSeptiembre     |     26 |
-| \#SextoRetiro              |     20 |
-| \#RechazoYPunto            |     19 |
-| \#SiempreEsHoy             |     19 |
-| \#SiempreJuntos            |     19 |
-| \#RechazoTransversal       |     18 |
-| \#AprueboUnChileMejor      |     17 |
-| \#TeAmoYPunto              |     17 |
-| \#ContigoCHV               |     14 |
-| \#MegaPlebiscito2022       |     14 |
+| datos                    | Cuenta |
+|:-------------------------|-------:|
+| \#Rechazo                |     84 |
+| \#Apruebo                |     53 |
+| \#PlebiscitoChile        |     48 |
+| \#BASTA                  |     31 |
+| \#OtraNo                 |     31 |
+| \#Chile                  |     29 |
+| \#RechazoEl4deSeptiembre |     29 |
+| \#AprueboDeSalida        |     27 |
+| \#TigrayGenocide         |     26 |
+| \#SiempreEsHoy           |     22 |
+| \#CambioDeGabinete       |     20 |
+| \#StopWarOnTigray        |     20 |
+| \#Elecciones2022         |     19 |
+| \#SiempreJuntos          |     19 |
+| \#RechazoSalvaAChile     |     18 |
+| \#Apruebo4deSeptiembre   |     17 |
+| \#TeAmoYPunto            |     17 |
+| \#100Indecisos           |     15 |
+| \#QueremosGira           |     15 |
+| \#RenunciaBoric          |     15 |
 
 # Cuentas
 
