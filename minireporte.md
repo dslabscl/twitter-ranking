@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-06 02:49:33
+Chile. Fecha del reporte: 2022-09-07 02:48:13
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-06 02:49:33
 
 # Hashtags más populares
 
-| datos                    | Cuenta |
-|:-------------------------|-------:|
-| \#Rechazo                |     84 |
-| \#Apruebo                |     53 |
-| \#PlebiscitoChile        |     48 |
-| \#BASTA                  |     31 |
-| \#OtraNo                 |     31 |
-| \#Chile                  |     29 |
-| \#RechazoEl4deSeptiembre |     29 |
-| \#AprueboDeSalida        |     27 |
-| \#TigrayGenocide         |     26 |
-| \#SiempreEsHoy           |     22 |
-| \#CambioDeGabinete       |     20 |
-| \#StopWarOnTigray        |     20 |
-| \#Elecciones2022         |     19 |
-| \#SiempreJuntos          |     19 |
-| \#RechazoSalvaAChile     |     18 |
-| \#Apruebo4deSeptiembre   |     17 |
-| \#TeAmoYPunto            |     17 |
-| \#100Indecisos           |     15 |
-| \#QueremosGira           |     15 |
-| \#RenunciaBoric          |     15 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#Rechazo                      |     50 |
+| \#CambioDeGabinete             |     43 |
+| \#Apruebo                      |     32 |
+| \#BASTA                        |     31 |
+| \#Chile                        |     29 |
+| \#OtraNo                       |     26 |
+| \#AprueboDeSalida              |     22 |
+| \#PlebiscitoChile              |     22 |
+| \#RechazoYPunto                |     20 |
+| \#SiempreEsHoy                 |     19 |
+| \#SiempreJuntos                |     19 |
+| \#ProscribirAlPartidoComunista |     18 |
+| \#TeAmoYPunto                  |     17 |
+| \#TigrayGenocide               |     16 |
+| \#Apruebo4deSeptiembre         |     15 |
+| \#VuelveChayanne               |     14 |
+| \#CNNPrime                     |     13 |
+| \#DerechaMiserable             |     13 |
+| \#QueremosGira                 |     13 |
+| \#Arica                        |     12 |
 
 # Cuentas
 
