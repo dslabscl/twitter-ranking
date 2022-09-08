@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-07 02:48:13
+Chile. Fecha del reporte: 2022-09-08 02:47:30
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-07 02:48:13
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#Rechazo                      |     50 |
-| \#CambioDeGabinete             |     43 |
-| \#Apruebo                      |     32 |
-| \#BASTA                        |     31 |
-| \#Chile                        |     29 |
-| \#OtraNo                       |     26 |
-| \#AprueboDeSalida              |     22 |
-| \#PlebiscitoChile              |     22 |
-| \#RechazoYPunto                |     20 |
-| \#SiempreEsHoy                 |     19 |
-| \#SiempreJuntos                |     19 |
-| \#ProscribirAlPartidoComunista |     18 |
-| \#TeAmoYPunto                  |     17 |
-| \#TigrayGenocide               |     16 |
-| \#Apruebo4deSeptiembre         |     15 |
-| \#VuelveChayanne               |     14 |
-| \#CNNPrime                     |     13 |
-| \#DerechaMiserable             |     13 |
-| \#QueremosGira                 |     13 |
-| \#Arica                        |     12 |
+| datos                              | Cuenta |
+|:-----------------------------------|-------:|
+| \#BASTA                            |     98 |
+| \#RechazoOtroProceso               |     73 |
+| \#FraudeAlPueblo                   |     43 |
+| \#OtraNo                           |     36 |
+| \#Rechazo                          |     35 |
+| \#SextoRetiro                      |     31 |
+| \#Apruebo                          |     29 |
+| \#NoQuieroOtroProcesoConstituyente |     28 |
+| \#CambioDeGabinete                 |     25 |
+| \#Chile                            |     25 |
+| \#ContigoCHV                       |     25 |
+| \#AprueboDeSalida                  |     20 |
+| \#SiempreEsHoy                     |     19 |
+| \#SiempreJuntos                    |     19 |
+| \#Basta                            |     18 |
+| \#IFELaboral                       |     17 |
+| \#MuchoGustoMega                   |     17 |
+| \#TeAmoYPunto                      |     17 |
+| \#PlebiscitoChile                  |     16 |
+| \#PAREMOS_EL_ROBO                  |     15 |
 
 # Cuentas
 
