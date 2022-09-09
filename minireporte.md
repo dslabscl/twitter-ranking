@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-08 02:47:30
+Chile. Fecha del reporte: 2022-09-09 02:46:53
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-09-08 02:47:30
 
 | datos                              | Cuenta |
 |:-----------------------------------|-------:|
-| \#BASTA                            |     98 |
-| \#RechazoOtroProceso               |     73 |
-| \#FraudeAlPueblo                   |     43 |
-| \#OtraNo                           |     36 |
-| \#Rechazo                          |     35 |
-| \#SextoRetiro                      |     31 |
-| \#Apruebo                          |     29 |
-| \#NoQuieroOtroProcesoConstituyente |     28 |
-| \#CambioDeGabinete                 |     25 |
-| \#Chile                            |     25 |
-| \#ContigoCHV                       |     25 |
-| \#AprueboDeSalida                  |     20 |
+| \#SEXTORETIRO                      |    209 |
+| \#BASTA                            |    155 |
+| \#NoQuieroOtroProcesoConstituyente |     62 |
+| \#RechazoOtroProceso               |     44 |
+| \#Rechazo                          |     38 |
+| \#Basta                            |     34 |
+| \#SextoRetiro                      |     32 |
+| \#OtraNo                           |     29 |
+| \#Chile                            |     27 |
+| \#Apruebo                          |     26 |
+| \#FraudeAlPueblo                   |     22 |
+| \#GolpeDeEstado                    |     22 |
+| \#ProscribirAlPartidoComunista     |     22 |
 | \#SiempreEsHoy                     |     19 |
 | \#SiempreJuntos                    |     19 |
-| \#Basta                            |     18 |
-| \#IFELaboral                       |     17 |
-| \#MuchoGustoMega                   |     17 |
+| \#StopWarOnTigray                  |     19 |
+| \#SinSeguridadNoHayNC              |     18 |
 | \#TeAmoYPunto                      |     17 |
-| \#PlebiscitoChile                  |     16 |
-| \#PAREMOS_EL_ROBO                  |     15 |
+| \#BastaYa                          |     16 |
+| \#ElRechazoLesMintio               |     15 |
 
 # Cuentas
 
