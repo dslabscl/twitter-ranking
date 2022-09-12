@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-09 02:46:53
+Chile. Fecha del reporte: 2022-09-12 02:53:00
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-09 02:46:53
 
 # Hashtags más populares
 
-| datos                              | Cuenta |
-|:-----------------------------------|-------:|
-| \#SEXTORETIRO                      |    209 |
-| \#BASTA                            |    155 |
-| \#NoQuieroOtroProcesoConstituyente |     62 |
-| \#RechazoOtroProceso               |     44 |
-| \#Rechazo                          |     38 |
-| \#Basta                            |     34 |
-| \#SextoRetiro                      |     32 |
-| \#OtraNo                           |     29 |
-| \#Chile                            |     27 |
-| \#Apruebo                          |     26 |
-| \#FraudeAlPueblo                   |     22 |
-| \#GolpeDeEstado                    |     22 |
-| \#ProscribirAlPartidoComunista     |     22 |
-| \#SiempreEsHoy                     |     19 |
-| \#SiempreJuntos                    |     19 |
-| \#StopWarOnTigray                  |     19 |
-| \#SinSeguridadNoHayNC              |     18 |
-| \#TeAmoYPunto                      |     17 |
-| \#BastaYa                          |     16 |
-| \#ElRechazoLesMintio               |     15 |
+| datos                  | Cuenta |
+|:-----------------------|-------:|
+| \#BASTA                |     74 |
+| \#Chile                |     53 |
+| \#11DeSeptiembre       |     45 |
+| \#SextoRetiro          |     36 |
+| \#Rechazo              |     34 |
+| \#BoricNoEstaSolo      |     30 |
+| \#YoRenuncioAMiPartido |     30 |
+| \#ContigoCHV           |     27 |
+| \#BrujaMaldita         |     23 |
+| \#MAFIA                |     23 |
+| \#PELIGRO              |     23 |
+| \#ViejaMierda          |     23 |
+| \#SiempreEsHoy         |     22 |
+| \#OtraNo               |     21 |
+| \#ConexiónT13          |     20 |
+| \#SiempreJuntos        |     19 |
+| \#enacional            |     18 |
+| \#RechazoOtroProceso   |     18 |
+| \#TeAmoYPunto          |     17 |
+| \#ApagaEl13            |     16 |
 
 # Cuentas
 
