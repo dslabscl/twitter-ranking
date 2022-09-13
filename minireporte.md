@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-12 02:53:00
+Chile. Fecha del reporte: 2022-09-13 02:48:58
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-12 02:53:00
 
 # Hashtags más populares
 
-| datos                  | Cuenta |
-|:-----------------------|-------:|
-| \#BASTA                |     74 |
-| \#Chile                |     53 |
-| \#11DeSeptiembre       |     45 |
-| \#SextoRetiro          |     36 |
-| \#Rechazo              |     34 |
-| \#BoricNoEstaSolo      |     30 |
-| \#YoRenuncioAMiPartido |     30 |
-| \#ContigoCHV           |     27 |
-| \#BrujaMaldita         |     23 |
-| \#MAFIA                |     23 |
-| \#PELIGRO              |     23 |
-| \#ViejaMierda          |     23 |
-| \#SiempreEsHoy         |     22 |
-| \#OtraNo               |     21 |
-| \#ConexiónT13          |     20 |
-| \#SiempreJuntos        |     19 |
-| \#enacional            |     18 |
-| \#RechazoOtroProceso   |     18 |
-| \#TeAmoYPunto          |     17 |
-| \#ApagaEl13            |     16 |
+| datos                            | Cuenta |
+|:---------------------------------|-------:|
+| \#LaGranEstafa                   |     85 |
+| \#BASTA                          |     68 |
+| \#PreguntenleALaGente            |     54 |
+| \#Chile                          |     49 |
+| \#Rechazo                        |     40 |
+| \#PlebiscitoDeEntradaObligatorio |     33 |
+| \#PreguntenlteALaGente           |     30 |
+| \#RechazoOtroProceso             |     28 |
+| \#YoRenuncioAMiPartido           |     27 |
+| \#BoricNoEstaSolo                |     26 |
+| \#ConexiónT13                    |     26 |
+| \#ContigoCHV                     |     25 |
+| \#BrujaMaldita                   |     23 |
+| \#MAFIA                          |     23 |
+| \#PELIGRO                        |     23 |
+| \#ViejaMierda                    |     23 |
+| \#ConMiVotoNo                    |     21 |
+| \#SextoRetiro                    |     21 |
+| \#SiempreEsHoy                   |     20 |
+| \#SiempreJuntos                  |     20 |
 
 # Cuentas
 
