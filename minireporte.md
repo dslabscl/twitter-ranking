@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-13 02:48:58
+Chile. Fecha del reporte: 2022-09-14 02:45:48
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-13 02:48:58
 
 # Hashtags más populares
 
-| datos                            | Cuenta |
-|:---------------------------------|-------:|
-| \#LaGranEstafa                   |     85 |
-| \#BASTA                          |     68 |
-| \#PreguntenleALaGente            |     54 |
-| \#Chile                          |     49 |
-| \#Rechazo                        |     40 |
-| \#PlebiscitoDeEntradaObligatorio |     33 |
-| \#PreguntenlteALaGente           |     30 |
-| \#RechazoOtroProceso             |     28 |
-| \#YoRenuncioAMiPartido           |     27 |
-| \#BoricNoEstaSolo                |     26 |
-| \#ConexiónT13                    |     26 |
-| \#ContigoCHV                     |     25 |
-| \#BrujaMaldita                   |     23 |
-| \#MAFIA                          |     23 |
-| \#PELIGRO                        |     23 |
-| \#ViejaMierda                    |     23 |
-| \#ConMiVotoNo                    |     21 |
-| \#SextoRetiro                    |     21 |
-| \#SiempreEsHoy                   |     20 |
-| \#SiempreJuntos                  |     20 |
+| datos                  | Cuenta |
+|:-----------------------|-------:|
+| \#BASTA                |     73 |
+| \#Chile                |     47 |
+| \#Rechazo              |     38 |
+| \#LaDerechaLesMintio   |     36 |
+| \#LaGranEstafa         |     30 |
+| \#LaDerechaMiente      |     29 |
+| \#YoRenuncioAMiPartido |     28 |
+| \#ConexiónT13          |     27 |
+| \#PreguntenleALaGente  |     27 |
+| \#PlebiscitoDeEntrada  |     26 |
+| \#BoricNoEstaSolo      |     25 |
+| \#BrujaMaldita         |     23 |
+| \#MAFIA                |     23 |
+| \#PELIGRO              |     23 |
+| \#ViejaMierda          |     23 |
+| \#RechazoOtroProceso   |     22 |
+| \#ConMiVotoNo          |     21 |
+| \#ContigoCHV           |     20 |
+| \#SiempreJuntos        |     20 |
+| \#PreguntenlteALaGente |     18 |
 
 # Cuentas
 
