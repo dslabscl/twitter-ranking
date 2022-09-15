@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-14 02:45:48
+Chile. Fecha del reporte: 2022-09-15 02:55:33
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-09-14 02:45:48
 
 | datos                  | Cuenta |
 |:-----------------------|-------:|
-| \#BASTA                |     73 |
-| \#Chile                |     47 |
-| \#Rechazo              |     38 |
-| \#LaDerechaLesMintio   |     36 |
-| \#LaGranEstafa         |     30 |
-| \#LaDerechaMiente      |     29 |
-| \#YoRenuncioAMiPartido |     28 |
-| \#ConexiónT13          |     27 |
-| \#PreguntenleALaGente  |     27 |
-| \#PlebiscitoDeEntrada  |     26 |
-| \#BoricNoEstaSolo      |     25 |
+| \#Chile                |     42 |
+| \#BASTA                |     41 |
+| \#Rechazo              |     40 |
+| \#ContigoCHV           |     35 |
+| \#PreguntenleALaGente  |     33 |
+| \#SeAcaboTuPartido     |     31 |
+| \#ConexiónT13          |     28 |
+| \#LaDerechaMiente      |     27 |
+| \#YoRenuncioAMiPartido |     27 |
+| \#18sep                |     26 |
+| \#PlebiscitoDeEntrada  |     24 |
 | \#BrujaMaldita         |     23 |
 | \#MAFIA                |     23 |
 | \#PELIGRO              |     23 |
 | \#ViejaMierda          |     23 |
-| \#RechazoOtroProceso   |     22 |
-| \#ConMiVotoNo          |     21 |
-| \#ContigoCHV           |     20 |
-| \#SiempreJuntos        |     20 |
-| \#PreguntenlteALaGente |     18 |
+| \#cueca                |     21 |
+| \#RechazoOtroProceso   |     21 |
+| \#BoricNoEstaSolo      |     19 |
+| \#SiempreJuntos        |     19 |
+| \#LaDerechaLesMintio   |     18 |
 
 # Cuentas
 
