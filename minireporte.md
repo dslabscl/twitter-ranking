@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-15 02:55:33
+Chile. Fecha del reporte: 2022-09-16 02:54:11
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-15 02:55:33
 
 # Hashtags más populares
 
-| datos                  | Cuenta |
-|:-----------------------|-------:|
-| \#Chile                |     42 |
-| \#BASTA                |     41 |
-| \#Rechazo              |     40 |
-| \#ContigoCHV           |     35 |
-| \#PreguntenleALaGente  |     33 |
-| \#SeAcaboTuPartido     |     31 |
-| \#ConexiónT13          |     28 |
-| \#LaDerechaMiente      |     27 |
-| \#YoRenuncioAMiPartido |     27 |
-| \#18sep                |     26 |
-| \#PlebiscitoDeEntrada  |     24 |
-| \#BrujaMaldita         |     23 |
-| \#MAFIA                |     23 |
-| \#PELIGRO              |     23 |
-| \#ViejaMierda          |     23 |
-| \#cueca                |     21 |
-| \#RechazoOtroProceso   |     21 |
-| \#BoricNoEstaSolo      |     19 |
-| \#SiempreJuntos        |     19 |
-| \#LaDerechaLesMintio   |     18 |
+| datos                       | Cuenta |
+|:----------------------------|-------:|
+| \#NoMasProcesoConstituyente |     88 |
+| \#Chile                     |     57 |
+| \#BASTA                     |     42 |
+| \#ContigoCHV                |     32 |
+| \#ConexiónT13               |     29 |
+| \#YoRenuncioAMiPartido      |     23 |
+| \#Rechazo                   |     20 |
+| \#ConMiVotoNo               |     19 |
+| \#RechazoOtroProceso        |     19 |
+| \#cueca                     |     18 |
+| \#SiempreJuntos             |     18 |
+| \#OtraNo                    |     17 |
+| \#TeAmoYPunto               |     17 |
+| \#Boric                     |     16 |
+| \#FBI                       |     15 |
+| \#PreguntenleALaGente       |     15 |
+| \#BrujaMaldita              |     14 |
+| \#MAFIA                     |     14 |
+| \#MegaNoticiasActualiza     |     14 |
+| \#PELIGRO                   |     14 |
 
 # Cuentas
 
