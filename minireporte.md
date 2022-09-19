@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-16 02:54:11
+Chile. Fecha del reporte: 2022-09-19 02:53:06
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-16 02:54:11
 
 # Hashtags más populares
 
-| datos                       | Cuenta |
-|:----------------------------|-------:|
-| \#NoMasProcesoConstituyente |     88 |
-| \#Chile                     |     57 |
-| \#BASTA                     |     42 |
-| \#ContigoCHV                |     32 |
-| \#ConexiónT13               |     29 |
-| \#YoRenuncioAMiPartido      |     23 |
-| \#Rechazo                   |     20 |
-| \#ConMiVotoNo               |     19 |
-| \#RechazoOtroProceso        |     19 |
-| \#cueca                     |     18 |
-| \#SiempreJuntos             |     18 |
-| \#OtraNo                    |     17 |
-| \#TeAmoYPunto               |     17 |
-| \#Boric                     |     16 |
-| \#FBI                       |     15 |
-| \#PreguntenleALaGente       |     15 |
-| \#BrujaMaldita              |     14 |
-| \#MAFIA                     |     14 |
-| \#MegaNoticiasActualiza     |     14 |
-| \#PELIGRO                   |     14 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#ContigoCHV                  |     40 |
+| \#JamásOtraConstitución       |     40 |
+| \#BASTA                       |     31 |
+| \#PreguntenleALaGente         |     30 |
+| \#ConexiónT13                 |     28 |
+| \#Chile                       |     27 |
+| \#PlebiscitoDeEntrada         |     26 |
+| \#SextoRetiro                 |     26 |
+| \#CHVNoticias                 |     23 |
+| \#MuchogustoMega              |     22 |
+| \#BoricNoEstaSolo             |     21 |
+| \#Iquique                     |     21 |
+| \#PoliticosCumplanLALEY       |     21 |
+| \#RechazoOtroProceso          |     21 |
+| \#YoRenuncioAMiPartido        |     21 |
+| \#RechazoCiudadano            |     20 |
+| \#BoricVerguenzaInternacional |     19 |
+| \#triangulaciondepiñera       |     19 |
+| \#YasnaProvoste               |     19 |
+| \#SeAcaboTuPartido            |     18 |
 
 # Cuentas
 
