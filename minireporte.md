@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-20 02:42:38
+Chile. Fecha del reporte: 2022-09-21 02:55:08
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-20 02:42:38
 
 # Hashtags más populares
 
-| datos                       | Cuenta |
-|:----------------------------|-------:|
-| \#SextoRetiro               |     60 |
-| \#Rechazo                   |     51 |
-| \#ParadaMilitar2022         |     46 |
-| \#ContigoCHV                |     43 |
-| \#SextoRetiroAhora          |     42 |
-| \#BASTA                     |     28 |
-| \#ConexiónT13               |     28 |
-| \#RechazoCiudadano          |     27 |
-| \#Iquique                   |     26 |
-| \#triangulaciondepiñera     |     26 |
-| \#YasnaProvoste             |     26 |
-| \#OtraNo                    |     24 |
-| \#ApagaEl13                 |     23 |
-| \#NoMasProcesoConstituyente |     22 |
-| \#YoRenuncioAMiPartido      |     21 |
-| \#MerluzoMamarracho         |     20 |
-| \#Chile                     |     19 |
-| \#ConMiVotoNo               |     18 |
-| \#PreguntenleALaGente       |     17 |
-| \#QueremosGira              |     17 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#SextoRetiroAhora      |    121 |
+| \#Rechazo               |    107 |
+| \#SextoRetiro           |    102 |
+| \#ContigoCHV            |     46 |
+| \#Boric                 |     34 |
+| \#ONU                   |     33 |
+| \#ConexiónT13           |     28 |
+| \#Ciudadanos            |     27 |
+| \#NoCocina              |     27 |
+| \#PartidosPolíticos     |     27 |
+| \#Iquique               |     26 |
+| \#RechazoCiudadano      |     26 |
+| \#triangulaciondepiñera |     26 |
+| \#YasnaProvoste         |     26 |
+| \#YoRenuncioAMiPartido  |     24 |
+| \#ApagaEl13             |     23 |
+| \#BASTA                 |     23 |
+| \#Chile                 |     21 |
+| \#ParadaMilitar2022     |     20 |
+| \#SiempreJuntos         |     17 |
 
 # Cuentas
 
