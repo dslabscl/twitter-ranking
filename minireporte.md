@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-21 02:55:08
+Chile. Fecha del reporte: 2022-09-22 02:41:40
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-21 02:55:08
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#SextoRetiroAhora      |    121 |
-| \#Rechazo               |    107 |
-| \#SextoRetiro           |    102 |
-| \#ContigoCHV            |     46 |
-| \#Boric                 |     34 |
-| \#ONU                   |     33 |
-| \#ConexiónT13           |     28 |
-| \#Ciudadanos            |     27 |
-| \#NoCocina              |     27 |
-| \#PartidosPolíticos     |     27 |
-| \#Iquique               |     26 |
-| \#RechazoCiudadano      |     26 |
-| \#triangulaciondepiñera |     26 |
-| \#YasnaProvoste         |     26 |
-| \#YoRenuncioAMiPartido  |     24 |
-| \#ApagaEl13             |     23 |
-| \#BASTA                 |     23 |
-| \#Chile                 |     21 |
-| \#ParadaMilitar2022     |     20 |
-| \#SiempreJuntos         |     17 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#SextoRetiroAhora            |    122 |
+| \#SextoRetiro                 |    104 |
+| \#Rechazo                     |     65 |
+| \#ContigoCHV                  |     38 |
+| \#BASTA                       |     32 |
+| \#Iquique                     |     26 |
+| \#RechazoCiudadano            |     26 |
+| \#triangulaciondepiñera       |     26 |
+| \#YasnaProvoste               |     26 |
+| \#BoricVerguenzaInternacional |     25 |
+| \#RechazoOtroProceso          |     24 |
+| \#ApagaEl13                   |     23 |
+| \#ConexiónT13                 |     23 |
+| \#YoRenuncioAMiPartido        |     23 |
+| \#NoMasProcesoConstituyente   |     19 |
+| \#BoricNoEstaSolo             |     18 |
+| \#Chile                       |     18 |
+| \#CNNPrime                    |     17 |
+| \#SiempreJuntos               |     17 |
+| \#TeAmoYPunto                 |     17 |
 
 # Cuentas
 
