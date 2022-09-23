@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-22 02:41:40
+Chile. Fecha del reporte: 2022-09-23 02:49:51
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-09-22 02:41:40
 
 | datos                         | Cuenta |
 |:------------------------------|-------:|
-| \#SextoRetiroAhora            |    122 |
-| \#SextoRetiro                 |    104 |
-| \#Rechazo                     |     65 |
-| \#ContigoCHV                  |     38 |
-| \#BASTA                       |     32 |
+| \#SextoRetiro                 |     88 |
+| \#SextoRetiroAhora            |     72 |
+| \#BASTA                       |     42 |
+| \#ContigoCHV                  |     35 |
+| \#Rechazo                     |     34 |
+| \#Chile                       |     29 |
 | \#Iquique                     |     26 |
 | \#RechazoCiudadano            |     26 |
+| \#sextoretiro                 |     26 |
 | \#triangulaciondepiñera       |     26 |
 | \#YasnaProvoste               |     26 |
-| \#BoricVerguenzaInternacional |     25 |
-| \#RechazoOtroProceso          |     24 |
+| \#NoMasProcesoConstituyente   |     25 |
+| \#BoricVerguenzaInternacional |     24 |
 | \#ApagaEl13                   |     23 |
 | \#ConexiónT13                 |     23 |
-| \#YoRenuncioAMiPartido        |     23 |
-| \#NoMasProcesoConstituyente   |     19 |
-| \#BoricNoEstaSolo             |     18 |
-| \#Chile                       |     18 |
-| \#CNNPrime                    |     17 |
-| \#SiempreJuntos               |     17 |
-| \#TeAmoYPunto                 |     17 |
+| \#RechazoOtroProceso          |     23 |
+| \#RenunciaMayaFernandez       |     22 |
+| \#Articulo142SeRespeta        |     19 |
+| \#YoRenuncioAMiPartido        |     19 |
+| \#ChileVerguenzaMundial       |     18 |
 
 # Cuentas
 
