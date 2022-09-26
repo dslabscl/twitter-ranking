@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-23 02:49:51
+Chile. Fecha del reporte: 2022-09-26 02:52:38
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-23 02:49:51
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#SextoRetiro                 |     88 |
-| \#SextoRetiroAhora            |     72 |
-| \#BASTA                       |     42 |
-| \#ContigoCHV                  |     35 |
-| \#Rechazo                     |     34 |
-| \#Chile                       |     29 |
-| \#Iquique                     |     26 |
-| \#RechazoCiudadano            |     26 |
-| \#sextoretiro                 |     26 |
-| \#triangulaciondepiñera       |     26 |
-| \#YasnaProvoste               |     26 |
-| \#NoMasProcesoConstituyente   |     25 |
-| \#BoricVerguenzaInternacional |     24 |
-| \#ApagaEl13                   |     23 |
-| \#ConexiónT13                 |     23 |
-| \#RechazoOtroProceso          |     23 |
-| \#RenunciaMayaFernandez       |     22 |
-| \#Articulo142SeRespeta        |     19 |
-| \#YoRenuncioAMiPartido        |     19 |
-| \#ChileVerguenzaMundial       |     18 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#SextoRetiro                  |    198 |
+| \#sextoretiro                  |     63 |
+| \#datoquetedoy                 |     55 |
+| \#ContigoCHV                   |     39 |
+| \#BASTA                        |     34 |
+| \#Iquique                      |     32 |
+| \#RechazoCiudadano             |     31 |
+| \#YasnaProvoste                |     31 |
+| \#triangulaciondepiñera        |     30 |
+| \#ApagaEl13                    |     26 |
+| \#BoricVerguenzaInternacional  |     26 |
+| \#Chile                        |     25 |
+| \#ToleranciaCero               |     25 |
+| \#Articulo142SeRespeta         |     23 |
+| \#RenunciaMayaFernandez        |     23 |
+| \#SiempreEsHoy                 |     23 |
+| \#ProscribirAlPartidoComunista |     22 |
+| \#Rechazo                      |     22 |
+| \#ChileVerguenzaMundial        |     21 |
+| \#NoAlTPP11                    |     21 |
 
 # Cuentas
 
