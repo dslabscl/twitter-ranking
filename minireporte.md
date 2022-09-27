@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-26 02:52:38
+Chile. Fecha del reporte: 2022-09-27 02:40:18
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-09-26 02:52:38
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#SextoRetiro                  |    198 |
-| \#sextoretiro                  |     63 |
-| \#datoquetedoy                 |     55 |
-| \#ContigoCHV                   |     39 |
-| \#BASTA                        |     34 |
-| \#Iquique                      |     32 |
-| \#RechazoCiudadano             |     31 |
-| \#YasnaProvoste                |     31 |
-| \#triangulaciondepiñera        |     30 |
-| \#ApagaEl13                    |     26 |
-| \#BoricVerguenzaInternacional  |     26 |
-| \#Chile                        |     25 |
-| \#ToleranciaCero               |     25 |
-| \#Articulo142SeRespeta         |     23 |
-| \#RenunciaMayaFernandez        |     23 |
-| \#SiempreEsHoy                 |     23 |
-| \#ProscribirAlPartidoComunista |     22 |
-| \#Rechazo                      |     22 |
-| \#ChileVerguenzaMundial        |     21 |
-| \#NoAlTPP11                    |     21 |
+| \#AcusacionConstitucional      |    252 |
+| \#AcusacionConstitucionalBoric |    125 |
+| \#SextoRetiro                  |     76 |
+| \#sextoretiro                  |     50 |
+| \#postnataldeemergencia        |     47 |
+| \#datoquetedoy                 |     33 |
+| \#NoAlTPP11                    |     32 |
+| \#BASTA                        |     31 |
+| \#Chile                        |     29 |
+| \#SiempreEsHoy                 |     28 |
+| \#ContigoCHV                   |     26 |
+| \#LaDerechaMiente              |     26 |
+| \#ConMiPlataNo                 |     20 |
+| \#MegaNoticiasActualiza        |     18 |
+| \#QueremosGira                 |     18 |
+| \#YoRenuncioAMiPartido         |     18 |
+| \#MentirasVerdaderasElRegreso  |     17 |
+| \#ProscribirAlPartidoComunista |     17 |
+| \#RenunciaMayaFernandez        |     17 |
+| \#bancofalabella               |     15 |
 
 # Cuentas
 
