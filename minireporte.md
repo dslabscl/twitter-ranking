@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-27 02:40:18
+Chile. Fecha del reporte: 2022-09-28 02:46:48
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-09-27 02:40:18
 
 | datos                          | Cuenta |
 |:-------------------------------|-------:|
-| \#AcusacionConstitucional      |    252 |
-| \#AcusacionConstitucionalBoric |    125 |
-| \#SextoRetiro                  |     76 |
-| \#sextoretiro                  |     50 |
-| \#postnataldeemergencia        |     47 |
-| \#datoquetedoy                 |     33 |
-| \#NoAlTPP11                    |     32 |
-| \#BASTA                        |     31 |
-| \#Chile                        |     29 |
+| \#SextoRetiro                  |     84 |
+| \#AcusacionConstitucional      |     54 |
+| \#ContigoCHV                   |     38 |
+| \#NoAlTPP11                    |     34 |
+| \#AcusacionConstitucionalBoric |     31 |
+| \#sextoretiro                  |     28 |
 | \#SiempreEsHoy                 |     28 |
-| \#ContigoCHV                   |     26 |
-| \#LaDerechaMiente              |     26 |
-| \#ConMiPlataNo                 |     20 |
+| \#BASTA                        |     24 |
+| \#Chile                        |     21 |
+| \#ConMiPlataNo                 |     19 |
 | \#MegaNoticiasActualiza        |     18 |
-| \#QueremosGira                 |     18 |
+| \#Rechazo                      |     18 |
+| \#TPP11                        |     18 |
 | \#YoRenuncioAMiPartido         |     18 |
-| \#MentirasVerdaderasElRegreso  |     17 |
-| \#ProscribirAlPartidoComunista |     17 |
-| \#RenunciaMayaFernandez        |     17 |
-| \#bancofalabella               |     15 |
+| \#daddyyankeechile             |     16 |
+| \#QueremosGira                 |     16 |
+| \#MeganoticiasActualiza        |     15 |
+| \#RechazoOtroProceso           |     15 |
+| \#SiempreJuntos                |     15 |
+| \#TeAmoYPunto                  |     15 |
 
 # Cuentas
 
