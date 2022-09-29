@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-28 02:46:48
+Chile. Fecha del reporte: 2022-09-29 02:52:45
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-28 02:46:48
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#SextoRetiro                  |     84 |
-| \#AcusacionConstitucional      |     54 |
-| \#ContigoCHV                   |     38 |
-| \#NoAlTPP11                    |     34 |
-| \#AcusacionConstitucionalBoric |     31 |
-| \#sextoretiro                  |     28 |
-| \#SiempreEsHoy                 |     28 |
-| \#BASTA                        |     24 |
-| \#Chile                        |     21 |
-| \#ConMiPlataNo                 |     19 |
-| \#MegaNoticiasActualiza        |     18 |
-| \#Rechazo                      |     18 |
-| \#TPP11                        |     18 |
-| \#YoRenuncioAMiPartido         |     18 |
-| \#daddyyankeechile             |     16 |
-| \#QueremosGira                 |     16 |
-| \#MeganoticiasActualiza        |     15 |
-| \#RechazoOtroProceso           |     15 |
-| \#SiempreJuntos                |     15 |
-| \#TeAmoYPunto                  |     15 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#SextoRetiro                 |     82 |
+| \#PostnatalDeEmergencia       |     51 |
+| \#AlertaSanitaria             |     44 |
+| \#ContigoCHV                  |     44 |
+| \#LaDerechaMiente             |     33 |
+| \#SiempreEsHoy                |     29 |
+| \#daddyyankeechile            |     28 |
+| \#NoAlTPP11                   |     27 |
+| \#Chile                       |     25 |
+| \#BASTA                       |     21 |
+| \#BoricNoEstaSolo             |     18 |
+| \#YoRenuncioAMiPartido        |     18 |
+| \#AcusacionConstitucional     |     17 |
+| \#MeganoticiasActualiza       |     17 |
+| \#MegaNoticiasActualiza       |     17 |
+| \#NeverAgain                  |     16 |
+| \#postnataldeemergencia       |     16 |
+| \#QueremosGira                |     16 |
+| \#Rechazo                     |     16 |
+| \#BoricVerguenzaInternacional |     15 |
 
 # Cuentas
 
