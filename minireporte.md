@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-29 02:52:45
+Chile. Fecha del reporte: 2022-09-30 03:15:14
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-29 02:52:45
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#SextoRetiro                 |     82 |
-| \#PostnatalDeEmergencia       |     51 |
-| \#AlertaSanitaria             |     44 |
-| \#ContigoCHV                  |     44 |
-| \#LaDerechaMiente             |     33 |
-| \#SiempreEsHoy                |     29 |
-| \#daddyyankeechile            |     28 |
-| \#NoAlTPP11                   |     27 |
-| \#Chile                       |     25 |
-| \#BASTA                       |     21 |
-| \#BoricNoEstaSolo             |     18 |
-| \#YoRenuncioAMiPartido        |     18 |
-| \#AcusacionConstitucional     |     17 |
-| \#MeganoticiasActualiza       |     17 |
-| \#MegaNoticiasActualiza       |     17 |
-| \#NeverAgain                  |     16 |
-| \#postnataldeemergencia       |     16 |
-| \#QueremosGira                |     16 |
-| \#Rechazo                     |     16 |
-| \#BoricVerguenzaInternacional |     15 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#SextoRetiro           |    126 |
+| \#ContigoCHV            |     38 |
+| \#NoAlTTP11             |     34 |
+| \#SiempreEsHoy          |     30 |
+| \#PreguntenleALaGente   |     26 |
+| \#Chile                 |     21 |
+| \#ApagaEl13             |     20 |
+| \#Iquique               |     20 |
+| \#NoAlTPP11             |     20 |
+| \#RechazoCiudadano      |     20 |
+| \#triangulaciondepiñera |     20 |
+| \#YasnaProvoste         |     20 |
+| \#daddyyankeechile      |     19 |
+| \#MeganoticiasActualiza |     18 |
+| \#PostnatalDeEmergencia |     17 |
+| \#EstadioNacional       |     16 |
+| \#MegaNoticiasActualiza |     16 |
+| \#QueremosGira          |     15 |
+| \#PlebiscitoDeEntrada   |     14 |
+| \#SiempreJuntos         |     14 |
 
 # Cuentas
 
