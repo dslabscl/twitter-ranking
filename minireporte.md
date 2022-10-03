@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-09-30 03:15:14
+Chile. Fecha del reporte: 2022-10-03 02:20:31
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-09-30 03:15:14
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#SextoRetiro           |    126 |
-| \#ContigoCHV            |     38 |
-| \#NoAlTTP11             |     34 |
-| \#SiempreEsHoy          |     30 |
-| \#PreguntenleALaGente   |     26 |
-| \#Chile                 |     21 |
-| \#ApagaEl13             |     20 |
-| \#Iquique               |     20 |
-| \#NoAlTPP11             |     20 |
-| \#RechazoCiudadano      |     20 |
-| \#triangulaciondepiñera |     20 |
-| \#YasnaProvoste         |     20 |
-| \#daddyyankeechile      |     19 |
-| \#MeganoticiasActualiza |     18 |
-| \#PostnatalDeEmergencia |     17 |
-| \#EstadioNacional       |     16 |
-| \#MegaNoticiasActualiza |     16 |
-| \#QueremosGira          |     15 |
-| \#PlebiscitoDeEntrada   |     14 |
-| \#SiempreJuntos         |     14 |
+| datos                                | Cuenta |
+|:-------------------------------------|-------:|
+| \#SextoRetiro                        |     76 |
+| \#TraiciónDeChileVamos               |     28 |
+| \#Chile                              |     25 |
+| \#ContigoCHV                         |     25 |
+| \#EleccionesBrasil                   |     21 |
+| \#SiempreEsHoy                       |     21 |
+| \#OtraNo                             |     18 |
+| \#TigrayGenocide                     |     17 |
+| \#Eleicoes2022                       |     16 |
+| \#enacional                          |     16 |
+| \#PlebiscitoDeEntradaVotoObligatorio |     16 |
+| \#PreguntenleALaGente                |     16 |
+| \#QueremosGira                       |     15 |
+| \#toleranciacero                     |     15 |
+| \#BASTA                              |     14 |
+| \#SiempreJuntos                      |     14 |
+| \#TeAmoYPunto                        |     14 |
+| \#tpp11                              |     14 |
+| \#HayAlgoAlláAfuera                  |     13 |
+| \#MeganoticiasActualiza              |     13 |
 
 # Cuentas
 
