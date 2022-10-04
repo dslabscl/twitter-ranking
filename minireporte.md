@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-03 02:20:31
+Chile. Fecha del reporte: 2022-10-04 02:29:04
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-10-03 02:20:31
 
 # Hashtags más populares
 
-| datos                                | Cuenta |
-|:-------------------------------------|-------:|
-| \#SextoRetiro                        |     76 |
-| \#TraiciónDeChileVamos               |     28 |
-| \#Chile                              |     25 |
-| \#ContigoCHV                         |     25 |
-| \#EleccionesBrasil                   |     21 |
-| \#SiempreEsHoy                       |     21 |
-| \#OtraNo                             |     18 |
-| \#TigrayGenocide                     |     17 |
-| \#Eleicoes2022                       |     16 |
-| \#enacional                          |     16 |
-| \#PlebiscitoDeEntradaVotoObligatorio |     16 |
-| \#PreguntenleALaGente                |     16 |
-| \#QueremosGira                       |     15 |
-| \#toleranciacero                     |     15 |
-| \#BASTA                              |     14 |
-| \#SiempreJuntos                      |     14 |
-| \#TeAmoYPunto                        |     14 |
-| \#tpp11                              |     14 |
-| \#HayAlgoAlláAfuera                  |     13 |
-| \#MeganoticiasActualiza              |     13 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| \#RechazoNuevoProceso        |    352 |
+| \#Chile                      |    139 |
+| \#RechazoOtroProceso         |    137 |
+| \#OtraNo                     |    120 |
+| \#BastaYa                    |    111 |
+| \#Articulo142SeRespeta       |     87 |
+| \#Cadem                      |     82 |
+| \#SextoRetiro                |     78 |
+| \#VamosLaU                   |     78 |
+| \#PoliticosCorruptos         |     76 |
+| \#ContigoCHV                 |     60 |
+| \#Rechazo                    |     47 |
+| \#Artículo142SeRespeta       |     35 |
+| \#NuevaConstitución          |     34 |
+| \#postnataldeemergencia      |     32 |
+| \#PostnatalParentalExtendido |     29 |
+| \#700DaysOfTigrayGenocide    |     21 |
+| \#CyberMonday2022            |     21 |
+| \#SiempreEsHoy               |     20 |
+| \#Iquique                    |     19 |
 
 # Cuentas
 
