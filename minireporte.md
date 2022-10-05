@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-04 02:29:04
+Chile. Fecha del reporte: 2022-10-05 02:29:22
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-10-04 02:29:04
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| \#RechazoNuevoProceso        |    352 |
-| \#Chile                      |    139 |
-| \#RechazoOtroProceso         |    137 |
-| \#OtraNo                     |    120 |
-| \#BastaYa                    |    111 |
-| \#Articulo142SeRespeta       |     87 |
-| \#Cadem                      |     82 |
-| \#SextoRetiro                |     78 |
-| \#VamosLaU                   |     78 |
-| \#PoliticosCorruptos         |     76 |
-| \#ContigoCHV                 |     60 |
-| \#Rechazo                    |     47 |
-| \#Artículo142SeRespeta       |     35 |
-| \#NuevaConstitución          |     34 |
-| \#postnataldeemergencia      |     32 |
-| \#PostnatalParentalExtendido |     29 |
-| \#700DaysOfTigrayGenocide    |     21 |
-| \#CyberMonday2022            |     21 |
-| \#SiempreEsHoy               |     20 |
-| \#Iquique                    |     19 |
+| \#SextoRetiro                |    148 |
+| \#RechazoNuevoProceso        |     61 |
+| \#VamosColoColo              |     61 |
+| \#Chile                      |     47 |
+| \#RechazoOtroProceso         |     38 |
+| \#LosCruzados                |     37 |
+| \#Rechazo                    |     31 |
+| \#OtraNo                     |     29 |
+| \#BASTA                      |     25 |
+| \#Articulo142SeRespeta       |     24 |
+| \#BastaYa                    |     24 |
+| \#AlertaSanitaria            |     23 |
+| \#ElVioladorEresTú           |     23 |
+| \#ConMiVotoNo                |     20 |
+| \#ElVioladorEresTu           |     20 |
+| \#sextoretiro                |     19 |
+| \#ElVioladorEresTÚ           |     18 |
+| \#PreguntenleALaGente        |     17 |
+| \#ElClasico                  |     16 |
+| \#ExtensiónPostnatalParental |     16 |
 
 # Cuentas
 
