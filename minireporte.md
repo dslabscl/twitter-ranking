@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-05 02:29:22
+Chile. Fecha del reporte: 2022-10-06 02:28:55
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-10-05 02:29:22
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| \#SextoRetiro                |    148 |
-| \#RechazoNuevoProceso        |     61 |
-| \#VamosColoColo              |     61 |
-| \#Chile                      |     47 |
-| \#RechazoOtroProceso         |     38 |
-| \#LosCruzados                |     37 |
-| \#Rechazo                    |     31 |
-| \#OtraNo                     |     29 |
-| \#BASTA                      |     25 |
-| \#Articulo142SeRespeta       |     24 |
-| \#BastaYa                    |     24 |
-| \#AlertaSanitaria            |     23 |
-| \#ElVioladorEresTú           |     23 |
-| \#ConMiVotoNo                |     20 |
-| \#ElVioladorEresTu           |     20 |
-| \#sextoretiro                |     19 |
-| \#ElVioladorEresTÚ           |     18 |
-| \#PreguntenleALaGente        |     17 |
-| \#ElClasico                  |     16 |
-| \#ExtensiónPostnatalParental |     16 |
+| \#SextoRetiro                |     98 |
+| \#sextoretiro                |     44 |
+| \#ExtensionPostnatalParental |     40 |
+| \#Chile                      |     30 |
+| \#datoquetedoy               |     27 |
+| \#OtraNo                     |     26 |
+| \#RechazoNuevoProceso        |     26 |
+| \#RechazoOtroProceso         |     25 |
+| \#BASTA                      |     23 |
+| \#ContigoCHV                 |     22 |
+| \#AlertaSanitaria            |     20 |
+| \#BastaYa                    |     18 |
+| \#Rechazo                    |     16 |
+| \#Articulo142SeRespeta       |     15 |
+| \#ConMiVotoNo                |     15 |
+| \#QueremosGira               |     15 |
+| \#NoMasProcesoConstituyente  |     14 |
+| \#SiempreJuntos              |     14 |
+| \#TeAmoYPunto                |     14 |
+| \#ElPuebloSoberanoDijoNo     |     13 |
 
 # Cuentas
 
