@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-06 02:28:55
+Chile. Fecha del reporte: 2022-10-07 02:38:12
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-10-06 02:28:55
 
 | datos                        | Cuenta |
 |:-----------------------------|-------:|
-| \#SextoRetiro                |     98 |
-| \#sextoretiro                |     44 |
-| \#ExtensionPostnatalParental |     40 |
-| \#Chile                      |     30 |
-| \#datoquetedoy               |     27 |
-| \#OtraNo                     |     26 |
-| \#RechazoNuevoProceso        |     26 |
-| \#RechazoOtroProceso         |     25 |
-| \#BASTA                      |     23 |
-| \#ContigoCHV                 |     22 |
-| \#AlertaSanitaria            |     20 |
-| \#BastaYa                    |     18 |
-| \#Rechazo                    |     16 |
-| \#Articulo142SeRespeta       |     15 |
-| \#ConMiVotoNo                |     15 |
-| \#QueremosGira               |     15 |
-| \#NoMasProcesoConstituyente  |     14 |
-| \#SiempreJuntos              |     14 |
-| \#TeAmoYPunto                |     14 |
-| \#ElPuebloSoberanoDijoNo     |     13 |
+| \#ExtensionPostnatalParental |    209 |
+| \#SextoRetiro                |    113 |
+| \#sextoretiro                |     78 |
+| \#datoquetedoy               |     74 |
+| \#ContigoCHV                 |     62 |
+| \#PostnatalDeEmergencia      |     52 |
+| \#SinFiltros                 |     39 |
+| \#700DaysOfTigrayGenocide    |     36 |
+| \#GunsnrosesChile            |     33 |
+| \#EndTigraySiege             |     29 |
+| \#Vina2023                   |     24 |
+| \#Ethiopia                   |     23 |
+| \#Huelga                     |     22 |
+| \#komatsu                    |     22 |
+| \#Chile                      |     20 |
+| \#OtraNo                     |     18 |
+| \#Iquique                    |     17 |
+| \#ApagaEl13                  |     16 |
+| \#LaDerechaMiente            |     16 |
+| \#RechazoCiudadano           |     16 |
 
 # Cuentas
 
