@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-07 02:38:12
+Chile. Fecha del reporte: 2022-10-11 02:40:09
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-10-07 02:38:12
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| \#ExtensionPostnatalParental |    209 |
-| \#SextoRetiro                |    113 |
-| \#sextoretiro                |     78 |
-| \#datoquetedoy               |     74 |
-| \#ContigoCHV                 |     62 |
-| \#PostnatalDeEmergencia      |     52 |
-| \#SinFiltros                 |     39 |
-| \#700DaysOfTigrayGenocide    |     36 |
-| \#GunsnrosesChile            |     33 |
-| \#EndTigraySiege             |     29 |
-| \#Vina2023                   |     24 |
-| \#Ethiopia                   |     23 |
-| \#Huelga                     |     22 |
-| \#komatsu                    |     22 |
-| \#Chile                      |     20 |
-| \#OtraNo                     |     18 |
-| \#Iquique                    |     17 |
-| \#ApagaEl13                  |     16 |
-| \#LaDerechaMiente            |     16 |
-| \#RechazoCiudadano           |     16 |
+| datos                       | Cuenta |
+|:----------------------------|-------:|
+| \#huelgakomatsucummins      |     95 |
+| \#ParoNacional              |     67 |
+| \#SextoRetiro               |     67 |
+| \#RenunciaBoric             |     47 |
+| \#DiaMundialdelaSaludMental |     43 |
+| \#DelincuenciaDesatada      |     37 |
+| \#ContigoCHV                |     32 |
+| \#MesaCentral               |     29 |
+| \#Chile                     |     27 |
+| \#NOmasAFP                  |     27 |
+| \#SanemLaMedicinaDeCan      |     22 |
+| \#QueremosGira              |     19 |
+| \#RAWCL                     |     19 |
+| \#RechazoAgenda2030         |     18 |
+| \#VuelveChayanne            |     18 |
+| \#HouseOfTheDragon          |     17 |
+| \#MerluzoMamarracho         |     16 |
+| \#Arica                     |     15 |
+| \#BASTAYA                   |     15 |
+| \#BoricChileNoTeQuiere      |     15 |
 
 # Cuentas
 
