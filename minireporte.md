@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-11 02:40:09
+Chile. Fecha del reporte: 2022-10-12 02:49:06
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-10-11 02:40:09
 
 # Hashtags más populares
 
-| datos                       | Cuenta |
-|:----------------------------|-------:|
-| \#huelgakomatsucummins      |     95 |
-| \#ParoNacional              |     67 |
-| \#SextoRetiro               |     67 |
-| \#RenunciaBoric             |     47 |
-| \#DiaMundialdelaSaludMental |     43 |
-| \#DelincuenciaDesatada      |     37 |
-| \#ContigoCHV                |     32 |
-| \#MesaCentral               |     29 |
-| \#Chile                     |     27 |
-| \#NOmasAFP                  |     27 |
-| \#SanemLaMedicinaDeCan      |     22 |
-| \#QueremosGira              |     19 |
-| \#RAWCL                     |     19 |
-| \#RechazoAgenda2030         |     18 |
-| \#VuelveChayanne            |     18 |
-| \#HouseOfTheDragon          |     17 |
-| \#MerluzoMamarracho         |     16 |
-| \#Arica                     |     15 |
-| \#BASTAYA                   |     15 |
-| \#BoricChileNoTeQuiere      |     15 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| \#NoAlTPP11                  |    121 |
+| \#RenunciaBoric              |    104 |
+| \#huelgakomatsucummins       |     94 |
+| \#SextoRetiro                |     87 |
+| \#difunde                    |     80 |
+| \#ParoNacional29DeOctubre    |     60 |
+| \#ExtensionPostnatalParental |     56 |
+| \#sextoretirototal           |     53 |
+| \#ParoNacional               |     48 |
+| \#LollaCL2023                |     41 |
+| \#AbandonenChileVamos        |     40 |
+| \#RechazoAgenda2030          |     34 |
+| \#FueraComunistasDeChile     |     33 |
+| \#ApagaEl13                  |     26 |
+| \#ContigoCHV                 |     26 |
+| \#Iquique                    |     26 |
+| \#RechazoCiudadano           |     26 |
+| \#triangulaciondepiñera      |     26 |
+| \#YasnaProvoste              |     26 |
+| \#MesaCentral                |     24 |
 
 # Cuentas
 
