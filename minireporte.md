@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-12 02:49:06
+Chile. Fecha del reporte: 2022-10-13 02:44:51
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-10-12 02:49:06
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| \#NoAlTPP11                  |    121 |
-| \#RenunciaBoric              |    104 |
-| \#huelgakomatsucummins       |     94 |
-| \#SextoRetiro                |     87 |
-| \#difunde                    |     80 |
-| \#ParoNacional29DeOctubre    |     60 |
-| \#ExtensionPostnatalParental |     56 |
-| \#sextoretirototal           |     53 |
-| \#ParoNacional               |     48 |
-| \#LollaCL2023                |     41 |
-| \#AbandonenChileVamos        |     40 |
-| \#RechazoAgenda2030          |     34 |
-| \#FueraComunistasDeChile     |     33 |
-| \#ApagaEl13                  |     26 |
-| \#ContigoCHV                 |     26 |
-| \#Iquique                    |     26 |
-| \#RechazoCiudadano           |     26 |
-| \#triangulaciondepiñera      |     26 |
-| \#YasnaProvoste              |     26 |
-| \#MesaCentral                |     24 |
+| datos                     | Cuenta |
+|:--------------------------|-------:|
+| \#SextoRetiro             |     68 |
+| \#RenunciaBoric           |     60 |
+| \#Regla7metrosAHORA       |     53 |
+| \#StandUp4HumanRights     |     45 |
+| \#UgandaIsBleeding        |     45 |
+| \#MahsaAmini              |     43 |
+| \#PostnatalDeEmergencia   |     43 |
+| \#MerluzoMamarracho       |     42 |
+| \#difunde                 |     40 |
+| \#huelgakomatsucummins    |     40 |
+| \#IranRevolution2022      |     39 |
+| \#IRAN                    |     38 |
+| \#RechazoNuevoProceso     |     38 |
+| \#Rechazo                 |     37 |
+| \#RechazoOtroProceso      |     36 |
+| \#PostnataldeEmergencia   |     32 |
+| \#SinFiltros              |     28 |
+| \#ParoNacional29DeOctubre |     26 |
+| \#NoAlTPP11               |     21 |
+| \#MERLUZOinepto           |     18 |
 
 # Cuentas
 
