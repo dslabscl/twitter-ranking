@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-13 02:44:51
+Chile. Fecha del reporte: 2022-10-14 02:59:12
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-10-13 02:44:51
 
 # Hashtags más populares
 
-| datos                     | Cuenta |
-|:--------------------------|-------:|
-| \#SextoRetiro             |     68 |
-| \#RenunciaBoric           |     60 |
-| \#Regla7metrosAHORA       |     53 |
-| \#StandUp4HumanRights     |     45 |
-| \#UgandaIsBleeding        |     45 |
-| \#MahsaAmini              |     43 |
-| \#PostnatalDeEmergencia   |     43 |
-| \#MerluzoMamarracho       |     42 |
-| \#difunde                 |     40 |
-| \#huelgakomatsucummins    |     40 |
-| \#IranRevolution2022      |     39 |
-| \#IRAN                    |     38 |
-| \#RechazoNuevoProceso     |     38 |
-| \#Rechazo                 |     37 |
-| \#RechazoOtroProceso      |     36 |
-| \#PostnataldeEmergencia   |     32 |
-| \#SinFiltros              |     28 |
-| \#ParoNacional29DeOctubre |     26 |
-| \#NoAlTPP11               |     21 |
-| \#MERLUZOinepto           |     18 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#sextoretiro                  |     73 |
+| \#RenunciaBoric                |     64 |
+| \#SextoRetiro                  |     61 |
+| \#GobiernoTerminado            |     42 |
+| \#GobiernoCorruptoyMentiroso   |     39 |
+| \#NOmasAFP                     |     37 |
+| \#datoquetedoy                 |     27 |
+| \#FueraComunistasDeChile       |     26 |
+| \#Chile                        |     23 |
+| \#MahsaAmini                   |     19 |
+| \#MesaCentral                  |     18 |
+| \#ProscribirAlPartidoComunista |     18 |
+| \#MuchoGustoMega               |     17 |
+| \#RechazoNuevoProceso          |     17 |
+| \#ContigoCHV                   |     16 |
+| \#IranRevolution2022           |     16 |
+| \#MerluzoMamarracho            |     16 |
+| \#RatPack                      |     16 |
+| \#Antofagasta                  |     15 |
+| \#Iquique                      |     15 |
 
 # Cuentas
 
