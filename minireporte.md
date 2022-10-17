@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-14 02:59:12
+Chile. Fecha del reporte: 2022-10-17 03:08:30
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-10-14 02:59:12
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#sextoretiro                  |     73 |
-| \#RenunciaBoric                |     64 |
-| \#SextoRetiro                  |     61 |
-| \#GobiernoTerminado            |     42 |
-| \#GobiernoCorruptoyMentiroso   |     39 |
-| \#NOmasAFP                     |     37 |
-| \#datoquetedoy                 |     27 |
-| \#FueraComunistasDeChile       |     26 |
-| \#Chile                        |     23 |
-| \#MahsaAmini                   |     19 |
-| \#MesaCentral                  |     18 |
-| \#ProscribirAlPartidoComunista |     18 |
-| \#MuchoGustoMega               |     17 |
-| \#RechazoNuevoProceso          |     17 |
-| \#ContigoCHV                   |     16 |
-| \#IranRevolution2022           |     16 |
-| \#MerluzoMamarracho            |     16 |
-| \#RatPack                      |     16 |
-| \#Antofagasta                  |     15 |
-| \#Iquique                      |     15 |
+| datos                     | Cuenta |
+|:--------------------------|-------:|
+| \#SextoRetiro             |     58 |
+| \#Cadem                   |     53 |
+| \#Agenda2030              |     39 |
+| \#enacional               |     37 |
+| \#sextoretiro             |     37 |
+| \#datoquetedoy            |     34 |
+| \#HouseOfTheDragon        |     25 |
+| \#tolerancia0             |     24 |
+| \#Chile                   |     21 |
+| \#estadonacional          |     21 |
+| \#MesaCentral             |     20 |
+| \#YoSoyCHV                |     20 |
+| \#SiempreEsHoy            |     19 |
+| \#AcusacionConstitucional |     18 |
+| \#EstadoNacional          |     18 |
+| \#ContigoCHV              |     17 |
+| \#MonicaRinconMiente      |     17 |
+| \#RenunciaBoricCTM        |     15 |
+| \#Antofagasta             |     14 |
+| \#QueremosGira            |     14 |
 
 # Cuentas
 
