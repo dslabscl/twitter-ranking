@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-17 03:08:30
+Chile. Fecha del reporte: 2022-10-18 02:54:29
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-10-17 03:08:30
 
 # Hashtags más populares
 
-| datos                     | Cuenta |
-|:--------------------------|-------:|
-| \#SextoRetiro             |     58 |
-| \#Cadem                   |     53 |
-| \#Agenda2030              |     39 |
-| \#enacional               |     37 |
-| \#sextoretiro             |     37 |
-| \#datoquetedoy            |     34 |
-| \#HouseOfTheDragon        |     25 |
-| \#tolerancia0             |     24 |
-| \#Chile                   |     21 |
-| \#estadonacional          |     21 |
-| \#MesaCentral             |     20 |
-| \#YoSoyCHV                |     20 |
-| \#SiempreEsHoy            |     19 |
-| \#AcusacionConstitucional |     18 |
-| \#EstadoNacional          |     18 |
-| \#ContigoCHV              |     17 |
-| \#MonicaRinconMiente      |     17 |
-| \#RenunciaBoricCTM        |     15 |
-| \#Antofagasta             |     14 |
-| \#QueremosGira            |     14 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#sextoretiro           |    101 |
+| \#datoquetedoy          |     49 |
+| \#SextoRetiro           |     42 |
+| \#EstallidoSocial       |     28 |
+| \#18DeOctubre           |     26 |
+| \#SiempreEsHoy          |     23 |
+| \#Chile                 |     20 |
+| \#AquíSeDebateCNN       |     19 |
+| \#Cadem                 |     19 |
+| \#QueremosGira          |     15 |
+| \#Antofagasta           |     14 |
+| \#LaDerechaMiente       |     14 |
+| \#Arica                 |     13 |
+| \#GobiernoTerminado     |     13 |
+| \#RatPack               |     13 |
+| \#VuelveChayanne        |     13 |
+| \#MeganoticiasActualiza |     12 |
+| \#Chayanne              |     11 |
+| \#SiempreJuntos         |     11 |
+| \#TuDia13               |     11 |
 
 # Cuentas
 
