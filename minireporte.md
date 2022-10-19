@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-18 02:54:29
+Chile. Fecha del reporte: 2022-10-19 02:46:55
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-10-18 02:54:29
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#sextoretiro           |    101 |
-| \#datoquetedoy          |     49 |
-| \#SextoRetiro           |     42 |
-| \#EstallidoSocial       |     28 |
-| \#18DeOctubre           |     26 |
-| \#SiempreEsHoy          |     23 |
-| \#Chile                 |     20 |
-| \#AquíSeDebateCNN       |     19 |
-| \#Cadem                 |     19 |
-| \#QueremosGira          |     15 |
-| \#Antofagasta           |     14 |
-| \#LaDerechaMiente       |     14 |
-| \#Arica                 |     13 |
-| \#GobiernoTerminado     |     13 |
-| \#RatPack               |     13 |
-| \#VuelveChayanne        |     13 |
-| \#MeganoticiasActualiza |     12 |
-| \#Chayanne              |     11 |
-| \#SiempreJuntos         |     11 |
-| \#TuDia13               |     11 |
+| datos                                    | Cuenta |
+|:-----------------------------------------|-------:|
+| \#EstallidoDelictual                     |     81 |
+| \#18DeOctubre                            |     77 |
+| \#SextoRetiro                            |     52 |
+| \#PostnatalExtendido60diasDesdeNoviembre |     51 |
+| \#PuenteAlto                             |     44 |
+| \#PlazaDignidad                          |     43 |
+| \#EstallidoFueCriminal                   |     40 |
+| \#sextoretiro                            |     31 |
+| \#SiempreEsHoy                           |     26 |
+| \#GolpeDeEstado                          |     25 |
+| \#EstallidoSocial                        |     23 |
+| \#18Octubre                              |     21 |
+| \#Chile                                  |     18 |
+| \#ProscribirAlPartidoComunistayFA        |     18 |
+| \#RenunciaBoric                          |     18 |
+| \#FeritYHakanInvestigan                  |     17 |
+| \#EstallidoSocialMV                      |     16 |
+| \#StopAbductionsUganda                   |     16 |
+| \#StopSponsoringOurOppression            |     16 |
+| \#JuegoTextual                           |     15 |
 
 # Cuentas
 
