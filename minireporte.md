@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-19 02:46:55
+Chile. Fecha del reporte: 2022-10-20 02:48:49
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-10-19 02:46:55
 
 # Hashtags más populares
 
-| datos                                    | Cuenta |
-|:-----------------------------------------|-------:|
-| \#EstallidoDelictual                     |     81 |
-| \#18DeOctubre                            |     77 |
-| \#SextoRetiro                            |     52 |
-| \#PostnatalExtendido60diasDesdeNoviembre |     51 |
-| \#PuenteAlto                             |     44 |
-| \#PlazaDignidad                          |     43 |
-| \#EstallidoFueCriminal                   |     40 |
-| \#sextoretiro                            |     31 |
-| \#SiempreEsHoy                           |     26 |
-| \#GolpeDeEstado                          |     25 |
-| \#EstallidoSocial                        |     23 |
-| \#18Octubre                              |     21 |
-| \#Chile                                  |     18 |
-| \#ProscribirAlPartidoComunistayFA        |     18 |
-| \#RenunciaBoric                          |     18 |
-| \#FeritYHakanInvestigan                  |     17 |
-| \#EstallidoSocialMV                      |     16 |
-| \#StopAbductionsUganda                   |     16 |
-| \#StopSponsoringOurOppression            |     16 |
-| \#JuegoTextual                           |     15 |
+| datos                             | Cuenta |
+|:----------------------------------|-------:|
+| \#SextoRetiro                     |     73 |
+| \#18DeOctubre                     |     49 |
+| \#Iquique                         |     35 |
+| \#ContigoCHV                      |     30 |
+| \#SiempreEsHoy                    |     30 |
+| \#MoreJustWorld                   |     29 |
+| \#RechazoCiudadano                |     29 |
+| \#triangulaciondepiñera           |     29 |
+| \#UgandaIsBleeding                |     29 |
+| \#YasnaProvoste                   |     29 |
+| \#ApagaEl13                       |     26 |
+| \#Chile                           |     26 |
+| \#StopWarOnTigray                 |     24 |
+| \#ProscribirAlPartidoComunistayFA |     23 |
+| \#Antofagasta                     |     22 |
+| \#EstallidoDelictual              |     21 |
+| \#ReconnectTigray                 |     21 |
+| \#RatPack                         |     20 |
+| \#Arica                           |     19 |
+| \#FueraComunistasDeChile          |     19 |
 
 # Cuentas
 
