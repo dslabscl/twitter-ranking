@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-20 02:48:49
+Chile. Fecha del reporte: 2022-10-21 02:19:40
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-10-20 02:48:49
 
 # Hashtags más populares
 
-| datos                             | Cuenta |
-|:----------------------------------|-------:|
-| \#SextoRetiro                     |     73 |
-| \#18DeOctubre                     |     49 |
-| \#Iquique                         |     35 |
-| \#ContigoCHV                      |     30 |
-| \#SiempreEsHoy                    |     30 |
-| \#MoreJustWorld                   |     29 |
-| \#RechazoCiudadano                |     29 |
-| \#triangulaciondepiñera           |     29 |
-| \#UgandaIsBleeding                |     29 |
-| \#YasnaProvoste                   |     29 |
-| \#ApagaEl13                       |     26 |
-| \#Chile                           |     26 |
-| \#StopWarOnTigray                 |     24 |
-| \#ProscribirAlPartidoComunistayFA |     23 |
-| \#Antofagasta                     |     22 |
-| \#EstallidoDelictual              |     21 |
-| \#ReconnectTigray                 |     21 |
-| \#RatPack                         |     20 |
-| \#Arica                           |     19 |
-| \#FueraComunistasDeChile          |     19 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| \#SextoRetiro                |    112 |
+| \#MerluzoDemente             |     47 |
+| \#ContigoCHV                 |     46 |
+| \#BoricDescontrolado         |     43 |
+| \#ExijoRespeto               |     42 |
+| \#Iquique                    |     39 |
+| \#YasnaProvoste              |     38 |
+| \#RechazoCiudadano           |     37 |
+| \#ApagaEl13                  |     35 |
+| \#SiempreEsHoy               |     35 |
+| \#triangulaciondepiñera      |     34 |
+| \#pacosculiaos               |     31 |
+| \#ExtensionPostnatalParental |     30 |
+| \#18DeOctubre                |     26 |
+| \#BoricNoEstasSolo           |     25 |
+| \#RenunciaBoric              |     25 |
+| \#sextoretiro                |     22 |
+| \#ChileCiudadano             |     21 |
+| \#Chile                      |     20 |
+| \#RatPack                    |     20 |
 
 # Cuentas
 
