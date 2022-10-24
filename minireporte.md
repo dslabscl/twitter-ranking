@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-21 02:19:40
+Chile. Fecha del reporte: 2022-10-24 03:06:42
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-10-21 02:19:40
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| \#SextoRetiro                |    112 |
-| \#MerluzoDemente             |     47 |
-| \#ContigoCHV                 |     46 |
-| \#BoricDescontrolado         |     43 |
-| \#ExijoRespeto               |     42 |
-| \#Iquique                    |     39 |
-| \#YasnaProvoste              |     38 |
-| \#RechazoCiudadano           |     37 |
-| \#ApagaEl13                  |     35 |
-| \#SiempreEsHoy               |     35 |
-| \#triangulaciondepiñera      |     34 |
-| \#pacosculiaos               |     31 |
-| \#ExtensionPostnatalParental |     30 |
-| \#18DeOctubre                |     26 |
-| \#BoricNoEstasSolo           |     25 |
-| \#RenunciaBoric              |     25 |
-| \#sextoretiro                |     22 |
-| \#ChileCiudadano             |     21 |
-| \#Chile                      |     20 |
-| \#RatPack                    |     20 |
+| datos                     | Cuenta |
+|:--------------------------|-------:|
+| \#SextoRetiro             |     70 |
+| \#sextoretiro             |     60 |
+| \#NoACariola              |     45 |
+| \#Cadem                   |     42 |
+| \#ContigoCHV              |     38 |
+| \#Iquique                 |     35 |
+| \#RechazoCiudadano        |     34 |
+| \#YasnaProvoste           |     34 |
+| \#ApagaEl13               |     33 |
+| \#datoquetedoy            |     33 |
+| \#ToleranciaCero          |     33 |
+| \#triangulaciondepiñera   |     32 |
+| \#SiempreEsHoy            |     29 |
+| \#Chile                   |     27 |
+| \#LaDerechaMiente         |     25 |
+| \#DerechaGolpista         |     20 |
+| \#MeganoticiasActualiza   |     19 |
+| \#RatPack                 |     17 |
+| \#BoricUnPeligroparaChile |     15 |
+| \#MesaCentral             |     15 |
 
 # Cuentas
 
