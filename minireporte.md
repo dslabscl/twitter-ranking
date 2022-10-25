@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-24 03:06:42
+Chile. Fecha del reporte: 2022-10-25 02:52:34
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-10-24 03:06:42
 
 # Hashtags más populares
 
-| datos                     | Cuenta |
-|:--------------------------|-------:|
-| \#SextoRetiro             |     70 |
-| \#sextoretiro             |     60 |
-| \#NoACariola              |     45 |
-| \#Cadem                   |     42 |
-| \#ContigoCHV              |     38 |
-| \#Iquique                 |     35 |
-| \#RechazoCiudadano        |     34 |
-| \#YasnaProvoste           |     34 |
-| \#ApagaEl13               |     33 |
-| \#datoquetedoy            |     33 |
-| \#ToleranciaCero          |     33 |
-| \#triangulaciondepiñera   |     32 |
-| \#SiempreEsHoy            |     29 |
-| \#Chile                   |     27 |
-| \#LaDerechaMiente         |     25 |
-| \#DerechaGolpista         |     20 |
-| \#MeganoticiasActualiza   |     19 |
-| \#RatPack                 |     17 |
-| \#BoricUnPeligroparaChile |     15 |
-| \#MesaCentral             |     15 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| \#nomastag                      |     57 |
+| \#HouseoftheDragon              |     53 |
+| \#VamosColoColo                 |     53 |
+| \#StopSponsoringOurOppression   |     48 |
+| \#UgandaIsBleeding              |     48 |
+| \#SextoRetiro                   |     40 |
+| \#sextoretiro                   |     39 |
+| \#SiempreEsHoy                  |     30 |
+| \#FcChayanneUnConquistadorChile |     29 |
+| \#ContigoCHV                    |     28 |
+| \#DerechaGolpista               |     24 |
+| \#AquíSeDebateCNN               |     22 |
+| \#QueremosGira                  |     21 |
+| \#VuelveChayanne                |     20 |
+| \#Chile                         |     19 |
+| \#Chayanne                      |     17 |
+| \#NoACariola                    |     17 |
+| \#RatPack                       |     17 |
+| \#RechazoAgenda2030             |     17 |
+| \#ALERTA                        |     16 |
 
 # Cuentas
 
