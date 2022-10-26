@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-25 02:52:34
+Chile. Fecha del reporte: 2022-10-26 02:29:29
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-10-25 02:52:34
 
 | datos                           | Cuenta |
 |:--------------------------------|-------:|
-| \#nomastag                      |     57 |
-| \#HouseoftheDragon              |     53 |
-| \#VamosColoColo                 |     53 |
-| \#StopSponsoringOurOppression   |     48 |
-| \#UgandaIsBleeding              |     48 |
-| \#SextoRetiro                   |     40 |
+| \#SextoRetiro                   |     67 |
+| \#NoACariola                    |     48 |
+| \#JuegoTextual                  |     43 |
 | \#sextoretiro                   |     39 |
-| \#SiempreEsHoy                  |     30 |
+| \#SiempreEsHoy                  |     33 |
 | \#FcChayanneUnConquistadorChile |     29 |
-| \#ContigoCHV                    |     28 |
-| \#DerechaGolpista               |     24 |
-| \#AquíSeDebateCNN               |     22 |
-| \#QueremosGira                  |     21 |
-| \#VuelveChayanne                |     20 |
-| \#Chile                         |     19 |
-| \#Chayanne                      |     17 |
-| \#NoACariola                    |     17 |
+| \#ContigoCHV                    |     26 |
+| \#ALERTA                        |     25 |
+| \#nomastag                      |     24 |
+| \#RechazoAgenda2030             |     20 |
+| \#RechazoNuevoProceso           |     20 |
+| \#DerechaMiserable              |     19 |
+| \#QueremosGira                  |     19 |
+| \#BoricUnPeligroparaChile       |     18 |
+| \#MesaCentral                   |     18 |
+| \#VuelveChayanne                |     18 |
+| \#18DeOctubre                   |     17 |
+| \#Chile                         |     17 |
 | \#RatPack                       |     17 |
-| \#RechazoAgenda2030             |     17 |
-| \#ALERTA                        |     16 |
+| \#Chayanne                      |     16 |
 
 # Cuentas
 
