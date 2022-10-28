@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-27 02:26:37
+Chile. Fecha del reporte: 2022-10-28 02:34:40
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-10-27 02:26:37
 
 | datos                           | Cuenta |
 |:--------------------------------|-------:|
-| \#SextoRetiro                   |     58 |
-| \#NoACariola                    |     56 |
-| \#VamosLaU                      |     40 |
-| \#sextoretiro                   |     39 |
-| \#UCHvsUExTNTSports             |     39 |
-| \#laleydebaltazar               |     38 |
-| \#ContigoCHV                    |     34 |
-| \#ElPrimerBesoDeNazFer          |     34 |
-| \#SiempreEsHoy                  |     34 |
-| \#EritreaOutOfTigray            |     32 |
-| \#TigrayUnderAttack             |     32 |
-| \#FcChayanneUnConquistadorChile |     29 |
-| \#DerechaMiserable              |     24 |
+| \#NoACariola                    |    160 |
+| \#sextoretiro                   |    125 |
+| \#YoEstoyConKarolCariola        |     74 |
+| \#SextoRetiro                   |     50 |
+| \#ElVolteretas                  |     37 |
+| \#QueSeVayanTodos               |     36 |
+| \#SiempreEsHoy                  |     36 |
+| \#FcChayanneUnConquistadorChile |     35 |
+| \#FueraComunistasDeChile        |     26 |
+| \#Chile                         |     23 |
 | \#RatPack                       |     22 |
-| \#FueraComunistasDeChile        |     19 |
-| \#MoratAVina2023                |     19 |
-| \#Chile                         |     18 |
-| \#datoquetedoy                  |     18 |
-| \#mentirasverdaderas            |     18 |
+| \#ContigoCHV                    |     20 |
+| \#ElPuebloNoQuiereAcariola      |     20 |
+| \#LosColumnistas                |     19 |
+| \#tpp11                         |     19 |
 | \#QueremosGira                  |     18 |
+| \#VuelveChayanne                |     18 |
+| \#MeganoticiasActualiza         |     17 |
+| \#NazFerBuscanABulut            |     17 |
+| \#presidenciacamaraMV           |     17 |
 
 # Cuentas
 
