@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-28 02:34:40
+Chile. Fecha del reporte: 2022-10-31 02:39:29
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-10-28 02:34:40
 
 | datos                           | Cuenta |
 |:--------------------------------|-------:|
-| \#NoACariola                    |    160 |
-| \#sextoretiro                   |    125 |
-| \#YoEstoyConKarolCariola        |     74 |
-| \#SextoRetiro                   |     50 |
-| \#ElVolteretas                  |     37 |
-| \#QueSeVayanTodos               |     36 |
-| \#SiempreEsHoy                  |     36 |
-| \#FcChayanneUnConquistadorChile |     35 |
-| \#FueraComunistasDeChile        |     26 |
-| \#Chile                         |     23 |
+| \#sextoretiro                   |    105 |
+| \#NoACariola                    |     99 |
+| \#SextoRetiro                   |     90 |
+| \#SouthernTigray                |     44 |
+| \#TigrayUnderAttack             |     44 |
+| \#SiempreEsHoy                  |     43 |
+| \#EritreaOutOfTigray            |     42 |
+| \#datoquetedoy                  |     36 |
+| \#Chile                         |     30 |
 | \#RatPack                       |     22 |
-| \#ContigoCHV                    |     20 |
-| \#ElPuebloNoQuiereAcariola      |     20 |
-| \#LosColumnistas                |     19 |
-| \#tpp11                         |     19 |
-| \#QueremosGira                  |     18 |
-| \#VuelveChayanne                |     18 |
+| \#FcChayanneUnConquistadorChile |     20 |
+| \#RenunciaBoric                 |     19 |
 | \#MeganoticiasActualiza         |     17 |
-| \#NazFerBuscanABulut            |     17 |
-| \#presidenciacamaraMV           |     17 |
+| \#Arica                         |     14 |
+| \#QueremosGira                  |     14 |
+| \#ToleranciaCero                |     14 |
+| \#VuelveChayanne                |     14 |
+| \#Alamata                       |     13 |
+| \#AmharaMilitia                 |     13 |
+| \#LulaPresidente2022            |     13 |
 
 # Cuentas
 
