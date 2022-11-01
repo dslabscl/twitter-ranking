@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-10-31 02:39:29
+Chile. Fecha del reporte: 2022-11-01 02:45:23
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-10-31 02:39:29
 
 | datos                           | Cuenta |
 |:--------------------------------|-------:|
-| \#sextoretiro                   |    105 |
-| \#NoACariola                    |     99 |
-| \#SextoRetiro                   |     90 |
-| \#SouthernTigray                |     44 |
-| \#TigrayUnderAttack             |     44 |
-| \#SiempreEsHoy                  |     43 |
-| \#EritreaOutOfTigray            |     42 |
-| \#datoquetedoy                  |     36 |
-| \#Chile                         |     30 |
+| \#NoACariola                    |     83 |
+| \#SextoRetiro                   |     72 |
+| \#sextoretiro                   |     53 |
+| \#SiempreEsHoy                  |     46 |
+| \#RenunciaBoric                 |     27 |
+| \#datoquetedoy                  |     25 |
 | \#RatPack                       |     22 |
-| \#FcChayanneUnConquistadorChile |     20 |
-| \#RenunciaBoric                 |     19 |
-| \#MeganoticiasActualiza         |     17 |
-| \#Arica                         |     14 |
+| \#MERLUZOinepto                 |     20 |
+| \#Chile                         |     19 |
+| \#FcChayanneUnConquistadorChile |     19 |
+| \#PlebiscitoRevocatorio         |     18 |
+| \#Arica                         |     17 |
+| \#MeganoticiasActualiza         |     16 |
+| \#MerluzoDemente                |     16 |
 | \#QueremosGira                  |     14 |
-| \#ToleranciaCero                |     14 |
+| \#RechazoNuevoProceso           |     14 |
 | \#VuelveChayanne                |     14 |
-| \#Alamata                       |     13 |
-| \#AmharaMilitia                 |     13 |
-| \#LulaPresidente2022            |     13 |
+| \#BoricUnPeligroparaChile       |     13 |
+| \#DerechaMiserable              |     13 |
+| \#ProscribirAlPartidoComunista  |     13 |
 
 # Cuentas
 
