@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-01 02:45:23
+Chile. Fecha del reporte: 2022-11-02 02:34:36
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-11-01 02:45:23
 
 | datos                           | Cuenta |
 |:--------------------------------|-------:|
-| \#NoACariola                    |     83 |
-| \#SextoRetiro                   |     72 |
-| \#sextoretiro                   |     53 |
-| \#SiempreEsHoy                  |     46 |
-| \#RenunciaBoric                 |     27 |
-| \#datoquetedoy                  |     25 |
+| \#NoACariola                    |     71 |
+| \#SextoRetiro                   |     66 |
+| \#sextoretiro                   |     51 |
+| \#SiempreEsHoy                  |     49 |
+| \#StandUp4HumanRights           |     36 |
+| \#WhatsHappeningInUganda        |     36 |
+| \#Chile                         |     27 |
+| \#datoquetedoy                  |     27 |
+| \#RECvsMAGxTNTSports            |     25 |
 | \#RatPack                       |     22 |
-| \#MERLUZOinepto                 |     20 |
-| \#Chile                         |     19 |
+| \#ReportajesT13                 |     21 |
 | \#FcChayanneUnConquistadorChile |     19 |
-| \#PlebiscitoRevocatorio         |     18 |
 | \#Arica                         |     17 |
-| \#MeganoticiasActualiza         |     16 |
-| \#MerluzoDemente                |     16 |
+| \#BoricEnCaidaLibre             |     17 |
+| \#PlebiscitoRevocatorio         |     16 |
+| \#RenunciaBoric                 |     15 |
 | \#QueremosGira                  |     14 |
-| \#RechazoNuevoProceso           |     14 |
 | \#VuelveChayanne                |     14 |
-| \#BoricUnPeligroparaChile       |     13 |
-| \#DerechaMiserable              |     13 |
-| \#ProscribirAlPartidoComunista  |     13 |
+| \#Chayanne                      |     13 |
+| \#ContigoCHV                    |     13 |
 
 # Cuentas
 
