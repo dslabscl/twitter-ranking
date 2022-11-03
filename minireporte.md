@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-02 02:34:36
+Chile. Fecha del reporte: 2022-11-03 02:18:18
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-11-02 02:34:36
 
 | datos                           | Cuenta |
 |:--------------------------------|-------:|
-| \#NoACariola                    |     71 |
-| \#SextoRetiro                   |     66 |
-| \#sextoretiro                   |     51 |
-| \#SiempreEsHoy                  |     49 |
-| \#StandUp4HumanRights           |     36 |
-| \#WhatsHappeningInUganda        |     36 |
-| \#Chile                         |     27 |
-| \#datoquetedoy                  |     27 |
-| \#RECvsMAGxTNTSports            |     25 |
-| \#RatPack                       |     22 |
-| \#ReportajesT13                 |     21 |
-| \#FcChayanneUnConquistadorChile |     19 |
-| \#Arica                         |     17 |
-| \#BoricEnCaidaLibre             |     17 |
-| \#PlebiscitoRevocatorio         |     16 |
-| \#RenunciaBoric                 |     15 |
-| \#QueremosGira                  |     14 |
-| \#VuelveChayanne                |     14 |
-| \#Chayanne                      |     13 |
-| \#ContigoCHV                    |     13 |
+| \#SextoRetiro                   |     90 |
+| \#ConMiPlataNO                  |     55 |
+| \#NoACariola                    |     51 |
+| \#sextoretiro                   |     50 |
+| \#SiempreEsHoy                  |     50 |
+| \#CadenaNacional                |     42 |
+| \#EndTigrayGenocide             |     35 |
+| \#ContigoCHV                    |     33 |
+| \#RatPack                       |     28 |
+| \#datoquetedoy                  |     26 |
+| \#Chile                         |     24 |
+| \#MejoresPensiones              |     22 |
+| \#TPP11                         |     20 |
+| \#disfrutenlovotado             |     19 |
+| \#Justice                       |     19 |
+| \#UNSC                          |     19 |
+| \#ConMiPlataNo                  |     18 |
+| \#DerechaMiserable              |     18 |
+| \#FcChayanneUnConquistadorChile |     18 |
+| \#ProtectTheProtest             |     17 |
 
 # Cuentas
 
