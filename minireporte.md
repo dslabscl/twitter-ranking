@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-03 02:18:18
+Chile. Fecha del reporte: 2022-11-04 02:25:44
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-03 02:18:18
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| \#SextoRetiro                   |     90 |
-| \#ConMiPlataNO                  |     55 |
-| \#NoACariola                    |     51 |
-| \#sextoretiro                   |     50 |
-| \#SiempreEsHoy                  |     50 |
-| \#CadenaNacional                |     42 |
-| \#EndTigrayGenocide             |     35 |
-| \#ContigoCHV                    |     33 |
-| \#RatPack                       |     28 |
-| \#datoquetedoy                  |     26 |
-| \#Chile                         |     24 |
-| \#MejoresPensiones              |     22 |
-| \#TPP11                         |     20 |
-| \#disfrutenlovotado             |     19 |
-| \#Justice                       |     19 |
-| \#UNSC                          |     19 |
-| \#ConMiPlataNo                  |     18 |
-| \#DerechaMiserable              |     18 |
-| \#FcChayanneUnConquistadorChile |     18 |
-| \#ProtectTheProtest             |     17 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#sextoretiro                  |    158 |
+| \#datoquetedoy                 |    119 |
+| \#ConMiPlataNO                 |     93 |
+| \#SextoRetiro                  |     56 |
+| \#SiempreEsHoy                 |     47 |
+| \#NoACariola                   |     41 |
+| \#ContigoCHV                   |     40 |
+| \#MejoresPensiones             |     38 |
+| \#NoEsSolidarioEsRobo          |     38 |
+| \#CadenaNacional               |     33 |
+| \#SistemaMixto                 |     31 |
+| \#RatPack                      |     28 |
+| \#MuchoGustoMega               |     26 |
+| \#NoMasAFP                     |     23 |
+| \#SinFiltros                   |     19 |
+| \#Chile                        |     17 |
+| \#ProscribirAlPartidoComunista |     16 |
+| \#ReformaDePensiones           |     16 |
+| \#reformapensionesMV           |     16 |
+| \#temblor                      |     16 |
 
 # Cuentas
 
