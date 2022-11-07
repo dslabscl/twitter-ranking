@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-04 02:25:44
+Chile. Fecha del reporte: 2022-11-07 02:11:42
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-04 02:25:44
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#sextoretiro                  |    158 |
-| \#datoquetedoy                 |    119 |
-| \#ConMiPlataNO                 |     93 |
-| \#SextoRetiro                  |     56 |
-| \#SiempreEsHoy                 |     47 |
-| \#NoACariola                   |     41 |
-| \#ContigoCHV                   |     40 |
-| \#MejoresPensiones             |     38 |
-| \#NoEsSolidarioEsRobo          |     38 |
-| \#CadenaNacional               |     33 |
-| \#SistemaMixto                 |     31 |
-| \#RatPack                      |     28 |
-| \#MuchoGustoMega               |     26 |
-| \#NoMasAFP                     |     23 |
-| \#SinFiltros                   |     19 |
-| \#Chile                        |     17 |
-| \#ProscribirAlPartidoComunista |     16 |
-| \#ReformaDePensiones           |     16 |
-| \#reformapensionesMV           |     16 |
-| \#temblor                      |     16 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#SextoRetiro           |    104 |
+| \#ContigoCHV            |     73 |
+| \#Teleton2022           |     58 |
+| \#SiempreEsHoy          |     50 |
+| \#Iquique               |     48 |
+| \#YasnaProvoste         |     47 |
+| \#ApagaEl13             |     46 |
+| \#triangulaciondepiñera |     46 |
+| \#RechazoCiudadano      |     35 |
+| \#NoACariola            |     33 |
+| \#RatPack               |     25 |
+| \#Cadem                 |     21 |
+| \#sextoretiro           |     20 |
+| \#Chile                 |     17 |
+| \#merluzoinepto         |     17 |
+| \#teleton2022           |     17 |
+| \#MesaCentral           |     16 |
+| \#CNNPrime              |     14 |
+| \#Arica                 |     13 |
+| \#ConMiPlataNO          |     13 |
 
 # Cuentas
 
