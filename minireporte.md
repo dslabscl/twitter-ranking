@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-07 02:11:42
+Chile. Fecha del reporte: 2022-11-08 02:13:27
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-11-07 02:11:42
 
 | datos                   | Cuenta |
 |:------------------------|-------:|
-| \#SextoRetiro           |    104 |
-| \#ContigoCHV            |     73 |
-| \#Teleton2022           |     58 |
-| \#SiempreEsHoy          |     50 |
-| \#Iquique               |     48 |
-| \#YasnaProvoste         |     47 |
-| \#ApagaEl13             |     46 |
-| \#triangulaciondepiñera |     46 |
-| \#RechazoCiudadano      |     35 |
-| \#NoACariola            |     33 |
+| \#sextoretiro           |    364 |
+| \#SextoRetiro           |     94 |
+| \#ContigoCHV            |     52 |
+| \#SiempreEsHoy          |     51 |
+| \#Chile                 |     34 |
+| \#NoACariola            |     30 |
 | \#RatPack               |     25 |
-| \#Cadem                 |     21 |
-| \#sextoretiro           |     20 |
-| \#Chile                 |     17 |
-| \#merluzoinepto         |     17 |
-| \#teleton2022           |     17 |
-| \#MesaCentral           |     16 |
-| \#CNNPrime              |     14 |
-| \#Arica                 |     13 |
-| \#ConMiPlataNO          |     13 |
+| \#ALERTA                |     21 |
+| \#ConMiPlataNO          |     21 |
+| \#Iquique               |     20 |
+| \#ApagaEl13             |     19 |
+| \#triangulaciondepiñera |     19 |
+| \#YasnaProvoste         |     19 |
+| \#Arica                 |     18 |
+| \#CNNPrime              |     15 |
+| \#MesaCentral           |     15 |
+| \#ReformaDePensiones    |     15 |
+| \#QueremosGira          |     14 |
+| \#QuiénLoDiría          |     14 |
+| \#Chayanne              |     13 |
 
 # Cuentas
 
