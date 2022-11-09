@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-08 02:13:27
+Chile. Fecha del reporte: 2022-11-09 02:25:37
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-08 02:13:27
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#sextoretiro           |    364 |
-| \#SextoRetiro           |     94 |
-| \#ContigoCHV            |     52 |
-| \#SiempreEsHoy          |     51 |
-| \#Chile                 |     34 |
-| \#NoACariola            |     30 |
-| \#RatPack               |     25 |
-| \#ALERTA                |     21 |
-| \#ConMiPlataNO          |     21 |
-| \#Iquique               |     20 |
-| \#ApagaEl13             |     19 |
-| \#triangulaciondepiñera |     19 |
-| \#YasnaProvoste         |     19 |
-| \#Arica                 |     18 |
-| \#CNNPrime              |     15 |
-| \#MesaCentral           |     15 |
-| \#ReformaDePensiones    |     15 |
-| \#QueremosGira          |     14 |
-| \#QuiénLoDiría          |     14 |
-| \#Chayanne              |     13 |
+| datos                | Cuenta |
+|:---------------------|-------:|
+| \#SextoRetiro        |     62 |
+| \#ContigoCHV         |     54 |
+| \#SiempreEsHoy       |     51 |
+| \#sextoretiro        |     31 |
+| \#NoACariola         |     30 |
+| \#Chile              |     27 |
+| \#MuchoGustoMega     |     25 |
+| \#RatPack            |     25 |
+| \#ConMiPlataNO       |     19 |
+| \#Arica              |     18 |
+| \#Sismo              |     17 |
+| \#MesaCentral        |     16 |
+| \#temblor            |     15 |
+| \#NoMasAFP           |     14 |
+| \#QueremosGira       |     14 |
+| \#QuiénLoDiría       |     14 |
+| \#AFP                |     13 |
+| \#Chayanne           |     13 |
+| \#ReformaDePensiones |     13 |
+| \#VuelveChayanne     |     13 |
 
 # Cuentas
 
