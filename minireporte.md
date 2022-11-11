@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-09 02:25:37
+Chile. Fecha del reporte: 2022-11-11 02:16:51
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-09 02:25:37
 
 # Hashtags más populares
 
-| datos                | Cuenta |
-|:---------------------|-------:|
-| \#SextoRetiro        |     62 |
-| \#ContigoCHV         |     54 |
-| \#SiempreEsHoy       |     51 |
-| \#sextoretiro        |     31 |
-| \#NoACariola         |     30 |
-| \#Chile              |     27 |
-| \#MuchoGustoMega     |     25 |
-| \#RatPack            |     25 |
-| \#ConMiPlataNO       |     19 |
-| \#Arica              |     18 |
-| \#Sismo              |     17 |
-| \#MesaCentral        |     16 |
-| \#temblor            |     15 |
-| \#NoMasAFP           |     14 |
-| \#QueremosGira       |     14 |
-| \#QuiénLoDiría       |     14 |
-| \#AFP                |     13 |
-| \#Chayanne           |     13 |
-| \#ReformaDePensiones |     13 |
-| \#VuelveChayanne     |     13 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#SextoRetiro           |     50 |
+| \#SiempreEsHoy          |     41 |
+| \#ContigoCHV            |     39 |
+| \#sextoretiro           |     33 |
+| \#MuchoGustoMega        |     32 |
+| \#RatPack               |     30 |
+| \#NoACariola            |     28 |
+| \#Chile                 |     23 |
+| \#ZolGenSMA             |     23 |
+| \#MusicBankinChile      |     20 |
+| \#ConMiPlataNO          |     16 |
+| \#Arica                 |     15 |
+| \#datoquetedoy          |     15 |
+| \#GalaCrackEasy2022     |     15 |
+| \#Iquique               |     14 |
+| \#QuiénLoDiría          |     14 |
+| \#CADEejecutivos        |     13 |
+| \#MeganoticiasActualiza |     13 |
+| \#MesaCentral           |     13 |
+| \#QueremosGira          |     12 |
 
 # Cuentas
 
