@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-11 02:16:51
+Chile. Fecha del reporte: 2022-11-14 02:08:05
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-11-11 02:16:51
 
 | datos                   | Cuenta |
 |:------------------------|-------:|
-| \#SextoRetiro           |     50 |
-| \#SiempreEsHoy          |     41 |
-| \#ContigoCHV            |     39 |
-| \#sextoretiro           |     33 |
-| \#MuchoGustoMega        |     32 |
-| \#RatPack               |     30 |
-| \#NoACariola            |     28 |
-| \#Chile                 |     23 |
-| \#ZolGenSMA             |     23 |
-| \#MusicBankinChile      |     20 |
-| \#ConMiPlataNO          |     16 |
+| \#SextoRetiro           |     92 |
+| \#SiempreEsHoy          |     38 |
+| \#MesaCentral           |     32 |
+| \#sextoretiro           |     32 |
+| \#Cadem                 |     29 |
+| \#ContigoCHV            |     29 |
+| \#Chile                 |     27 |
+| \#NoACariola            |     24 |
+| \#Iquique               |     22 |
+| \#RatPack               |     22 |
+| \#BoricEsMiPresidente   |     21 |
+| \#enacional             |     21 |
+| \#triangulaciondepiñera |     21 |
+| \#YasnaProvoste         |     21 |
+| \#ApagaEl13             |     20 |
+| \#FinalCopaChileEasy    |     18 |
+| \#ChileWillWaitForTXT   |     17 |
 | \#Arica                 |     15 |
-| \#datoquetedoy          |     15 |
-| \#GalaCrackEasy2022     |     15 |
-| \#Iquique               |     14 |
+| \#PepeKasMillonario     |     15 |
 | \#QuiénLoDiría          |     14 |
-| \#CADEejecutivos        |     13 |
-| \#MeganoticiasActualiza |     13 |
-| \#MesaCentral           |     13 |
-| \#QueremosGira          |     12 |
 
 # Cuentas
 
