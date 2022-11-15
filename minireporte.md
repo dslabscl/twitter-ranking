@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-14 02:08:05
+Chile. Fecha del reporte: 2022-11-15 02:06:16
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-14 02:08:05
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#SextoRetiro           |     92 |
-| \#SiempreEsHoy          |     38 |
-| \#MesaCentral           |     32 |
-| \#sextoretiro           |     32 |
-| \#Cadem                 |     29 |
-| \#ContigoCHV            |     29 |
-| \#Chile                 |     27 |
-| \#NoACariola            |     24 |
-| \#Iquique               |     22 |
-| \#RatPack               |     22 |
-| \#BoricEsMiPresidente   |     21 |
-| \#enacional             |     21 |
-| \#triangulaciondepiñera |     21 |
-| \#YasnaProvoste         |     21 |
-| \#ApagaEl13             |     20 |
-| \#FinalCopaChileEasy    |     18 |
-| \#ChileWillWaitForTXT   |     17 |
-| \#Arica                 |     15 |
-| \#PepeKasMillonario     |     15 |
-| \#QuiénLoDiría          |     14 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| \#SextoRetiro                   |     60 |
+| \#SiempreEsHoy                  |     36 |
+| \#ContigoCHV                    |     30 |
+| \#Chile                         |     24 |
+| \#CNNPrime                      |     23 |
+| \#sextoretiro                   |     23 |
+| \#NoACariola                    |     22 |
+| \#RatPack                       |     22 |
+| \#Boric                         |     19 |
+| \#LosColumnistas                |     18 |
+| \#MesaCentral                   |     18 |
+| \#QueremosGira                  |     16 |
+| \#Arica                         |     15 |
+| \#Iquique                       |     15 |
+| \#PepeKasMillonario             |     15 |
+| \#MuchoGustoMega                |     14 |
+| \#QuiénLoDiría                  |     14 |
+| \#VuelveChayanne                |     14 |
+| \#Chayanne                      |     13 |
+| \#FcChayanneUnConquistadorChile |     13 |
 
 # Cuentas
 
