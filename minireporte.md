@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-15 02:06:16
+Chile. Fecha del reporte: 2022-11-16 02:08:18
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-15 02:06:16
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| \#SextoRetiro                   |     60 |
-| \#SiempreEsHoy                  |     36 |
-| \#ContigoCHV                    |     30 |
-| \#Chile                         |     24 |
-| \#CNNPrime                      |     23 |
-| \#sextoretiro                   |     23 |
-| \#NoACariola                    |     22 |
-| \#RatPack                       |     22 |
-| \#Boric                         |     19 |
-| \#LosColumnistas                |     18 |
-| \#MesaCentral                   |     18 |
-| \#QueremosGira                  |     16 |
-| \#Arica                         |     15 |
-| \#Iquique                       |     15 |
-| \#PepeKasMillonario             |     15 |
-| \#MuchoGustoMega                |     14 |
-| \#QuiénLoDiría                  |     14 |
-| \#VuelveChayanne                |     14 |
-| \#Chayanne                      |     13 |
-| \#FcChayanneUnConquistadorChile |     13 |
+| datos                | Cuenta |
+|:---------------------|-------:|
+| \#SextoRetiro        |     79 |
+| \#ContigoCHV         |     37 |
+| \#GRAMMYs            |     37 |
+| \#Chile              |     33 |
+| \#SiempreEsHoy       |     31 |
+| \#HolaChileLaRed     |     28 |
+| \#sextoretiro        |     25 |
+| \#bettyenel13        |     23 |
+| \#NazFerSocios       |     22 |
+| \#RatPack            |     21 |
+| \#TuDia13            |     21 |
+| \#MahsaAmini         |     19 |
+| \#Arica              |     18 |
+| \#LosColumnistas     |     18 |
+| \#IRAN               |     17 |
+| \#IranRevolution2022 |     17 |
+| \#MesaCentral        |     17 |
+| \#AquíSeDebateCNN    |     16 |
+| \#DerechaMiserable   |     16 |
+| \#NoACariola         |     16 |
 
 # Cuentas
 
