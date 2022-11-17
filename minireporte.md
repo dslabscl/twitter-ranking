@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-16 02:08:18
+Chile. Fecha del reporte: 2022-11-17 02:06:27
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-16 02:08:18
 
 # Hashtags más populares
 
-| datos                | Cuenta |
-|:---------------------|-------:|
-| \#SextoRetiro        |     79 |
-| \#ContigoCHV         |     37 |
-| \#GRAMMYs            |     37 |
-| \#Chile              |     33 |
-| \#SiempreEsHoy       |     31 |
-| \#HolaChileLaRed     |     28 |
-| \#sextoretiro        |     25 |
-| \#bettyenel13        |     23 |
-| \#NazFerSocios       |     22 |
-| \#RatPack            |     21 |
-| \#TuDia13            |     21 |
-| \#MahsaAmini         |     19 |
-| \#Arica              |     18 |
-| \#LosColumnistas     |     18 |
-| \#IRAN               |     17 |
-| \#IranRevolution2022 |     17 |
-| \#MesaCentral        |     17 |
-| \#AquíSeDebateCNN    |     16 |
-| \#DerechaMiserable   |     16 |
-| \#NoACariola         |     16 |
+| datos                  | Cuenta |
+|:-----------------------|-------:|
+| \#SextoRetiro          |     46 |
+| \#ContigoCHV           |     41 |
+| \#DerechaMiserable     |     35 |
+| \#sextoretiro          |     33 |
+| \#RenunciaBoric        |     32 |
+| \#BASTAYA              |     27 |
+| \#BoricChileNoTeQuiere |     27 |
+| \#LosColumnistas       |     27 |
+| \#ParoNacional         |     26 |
+| \#SiempreEsHoy         |     25 |
+| \#DerechaGolpista      |     24 |
+| \#RatPack              |     22 |
+| \#Chile                |     19 |
+| \#VamosColoColo        |     19 |
+| \#MesaCentral          |     18 |
+| \#ConexiónT13          |     16 |
+| \#LaDerechaMiente      |     16 |
+| \#LaRojaxCHV           |     16 |
+| \#Arica                |     15 |
+| \#VamosChile           |     15 |
 
 # Cuentas
 
