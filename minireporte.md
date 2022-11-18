@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-17 02:06:27
+Chile. Fecha del reporte: 2022-11-18 02:10:48
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-17 02:06:27
 
 # Hashtags más populares
 
-| datos                  | Cuenta |
-|:-----------------------|-------:|
-| \#SextoRetiro          |     46 |
-| \#ContigoCHV           |     41 |
-| \#DerechaMiserable     |     35 |
-| \#sextoretiro          |     33 |
-| \#RenunciaBoric        |     32 |
-| \#BASTAYA              |     27 |
-| \#BoricChileNoTeQuiere |     27 |
-| \#LosColumnistas       |     27 |
-| \#ParoNacional         |     26 |
-| \#SiempreEsHoy         |     25 |
-| \#DerechaGolpista      |     24 |
-| \#RatPack              |     22 |
-| \#Chile                |     19 |
-| \#VamosColoColo        |     19 |
-| \#MesaCentral          |     18 |
-| \#ConexiónT13          |     16 |
-| \#LaDerechaMiente      |     16 |
-| \#LaRojaxCHV           |     16 |
-| \#Arica                |     15 |
-| \#VamosChile           |     15 |
+| datos                 | Cuenta |
+|:----------------------|-------:|
+| \#FelipeKast          |    106 |
+| \#sextoretiro         |     81 |
+| \#SextoRetiro         |     77 |
+| \#datoquetedoy        |     59 |
+| \#ContigoCHV          |     31 |
+| \#DerechaMiserable    |     31 |
+| \#LaDerechaMiente     |     31 |
+| \#MissVenezuela2022   |     25 |
+| \#Chile               |     23 |
+| \#RatPack             |     22 |
+| \#TikTok              |     22 |
+| \#LosColumnistas      |     20 |
+| \#BoricEsMiPresidente |     19 |
+| \#SiempreEsHoy        |     19 |
+| \#CNNPrime            |     17 |
+| \#DerechaVendePatria  |     17 |
+| \#ConexiónT13         |     16 |
+| \#ElPlanDeDemet       |     16 |
+| \#noixisoverparty     |     16 |
+| \#Arica               |     15 |
 
 # Cuentas
 
