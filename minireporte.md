@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-18 02:10:48
+Chile. Fecha del reporte: 2022-11-21 02:09:56
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-18 02:10:48
 
 # Hashtags más populares
 
-| datos                 | Cuenta |
-|:----------------------|-------:|
-| \#FelipeKast          |    106 |
-| \#sextoretiro         |     81 |
-| \#SextoRetiro         |     77 |
-| \#datoquetedoy        |     59 |
-| \#ContigoCHV          |     31 |
-| \#DerechaMiserable    |     31 |
-| \#LaDerechaMiente     |     31 |
-| \#MissVenezuela2022   |     25 |
-| \#Chile               |     23 |
-| \#RatPack             |     22 |
-| \#TikTok              |     22 |
-| \#LosColumnistas      |     20 |
-| \#BoricEsMiPresidente |     19 |
-| \#SiempreEsHoy        |     19 |
-| \#CNNPrime            |     17 |
-| \#DerechaVendePatria  |     17 |
-| \#ConexiónT13         |     16 |
-| \#ElPlanDeDemet       |     16 |
-| \#noixisoverparty     |     16 |
-| \#Arica               |     15 |
+| datos                    | Cuenta |
+|:-------------------------|-------:|
+| \#SextoRetiro            |    115 |
+| \#sextoretiro            |     66 |
+| \#RenunciaBoric          |     59 |
+| \#UgandaIsBleeding       |     52 |
+| \#WhatsHappeningInUganda |     52 |
+| \#datoquetedoy           |     45 |
+| \#TikTok                 |     44 |
+| \#GobiernoDeInutiles     |     29 |
+| \#ContigoCHV             |     28 |
+| \#RatPack                |     22 |
+| \#SiempreEsHoy           |     22 |
+| \#Chile                  |     21 |
+| \#DerechaMiserable       |     21 |
+| \#ALERTA                 |     19 |
+| \#BoricEsMiPresidente    |     17 |
+| \#gobiernoNefasto        |     17 |
+| \#ConexiónT13            |     16 |
+| \#LosColumnistas         |     14 |
+| \#QueremosGira           |     14 |
+| \#QuiénLoDiría           |     14 |
 
 # Cuentas
 
