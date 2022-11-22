@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-21 02:09:56
+Chile. Fecha del reporte: 2022-11-22 02:08:20
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-21 02:09:56
 
 # Hashtags más populares
 
-| datos                    | Cuenta |
-|:-------------------------|-------:|
-| \#SextoRetiro            |    115 |
-| \#sextoretiro            |     66 |
-| \#RenunciaBoric          |     59 |
-| \#UgandaIsBleeding       |     52 |
-| \#WhatsHappeningInUganda |     52 |
-| \#datoquetedoy           |     45 |
-| \#TikTok                 |     44 |
-| \#GobiernoDeInutiles     |     29 |
-| \#ContigoCHV             |     28 |
-| \#RatPack                |     22 |
-| \#SiempreEsHoy           |     22 |
-| \#Chile                  |     21 |
-| \#DerechaMiserable       |     21 |
-| \#ALERTA                 |     19 |
-| \#BoricEsMiPresidente    |     17 |
-| \#gobiernoNefasto        |     17 |
-| \#ConexiónT13            |     16 |
-| \#LosColumnistas         |     14 |
-| \#QueremosGira           |     14 |
-| \#QuiénLoDiría           |     14 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#SextoRetiro           |     97 |
+| \#sextoretiro           |     65 |
+| \#ContigoCHV            |     51 |
+| \#Iquique               |     39 |
+| \#RatPack               |     36 |
+| \#YasnaProvoste         |     36 |
+| \#ApagaEl13             |     35 |
+| \#triangulaciondepiñera |     35 |
+| \#datoquetedoy          |     28 |
+| \#SiempreEsHoy          |     22 |
+| \#ParoNacional          |     18 |
+| \#CamionerosGolpistas   |     17 |
+| \#LosColumnistas        |     17 |
+| \#Arica                 |     16 |
+| \#ConexiónT13           |     16 |
+| \#ParoDeCamioneros      |     16 |
+| \#QueremosGira          |     16 |
+| \#Chile                 |     15 |
+| \#DerechaMiserable      |     15 |
+| \#QuiénLoDiría          |     14 |
 
 # Cuentas
 
