@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-23 01:55:59
+Chile. Fecha del reporte: 2022-11-24 01:57:20
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-23 01:55:59
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#SextoRetiro                  |    128 |
-| \#Chile                        |     29 |
-| \#ContigoCHV                   |     29 |
-| \#RatPack                      |     29 |
-| \#sextoretiro                  |     27 |
-| \#TikTok                       |     20 |
-| \#Iquique                      |     16 |
-| \#ProscribirAlPartidoComunista |     16 |
-| \#ApagaEl13                    |     15 |
-| \#Arica                        |     15 |
-| \#ConexiónT13                  |     15 |
-| \#triangulaciondepiñera        |     15 |
-| \#YasnaProvoste                |     15 |
-| \#BoricUnPeligroparaChile      |     14 |
-| \#ParoDeCamioneros             |     14 |
-| \#Qatar2022                    |     14 |
-| \#QueremosGira                 |     14 |
-| \#QuiénLoDiría                 |     14 |
-| \#RechazoNuevoProceso          |     13 |
-| \#BoricVerguenzaInternacional  |     12 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| \#ParoDeCamioneros              |    106 |
+| \#CFKLadronaDeLaNacionArgentina |     68 |
+| \#CFKUNAGRANHIJADEPERRA         |     68 |
+| \#HebeUnaGranHijaDePerra        |     68 |
+| \#ParoNacional                  |     59 |
+| \#Qatar2022                     |     57 |
+| \#SextoRetiro                   |     57 |
+| \#DerechaMiserable              |     49 |
+| \#FIFAWorldCup                  |     42 |
+| \#sextoretiro                   |     40 |
+| \#ContigoCHV                    |     34 |
+| \#Chile                         |     27 |
+| \#LiguillaAscenso               |     26 |
+| \#RatPack                       |     25 |
+| \#Iquique                       |     21 |
+| \#SinNuestraPlata               |     21 |
+| \#RenunciaBoric                 |     19 |
+| \#CamionerosGolpistas           |     18 |
+| \#Arica                         |     16 |
+| \#DunaEnPunto                   |     16 |
 
 # Cuentas
 
