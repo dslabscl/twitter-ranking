@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-24 01:57:20
+Chile. Fecha del reporte: 2022-11-25 01:57:56
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-24 01:57:20
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| \#ParoDeCamioneros              |    106 |
-| \#CFKLadronaDeLaNacionArgentina |     68 |
-| \#CFKUNAGRANHIJADEPERRA         |     68 |
-| \#HebeUnaGranHijaDePerra        |     68 |
-| \#ParoNacional                  |     59 |
-| \#Qatar2022                     |     57 |
-| \#SextoRetiro                   |     57 |
-| \#DerechaMiserable              |     49 |
-| \#FIFAWorldCup                  |     42 |
-| \#sextoretiro                   |     40 |
-| \#ContigoCHV                    |     34 |
-| \#Chile                         |     27 |
-| \#LiguillaAscenso               |     26 |
-| \#RatPack                       |     25 |
-| \#Iquique                       |     21 |
-| \#SinNuestraPlata               |     21 |
-| \#RenunciaBoric                 |     19 |
-| \#CamionerosGolpistas           |     18 |
-| \#Arica                         |     16 |
-| \#DunaEnPunto                   |     16 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#SextoRetiro                  |    149 |
+| \#ParoDeCamioneros             |     64 |
+| \#TrenesParaChile              |     53 |
+| \#EritreaOutOfTigray           |     42 |
+| \#BoricEnCaidaLibre            |     41 |
+| \#IDEVAW2022                   |     41 |
+| \#MeToo                        |     41 |
+| \#BoricDefiendeAUnChileno      |     40 |
+| \#EnMéxicoSePersigue           |     40 |
+| \#MuchoGustoMega               |     37 |
+| \#sextoretiro                  |     26 |
+| \#TuDia13                      |     26 |
+| \#CamionerosGolpistas          |     23 |
+| \#Justice4TigraysWomenAndGirls |     23 |
+| \#Tigray                       |     23 |
+| \#TikTok                       |     23 |
+| \#Chile                        |     22 |
+| \#RatPack                      |     21 |
+| \#Vina2023                     |     20 |
+| \#justice4tigraywomenandgirls  |     19 |
 
 # Cuentas
 
