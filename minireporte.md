@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-25 01:57:56
+Chile. Fecha del reporte: 2022-11-28 01:55:51
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-25 01:57:56
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#SextoRetiro                  |    149 |
-| \#ParoDeCamioneros             |     64 |
-| \#TrenesParaChile              |     53 |
-| \#EritreaOutOfTigray           |     42 |
-| \#BoricEnCaidaLibre            |     41 |
-| \#IDEVAW2022                   |     41 |
-| \#MeToo                        |     41 |
-| \#BoricDefiendeAUnChileno      |     40 |
-| \#EnMéxicoSePersigue           |     40 |
-| \#MuchoGustoMega               |     37 |
-| \#sextoretiro                  |     26 |
-| \#TuDia13                      |     26 |
-| \#CamionerosGolpistas          |     23 |
-| \#Justice4TigraysWomenAndGirls |     23 |
-| \#Tigray                       |     23 |
-| \#TikTok                       |     23 |
-| \#Chile                        |     22 |
-| \#RatPack                      |     21 |
-| \#Vina2023                     |     20 |
-| \#justice4tigraywomenandgirls  |     19 |
+| datos                    | Cuenta |
+|:-------------------------|-------:|
+| \#SextoRetiro            |    123 |
+| \#ParoDeCamioneros       |     43 |
+| \#CamionerosGolpistas    |     42 |
+| \#Chile                  |     39 |
+| \#sextoretiro            |     33 |
+| \#TrenesParaChile        |     22 |
+| \#RatPack                |     21 |
+| \#TikTok                 |     21 |
+| \#MeganoticiasActualiza  |     20 |
+| \#DerechaMiserable       |     19 |
+| \#SiempreEsHoy           |     18 |
+| \#ALERTA                 |     17 |
+| \#AmharaGenocide         |     16 |
+| \#MexicoVsArgentina      |     16 |
+| \#AmharaGenocideInOromia |     15 |
+| \#Amharas                |     15 |
+| \#RenunciaBoric          |     15 |
+| \#RenunciaBoricCTM       |     15 |
+| \#Arica                  |     14 |
+| \#ContigoCHV             |     14 |
 
 # Cuentas
 
