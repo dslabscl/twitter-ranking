@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-28 01:55:51
+Chile. Fecha del reporte: 2022-11-29 01:51:56
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-11-28 01:55:51
 
 | datos                    | Cuenta |
 |:-------------------------|-------:|
-| \#SextoRetiro            |    123 |
-| \#ParoDeCamioneros       |     43 |
-| \#CamionerosGolpistas    |     42 |
-| \#Chile                  |     39 |
-| \#sextoretiro            |     33 |
-| \#TrenesParaChile        |     22 |
-| \#RatPack                |     21 |
-| \#TikTok                 |     21 |
-| \#MeganoticiasActualiza  |     20 |
-| \#DerechaMiserable       |     19 |
-| \#SiempreEsHoy           |     18 |
+| \#SextoRetiro            |    117 |
+| \#CensuraParaCariola     |     63 |
+| \#AmharaGenocide         |     55 |
+| \#AmharaGenocideInOromia |     55 |
+| \#Amharas                |     55 |
+| \#Chile                  |     40 |
+| \#sextoretiro            |     30 |
+| \#RechazoAgenda2030      |     29 |
+| \#CamionerosGolpistas    |     21 |
+| \#ParoDeCamioneros       |     21 |
+| \#SiempreEsHoy           |     21 |
+| \#RatPack                |     20 |
+| \#MeganoticiasActualiza  |     18 |
 | \#ALERTA                 |     17 |
-| \#AmharaGenocide         |     16 |
-| \#MexicoVsArgentina      |     16 |
-| \#AmharaGenocideInOromia |     15 |
-| \#Amharas                |     15 |
-| \#RenunciaBoric          |     15 |
-| \#RenunciaBoricCTM       |     15 |
+| \#QueremosGira           |     16 |
+| \#ContigoCHV             |     15 |
+| \#MuchoGustoMega         |     15 |
+| \#TikTok                 |     15 |
 | \#Arica                  |     14 |
-| \#ContigoCHV             |     14 |
+| \#Chayanne               |     14 |
 
 # Cuentas
 
