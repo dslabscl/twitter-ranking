@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-29 01:51:56
+Chile. Fecha del reporte: 2022-11-30 01:53:20
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-29 01:51:56
 
 # Hashtags más populares
 
-| datos                    | Cuenta |
-|:-------------------------|-------:|
-| \#SextoRetiro            |    117 |
-| \#CensuraParaCariola     |     63 |
-| \#AmharaGenocide         |     55 |
-| \#AmharaGenocideInOromia |     55 |
-| \#Amharas                |     55 |
-| \#Chile                  |     40 |
-| \#sextoretiro            |     30 |
-| \#RechazoAgenda2030      |     29 |
-| \#CamionerosGolpistas    |     21 |
-| \#ParoDeCamioneros       |     21 |
-| \#SiempreEsHoy           |     21 |
-| \#RatPack                |     20 |
-| \#MeganoticiasActualiza  |     18 |
-| \#ALERTA                 |     17 |
-| \#QueremosGira           |     16 |
-| \#ContigoCHV             |     15 |
-| \#MuchoGustoMega         |     15 |
-| \#TikTok                 |     15 |
-| \#Arica                  |     14 |
-| \#Chayanne               |     14 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| \#SextoRetiro              |    122 |
+| \#sextoretiro              |     46 |
+| \#ChaoCariola              |     31 |
+| \#Chile                    |     30 |
+| \#SantiagoAgoniza          |     28 |
+| \#RechazoAgenda2030        |     27 |
+| \#AmharaGenicide           |     25 |
+| \#AmharaGenocideInEthiopia |     25 |
+| \#SiempreEsHoy             |     22 |
+| \#RatPack                  |     19 |
+| \#ParoDeCamioneros         |     18 |
+| \#MeganoticiasActualiza    |     17 |
+| \#inmigracionilegal        |     16 |
+| \#QueremosGira             |     15 |
+| \#Arica                    |     14 |
+| \#CamionerosGolpistas      |     14 |
+| \#Chayanne                 |     14 |
+| \#ContigoCHV               |     14 |
+| \#DerechaMiserable         |     13 |
+| \#TikTok                   |     13 |
 
 # Cuentas
 
