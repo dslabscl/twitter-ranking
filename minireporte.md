@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-11-30 01:53:20
+Chile. Fecha del reporte: 2022-12-01 02:07:10
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-11-30 01:53:20
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#SextoRetiro              |    122 |
-| \#sextoretiro              |     46 |
-| \#ChaoCariola              |     31 |
-| \#Chile                    |     30 |
-| \#SantiagoAgoniza          |     28 |
-| \#RechazoAgenda2030        |     27 |
-| \#AmharaGenicide           |     25 |
-| \#AmharaGenocideInEthiopia |     25 |
-| \#SiempreEsHoy             |     22 |
-| \#RatPack                  |     19 |
-| \#ParoDeCamioneros         |     18 |
-| \#MeganoticiasActualiza    |     17 |
-| \#inmigracionilegal        |     16 |
-| \#QueremosGira             |     15 |
-| \#Arica                    |     14 |
-| \#CamionerosGolpistas      |     14 |
-| \#Chayanne                 |     14 |
-| \#ContigoCHV               |     14 |
-| \#DerechaMiserable         |     13 |
-| \#TikTok                   |     13 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| \#SextoRetiro                   |     51 |
+| \#sextoretiro                   |     35 |
+| \#RechazoAgenda2030             |     32 |
+| \#Chile                         |     30 |
+| \#ContigoCHV                    |     29 |
+| \#QueremosGira                  |     27 |
+| \#ConMiPlataNo                  |     26 |
+| \#RatPack                       |     26 |
+| \#SiempreEsHoy                  |     24 |
+| \#VuelveChayanne                |     24 |
+| \#Chayanne                      |     21 |
+| \#FcChayanneUnConquistadorChile |     17 |
+| \#MeganoticiasActualiza         |     17 |
+| \#Arica                         |     16 |
+| \#NavidadConChayanne            |     14 |
+| \#SantiagoAgoniza               |     14 |
+| \#AmharaGenocide                |     13 |
+| \#ComoTuYYo                     |     13 |
+| \#ConexiónT13                   |     13 |
+| \#NoEsMorales                   |     13 |
 
 # Cuentas
 
