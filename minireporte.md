@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-01 02:07:10
+Chile. Fecha del reporte: 2022-12-02 01:45:48
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-12-01 02:07:10
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| \#SextoRetiro                   |     51 |
-| \#sextoretiro                   |     35 |
-| \#RechazoAgenda2030             |     32 |
-| \#Chile                         |     30 |
-| \#ContigoCHV                    |     29 |
-| \#QueremosGira                  |     27 |
-| \#ConMiPlataNo                  |     26 |
-| \#RatPack                       |     26 |
-| \#SiempreEsHoy                  |     24 |
-| \#VuelveChayanne                |     24 |
-| \#Chayanne                      |     21 |
-| \#FcChayanneUnConquistadorChile |     17 |
-| \#MeganoticiasActualiza         |     17 |
-| \#Arica                         |     16 |
-| \#NavidadConChayanne            |     14 |
-| \#SantiagoAgoniza               |     14 |
-| \#AmharaGenocide                |     13 |
-| \#ComoTuYYo                     |     13 |
-| \#ConexiónT13                   |     13 |
-| \#NoEsMorales                   |     13 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#SextoRetiro           |     45 |
+| \#sextoretiro           |     41 |
+| \#Chile                 |     36 |
+| \#RechazoAgenda2030     |     32 |
+| \#ContigoCHV            |     29 |
+| \#RatPack               |     26 |
+| \#SiempreEsHoy          |     26 |
+| \#SEXTORETIRO           |     24 |
+| \#QueremosGira          |     17 |
+| \#MeganoticiasActualiza |     16 |
+| \#Arica                 |     15 |
+| \#Chayanne              |     15 |
+| \#VuelveChayanne        |     15 |
+| \#ConexiónT13           |     14 |
+| \#LosColumnistas        |     12 |
+| \#Qatar2022             |     12 |
+| \#Seguimos              |     12 |
+| \#DerechaMiserable      |     11 |
+| \#MuchoGustoMega        |     11 |
+| \#NoEsMorales           |     11 |
 
 # Cuentas
 
