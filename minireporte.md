@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-02 01:45:48
+Chile. Fecha del reporte: 2022-12-05 01:46:18
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-12-02 01:45:48
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#SextoRetiro           |     45 |
-| \#sextoretiro           |     41 |
-| \#Chile                 |     36 |
-| \#RechazoAgenda2030     |     32 |
-| \#ContigoCHV            |     29 |
-| \#RatPack               |     26 |
-| \#SiempreEsHoy          |     26 |
-| \#SEXTORETIRO           |     24 |
-| \#QueremosGira          |     17 |
-| \#MeganoticiasActualiza |     16 |
-| \#Arica                 |     15 |
-| \#Chayanne              |     15 |
-| \#VuelveChayanne        |     15 |
-| \#ConexiónT13           |     14 |
-| \#LosColumnistas        |     12 |
-| \#Qatar2022             |     12 |
-| \#Seguimos              |     12 |
-| \#DerechaMiserable      |     11 |
-| \#MuchoGustoMega        |     11 |
-| \#NoEsMorales           |     11 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#SextoRetiro                 |     78 |
+| \#sextoretiro                 |     42 |
+| \#DestitucionDeBoricAhora     |     35 |
+| \#NoAlAcuerdoDeMacaya         |     34 |
+| \#SantiagoAgoniza             |     31 |
+| \#Chile                       |     30 |
+| \#RechazoAgenda2030           |     28 |
+| \#inmigracionilegal           |     26 |
+| \#RatPack                     |     24 |
+| \#SiempreEsHoy                |     24 |
+| \#ContigoCHV                  |     20 |
+| \#RechazoOtroProceso          |     18 |
+| \#ALERTA                      |     17 |
+| \#Iquique                     |     16 |
+| \#MeganoticiasActualiza       |     16 |
+| \#DerechaMiserable            |     15 |
+| \#RenunciaBoric               |     15 |
+| \#Arica                       |     13 |
+| \#QueremosGira                |     13 |
+| \#BoricVerguenzaInternacional |     12 |
 
 # Cuentas
 
