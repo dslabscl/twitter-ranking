@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-05 01:46:18
+Chile. Fecha del reporte: 2022-12-06 01:44:22
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-12-05 01:46:18
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#SextoRetiro                 |     78 |
-| \#sextoretiro                 |     42 |
-| \#DestitucionDeBoricAhora     |     35 |
-| \#NoAlAcuerdoDeMacaya         |     34 |
-| \#SantiagoAgoniza             |     31 |
-| \#Chile                       |     30 |
-| \#RechazoAgenda2030           |     28 |
-| \#inmigracionilegal           |     26 |
-| \#RatPack                     |     24 |
-| \#SiempreEsHoy                |     24 |
-| \#ContigoCHV                  |     20 |
-| \#RechazoOtroProceso          |     18 |
-| \#ALERTA                      |     17 |
-| \#Iquique                     |     16 |
-| \#MeganoticiasActualiza       |     16 |
-| \#DerechaMiserable            |     15 |
-| \#RenunciaBoric               |     15 |
-| \#Arica                       |     13 |
-| \#QueremosGira                |     13 |
-| \#BoricVerguenzaInternacional |     12 |
+| datos                     | Cuenta |
+|:--------------------------|-------:|
+| \#SextoRetiro             |    124 |
+| \#DestitucionDeBoricAhora |     33 |
+| \#sextoretiro             |     24 |
+| \#Chile                   |     23 |
+| \#RatPack                 |     23 |
+| \#RechazoOtroProceso      |     23 |
+| \#SiempreEsHoy            |     22 |
+| \#TikTok                  |     19 |
+| \#ContigoCHV              |     18 |
+| \#LosColumnistas          |     18 |
+| \#RechazoAgenda2030       |     18 |
+| \#CNNPrime                |     17 |
+| \#MeganoticiasActualiza   |     17 |
+| \#SantiagoAgoniza         |     16 |
+| \#Delincuencia            |     15 |
+| \#QueremosGira            |     15 |
+| \#alza                    |     14 |
+| \#cesantía                |     14 |
+| \#corrupción              |     14 |
+| \#inmigracionilegal       |     14 |
 
 # Cuentas
 
