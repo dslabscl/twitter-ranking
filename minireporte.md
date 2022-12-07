@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-06 01:44:22
+Chile. Fecha del reporte: 2022-12-07 01:50:59
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-12-06 01:44:22
 
 | datos                     | Cuenta |
 |:--------------------------|-------:|
-| \#SextoRetiro             |    124 |
+| \#SextoRetiro             |     83 |
 | \#DestitucionDeBoricAhora |     33 |
+| \#Chile                   |     30 |
+| \#SantiagoAgoniza         |     27 |
+| \#inmigracionilegal       |     26 |
+| \#RechazoOtroProceso      |     26 |
 | \#sextoretiro             |     24 |
-| \#Chile                   |     23 |
-| \#RatPack                 |     23 |
-| \#RechazoOtroProceso      |     23 |
-| \#SiempreEsHoy            |     22 |
-| \#TikTok                  |     19 |
-| \#ContigoCHV              |     18 |
-| \#LosColumnistas          |     18 |
+| \#Iquique                 |     23 |
+| \#RatPack                 |     22 |
+| \#ContigoCHV              |     21 |
+| \#LosColumnistas          |     19 |
 | \#RechazoAgenda2030       |     18 |
-| \#CNNPrime                |     17 |
+| \#RechazoNuevoProceso     |     18 |
 | \#MeganoticiasActualiza   |     17 |
-| \#SantiagoAgoniza         |     16 |
-| \#Delincuencia            |     15 |
+| \#SiempreEsHoy            |     17 |
+| \#CFKChorra               |     15 |
 | \#QueremosGira            |     15 |
-| \#alza                    |     14 |
-| \#cesantía                |     14 |
-| \#corrupción              |     14 |
-| \#inmigracionilegal       |     14 |
+| \#Chayanne                |     14 |
+| \#TikTok                  |     14 |
+| \#Arica                   |     13 |
 
 # Cuentas
 
