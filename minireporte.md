@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-07 01:50:59
+Chile. Fecha del reporte: 2022-12-08 01:46:17
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-12-07 01:50:59
 
 # Hashtags más populares
 
-| datos                     | Cuenta |
-|:--------------------------|-------:|
-| \#SextoRetiro             |     83 |
-| \#DestitucionDeBoricAhora |     33 |
-| \#Chile                   |     30 |
-| \#SantiagoAgoniza         |     27 |
-| \#inmigracionilegal       |     26 |
-| \#RechazoOtroProceso      |     26 |
-| \#sextoretiro             |     24 |
-| \#Iquique                 |     23 |
-| \#RatPack                 |     22 |
-| \#ContigoCHV              |     21 |
-| \#LosColumnistas          |     19 |
-| \#RechazoAgenda2030       |     18 |
-| \#RechazoNuevoProceso     |     18 |
-| \#MeganoticiasActualiza   |     17 |
-| \#SiempreEsHoy            |     17 |
-| \#CFKChorra               |     15 |
-| \#QueremosGira            |     15 |
-| \#Chayanne                |     14 |
-| \#TikTok                  |     14 |
-| \#Arica                   |     13 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#NoALaDictaduraDeLos8  |     62 |
+| \#SextoRetiro           |     57 |
+| \#ContigoCHV            |     32 |
+| \#sextoretiro           |     32 |
+| \#Chile                 |     31 |
+| \#Iquique               |     28 |
+| \#SantiagoAgoniza       |     25 |
+| \#inmigracionilegal     |     24 |
+| \#RatPack               |     23 |
+| \#SiempreEsHoy          |     23 |
+| \#RechazoOtroProceso    |     21 |
+| \#OtraNo                |     20 |
+| \#LosColumnistas        |     19 |
+| \#leytongo              |     18 |
+| \#RenunciaBoric         |     18 |
+| \#RechazoNuevoProceso   |     16 |
+| \#Arica                 |     15 |
+| \#MeganoticiasActualiza |     15 |
+| \#BASTA                 |     14 |
+| \#DerechaMiserable      |     14 |
 
 # Cuentas
 
