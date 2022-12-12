@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-09 01:50:12
+Chile. Fecha del reporte: 2022-12-12 01:49:03
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-12-09 01:50:12
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#SextoRetiro                  |    122 |
-| \#NoALaDictaduraDeLos8         |     46 |
-| \#RechazoOtroProceso           |     43 |
-| \#Chile                        |     42 |
-| \#ContigoCHV                   |     39 |
-| \#Iquique                      |     33 |
-| \#SantiagoAgoniza              |     32 |
-| \#inmigracionilegal            |     31 |
-| \#RenunciaBoric                |     31 |
-| \#OtraNo                       |     30 |
-| \#SiempreEsHoy                 |     25 |
-| \#sextoretiro                  |     24 |
-| \#RatPack                      |     23 |
-| \#LosColumnistas               |     19 |
-| \#LaCocinaDestruyeAChile       |     18 |
-| \#GobiernoDeInutiles           |     17 |
-| \#ProscribirAlPartidoComunista |     17 |
-| \#RechazoNuevoProceso          |     16 |
-| \#Arica                        |     15 |
-| \#DerechaMiserable             |     15 |
+| datos                     | Cuenta |
+|:--------------------------|-------:|
+| \#FueraAmarillos          |     50 |
+| \#CobardeDeRisaFácil      |     45 |
+| \#Despreciable            |     45 |
+| \#FueraChahuán            |     45 |
+| \#VendePatria             |     45 |
+| \#DinaAsesina             |     40 |
+| \#SextoRetiro             |     38 |
+| \#sextoretiro             |     36 |
+| \#RechazoOtroProceso      |     34 |
+| \#SiempreEsHoy            |     34 |
+| \#Cadem                   |     33 |
+| \#Chile                   |     30 |
+| \#ContigoCHV              |     28 |
+| \#RatPack                 |     23 |
+| \#Iquique                 |     17 |
+| \#UnMalAcuerdoEsDictadura |     17 |
+| \#MesaCentral             |     16 |
+| \#OtraNo                  |     16 |
+| \#MeganoticiasActualiza   |     15 |
+| \#SantiagoAgoniza         |     15 |
 
 # Cuentas
 
