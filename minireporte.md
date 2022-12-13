@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-12 01:49:03
+Chile. Fecha del reporte: 2022-12-13 01:55:31
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-12-12 01:49:03
 
 | datos                     | Cuenta |
 |:--------------------------|-------:|
-| \#FueraAmarillos          |     50 |
-| \#CobardeDeRisaFácil      |     45 |
-| \#Despreciable            |     45 |
-| \#FueraChahuán            |     45 |
-| \#VendePatria             |     45 |
-| \#DinaAsesina             |     40 |
-| \#SextoRetiro             |     38 |
-| \#sextoretiro             |     36 |
-| \#RechazoOtroProceso      |     34 |
-| \#SiempreEsHoy            |     34 |
-| \#Cadem                   |     33 |
-| \#Chile                   |     30 |
-| \#ContigoCHV              |     28 |
-| \#RatPack                 |     23 |
-| \#Iquique                 |     17 |
-| \#UnMalAcuerdoEsDictadura |     17 |
-| \#MesaCentral             |     16 |
-| \#OtraNo                  |     16 |
-| \#MeganoticiasActualiza   |     15 |
-| \#SantiagoAgoniza         |     15 |
+| \#Chile                   |    137 |
+| \#OtraNo                  |    133 |
+| \#RechazoOtroProceso      |    115 |
+| \#ChileGolpeParlamentario |     72 |
+| \#SeraRechazo             |     63 |
+| \#Articulo142SeRespeta    |     60 |
+| \#PoliticosCorruptos      |     59 |
+| \#TraidoresALaPatria      |     58 |
+| \#SeráRechazo             |     50 |
+| \#ChileRechazara          |     48 |
+| \#ChileYaDijoNo           |     48 |
+| \#NoPedimosNC             |     48 |
+| \#sextoretiro             |     47 |
+| \#Extra                   |     45 |
+| \#NoEsAcuerdoEsEstafa     |     45 |
+| \#RechazoNuevoProceso     |     38 |
+| \#FueraAmarillos          |     37 |
+| \#SiempreEsHoy            |     36 |
+| \#SextoRetiro             |     33 |
+| \#LosColumnistas          |     30 |
 
 # Cuentas
 
