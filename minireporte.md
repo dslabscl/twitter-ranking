@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-13 01:55:31
+Chile. Fecha del reporte: 2022-12-14 01:48:44
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-12-13 01:55:31
 
 | datos                     | Cuenta |
 |:--------------------------|-------:|
-| \#Chile                   |    137 |
-| \#OtraNo                  |    133 |
-| \#RechazoOtroProceso      |    115 |
-| \#ChileGolpeParlamentario |     72 |
-| \#SeraRechazo             |     63 |
-| \#Articulo142SeRespeta    |     60 |
-| \#PoliticosCorruptos      |     59 |
-| \#TraidoresALaPatria      |     58 |
-| \#SeráRechazo             |     50 |
-| \#ChileRechazara          |     48 |
-| \#ChileYaDijoNo           |     48 |
-| \#NoPedimosNC             |     48 |
-| \#sextoretiro             |     47 |
-| \#Extra                   |     45 |
-| \#NoEsAcuerdoEsEstafa     |     45 |
-| \#RechazoNuevoProceso     |     38 |
-| \#FueraAmarillos          |     37 |
-| \#SiempreEsHoy            |     36 |
-| \#SextoRetiro             |     33 |
+| \#SextoRetiro             |    168 |
+| \#ChileGolpeParlamentario |    165 |
+| \#Chile                   |    130 |
+| \#OtraNo                  |    123 |
+| \#SeraRechazo             |    111 |
+| \#ChileRechazara          |    106 |
+| \#ChileYaDijoNo           |    106 |
+| \#NoPedimosNC             |    106 |
+| \#NoEsAcuerdoEsEstafa     |    101 |
+| \#BoricNoSeLaPuede        |     55 |
+| \#CariolaLaTraidora       |     55 |
+| \#RechazoOtroProceso      |     43 |
+| \#sextoretiro             |     43 |
+| \#AcuerdoConstitucional   |     40 |
+| \#SiempreEsHoy            |     38 |
 | \#LosColumnistas          |     30 |
+| \#Constitucion80          |     26 |
+| \#RatPack                 |     23 |
+| \#RechazoNuevoProceso     |     21 |
+| \#TRAIDORES_A\_LA_PATRIA  |     19 |
 
 # Cuentas
 
