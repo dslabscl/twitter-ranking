@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-14 01:48:44
+Chile. Fecha del reporte: 2022-12-15 01:50:24
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-12-14 01:48:44
 
 | datos                     | Cuenta |
 |:--------------------------|-------:|
-| \#SextoRetiro             |    168 |
-| \#ChileGolpeParlamentario |    165 |
-| \#Chile                   |    130 |
-| \#OtraNo                  |    123 |
-| \#SeraRechazo             |    111 |
-| \#ChileRechazara          |    106 |
-| \#ChileYaDijoNo           |    106 |
-| \#NoPedimosNC             |    106 |
-| \#NoEsAcuerdoEsEstafa     |    101 |
-| \#BoricNoSeLaPuede        |     55 |
-| \#CariolaLaTraidora       |     55 |
-| \#RechazoOtroProceso      |     43 |
-| \#sextoretiro             |     43 |
-| \#AcuerdoConstitucional   |     40 |
-| \#SiempreEsHoy            |     38 |
+| \#NoEsAcuerdoEsEstafa     |    103 |
+| \#sextoretiro             |     50 |
+| \#SextoRetiro             |     47 |
+| \#ChileGolpeParlamentario |     42 |
+| \#SiempreEsHoy            |     42 |
+| \#RechazoNuevoProceso     |     34 |
+| \#RechazoOtroProceso      |     34 |
+| \#AcuerdoConstitucional   |     32 |
+| \#ContigoCHV              |     32 |
 | \#LosColumnistas          |     30 |
-| \#Constitucion80          |     26 |
-| \#RatPack                 |     23 |
-| \#RechazoNuevoProceso     |     21 |
-| \#TRAIDORES_A\_LA_PATRIA  |     19 |
+| \#RatPack                 |     30 |
+| \#datoquetedoy            |     26 |
+| \#MuchoGustoMega          |     26 |
+| \#Chile                   |     25 |
+| \#OtraNo                  |     22 |
+| \#QueremosGira            |     17 |
+| \#Chayanne                |     16 |
+| \#Constitucion80          |     16 |
+| \#AcuerdoPorChile         |     15 |
+| \#MeganoticiasActualiza   |     15 |
 
 # Cuentas
 
