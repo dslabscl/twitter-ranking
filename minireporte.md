@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-15 01:50:24
+Chile. Fecha del reporte: 2022-12-16 01:38:59
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-12-15 01:50:24
 
 | datos                     | Cuenta |
 |:--------------------------|-------:|
-| \#NoEsAcuerdoEsEstafa     |    103 |
-| \#sextoretiro             |     50 |
-| \#SextoRetiro             |     47 |
-| \#ChileGolpeParlamentario |     42 |
-| \#SiempreEsHoy            |     42 |
-| \#RechazoNuevoProceso     |     34 |
-| \#RechazoOtroProceso      |     34 |
-| \#AcuerdoConstitucional   |     32 |
-| \#ContigoCHV              |     32 |
+| \#SextoRetiro             |    117 |
+| \#NoEsAcuerdoEsEstafa     |     59 |
+| \#BoricNoSeLaPuede        |     50 |
+| \#CariolaLaTraidora       |     50 |
+| \#ContigoCHV              |     47 |
+| \#ASESINOS                |     46 |
+| \#SiempreEsHoy            |     45 |
+| \#GENOCIDAS               |     44 |
+| \#CRIMINALES              |     40 |
+| \#ChileGolpeParlamentario |     33 |
+| \#sextoretiro             |     33 |
+| \#SICOPATAS               |     32 |
 | \#LosColumnistas          |     30 |
-| \#RatPack                 |     30 |
-| \#datoquetedoy            |     26 |
-| \#MuchoGustoMega          |     26 |
-| \#Chile                   |     25 |
-| \#OtraNo                  |     22 |
-| \#QueremosGira            |     17 |
-| \#Chayanne                |     16 |
-| \#Constitucion80          |     16 |
-| \#AcuerdoPorChile         |     15 |
-| \#MeganoticiasActualiza   |     15 |
+| \#MuchoGustoMega          |     29 |
+| \#Chile                   |     27 |
+| \#AcuerdoConstitucional   |     26 |
+| \#RatPack                 |     26 |
+| \#RechazoOtroProceso      |     25 |
+| \#BuenosDiasTVN           |     22 |
+| \#TuDia13                 |     21 |
 
 # Cuentas
 
