@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-19 01:40:54
+Chile. Fecha del reporte: 2022-12-20 01:42:09
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-12-19 01:40:54
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#sextoretiro           |     58 |
-| \#SiempreEsHoy          |     53 |
-| \#NoEsAcuerdoEsEstafa   |     47 |
-| \#SextoRetiro           |     42 |
-| \#MesaCentral           |     41 |
-| \#LosColumnistas        |     30 |
-| \#RatPack               |     24 |
-| \#Chile                 |     21 |
-| \#datoquetedoy          |     21 |
-| \#RechazoOtroProceso    |     19 |
-| \#Iquique               |     17 |
-| \#MeganoticiasActualiza |     16 |
-| \#Rechazo2023           |     16 |
-| \#Arica                 |     15 |
-| \#RenunciaBoric         |     15 |
-| \#AcuerdoConstitucional |     14 |
-| \#DerechaMiserable      |     14 |
-| \#QueremosGira          |     14 |
-| \#Chayanne              |     13 |
-| \#MuchoGustoMega        |     13 |
+| datos                  | Cuenta |
+|:-----------------------|-------:|
+| \#CRIMINALES           |     85 |
+| \#GENOCIDAS            |     85 |
+| \#ASESINOS             |     84 |
+| \#DELINCUENTES         |     84 |
+| \#PUNGAS               |     84 |
+| \#SICOPATAS            |     82 |
+| \#SICARIOS             |     81 |
+| \#sextoretiro          |     64 |
+| \#SiempreEsHoy         |     54 |
+| \#MesaCentral          |     42 |
+| \#NoEsAcuerdoEsEstafa  |     42 |
+| \#PEQUEÑOSAGRICULTORES |     41 |
+| \#LosColumnistas       |     35 |
+| \#SextoRetiro          |     32 |
+| \#Rechazo              |     29 |
+| \#datoquetedoy         |     24 |
+| \#M7InNovMassacreUg    |     24 |
+| \#RatPack              |     24 |
+| \#RenunciaBoric        |     24 |
+| \#StopAbductionsUganda |     24 |
 
 # Cuentas
 
