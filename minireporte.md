@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-20 01:42:09
+Chile. Fecha del reporte: 2022-12-21 01:38:11
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-12-20 01:42:09
 
 # Hashtags más populares
 
-| datos                  | Cuenta |
-|:-----------------------|-------:|
-| \#CRIMINALES           |     85 |
-| \#GENOCIDAS            |     85 |
-| \#ASESINOS             |     84 |
-| \#DELINCUENTES         |     84 |
-| \#PUNGAS               |     84 |
-| \#SICOPATAS            |     82 |
-| \#SICARIOS             |     81 |
-| \#sextoretiro          |     64 |
-| \#SiempreEsHoy         |     54 |
-| \#MesaCentral          |     42 |
-| \#NoEsAcuerdoEsEstafa  |     42 |
-| \#PEQUEÑOSAGRICULTORES |     41 |
-| \#LosColumnistas       |     35 |
-| \#SextoRetiro          |     32 |
-| \#Rechazo              |     29 |
-| \#datoquetedoy         |     24 |
-| \#M7InNovMassacreUg    |     24 |
-| \#RatPack              |     24 |
-| \#RenunciaBoric        |     24 |
-| \#StopAbductionsUganda |     24 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#sextoretiro                  |     60 |
+| \#SiempreEsHoy                 |     52 |
+| \#MesaCentral                  |     42 |
+| \#NoEsAcuerdoEsEstafa          |     37 |
+| \#LosColumnistas               |     36 |
+| \#FiscalNacional               |     32 |
+| \#Rechazo                      |     26 |
+| \#SextoRetiro                  |     26 |
+| \#ContigoCHV                   |     24 |
+| \#GajardoNuevoFiscal           |     24 |
+| \#RatPack                      |     24 |
+| \#DerechaMiserable             |     22 |
+| \#RechazoOtroProceso           |     21 |
+| \#RetiroTotalAFP               |     21 |
+| \#Chile                        |     19 |
+| \#DerechaCorrupta              |     18 |
+| \#ElPeorPresidenteDeLaHistoria |     18 |
+| \#GobiernoDeInutiles           |     18 |
+| \#MeganoticiasActualiza        |     18 |
+| \#QueremosGira                 |     18 |
 
 # Cuentas
 
