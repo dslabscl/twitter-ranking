@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-22 01:41:02
+Chile. Fecha del reporte: 2022-12-23 01:41:39
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-12-22 01:41:02
 
 | datos                   | Cuenta |
 |:------------------------|-------:|
-| \#SextoRetiro           |     56 |
-| \#sextoretiro           |     48 |
-| \#MesaCentral           |     41 |
-| \#FiscalNacional        |     40 |
-| \#NoEsAcuerdoEsEstafa   |     37 |
-| \#SiempreEsHoy          |     37 |
-| \#LosColumnistas        |     35 |
-| \#RetiroTotalAFP        |     31 |
-| \#Chile                 |     26 |
-| \#retiro100x100         |     26 |
-| \#RechazoOtroProceso    |     25 |
-| \#ContigoCHV            |     24 |
-| \#RatPack               |     24 |
+| \#SextoRetiro           |     66 |
+| \#sextoretiro           |     49 |
+| \#MesaCentral           |     40 |
+| \#ContigoCHV            |     30 |
+| \#FiscalNacional        |     29 |
+| \#SiempreEsHoy          |     29 |
+| \#LosColumnistas        |     27 |
+| \#Chile                 |     25 |
+| \#NoEsAcuerdoEsEstafa   |     25 |
+| \#Rechazo               |     23 |
 | \#MeganoticiasActualiza |     22 |
-| \#Rechazo               |     22 |
-| \#MuchoGustoMega        |     21 |
-| \#GajardoNuevoFiscal    |     20 |
-| \#PasapalabraMundial    |     20 |
-| \#Boric                 |     18 |
-| \#QueremosGira          |     16 |
+| \#RatPack               |     22 |
+| \#RechazoOtroProceso    |     22 |
+| \#SantiagoAgoniza       |     21 |
+| \#Rechazo2023           |     20 |
+| \#Boric                 |     19 |
+| \#MuchoGustoMega        |     19 |
+| \#Iquique               |     18 |
+| \#datoquetedoy          |     17 |
+| \#RechazoAgenda2030     |     17 |
 
 # Cuentas
 
