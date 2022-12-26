@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-23 01:41:39
+Chile. Fecha del reporte: 2022-12-26 01:42:06
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2022-12-23 01:41:39
 
 | datos                   | Cuenta |
 |:------------------------|-------:|
-| \#SextoRetiro           |     66 |
-| \#sextoretiro           |     49 |
-| \#MesaCentral           |     40 |
-| \#ContigoCHV            |     30 |
-| \#FiscalNacional        |     29 |
-| \#SiempreEsHoy          |     29 |
-| \#LosColumnistas        |     27 |
-| \#Chile                 |     25 |
-| \#NoEsAcuerdoEsEstafa   |     25 |
-| \#Rechazo               |     23 |
-| \#MeganoticiasActualiza |     22 |
-| \#RatPack               |     22 |
-| \#RechazoOtroProceso    |     22 |
-| \#SantiagoAgoniza       |     21 |
-| \#Rechazo2023           |     20 |
-| \#Boric                 |     19 |
-| \#MuchoGustoMega        |     19 |
-| \#Iquique               |     18 |
-| \#datoquetedoy          |     17 |
-| \#RechazoAgenda2030     |     17 |
+| \#AmharaGenocide        |     64 |
+| \#HaroAddisAlemKebele   |     58 |
+| \#Chile                 |     40 |
+| \#SextoRetiro           |     38 |
+| \#MesaCentral           |     37 |
+| \#TPP11                 |     37 |
+| \#chilesintpp           |     35 |
+| \#noadominga            |     35 |
+| \#noaltpp11             |     35 |
+| \#sextoretiro           |     34 |
+| \#Amharas               |     33 |
+| \#OLA                   |     33 |
+| \#SiempreEsHoy          |     26 |
+| \#ContigoCHV            |     25 |
+| \#VinadelMar            |     25 |
+| \#MeganoticiasActualiza |     21 |
+| \#Boric                 |     20 |
+| \#DerechaMiserable      |     20 |
+| \#IncendiosForestales   |     20 |
+| \#monicaperez           |     20 |
 
 # Cuentas
 
