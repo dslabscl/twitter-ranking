@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-26 01:42:06
+Chile. Fecha del reporte: 2022-12-27 01:39:55
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-12-26 01:42:06
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#AmharaGenocide        |     64 |
-| \#HaroAddisAlemKebele   |     58 |
-| \#Chile                 |     40 |
-| \#SextoRetiro           |     38 |
-| \#MesaCentral           |     37 |
-| \#TPP11                 |     37 |
-| \#chilesintpp           |     35 |
-| \#noadominga            |     35 |
-| \#noaltpp11             |     35 |
-| \#sextoretiro           |     34 |
-| \#Amharas               |     33 |
-| \#OLA                   |     33 |
-| \#SiempreEsHoy          |     26 |
-| \#ContigoCHV            |     25 |
-| \#VinadelMar            |     25 |
-| \#MeganoticiasActualiza |     21 |
-| \#Boric                 |     20 |
-| \#DerechaMiserable      |     20 |
-| \#IncendiosForestales   |     20 |
-| \#monicaperez           |     20 |
+| datos                     | Cuenta |
+|:--------------------------|-------:|
+| \#EndTigraySiege          |     60 |
+| \#EritreaOutOfTigray      |     60 |
+| \#NoEsAcuerdoEsEstafa     |     43 |
+| \#sextoretiro             |     39 |
+| \#MesaCentral             |     38 |
+| \#Chile                   |     37 |
+| \#NorthernTigray          |     30 |
+| \#TigrayGenocide          |     30 |
+| \#ContigoCHV              |     28 |
+| \#OtraNo                  |     27 |
+| \#SextoRetiro             |     27 |
+| \#SiempreEsHoy            |     27 |
+| \#ChileGolpeParlamentario |     25 |
+| \#RechazoNuevoProceso     |     25 |
+| \#RechazoAgenda2030       |     24 |
+| \#BastaYa                 |     23 |
+| \#ConMiVotoNo             |     23 |
+| \#MuchoGustoMega          |     23 |
+| \#BASTA                   |     22 |
+| \#ElPuebloSoberanoDijoNo  |     22 |
 
 # Cuentas
 
