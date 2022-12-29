@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-27 01:39:55
+Chile. Fecha del reporte: 2022-12-29 01:42:47
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-12-27 01:39:55
 
 # Hashtags más populares
 
-| datos                     | Cuenta |
-|:--------------------------|-------:|
-| \#EndTigraySiege          |     60 |
-| \#EritreaOutOfTigray      |     60 |
-| \#NoEsAcuerdoEsEstafa     |     43 |
-| \#sextoretiro             |     39 |
-| \#MesaCentral             |     38 |
-| \#Chile                   |     37 |
-| \#NorthernTigray          |     30 |
-| \#TigrayGenocide          |     30 |
-| \#ContigoCHV              |     28 |
-| \#OtraNo                  |     27 |
-| \#SextoRetiro             |     27 |
-| \#SiempreEsHoy            |     27 |
-| \#ChileGolpeParlamentario |     25 |
-| \#RechazoNuevoProceso     |     25 |
-| \#RechazoAgenda2030       |     24 |
-| \#BastaYa                 |     23 |
-| \#ConMiVotoNo             |     23 |
-| \#MuchoGustoMega          |     23 |
-| \#BASTA                   |     22 |
-| \#ElPuebloSoberanoDijoNo  |     22 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| \#sextoretiro                |     43 |
+| \#MesaCentral                |     36 |
+| \#SextoRetiro                |     29 |
+| \#MuchoGustoMega             |     27 |
+| \#NoEsAcuerdoEsEstafa        |     25 |
+| \#MeganoticiasActualiza      |     24 |
+| \#Chile                      |     23 |
+| \#RechazoModificarQuorum     |     22 |
+| \#RechazoAgenda2030          |     20 |
+| \#RatPack                    |     19 |
+| \#Arica                      |     16 |
+| \#OtraNo                     |     16 |
+| \#Chayanne                   |     15 |
+| \#QueremosGira               |     15 |
+| \#Boric                      |     14 |
+| \#PepeKasMillonario          |     14 |
+| \#ChileGolpeParlamentario    |     13 |
+| \#ContigoCHV                 |     13 |
+| \#NoAlAcuerdoPorLaCorrupcion |     13 |
+| \#RechazoNuevoProceso        |     13 |
 
 # Cuentas
 
