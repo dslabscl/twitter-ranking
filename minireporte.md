@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2022-12-30 01:45:18
+Chile. Fecha del reporte: 2023-01-02 01:42:14
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2022-12-30 01:45:18
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| \#MesaCentral                |     36 |
-| \#SextoRetiro                |     35 |
-| \#sextoretiro                |     30 |
-| \#MeganoticiasActualiza      |     28 |
-| \#MuchoGustoMega             |     25 |
-| \#GobiernoDeInutiles         |     24 |
-| \#Chile                      |     20 |
-| \#RechazoAgenda2030          |     20 |
-| \#Arica                      |     19 |
-| \#RatPack                    |     19 |
-| \#PlebiscitoDeEntrada        |     18 |
-| \#RenunciaBoric              |     17 |
-| \#NoEsAcuerdoEsEstafa        |     16 |
-| \#Chayanne                   |     15 |
-| \#DerechaMiserable           |     15 |
-| \#QueremosGira               |     15 |
-| \#PepeKasMillonario          |     14 |
-| \#VuelveChayanne             |     13 |
-| \#Agenda2030                 |     12 |
-| \#ElPeorGobiernoDeLaHistoria |     12 |
+| datos                     | Cuenta |
+|:--------------------------|-------:|
+| \#RenunciaBoric           |     36 |
+| \#MesaCentral             |     31 |
+| \#sextoretiro             |     29 |
+| \#MeganoticiasActualiza   |     28 |
+| \#BoricUnPeligroparaChile |     24 |
+| \#GobiernoDeInutiles      |     24 |
+| \#GrandeBoric             |     22 |
+| \#Chile                   |     21 |
+| \#DerechaMiserable        |     20 |
+| \#QueremosGira            |     18 |
+| \#Arica                   |     17 |
+| \#Chayanne                |     16 |
+| \#SextoRetiro             |     16 |
+| \#VuelveChayanne          |     16 |
+| \#ContigoCHV              |     15 |
+| \#indulto                 |     15 |
+| \#PlebiscitoRevocatorio   |     15 |
+| \#SiempreEsHoy            |     13 |
+| \#Emol                    |     12 |
+| \#IndultoPresidencial     |     12 |
 
 # Cuentas
 
