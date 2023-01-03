@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-02 01:42:14
+Chile. Fecha del reporte: 2023-01-03 01:41:16
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-01-02 01:42:14
 
 | datos                     | Cuenta |
 |:--------------------------|-------:|
-| \#RenunciaBoric           |     36 |
+| \#AmharaGenocide          |     66 |
+| \#AmharaGenocideInOromia  |     65 |
 | \#MesaCentral             |     31 |
-| \#sextoretiro             |     29 |
-| \#MeganoticiasActualiza   |     28 |
-| \#BoricUnPeligroparaChile |     24 |
-| \#GobiernoDeInutiles      |     24 |
-| \#GrandeBoric             |     22 |
-| \#Chile                   |     21 |
-| \#DerechaMiserable        |     20 |
-| \#QueremosGira            |     18 |
-| \#Arica                   |     17 |
-| \#Chayanne                |     16 |
-| \#SextoRetiro             |     16 |
-| \#VuelveChayanne          |     16 |
-| \#ContigoCHV              |     15 |
-| \#indulto                 |     15 |
-| \#PlebiscitoRevocatorio   |     15 |
-| \#SiempreEsHoy            |     13 |
-| \#Emol                    |     12 |
-| \#IndultoPresidencial     |     12 |
+| \#BoricUnPeligroparaChile |     28 |
+| \#Chile                   |     24 |
+| \#MeganoticiasActualiza   |     24 |
+| \#sextoretiro             |     23 |
+| \#DerechaMiserable        |     21 |
+| \#QueremosGira            |     19 |
+| \#RenunciaBoric           |     19 |
+| \#SextoRetiro             |     18 |
+| \#Chayanne                |     17 |
+| \#IndultoPresidencial     |     17 |
+| \#VuelveChayanne          |     17 |
+| \#Arica                   |     16 |
+| \#ContigoCHV              |     16 |
+| \#SiempreEsHoy            |     15 |
+| \#DerechaCorrupta         |     13 |
+| \#indulto                 |     13 |
+| \#TP                      |     12 |
 
 # Cuentas
 
