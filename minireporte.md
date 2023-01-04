@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-03 01:41:16
+Chile. Fecha del reporte: 2023-01-04 01:42:44
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-01-03 01:41:16
 
 # Hashtags más populares
 
-| datos                     | Cuenta |
-|:--------------------------|-------:|
-| \#AmharaGenocide          |     66 |
-| \#AmharaGenocideInOromia  |     65 |
-| \#MesaCentral             |     31 |
-| \#BoricUnPeligroparaChile |     28 |
-| \#Chile                   |     24 |
-| \#MeganoticiasActualiza   |     24 |
-| \#sextoretiro             |     23 |
-| \#DerechaMiserable        |     21 |
-| \#QueremosGira            |     19 |
-| \#RenunciaBoric           |     19 |
-| \#SextoRetiro             |     18 |
-| \#Chayanne                |     17 |
-| \#IndultoPresidencial     |     17 |
-| \#VuelveChayanne          |     17 |
-| \#Arica                   |     16 |
-| \#ContigoCHV              |     16 |
-| \#SiempreEsHoy            |     15 |
-| \#DerechaCorrupta         |     13 |
-| \#indulto                 |     13 |
-| \#TP                      |     12 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| \#sextoretiro                   |     40 |
+| \#BoricIndultoASusDelincuentes  |     39 |
+| \#EritreaOutOfTigray            |     36 |
+| \#ReleaseTigrayanPrisoners      |     35 |
+| \#AmharaOutOfTigray             |     34 |
+| \#MesaCentral                   |     31 |
+| \#MeganoticiasActualiza         |     26 |
+| \#BoricUnPeligroparaChile       |     25 |
+| \#AcusacionConstitucionalABoric |     24 |
+| \#Chile                         |     19 |
+| \#DerechaMiserable              |     19 |
+| \#QueremosGira                  |     19 |
+| \#SiempreEsHoy                  |     19 |
+| \#ContigoCHV                    |     18 |
+| \#SextoRetiro                   |     18 |
+| \#Chayanne                      |     17 |
+| \#RenunciaBoric                 |     17 |
+| \#VuelveChayanne                |     17 |
+| \#Arica                         |     16 |
+| \#BettyEnEl13                   |     16 |
 
 # Cuentas
 
