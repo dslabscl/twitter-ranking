@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-04 01:42:44
+Chile. Fecha del reporte: 2023-01-05 01:48:35
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-01-04 01:42:44
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| \#sextoretiro                   |     40 |
-| \#BoricIndultoASusDelincuentes  |     39 |
-| \#EritreaOutOfTigray            |     36 |
-| \#ReleaseTigrayanPrisoners      |     35 |
-| \#AmharaOutOfTigray             |     34 |
-| \#MesaCentral                   |     31 |
-| \#MeganoticiasActualiza         |     26 |
-| \#BoricUnPeligroparaChile       |     25 |
-| \#AcusacionConstitucionalABoric |     24 |
-| \#Chile                         |     19 |
-| \#DerechaMiserable              |     19 |
-| \#QueremosGira                  |     19 |
-| \#SiempreEsHoy                  |     19 |
-| \#ContigoCHV                    |     18 |
-| \#SextoRetiro                   |     18 |
-| \#Chayanne                      |     17 |
-| \#RenunciaBoric                 |     17 |
-| \#VuelveChayanne                |     17 |
-| \#Arica                         |     16 |
-| \#BettyEnEl13                   |     16 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#sextoretiro           |     43 |
+| \#DerechaMiserable      |     38 |
+| \#MesaCentral           |     31 |
+| \#DerechaCorrupta       |     28 |
+| \#MeganoticiasActualiza |     26 |
+| \#Chile                 |     22 |
+| \#SextoRetiro           |     21 |
+| \#SiempreEsHoy          |     21 |
+| \#ContigoCHV            |     20 |
+| \#RatPack               |     19 |
+| \#VamosLaU              |     18 |
+| \#CNNPrime              |     17 |
+| \#QueremosGira          |     17 |
+| \#Arica                 |     16 |
+| \#Chayanne              |     16 |
+| \#TP                    |     15 |
+| \#VuelveChayanne        |     15 |
+| \#MuchoGustoMega        |     14 |
+| \#DerechaGolpista       |     13 |
+| \#lowkeymustbelowkey    |     13 |
 
 # Cuentas
 
