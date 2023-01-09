@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-06 01:46:49
+Chile. Fecha del reporte: 2023-01-09 01:43:45
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-01-06 01:46:49
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#SextoRetiro                 |     52 |
-| \#sextoretiro                 |     39 |
-| \#DerechaCorrupta             |     34 |
-| \#DerechaMiserable            |     29 |
-| \#GobiernoCorruptoyMentiroso  |     28 |
-| \#RenunciaBoric               |     27 |
-| \#MeganoticiasActualiza       |     26 |
-| \#MesaCentral                 |     26 |
-| \#ContigoCHV                  |     24 |
-| \#GobiernoDeInutiles          |     22 |
-| \#Iquique                     |     20 |
-| \#gobiernoNefasto             |     19 |
-| \#SantiagoAgoniza             |     19 |
-| \#Arica                       |     17 |
-| \#QueremosGira                |     17 |
-| \#Rechazo2023                 |     17 |
-| \#Chayanne                    |     16 |
-| \#Chile                       |     16 |
-| \#StopSponsoringOurOppression |     16 |
-| \#WhatsHappeningInUganda      |     16 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| \#SextoRetiro                   |    179 |
+| \#MeganoticiasActualiza         |     29 |
+| \#AcusacionConstitucionalABoric |     24 |
+| \#DerechaMiserable              |     24 |
+| \#MesaCentral                   |     24 |
+| \#DerechaCorrupta               |     23 |
+| \#MuchoGustoMega                |     19 |
+| \#Chile                         |     18 |
+| \#QueremosGira                  |     18 |
+| \#DinaAsesina                   |     17 |
+| \#sextoretiro                   |     17 |
+| \#Arica                         |     16 |
+| \#BoricUnPeligroparaChile       |     16 |
+| \#Chayanne                      |     16 |
+| \#VuelveChayanne                |     16 |
+| \#EritreaOutOfTigray            |     14 |
+| \#Inacap                        |     14 |
+| \#Meganoticias                  |     14 |
+| \#SiempreEsHoy                  |     14 |
+| \#Cadem                         |     13 |
 
 # Cuentas
 
