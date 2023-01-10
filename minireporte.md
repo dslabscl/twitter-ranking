@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-09 01:43:45
+Chile. Fecha del reporte: 2023-01-10 01:50:32
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-01-09 01:43:45
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| \#SextoRetiro                   |    179 |
-| \#MeganoticiasActualiza         |     29 |
-| \#AcusacionConstitucionalABoric |     24 |
-| \#DerechaMiserable              |     24 |
-| \#MesaCentral                   |     24 |
-| \#DerechaCorrupta               |     23 |
-| \#MuchoGustoMega                |     19 |
-| \#Chile                         |     18 |
-| \#QueremosGira                  |     18 |
-| \#DinaAsesina                   |     17 |
-| \#sextoretiro                   |     17 |
-| \#Arica                         |     16 |
-| \#BoricUnPeligroparaChile       |     16 |
-| \#Chayanne                      |     16 |
-| \#VuelveChayanne                |     16 |
-| \#EritreaOutOfTigray            |     14 |
-| \#Inacap                        |     14 |
-| \#Meganoticias                  |     14 |
-| \#SiempreEsHoy                  |     14 |
-| \#Cadem                         |     13 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#SextoRetiro           |     50 |
+| \#MesaCentral           |     40 |
+| \#MeganoticiasActualiza |     30 |
+| \#Iquique               |     24 |
+| \#Cadem                 |     23 |
+| \#inmigracionilegal     |     23 |
+| \#MuchoGustoMega        |     23 |
+| \#QueremosGira          |     23 |
+| \#Rechazo2023           |     23 |
+| \#SantiagoAgoniza       |     23 |
+| \#sextoretiro           |     22 |
+| \#VuelveChayanne        |     21 |
+| \#ContigoCHV            |     19 |
+| \#DerechaCorrupta       |     19 |
+| \#DerechaMiserable      |     19 |
+| \#Chayanne              |     18 |
+| \#DinaAsesina           |     18 |
+| \#Arica                 |     17 |
+| \#SiempreEsHoy          |     17 |
+| \#BrasilUrgente         |     16 |
 
 # Cuentas
 
