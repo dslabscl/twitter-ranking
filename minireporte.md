@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-10 01:50:32
+Chile. Fecha del reporte: 2023-01-11 01:46:06
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-01-10 01:50:32
 
 | datos                   | Cuenta |
 |:------------------------|-------:|
-| \#SextoRetiro           |     50 |
-| \#MesaCentral           |     40 |
 | \#MeganoticiasActualiza |     30 |
-| \#Iquique               |     24 |
-| \#Cadem                 |     23 |
-| \#inmigracionilegal     |     23 |
-| \#MuchoGustoMega        |     23 |
-| \#QueremosGira          |     23 |
-| \#Rechazo2023           |     23 |
-| \#SantiagoAgoniza       |     23 |
-| \#sextoretiro           |     22 |
-| \#VuelveChayanne        |     21 |
-| \#ContigoCHV            |     19 |
-| \#DerechaCorrupta       |     19 |
-| \#DerechaMiserable      |     19 |
-| \#Chayanne              |     18 |
-| \#DinaAsesina           |     18 |
-| \#Arica                 |     17 |
-| \#SiempreEsHoy          |     17 |
-| \#BrasilUrgente         |     16 |
+| \#SextoRetiro           |     27 |
+| \#DerechaMiserable      |     26 |
+| \#MuchoGustoMega        |     25 |
+| \#sextoretiro           |     23 |
+| \#DerechaCorrupta       |     22 |
+| \#QueremosGira          |     21 |
+| \#SiempreEsHoy          |     20 |
+| \#VuelveChayanne        |     19 |
+| \#Arica                 |     18 |
+| \#Chile                 |     18 |
+| \#Meganoticias          |     18 |
+| \#Chayanne              |     17 |
+| \#DinaAsesina           |     17 |
+| \#MesaCentral           |     17 |
+| \#Inacap                |     14 |
+| \#IRGCterrorists        |     14 |
+| \#TrenesParaChile       |     14 |
+| \#ContigoCHV            |     13 |
+| \#Iquique               |     13 |
 
 # Cuentas
 
