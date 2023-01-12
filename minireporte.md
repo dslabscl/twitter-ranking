@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-11 01:46:06
+Chile. Fecha del reporte: 2023-01-12 01:56:13
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-01-11 01:46:06
 
 | datos                   | Cuenta |
 |:------------------------|-------:|
-| \#MeganoticiasActualiza |     30 |
-| \#SextoRetiro           |     27 |
-| \#DerechaMiserable      |     26 |
-| \#MuchoGustoMega        |     25 |
-| \#sextoretiro           |     23 |
-| \#DerechaCorrupta       |     22 |
+| \#SextoRetiro           |     46 |
+| \#IRGCterrorists        |     41 |
+| \#MohammadGhobadlou     |     35 |
+| \#DerechaCorrupta       |     34 |
+| \#DerechaMiserable      |     29 |
+| \#MeganoticiasActualiza |     28 |
+| \#Chile                 |     24 |
+| \#MuchoGustoMega        |     23 |
+| \#SiempreEsHoy          |     23 |
+| \#DiputadosSalvenChile  |     22 |
 | \#QueremosGira          |     21 |
-| \#SiempreEsHoy          |     20 |
+| \#Meganoticias          |     20 |
+| \#Inacap                |     19 |
 | \#VuelveChayanne        |     19 |
 | \#Arica                 |     18 |
-| \#Chile                 |     18 |
-| \#Meganoticias          |     18 |
 | \#Chayanne              |     17 |
+| \#ContigoCHV            |     17 |
 | \#DinaAsesina           |     17 |
-| \#MesaCentral           |     17 |
-| \#Inacap                |     14 |
-| \#IRGCterrorists        |     14 |
-| \#TrenesParaChile       |     14 |
-| \#ContigoCHV            |     13 |
-| \#Iquique               |     13 |
+| \#sextoretiro           |     17 |
+| \#CNNPrime              |     15 |
 
 # Cuentas
 
