@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-12 01:56:13
+Chile. Fecha del reporte: 2023-01-13 02:04:01
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-01-12 01:56:13
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#SextoRetiro           |     46 |
-| \#IRGCterrorists        |     41 |
-| \#MohammadGhobadlou     |     35 |
-| \#DerechaCorrupta       |     34 |
-| \#DerechaMiserable      |     29 |
-| \#MeganoticiasActualiza |     28 |
-| \#Chile                 |     24 |
-| \#MuchoGustoMega        |     23 |
-| \#SiempreEsHoy          |     23 |
-| \#DiputadosSalvenChile  |     22 |
-| \#QueremosGira          |     21 |
-| \#Meganoticias          |     20 |
-| \#Inacap                |     19 |
-| \#VuelveChayanne        |     19 |
-| \#Arica                 |     18 |
-| \#Chayanne              |     17 |
-| \#ContigoCHV            |     17 |
-| \#DinaAsesina           |     17 |
-| \#sextoretiro           |     17 |
-| \#CNNPrime              |     15 |
+| datos                                  | Cuenta |
+|:---------------------------------------|-------:|
+| \#ContigoCHV                           |     33 |
+| \#SextoRetiro                          |     33 |
+| \#EritreaOutOfTigray                   |     32 |
+| \#DerechaCorrupta                      |     31 |
+| \#MeganoticiasActualiza                |     30 |
+| \#800days                              |     28 |
+| \#SiempreEsHoy                         |     27 |
+| \#DerechaMiserable                     |     26 |
+| \#MásTempranoQueTardePagaranSuTraición |     26 |
+| \#MuchoGustoMega                       |     24 |
+| \#Meganoticias                         |     23 |
+| \#Chile                                |     20 |
+| \#QueremosGira                         |     20 |
+| \#Constitucion80                       |     19 |
+| \#Arica                                |     18 |
+| \#Inacap                               |     18 |
+| \#IRGCterrorists                       |     18 |
+| \#VuelveChayanne                       |     18 |
+| \#Chayanne                             |     17 |
+| \#RechazoOtraVez                       |     17 |
 
 # Cuentas
 
