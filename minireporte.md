@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-13 02:04:01
+Chile. Fecha del reporte: 2023-01-16 01:44:03
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-01-13 02:04:01
 
 # Hashtags más populares
 
-| datos                                  | Cuenta |
-|:---------------------------------------|-------:|
-| \#ContigoCHV                           |     33 |
-| \#SextoRetiro                          |     33 |
-| \#EritreaOutOfTigray                   |     32 |
-| \#DerechaCorrupta                      |     31 |
-| \#MeganoticiasActualiza                |     30 |
-| \#800days                              |     28 |
-| \#SiempreEsHoy                         |     27 |
-| \#DerechaMiserable                     |     26 |
-| \#MásTempranoQueTardePagaranSuTraición |     26 |
-| \#MuchoGustoMega                       |     24 |
-| \#Meganoticias                         |     23 |
-| \#Chile                                |     20 |
-| \#QueremosGira                         |     20 |
-| \#Constitucion80                       |     19 |
-| \#Arica                                |     18 |
-| \#Inacap                               |     18 |
-| \#IRGCterrorists                       |     18 |
-| \#VuelveChayanne                       |     18 |
-| \#Chayanne                             |     17 |
-| \#RechazoOtraVez                       |     17 |
+| datos                     | Cuenta |
+|:--------------------------|-------:|
+| \#SextoRetiro             |     64 |
+| \#NoADominga              |     50 |
+| \#MeganoticiasActualiza   |     33 |
+| \#SiempreEsHoy            |     33 |
+| \#sextoretiro             |     31 |
+| \#Meganoticias            |     26 |
+| \#Chile                   |     25 |
+| \#ContigoCHV              |     23 |
+| \#datoquetedoy            |     23 |
+| \#QueremosGira            |     20 |
+| \#Arica                   |     19 |
+| \#DerechaMiserable        |     19 |
+| \#MuchoGustoMega          |     19 |
+| \#ArashSadeghi            |     18 |
+| \#BoricUnPeligroparaChile |     18 |
+| \#Inacap                  |     18 |
+| \#IRGCterrorists          |     18 |
+| \#RenunciaBoric           |     18 |
+| \#ToomajSalehi            |     18 |
+| \#VuelveChayanne          |     18 |
 
 # Cuentas
 
