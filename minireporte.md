@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-16 01:44:03
+Chile. Fecha del reporte: 2023-01-17 01:43:49
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-01-16 01:44:03
 
 # Hashtags más populares
 
-| datos                     | Cuenta |
-|:--------------------------|-------:|
-| \#SextoRetiro             |     64 |
-| \#NoADominga              |     50 |
-| \#MeganoticiasActualiza   |     33 |
-| \#SiempreEsHoy            |     33 |
-| \#sextoretiro             |     31 |
-| \#Meganoticias            |     26 |
-| \#Chile                   |     25 |
-| \#ContigoCHV              |     23 |
-| \#datoquetedoy            |     23 |
-| \#QueremosGira            |     20 |
-| \#Arica                   |     19 |
-| \#DerechaMiserable        |     19 |
-| \#MuchoGustoMega          |     19 |
-| \#ArashSadeghi            |     18 |
-| \#BoricUnPeligroparaChile |     18 |
-| \#Inacap                  |     18 |
-| \#IRGCterrorists          |     18 |
-| \#RenunciaBoric           |     18 |
-| \#ToomajSalehi            |     18 |
-| \#VuelveChayanne          |     18 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#NoADominga            |     85 |
+| \#SextoRetiro           |     40 |
+| \#MeganoticiasActualiza |     35 |
+| \#SiempreEsHoy          |     34 |
+| \#AmharaGenocide        |     31 |
+| \#ArashSadeghi          |     30 |
+| \#IRGCterrorists        |     30 |
+| \#sextoretiro           |     30 |
+| \#ToomajSalehi          |     30 |
+| \#LosColumnistas        |     27 |
+| \#Meganoticias          |     27 |
+| \#ContigoCHV            |     26 |
+| \#DerechaMiserable      |     26 |
+| \#QueremosGira          |     26 |
+| \#Chile                 |     25 |
+| \#Inacap                |     24 |
+| \#VuelveChayanne        |     24 |
+| \#MuchoGustoMega        |     23 |
+| \#DerechaCorrupta       |     22 |
+| \#Arica                 |     20 |
 
 # Cuentas
 
