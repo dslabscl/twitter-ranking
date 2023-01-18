@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-17 01:43:49
+Chile. Fecha del reporte: 2023-01-18 01:47:38
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-01-17 01:43:49
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#NoADominga            |     85 |
-| \#SextoRetiro           |     40 |
-| \#MeganoticiasActualiza |     35 |
-| \#SiempreEsHoy          |     34 |
-| \#AmharaGenocide        |     31 |
-| \#ArashSadeghi          |     30 |
-| \#IRGCterrorists        |     30 |
-| \#sextoretiro           |     30 |
-| \#ToomajSalehi          |     30 |
-| \#LosColumnistas        |     27 |
-| \#Meganoticias          |     27 |
-| \#ContigoCHV            |     26 |
-| \#DerechaMiserable      |     26 |
-| \#QueremosGira          |     26 |
-| \#Chile                 |     25 |
-| \#Inacap                |     24 |
-| \#VuelveChayanne        |     24 |
-| \#MuchoGustoMega        |     23 |
-| \#DerechaCorrupta       |     22 |
-| \#Arica                 |     20 |
+| datos                             | Cuenta |
+|:----------------------------------|-------:|
+| \#ArashSadeghi                    |     69 |
+| \#IRGCterrorists                  |     69 |
+| \#ToomajSalehi                    |     69 |
+| \#SextoRetiro                     |     64 |
+| \#sextoretiro                     |     54 |
+| \#MeganoticiasActualiza           |     36 |
+| \#SiempreEsHoy                    |     36 |
+| \#AcusacionConstitucionalAJackson |     33 |
+| \#Iquique                         |     31 |
+| \#Rechazo2023                     |     31 |
+| \#SantiagoAgoniza                 |     31 |
+| \#inmigracionilegal               |     29 |
+| \#Meganoticias                    |     28 |
+| \#AmharaGenocide                  |     24 |
+| \#Chile                           |     24 |
+| \#ContigoCHV                      |     24 |
+| \#Inacap                          |     24 |
+| \#IndependentInvestigation        |     24 |
+| \#QueremosGira                    |     23 |
+| \#RetiroTotalAFP                  |     23 |
 
 # Cuentas
 
