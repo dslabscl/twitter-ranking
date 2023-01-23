@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-20 01:48:14
+Chile. Fecha del reporte: 2023-01-23 01:44:33
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-01-20 01:48:14
 
 | datos                    | Cuenta |
 |:-------------------------|-------:|
-| \#AmharaGenocide         |     45 |
-| \#AmharaGenocideInOromia |     45 |
-| \#SiempreEsHoy           |     37 |
-| \#Chile                  |     33 |
-| \#MeganoticiasActualiza  |     33 |
-| \#SextoRetiro            |     32 |
-| \#ContigoCHV             |     30 |
-| \#Meganoticias           |     26 |
+| \#AmharaGenocide         |     57 |
+| \#AmharaGenocideInOromia |     57 |
+| \#MeganoticiasActualiza  |     37 |
+| \#EstadoNacional         |     36 |
+| \#alertamega             |     35 |
+| \#alerta                 |     30 |
+| \#MesaCentral            |     30 |
+| \#SiempreEsHoy           |     30 |
+| \#SextoRetiro            |     28 |
+| \#Meganoticias           |     27 |
+| \#Chile                  |     24 |
 | \#Inacap                 |     24 |
-| \#MesaCentral            |     23 |
 | \#QueremosGira           |     22 |
-| \#توماج_صالحی            |     22 |
-| \#مهسا_امینی             |     22 |
+| \#DerechaMiserable       |     21 |
 | \#RatPack                |     20 |
 | \#VuelveChayanne         |     20 |
-| \#Arica                  |     19 |
-| \#MuchoGustoMega         |     19 |
+| \#Arica                  |     18 |
 | \#Chayanne               |     18 |
-| \#DerechaMiserable       |     17 |
-| \#sextoretiro            |     17 |
+| \#inmigracionilegal      |     16 |
+| \#MuchoGustoMega         |     15 |
 
 # Cuentas
 
