@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-23 01:44:33
+Chile. Fecha del reporte: 2023-01-24 01:50:04
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-01-23 01:44:33
 
 # Hashtags más populares
 
-| datos                    | Cuenta |
-|:-------------------------|-------:|
-| \#AmharaGenocide         |     57 |
-| \#AmharaGenocideInOromia |     57 |
-| \#MeganoticiasActualiza  |     37 |
-| \#EstadoNacional         |     36 |
-| \#alertamega             |     35 |
-| \#alerta                 |     30 |
-| \#MesaCentral            |     30 |
-| \#SiempreEsHoy           |     30 |
-| \#SextoRetiro            |     28 |
-| \#Meganoticias           |     27 |
-| \#Chile                  |     24 |
-| \#Inacap                 |     24 |
-| \#QueremosGira           |     22 |
-| \#DerechaMiserable       |     21 |
-| \#RatPack                |     20 |
-| \#VuelveChayanne         |     20 |
-| \#Arica                  |     18 |
-| \#Chayanne               |     18 |
-| \#inmigracionilegal      |     16 |
-| \#MuchoGustoMega         |     15 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#SextoRetiro           |     38 |
+| \#EritreaOutOfTigray    |     34 |
+| \#Tigray                |     33 |
+| \#IROB                  |     31 |
+| \#Justice4Tigray        |     31 |
+| \#WesternTigray         |     31 |
+| \#MeganoticiasActualiza |     27 |
+| \#MesaCentral           |     27 |
+| \#QueremosGira          |     25 |
+| \#SiempreEsHoy          |     25 |
+| \#Inacap                |     24 |
+| \#Iquique               |     24 |
+| \#Chile                 |     23 |
+| \#VuelveChayanne        |     23 |
+| \#inmigracionilegal     |     22 |
+| \#Meganoticias          |     22 |
+| \#FreeDoriAsgedom       |     21 |
+| \#DerechaMiserable      |     20 |
+| \#RatPack               |     20 |
+| \#Arica                 |     19 |
 
 # Cuentas
 
