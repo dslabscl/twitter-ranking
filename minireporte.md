@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-24 01:50:04
+Chile. Fecha del reporte: 2023-01-25 01:48:07
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-01-24 01:50:04
 
 | datos                   | Cuenta |
 |:------------------------|-------:|
-| \#SextoRetiro           |     38 |
-| \#EritreaOutOfTigray    |     34 |
-| \#Tigray                |     33 |
-| \#IROB                  |     31 |
-| \#Justice4Tigray        |     31 |
-| \#WesternTigray         |     31 |
-| \#MeganoticiasActualiza |     27 |
-| \#MesaCentral           |     27 |
-| \#QueremosGira          |     25 |
-| \#SiempreEsHoy          |     25 |
-| \#Inacap                |     24 |
-| \#Iquique               |     24 |
-| \#Chile                 |     23 |
-| \#VuelveChayanne        |     23 |
+| \#SextoRetiro           |     59 |
+| \#MesaCentral           |     47 |
+| \#EritreaOutOfTigray    |     28 |
+| \#Inacap                |     26 |
+| \#DerechaMiserable      |     24 |
 | \#inmigracionilegal     |     22 |
-| \#Meganoticias          |     22 |
-| \#FreeDoriAsgedom       |     21 |
-| \#DerechaMiserable      |     20 |
+| \#Iquique               |     22 |
+| \#SiempreesHoy          |     21 |
+| \#SiempreEsHoy          |     21 |
+| \#Arica                 |     20 |
+| \#Chile                 |     20 |
 | \#RatPack               |     20 |
-| \#Arica                 |     19 |
+| \#QueremosGira          |     19 |
+| \#Rechazo2023           |     19 |
+| \#Chayanne              |     18 |
+| \#LosColumnistas        |     18 |
+| \#MeganoticiasActualiza |     17 |
+| \#VuelveChayanne        |     17 |
+| \#MuchoGustoMega        |     16 |
+| \#RED                   |     15 |
 
 # Cuentas
 
