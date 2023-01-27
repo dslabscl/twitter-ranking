@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-26 01:45:07
+Chile. Fecha del reporte: 2023-01-27 01:47:29
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-01-26 01:45:07
 
 # Hashtags más populares
 
-| datos                    | Cuenta |
-|:-------------------------|-------:|
-| \#SextoRetiro            |     50 |
-| \#AmharaGenocide         |     47 |
-| \#AmharaGenocideInOromia |     47 |
-| \#MesaCentral            |     38 |
-| \#RatPack                |     31 |
-| \#DerechaMiserable       |     29 |
-| \#inmigracionilegal      |     28 |
-| \#Iquique                |     28 |
-| \#Rechazo2023            |     28 |
-| \#LosColumnistas         |     27 |
-| \#Inacap                 |     26 |
-| \#SiempreesHoy           |     24 |
-| \#Chile                  |     23 |
-| \#CuatroCabezas          |     21 |
-| \#Arica                  |     20 |
-| \#QueremosGira           |     19 |
-| \#Chayanne               |     18 |
-| \#MeganoticiasActualiza  |     17 |
-| \#MuchoGustoMega         |     17 |
-| \#sextoretiro            |     17 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#MesaCentral           |     32 |
+| \#Inacap                |     26 |
+| \#SiempreesHoy          |     26 |
+| \#RatPack               |     25 |
+| \#SextoRetiro           |     25 |
+| \#LosColumnistas        |     24 |
+| \#Chile                 |     22 |
+| \#ContigoCHV            |     22 |
+| \#MuchoGustoMega        |     22 |
+| \#CuatroCabezas         |     21 |
+| \#Arica                 |     20 |
+| \#DerechaMiserable      |     20 |
+| \#QueremosGira          |     19 |
+| \#Chayanne              |     18 |
+| \#Constitucion80        |     18 |
+| \#MeganoticiasActualiza |     17 |
+| \#NuevaConstitución     |     17 |
+| \#VuelveChayanne        |     17 |
+| \#ParisiEnChile         |     16 |
+| \#DerechaCorrupta       |     15 |
 
 # Cuentas
 
