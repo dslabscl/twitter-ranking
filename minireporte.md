@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-27 01:47:29
+Chile. Fecha del reporte: 2023-01-30 01:41:48
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-01-27 01:47:29
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#MesaCentral           |     32 |
-| \#Inacap                |     26 |
-| \#SiempreesHoy          |     26 |
-| \#RatPack               |     25 |
-| \#SextoRetiro           |     25 |
-| \#LosColumnistas        |     24 |
-| \#Chile                 |     22 |
-| \#ContigoCHV            |     22 |
-| \#MuchoGustoMega        |     22 |
-| \#CuatroCabezas         |     21 |
-| \#Arica                 |     20 |
-| \#DerechaMiserable      |     20 |
-| \#QueremosGira          |     19 |
-| \#Chayanne              |     18 |
-| \#Constitucion80        |     18 |
-| \#MeganoticiasActualiza |     17 |
-| \#NuevaConstitución     |     17 |
-| \#VuelveChayanne        |     17 |
-| \#ParisiEnChile         |     16 |
-| \#DerechaCorrupta       |     15 |
+| datos                        | Cuenta |
+|:-----------------------------|-------:|
+| \#RenunciaBoric              |     46 |
+| \#Chile                      |     43 |
+| \#GobiernoDeInutiles         |     36 |
+| \#MesaCentral                |     31 |
+| \#SiempreesHoy               |     28 |
+| \#Inacap                     |     26 |
+| \#SextoRetiro                |     25 |
+| \#MuchoGustoMega             |     24 |
+| \#CuatroCabezas              |     21 |
+| \#GobiernoCorruptoyMentiroso |     21 |
+| \#Arica                      |     20 |
+| \#GobiernoDePayasos          |     20 |
+| \#LosColumnistas             |     20 |
+| \#RatPack                    |     20 |
+| \#QueremosGira               |     19 |
+| \#Chayanne                   |     18 |
+| \#comunistas                 |     18 |
+| \#VuelveChayanne             |     17 |
+| \#Evópoli                    |     16 |
+| \#NuevaConstitución          |     16 |
 
 # Cuentas
 
