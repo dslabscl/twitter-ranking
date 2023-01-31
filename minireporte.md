@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-01-30 01:41:48
+Chile. Fecha del reporte: 2023-01-31 01:49:37
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-01-30 01:41:48
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| \#RenunciaBoric              |     46 |
-| \#Chile                      |     43 |
-| \#GobiernoDeInutiles         |     36 |
-| \#MesaCentral                |     31 |
-| \#SiempreesHoy               |     28 |
-| \#Inacap                     |     26 |
-| \#SextoRetiro                |     25 |
-| \#MuchoGustoMega             |     24 |
-| \#CuatroCabezas              |     21 |
-| \#GobiernoCorruptoyMentiroso |     21 |
-| \#Arica                      |     20 |
-| \#GobiernoDePayasos          |     20 |
-| \#LosColumnistas             |     20 |
-| \#RatPack                    |     20 |
-| \#QueremosGira               |     19 |
-| \#Chayanne                   |     18 |
-| \#comunistas                 |     18 |
-| \#VuelveChayanne             |     17 |
-| \#Evópoli                    |     16 |
-| \#NuevaConstitución          |     16 |
+| datos                 | Cuenta |
+|:----------------------|-------:|
+| \#Chile               |     37 |
+| \#LosColumnistas      |     33 |
+| \#MesaCentral         |     33 |
+| \#SiempreesHoy        |     31 |
+| \#Inacap              |     26 |
+| \#RatPack             |     25 |
+| \#MuchoGustoMega      |     23 |
+| \#DerechaCorrupta     |     22 |
+| \#CuatroCabezas       |     21 |
+| \#QueremosGira        |     21 |
+| \#SextoRetiro         |     21 |
+| \#Arica               |     20 |
+| \#Chayanne            |     20 |
+| \#Constitucion80      |     19 |
+| \#VuelveChayanne      |     19 |
+| \#DerechaMiserable    |     18 |
+| \#ContigoCHV          |     16 |
+| \#NuevaConstitución   |     15 |
+| \#RED                 |     15 |
+| \#InformaciónEsencial |     14 |
 
 # Cuentas
 
