@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-02 01:49:59
+Chile. Fecha del reporte: 2023-02-03 01:52:03
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-02-02 01:49:59
 
 # Hashtags más populares
 
-| datos               | Cuenta |
-|:--------------------|-------:|
-| \#SiempreesHoy      |     39 |
-| \#LosColumnistas    |     33 |
-| \#MuchoGustoMega    |     31 |
-| \#Chile             |     30 |
-| \#MesaCentral       |     28 |
-| \#DerechaMiserable  |     27 |
-| \#DerechaCorrupta   |     26 |
-| \#Inacap            |     26 |
-| \#Constitucion80    |     24 |
-| \#Arica             |     22 |
-| \#ContigoCHV        |     21 |
-| \#CuatroCabezas     |     21 |
-| \#QueremosGira      |     21 |
-| \#Chayanne          |     19 |
-| \#RatPack           |     19 |
-| \#VuelveChayanne    |     19 |
-| \#TikTok            |     18 |
-| \#ToleranciaCero    |     18 |
-| \#ConMiPlataNo      |     16 |
-| \#NuevaConstitución |     16 |
+| datos                  | Cuenta |
+|:-----------------------|-------:|
+| \#SextoRetiro          |     65 |
+| \#SiempreesHoy         |     42 |
+| \#DerechaCorrupta      |     38 |
+| \#LosColumnistas       |     33 |
+| \#MuchoGustoMega       |     33 |
+| \#MesaCentral          |     31 |
+| \#Chile                |     25 |
+| \#ToleranciaCero       |     25 |
+| \#Constitucion80       |     24 |
+| \#ContigoCHV           |     24 |
+| \#Inacap               |     24 |
+| \#LaListaDeLosIndultos |     24 |
+| \#DerechaMiserable     |     23 |
+| \#Arica                |     22 |
+| \#CuatroCabezas        |     21 |
+| \#QueremosGira         |     21 |
+| \#Chayanne             |     19 |
+| \#RatPack              |     19 |
+| \#VuelveChayanne       |     19 |
+| \#TikTok               |     17 |
 
 # Cuentas
 
