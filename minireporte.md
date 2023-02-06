@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-03 01:52:03
+Chile. Fecha del reporte: 2023-02-06 01:43:27
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-02-03 01:52:03
 
 # Hashtags más populares
 
-| datos                  | Cuenta |
-|:-----------------------|-------:|
-| \#SextoRetiro          |     65 |
-| \#SiempreesHoy         |     42 |
-| \#DerechaCorrupta      |     38 |
-| \#LosColumnistas       |     33 |
-| \#MuchoGustoMega       |     33 |
-| \#MesaCentral          |     31 |
-| \#Chile                |     25 |
-| \#ToleranciaCero       |     25 |
-| \#Constitucion80       |     24 |
-| \#ContigoCHV           |     24 |
-| \#Inacap               |     24 |
-| \#LaListaDeLosIndultos |     24 |
-| \#DerechaMiserable     |     23 |
-| \#Arica                |     22 |
-| \#CuatroCabezas        |     21 |
-| \#QueremosGira         |     21 |
-| \#Chayanne             |     19 |
-| \#RatPack              |     19 |
-| \#VuelveChayanne       |     19 |
-| \#TikTok               |     17 |
+| datos                           | Cuenta |
+|:--------------------------------|-------:|
+| \#IncendiosForestales           |     79 |
+| \#SextoRetiro                   |     47 |
+| \#LeyDeIncendios                |     43 |
+| \#MuchoGustoMega                |     40 |
+| \#ContigoCHV                    |     38 |
+| \#GobiernoDeIncompetentes       |     38 |
+| \#sextoretiro                   |     35 |
+| \#IzquierdaMiserableYTerrorista |     34 |
+| \#LosColumnistas                |     33 |
+| \#DerechaCorrupta               |     30 |
+| \#DerechaMiserable              |     28 |
+| \#ToqueDeQueda                  |     28 |
+| \#Inacap                        |     26 |
+| \#Chile                         |     25 |
+| \#Forestales                    |     25 |
+| \#SiempreesHoy                  |     22 |
+| \#CuatroCabezas                 |     21 |
+| \#QueremosGira                  |     21 |
+| \#Arica                         |     20 |
+| \#MesaCentral                   |     20 |
 
 # Cuentas
 
