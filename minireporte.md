@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-06 01:43:27
+Chile. Fecha del reporte: 2023-02-08 01:50:51
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-02-06 01:43:27
 
 # Hashtags más populares
 
-| datos                           | Cuenta |
-|:--------------------------------|-------:|
-| \#IncendiosForestales           |     79 |
-| \#SextoRetiro                   |     47 |
-| \#LeyDeIncendios                |     43 |
-| \#MuchoGustoMega                |     40 |
-| \#ContigoCHV                    |     38 |
-| \#GobiernoDeIncompetentes       |     38 |
-| \#sextoretiro                   |     35 |
-| \#IzquierdaMiserableYTerrorista |     34 |
-| \#LosColumnistas                |     33 |
-| \#DerechaCorrupta               |     30 |
-| \#DerechaMiserable              |     28 |
-| \#ToqueDeQueda                  |     28 |
-| \#Inacap                        |     26 |
-| \#Chile                         |     25 |
-| \#Forestales                    |     25 |
-| \#SiempreesHoy                  |     22 |
-| \#CuatroCabezas                 |     21 |
-| \#QueremosGira                  |     21 |
-| \#Arica                         |     20 |
-| \#MesaCentral                   |     20 |
+| datos                 | Cuenta |
+|:----------------------|-------:|
+| \#IncendiosForestales |     75 |
+| \#SextoRetiro         |     71 |
+| \#MuchoGustoMega      |     45 |
+| \#LosColumnistas      |     33 |
+| \#Inacap              |     26 |
+| \#UnidadParaChile     |     23 |
+| \#QueremosGira        |     22 |
+| \#DerechaMiserable    |     21 |
+| \#LeyDeIncendios      |     21 |
+| \#SiempreEsHoy        |     21 |
+| \#Arica               |     20 |
+| \#Chayanne            |     20 |
+| \#DerechaCorrupta     |     20 |
+| \#VuelveChayanne      |     20 |
+| \#MesaCentral         |     18 |
+| \#SiempreesHoy        |     18 |
+| \#Chile               |     17 |
+| \#CuatroCabezas       |     17 |
+| \#GobiernoDeInutiles  |     17 |
+| \#EritreaOutOfTigray  |     16 |
 
 # Cuentas
 
