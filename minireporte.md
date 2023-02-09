@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-08 01:50:51
+Chile. Fecha del reporte: 2023-02-09 01:48:33
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-02-08 01:50:51
 
 # Hashtags más populares
 
-| datos                 | Cuenta |
-|:----------------------|-------:|
-| \#IncendiosForestales |     75 |
-| \#SextoRetiro         |     71 |
-| \#MuchoGustoMega      |     45 |
-| \#LosColumnistas      |     33 |
-| \#Inacap              |     26 |
-| \#UnidadParaChile     |     23 |
-| \#QueremosGira        |     22 |
-| \#DerechaMiserable    |     21 |
-| \#LeyDeIncendios      |     21 |
-| \#SiempreEsHoy        |     21 |
-| \#Arica               |     20 |
-| \#Chayanne            |     20 |
-| \#DerechaCorrupta     |     20 |
-| \#VuelveChayanne      |     20 |
-| \#MesaCentral         |     18 |
-| \#SiempreesHoy        |     18 |
-| \#Chile               |     17 |
-| \#CuatroCabezas       |     17 |
-| \#GobiernoDeInutiles  |     17 |
-| \#EritreaOutOfTigray  |     16 |
+| datos                       | Cuenta |
+|:----------------------------|-------:|
+| \#IncendiosForestales       |     56 |
+| \#MuchoGustoMega            |     45 |
+| \#SextoRetiro               |     39 |
+| \#Inacap                    |     26 |
+| \#SiempreEsHoy              |     26 |
+| \#LosColumnistas            |     23 |
+| \#Chile                     |     21 |
+| \#QueremosGira              |     21 |
+| \#UnidadParaChile           |     21 |
+| \#Arica                     |     20 |
+| \#DerechaMiserable          |     20 |
+| \#Chayanne                  |     19 |
+| \#VuelveChayanne            |     19 |
+| \#LeyDeIncendios            |     18 |
+| \#CuatroCabezas             |     17 |
+| \#DerechaCorrupta           |     17 |
+| \#PolíticosCorruptos        |     17 |
+| \#ChileBajoAtaqueTerrorista |     16 |
+| \#MesaCentral               |     16 |
+| \#SiempreesHoy              |     16 |
 
 # Cuentas
 
