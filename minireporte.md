@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-09 01:48:33
+Chile. Fecha del reporte: 2023-02-10 01:52:43
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-02-09 01:48:33
 
 | datos                       | Cuenta |
 |:----------------------------|-------:|
-| \#IncendiosForestales       |     56 |
-| \#MuchoGustoMega            |     45 |
-| \#SextoRetiro               |     39 |
-| \#Inacap                    |     26 |
-| \#SiempreEsHoy              |     26 |
+| \#IncendiosForestales       |     59 |
+| \#StandUp4HumanRights       |     50 |
+| \#UgandaIsBleeding          |     50 |
+| \#MuchoGustoMega            |     38 |
+| \#SiempreEsHoy              |     30 |
+| \#Chile                     |     26 |
+| \#Inacap                    |     24 |
 | \#LosColumnistas            |     23 |
-| \#Chile                     |     21 |
+| \#LeyDeIncendios            |     22 |
 | \#QueremosGira              |     21 |
-| \#UnidadParaChile           |     21 |
 | \#Arica                     |     20 |
-| \#DerechaMiserable          |     20 |
+| \#UnidadParaChile           |     20 |
 | \#Chayanne                  |     19 |
 | \#VuelveChayanne            |     19 |
-| \#LeyDeIncendios            |     18 |
+| \#Forestales                |     18 |
+| \#GobiernoDeInutiles        |     18 |
 | \#CuatroCabezas             |     17 |
-| \#DerechaCorrupta           |     17 |
-| \#PolíticosCorruptos        |     17 |
-| \#ChileBajoAtaqueTerrorista |     16 |
-| \#MesaCentral               |     16 |
-| \#SiempreesHoy              |     16 |
+| \#BoricEstaQuemandoChile    |     16 |
+| \#DerechaMiserableyCorrupta |     16 |
+| \#IncendiosIntencionales    |     16 |
 
 # Cuentas
 
