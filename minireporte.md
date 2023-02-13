@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-10 01:52:43
+Chile. Fecha del reporte: 2023-02-13 01:50:50
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-02-10 01:52:43
 
 # Hashtags más populares
 
-| datos                       | Cuenta |
-|:----------------------------|-------:|
-| \#IncendiosForestales       |     59 |
-| \#StandUp4HumanRights       |     50 |
-| \#UgandaIsBleeding          |     50 |
-| \#MuchoGustoMega            |     38 |
-| \#SiempreEsHoy              |     30 |
-| \#Chile                     |     26 |
-| \#Inacap                    |     24 |
-| \#LosColumnistas            |     23 |
-| \#LeyDeIncendios            |     22 |
-| \#QueremosGira              |     21 |
-| \#Arica                     |     20 |
-| \#UnidadParaChile           |     20 |
-| \#Chayanne                  |     19 |
-| \#VuelveChayanne            |     19 |
-| \#Forestales                |     18 |
-| \#GobiernoDeInutiles        |     18 |
-| \#CuatroCabezas             |     17 |
-| \#BoricEstaQuemandoChile    |     16 |
-| \#DerechaMiserableyCorrupta |     16 |
-| \#IncendiosIntencionales    |     16 |
+| datos                      | Cuenta |
+|:---------------------------|-------:|
+| \#IncendiosForestales      |     49 |
+| \#DerechaMiserable         |     40 |
+| \#SiempreEsHoy             |     38 |
+| \#Boric                    |     35 |
+| \#IncendiosForestaleschile |     33 |
+| \#MuchoGustoMega           |     33 |
+| \#SextoRetiro              |     26 |
+| \#CamilaVallejo            |     25 |
+| \#Chile                    |     24 |
+| \#DimitanYa                |     24 |
+| \#Inacap                   |     24 |
+| \#PolíticosCorruptos       |     24 |
+| \#Ciudadania               |     22 |
+| \#Rechazo                  |     22 |
+| \#QueremosGira             |     21 |
+| \#Arica                    |     20 |
+| \#evacuación               |     20 |
+| \#Chayanne                 |     19 |
+| \#VuelveChayanne           |     19 |
+| \#dichato                  |     17 |
 
 # Cuentas
 
