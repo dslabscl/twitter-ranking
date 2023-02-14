@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-13 01:50:50
+Chile. Fecha del reporte: 2023-02-14 01:52:08
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-02-13 01:50:50
 
 | datos                      | Cuenta |
 |:---------------------------|-------:|
-| \#IncendiosForestales      |     49 |
-| \#DerechaMiserable         |     40 |
-| \#SiempreEsHoy             |     38 |
-| \#Boric                    |     35 |
-| \#IncendiosForestaleschile |     33 |
-| \#MuchoGustoMega           |     33 |
-| \#SextoRetiro              |     26 |
-| \#CamilaVallejo            |     25 |
-| \#Chile                    |     24 |
-| \#DimitanYa                |     24 |
-| \#Inacap                   |     24 |
-| \#PolíticosCorruptos       |     24 |
-| \#Ciudadania               |     22 |
-| \#Rechazo                  |     22 |
-| \#QueremosGira             |     21 |
+| \#AmharaGenocide           |     59 |
+| \#AmharaGenocideInOromia   |     46 |
+| \#SiempreEsHoy             |     43 |
+| \#IncendiosForestales      |     39 |
+| \#DerechaMiserable         |     30 |
+| \#MuchoGustoMega           |     30 |
+| \#SextoRetiro              |     30 |
+| \#Chile                    |     27 |
+| \#Inacap                   |     26 |
+| \#QueremosGira             |     22 |
 | \#Arica                    |     20 |
-| \#evacuación               |     20 |
-| \#Chayanne                 |     19 |
-| \#VuelveChayanne           |     19 |
-| \#dichato                  |     17 |
+| \#Chayanne                 |     20 |
+| \#VuelveChayanne           |     20 |
+| \#CGR                      |     19 |
+| \#Hassler                  |     19 |
+| \#UnidadParaChile          |     17 |
+| \#GobiernoDeInutiles       |     16 |
+| \#IncendiosForestaleschile |     16 |
+| \#Boric                    |     15 |
+| \#RED                      |     15 |
 
 # Cuentas
 
