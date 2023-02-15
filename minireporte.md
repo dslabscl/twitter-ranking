@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-14 01:52:08
+Chile. Fecha del reporte: 2023-02-15 01:51:27
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-02-14 01:52:08
 
 | datos                      | Cuenta |
 |:---------------------------|-------:|
-| \#AmharaGenocide           |     59 |
-| \#AmharaGenocideInOromia   |     46 |
-| \#SiempreEsHoy             |     43 |
-| \#IncendiosForestales      |     39 |
-| \#DerechaMiserable         |     30 |
-| \#MuchoGustoMega           |     30 |
-| \#SextoRetiro              |     30 |
-| \#Chile                    |     27 |
-| \#Inacap                   |     26 |
+| \#SextoRetiro              |    435 |
+| \#SiempreEsHoy             |     48 |
+| \#Amhara                   |     35 |
+| \#AmharaGenocide           |     35 |
+| \#AmharaGenocideInOromia   |     35 |
+| \#IncendiosForestales      |     29 |
+| \#MuchoGustoMega           |     29 |
+| \#DerechaMiserable         |     26 |
+| \#Inacap                   |     24 |
 | \#QueremosGira             |     22 |
 | \#Arica                    |     20 |
-| \#Chayanne                 |     20 |
 | \#VuelveChayanne           |     20 |
 | \#CGR                      |     19 |
+| \#Chayanne                 |     19 |
 | \#Hassler                  |     19 |
+| \#ContigoCHV               |     17 |
 | \#UnidadParaChile          |     17 |
-| \#GobiernoDeInutiles       |     16 |
 | \#IncendiosForestaleschile |     16 |
-| \#Boric                    |     15 |
-| \#RED                      |     15 |
+| \#Chile                    |     15 |
+| \#Constitucion80           |     14 |
 
 # Cuentas
 
