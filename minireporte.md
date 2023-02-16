@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-15 01:51:27
+Chile. Fecha del reporte: 2023-02-16 01:50:20
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-02-15 01:51:27
 
 # Hashtags más populares
 
-| datos                      | Cuenta |
-|:---------------------------|-------:|
-| \#SextoRetiro              |    435 |
-| \#SiempreEsHoy             |     48 |
-| \#Amhara                   |     35 |
-| \#AmharaGenocide           |     35 |
-| \#AmharaGenocideInOromia   |     35 |
-| \#IncendiosForestales      |     29 |
-| \#MuchoGustoMega           |     29 |
-| \#DerechaMiserable         |     26 |
-| \#Inacap                   |     24 |
-| \#QueremosGira             |     22 |
-| \#Arica                    |     20 |
-| \#VuelveChayanne           |     20 |
-| \#CGR                      |     19 |
-| \#Chayanne                 |     19 |
-| \#Hassler                  |     19 |
-| \#ContigoCHV               |     17 |
-| \#UnidadParaChile          |     17 |
-| \#IncendiosForestaleschile |     16 |
-| \#Chile                    |     15 |
-| \#Constitucion80           |     14 |
+| datos                          | Cuenta |
+|:-------------------------------|-------:|
+| \#SextoRetiro                  |    127 |
+| \#SiempreEsHoy                 |     53 |
+| \#DerechaMiserable             |     34 |
+| \#MuchoGustoMega               |     32 |
+| \#Justice4TigraysWomenAndGirls |     28 |
+| \#ContigoCHV                   |     26 |
+| \#Inacap                       |     26 |
+| \#TigrayGenocide               |     26 |
+| \#Chile                        |     24 |
+| \#IncendiosForestales          |     24 |
+| \#GobiernoDeInutiles           |     22 |
+| \#QueremosGira                 |     22 |
+| \#Arica                        |     21 |
+| \#ExtremaDerecha               |     21 |
+| \#VuelveChayanne               |     20 |
+| \#Chayanne                     |     19 |
+| \#MeganoticiasActualiza        |     17 |
+| \#Constitucion80               |     16 |
+| \#RED                          |     15 |
+| \#UnidadParaChile              |     15 |
 
 # Cuentas
 
