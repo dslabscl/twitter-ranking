@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-16 01:50:20
+Chile. Fecha del reporte: 2023-02-17 01:53:47
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-02-16 01:50:20
 
 # Hashtags más populares
 
-| datos                          | Cuenta |
-|:-------------------------------|-------:|
-| \#SextoRetiro                  |    127 |
-| \#SiempreEsHoy                 |     53 |
-| \#DerechaMiserable             |     34 |
-| \#MuchoGustoMega               |     32 |
-| \#Justice4TigraysWomenAndGirls |     28 |
-| \#ContigoCHV                   |     26 |
-| \#Inacap                       |     26 |
-| \#TigrayGenocide               |     26 |
-| \#Chile                        |     24 |
-| \#IncendiosForestales          |     24 |
-| \#GobiernoDeInutiles           |     22 |
-| \#QueremosGira                 |     22 |
-| \#Arica                        |     21 |
-| \#ExtremaDerecha               |     21 |
-| \#VuelveChayanne               |     20 |
-| \#Chayanne                     |     19 |
-| \#MeganoticiasActualiza        |     17 |
-| \#Constitucion80               |     16 |
-| \#RED                          |     15 |
-| \#UnidadParaChile              |     15 |
+| datos                       | Cuenta |
+|:----------------------------|-------:|
+| \#SextoRetiro               |    270 |
+| \#SiempreEsHoy              |     57 |
+| \#MuchoGustoMega            |     39 |
+| \#EliteCorrupta             |     36 |
+| \#IncendiosForestales       |     35 |
+| \#ContigoCHV                |     34 |
+| \#ToleranciaCero            |     33 |
+| \#DerechaMiserable          |     30 |
+| \#Chile                     |     25 |
+| \#Rechazo                   |     25 |
+| \#Inacap                    |     24 |
+| \#ExtremaDerecha            |     23 |
+| \#QueremosGira              |     22 |
+| \#GobiernoDeInutiles        |     21 |
+| \#Arica                     |     20 |
+| \#MeganoticiasActualiza     |     20 |
+| \#VuelveChayanne            |     20 |
+| \#Chayanne                  |     19 |
+| \#Forestales                |     19 |
+| \#DerechaMiserableyCorrupta |     16 |
 
 # Cuentas
 
