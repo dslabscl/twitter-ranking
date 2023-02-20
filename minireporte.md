@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-17 01:53:47
+Chile. Fecha del reporte: 2023-02-20 01:51:43
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-02-17 01:53:47
 
 # Hashtags más populares
 
-| datos                       | Cuenta |
-|:----------------------------|-------:|
-| \#SextoRetiro               |    270 |
-| \#SiempreEsHoy              |     57 |
-| \#MuchoGustoMega            |     39 |
-| \#EliteCorrupta             |     36 |
-| \#IncendiosForestales       |     35 |
-| \#ContigoCHV                |     34 |
-| \#ToleranciaCero            |     33 |
-| \#DerechaMiserable          |     30 |
-| \#Chile                     |     25 |
-| \#Rechazo                   |     25 |
-| \#Inacap                    |     24 |
-| \#ExtremaDerecha            |     23 |
-| \#QueremosGira              |     22 |
-| \#GobiernoDeInutiles        |     21 |
-| \#Arica                     |     20 |
-| \#MeganoticiasActualiza     |     20 |
-| \#VuelveChayanne            |     20 |
-| \#Chayanne                  |     19 |
-| \#Forestales                |     19 |
-| \#DerechaMiserableyCorrupta |     16 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#SextoRetiro           |    345 |
+| \#SiempreEsHoy          |     68 |
+| \#contigoendirectochv   |     49 |
+| \#MuchoGustoMega        |     44 |
+| \#Chile                 |     31 |
+| \#Inacap                |     24 |
+| \#Agenda2030            |     23 |
+| \#Justice4Tigray        |     23 |
+| \#QueremosGira          |     22 |
+| \#DerechaMiserable      |     21 |
+| \#IncendiosForestales   |     21 |
+| \#Arica                 |     20 |
+| \#EliteCorrupta         |     20 |
+| \#VuelveChayanne        |     20 |
+| \#Chayanne              |     19 |
+| \#ElPymeDeChile         |     19 |
+| \#MeganoticiasActualiza |     19 |
+| \#ContigoCHV            |     17 |
+| \#ConMiPlataNo          |     16 |
+| \#Constitucion80        |     16 |
 
 # Cuentas
 
