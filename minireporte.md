@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-20 01:51:43
+Chile. Fecha del reporte: 2023-02-21 01:51:41
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-02-20 01:51:43
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#SextoRetiro           |    345 |
-| \#SiempreEsHoy          |     68 |
-| \#contigoendirectochv   |     49 |
-| \#MuchoGustoMega        |     44 |
-| \#Chile                 |     31 |
-| \#Inacap                |     24 |
-| \#Agenda2030            |     23 |
-| \#Justice4Tigray        |     23 |
-| \#QueremosGira          |     22 |
-| \#DerechaMiserable      |     21 |
-| \#IncendiosForestales   |     21 |
-| \#Arica                 |     20 |
-| \#EliteCorrupta         |     20 |
-| \#VuelveChayanne        |     20 |
-| \#Chayanne              |     19 |
-| \#ElPymeDeChile         |     19 |
-| \#MeganoticiasActualiza |     19 |
-| \#ContigoCHV            |     17 |
-| \#ConMiPlataNo          |     16 |
-| \#Constitucion80        |     16 |
+| datos                       | Cuenta |
+|:----------------------------|-------:|
+| \#SextoRetiro               |    321 |
+| \#AmharaGenocide            |     95 |
+| \#AmharaGenocideInOromia    |     95 |
+| \#SiempreEsHoy              |     70 |
+| \#MuchoGustoMega            |     45 |
+| \#contigoendirectochv       |     44 |
+| \#DerechaMiserable          |     37 |
+| \#Chile                     |     36 |
+| \#IncendiosForestales       |     30 |
+| \#Agenda2030                |     29 |
+| \#Inacap                    |     26 |
+| \#QueremosGira              |     24 |
+| \#VuelveChayanne            |     22 |
+| \#Arica                     |     21 |
+| \#Chayanne                  |     21 |
+| \#ContigoCHV                |     21 |
+| \#DerechaCorrupta           |     21 |
+| \#GobiernoDeInutiles        |     20 |
+| \#MeganoticiasActualiza     |     19 |
+| \#ChileBajoAtaqueTerrorista |     17 |
 
 # Cuentas
 
