@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-21 01:51:41
+Chile. Fecha del reporte: 2023-02-22 01:49:14
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-02-21 01:51:41
 
 # Hashtags más populares
 
-| datos                       | Cuenta |
-|:----------------------------|-------:|
-| \#SextoRetiro               |    321 |
-| \#AmharaGenocide            |     95 |
-| \#AmharaGenocideInOromia    |     95 |
-| \#SiempreEsHoy              |     70 |
-| \#MuchoGustoMega            |     45 |
-| \#contigoendirectochv       |     44 |
-| \#DerechaMiserable          |     37 |
-| \#Chile                     |     36 |
-| \#IncendiosForestales       |     30 |
-| \#Agenda2030                |     29 |
-| \#Inacap                    |     26 |
-| \#QueremosGira              |     24 |
-| \#VuelveChayanne            |     22 |
-| \#Arica                     |     21 |
-| \#Chayanne                  |     21 |
-| \#ContigoCHV                |     21 |
-| \#DerechaCorrupta           |     21 |
-| \#GobiernoDeInutiles        |     20 |
-| \#MeganoticiasActualiza     |     19 |
-| \#ChileBajoAtaqueTerrorista |     17 |
+| datos                    | Cuenta |
+|:-------------------------|-------:|
+| \#SextoRetiro            |    246 |
+| \#MuchoGustoMega         |     48 |
+| \#DerechaMiserable       |     47 |
+| \#SiempreEsHoy           |     38 |
+| \#Chile                  |     35 |
+| \#contigoendirectochv    |     33 |
+| \#IncendiosForestales    |     32 |
+| \#Agenda2030             |     31 |
+| \#DerechaCorrupta        |     31 |
+| \#QueremosGira           |     24 |
+| \#Arica                  |     22 |
+| \#ContigoCHV             |     22 |
+| \#ToleranciaCero         |     22 |
+| \#VuelveChayanne         |     22 |
+| \#Chayanne               |     21 |
+| \#MeganoticiasActualiza  |     21 |
+| \#TikTok                 |     20 |
+| \#AmharaGenocide         |     18 |
+| \#AmharaGenocideInOromia |     18 |
+| \#Boric                  |     18 |
 
 # Cuentas
 
