@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-22 01:49:14
+Chile. Fecha del reporte: 2023-02-23 01:46:42
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-02-22 01:49:14
 
 # Hashtags más populares
 
-| datos                    | Cuenta |
-|:-------------------------|-------:|
-| \#SextoRetiro            |    246 |
-| \#MuchoGustoMega         |     48 |
-| \#DerechaMiserable       |     47 |
-| \#SiempreEsHoy           |     38 |
-| \#Chile                  |     35 |
-| \#contigoendirectochv    |     33 |
-| \#IncendiosForestales    |     32 |
-| \#Agenda2030             |     31 |
-| \#DerechaCorrupta        |     31 |
-| \#QueremosGira           |     24 |
-| \#Arica                  |     22 |
-| \#ContigoCHV             |     22 |
-| \#ToleranciaCero         |     22 |
-| \#VuelveChayanne         |     22 |
-| \#Chayanne               |     21 |
-| \#MeganoticiasActualiza  |     21 |
-| \#TikTok                 |     20 |
-| \#AmharaGenocide         |     18 |
-| \#AmharaGenocideInOromia |     18 |
-| \#Boric                  |     18 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#SextoRetiro           |    522 |
+| \#MuchoGustoMega        |     52 |
+| \#DerechaMiserable      |     45 |
+| \#Agenda2030            |     34 |
+| \#Chile                 |     31 |
+| \#IncendiosForestales   |     31 |
+| \#ToleranciaCero        |     29 |
+| \#DerechaCorrupta       |     26 |
+| \#TikTok                |     26 |
+| \#ContigoCHV            |     24 |
+| \#QueremosGira          |     24 |
+| \#SiempreEsHoy          |     24 |
+| \#ExtremaDerecha        |     22 |
+| \#FARMAFIA              |     22 |
+| \#MeganoticiasActualiza |     22 |
+| \#VuelveChayanne        |     22 |
+| \#Arica                 |     21 |
+| \#Chayanne              |     21 |
+| \#contigoendirectochv   |     21 |
+| \#ConMiPlataNo          |     20 |
 
 # Cuentas
 
