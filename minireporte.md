@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-23 01:46:42
+Chile. Fecha del reporte: 2023-02-24 01:48:17
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-02-23 01:46:42
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#SextoRetiro           |    522 |
-| \#MuchoGustoMega        |     52 |
-| \#DerechaMiserable      |     45 |
-| \#Agenda2030            |     34 |
-| \#Chile                 |     31 |
-| \#IncendiosForestales   |     31 |
-| \#ToleranciaCero        |     29 |
-| \#DerechaCorrupta       |     26 |
-| \#TikTok                |     26 |
-| \#ContigoCHV            |     24 |
-| \#QueremosGira          |     24 |
-| \#SiempreEsHoy          |     24 |
-| \#ExtremaDerecha        |     22 |
-| \#FARMAFIA              |     22 |
-| \#MeganoticiasActualiza |     22 |
-| \#VuelveChayanne        |     22 |
-| \#Arica                 |     21 |
-| \#Chayanne              |     21 |
-| \#contigoendirectochv   |     21 |
-| \#ConMiPlataNo          |     20 |
+| datos                         | Cuenta |
+|:------------------------------|-------:|
+| \#StopSponsoringOurOppression |     57 |
+| \#UgandaIsBleeding            |     57 |
+| \#MuchoGustoMega              |     53 |
+| \#SextoRetiro                 |     36 |
+| \#Agenda2030                  |     35 |
+| \#DerechaMiserable            |     31 |
+| \#ToleranciaCero              |     30 |
+| \#ContigoCHV                  |     28 |
+| \#Chile                       |     27 |
+| \#IncendiosForestales         |     26 |
+| \#MeganoticiasActualiza       |     26 |
+| \#FARMAFIA                    |     23 |
+| \#QueremosGira                |     23 |
+| \#Arica                       |     21 |
+| \#Chayanne                    |     21 |
+| \#Covid_19                    |     21 |
+| \#DerechaCorrupta             |     21 |
+| \#VuelveChayanne              |     21 |
+| \#EliteCorrupta               |     20 |
+| \#5G                          |     19 |
 
 # Cuentas
 
