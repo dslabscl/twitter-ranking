@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-24 01:48:17
+Chile. Fecha del reporte: 2023-02-27 01:51:18
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-02-24 01:48:17
 
 # Hashtags más populares
 
-| datos                         | Cuenta |
-|:------------------------------|-------:|
-| \#StopSponsoringOurOppression |     57 |
-| \#UgandaIsBleeding            |     57 |
-| \#MuchoGustoMega              |     53 |
-| \#SextoRetiro                 |     36 |
-| \#Agenda2030                  |     35 |
-| \#DerechaMiserable            |     31 |
-| \#ToleranciaCero              |     30 |
-| \#ContigoCHV                  |     28 |
-| \#Chile                       |     27 |
-| \#IncendiosForestales         |     26 |
-| \#MeganoticiasActualiza       |     26 |
-| \#FARMAFIA                    |     23 |
-| \#QueremosGira                |     23 |
-| \#Arica                       |     21 |
-| \#Chayanne                    |     21 |
-| \#Covid_19                    |     21 |
-| \#DerechaCorrupta             |     21 |
-| \#VuelveChayanne              |     21 |
-| \#EliteCorrupta               |     20 |
-| \#5G                          |     19 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#SextoRetiro           |     44 |
+| \#Agenda2030            |     39 |
+| \#ContigoCHV            |     35 |
+| \#ToleranciaCero        |     31 |
+| \#FueraBoricySecuaces   |     30 |
+| \#MeganoticiasActualiza |     29 |
+| \#Chile                 |     25 |
+| \#Covid_19              |     24 |
+| \#FARMAFIA              |     23 |
+| \#LeyAntiterrorista     |     23 |
+| \#5G                    |     22 |
+| \#EstadoDeSitioUrgente  |     22 |
+| \#QueremosGira          |     22 |
+| \#TikTok                |     22 |
+| \#Arica                 |     21 |
+| \#CierreDeFronteras     |     21 |
+| \#Chayanne              |     20 |
+| \#ConMiPlataNo          |     20 |
+| \#RechazoDeTodos        |     20 |
+| \#RechazoPorChile       |     20 |
 
 # Cuentas
 
