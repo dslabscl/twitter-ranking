@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-27 01:51:18
+Chile. Fecha del reporte: 2023-02-28 01:50:20
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-02-27 01:51:18
 
 | datos                   | Cuenta |
 |:------------------------|-------:|
-| \#SextoRetiro           |     44 |
-| \#Agenda2030            |     39 |
-| \#ContigoCHV            |     35 |
-| \#ToleranciaCero        |     31 |
-| \#FueraBoricySecuaces   |     30 |
+| \#SextoRetiro           |    225 |
+| \#Agenda2030            |     40 |
+| \#Chile                 |     29 |
+| \#ContigoCHV            |     29 |
 | \#MeganoticiasActualiza |     29 |
-| \#Chile                 |     25 |
+| \#ToleranciaCero        |     27 |
 | \#Covid_19              |     24 |
-| \#FARMAFIA              |     23 |
-| \#LeyAntiterrorista     |     23 |
+| \#FARMAFIA              |     24 |
+| \#TikTok                |     23 |
 | \#5G                    |     22 |
-| \#EstadoDeSitioUrgente  |     22 |
+| \#Constitucion80        |     22 |
+| \#Pinochet              |     22 |
 | \#QueremosGira          |     22 |
-| \#TikTok                |     22 |
 | \#Arica                 |     21 |
-| \#CierreDeFronteras     |     21 |
 | \#Chayanne              |     20 |
-| \#ConMiPlataNo          |     20 |
-| \#RechazoDeTodos        |     20 |
-| \#RechazoPorChile       |     20 |
+| \#VuelveChayanne        |     20 |
+| \#ConMiPlataNo          |     16 |
+| \#ESTANENFERMOS         |     16 |
+| \#MesaCentral           |     16 |
+| \#RechazoDeTodos        |     16 |
 
 # Cuentas
 
