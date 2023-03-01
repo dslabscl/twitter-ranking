@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-02-28 01:50:20
+Chile. Fecha del reporte: 2023-03-01 02:01:04
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-02-28 01:50:20
 
 | datos                   | Cuenta |
 |:------------------------|-------:|
-| \#SextoRetiro           |    225 |
-| \#Agenda2030            |     40 |
-| \#Chile                 |     29 |
-| \#ContigoCHV            |     29 |
-| \#MeganoticiasActualiza |     29 |
-| \#ToleranciaCero        |     27 |
-| \#Covid_19              |     24 |
-| \#FARMAFIA              |     24 |
-| \#TikTok                |     23 |
-| \#5G                    |     22 |
+| \#SextoRetiro           |    118 |
+| \#Agenda2030            |     37 |
+| \#MeganoticiasActualiza |     34 |
 | \#Constitucion80        |     22 |
-| \#Pinochet              |     22 |
-| \#QueremosGira          |     22 |
 | \#Arica                 |     21 |
+| \#Covid_19              |     21 |
+| \#QueremosGira          |     21 |
+| \#ToleranciaCero        |     21 |
 | \#Chayanne              |     20 |
-| \#VuelveChayanne        |     20 |
-| \#ConMiPlataNo          |     16 |
-| \#ESTANENFERMOS         |     16 |
-| \#MesaCentral           |     16 |
-| \#RechazoDeTodos        |     16 |
+| \#Chile                 |     20 |
+| \#ContigoCHV            |     20 |
+| \#TikTok                |     20 |
+| \#5G                    |     19 |
+| \#Pinochet              |     19 |
+| \#VuelveChayanne        |     19 |
+| \#FARMAFIA              |     18 |
+| \#MesaCentral           |     17 |
+| \#sextoretiro           |     16 |
+| \#ConMiPlataNo          |     15 |
+| \#Iquique               |     15 |
 
 # Cuentas
 
