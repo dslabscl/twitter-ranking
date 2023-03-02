@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-01 02:01:04
+Chile. Fecha del reporte: 2023-03-02 01:56:23
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-03-01 02:01:04
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#SextoRetiro           |    118 |
-| \#Agenda2030            |     37 |
-| \#MeganoticiasActualiza |     34 |
-| \#Constitucion80        |     22 |
-| \#Arica                 |     21 |
-| \#Covid_19              |     21 |
-| \#QueremosGira          |     21 |
-| \#ToleranciaCero        |     21 |
-| \#Chayanne              |     20 |
-| \#Chile                 |     20 |
-| \#ContigoCHV            |     20 |
-| \#TikTok                |     20 |
-| \#5G                    |     19 |
-| \#Pinochet              |     19 |
-| \#VuelveChayanne        |     19 |
-| \#FARMAFIA              |     18 |
-| \#MesaCentral           |     17 |
-| \#sextoretiro           |     16 |
-| \#ConMiPlataNo          |     15 |
-| \#Iquique               |     15 |
+| datos                             | Cuenta |
+|:----------------------------------|-------:|
+| \#SextoRetiro                     |     73 |
+| \#MesaCentral                     |     37 |
+| \#Constitucion80                  |     26 |
+| \#ToleranciaCero                  |     25 |
+| \#ContigoCHV                      |     24 |
+| \#Arica                           |     22 |
+| \#QueremosGira                    |     21 |
+| \#Chayanne                        |     20 |
+| \#Chile                           |     20 |
+| \#CuatroCabezas                   |     20 |
+| \#Iquique                         |     19 |
+| \#VuelveChayanne                  |     19 |
+| \#Agenda2030                      |     18 |
+| \#ConMiPlataNo                    |     17 |
+| \#TikTok                          |     17 |
+| \#ComunismoEsMiseriaHambreYMuerte |     16 |
+| \#EliteCorrupta                   |     16 |
+| \#inmigracionilegal               |     15 |
+| \#Rechazo2023                     |     15 |
+| \#RechazoDeTodos                  |     15 |
 
 # Cuentas
 
