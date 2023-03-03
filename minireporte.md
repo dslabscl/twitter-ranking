@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-02 01:56:23
+Chile. Fecha del reporte: 2023-03-03 03:35:38
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-03-02 01:56:23
 
 # Hashtags más populares
 
-| datos                             | Cuenta |
-|:----------------------------------|-------:|
-| \#SextoRetiro                     |     73 |
-| \#MesaCentral                     |     37 |
-| \#Constitucion80                  |     26 |
-| \#ToleranciaCero                  |     25 |
-| \#ContigoCHV                      |     24 |
-| \#Arica                           |     22 |
-| \#QueremosGira                    |     21 |
-| \#Chayanne                        |     20 |
-| \#Chile                           |     20 |
-| \#CuatroCabezas                   |     20 |
-| \#Iquique                         |     19 |
-| \#VuelveChayanne                  |     19 |
-| \#Agenda2030                      |     18 |
-| \#ConMiPlataNo                    |     17 |
-| \#TikTok                          |     17 |
-| \#ComunismoEsMiseriaHambreYMuerte |     16 |
-| \#EliteCorrupta                   |     16 |
-| \#inmigracionilegal               |     15 |
-| \#Rechazo2023                     |     15 |
-| \#RechazoDeTodos                  |     15 |
+| datos                | Cuenta |
+|:---------------------|-------:|
+| \#SextoRetiro        |    198 |
+| \#FueraLosTraidores  |    159 |
+| \#LaClaseMediaMuere  |    159 |
+| \#SinRetiroNoHayVoto |    159 |
+| \#ContigoCHV         |     30 |
+| \#SEXTORETIRO        |     30 |
+| \#MesaCentral        |     24 |
+| \#Iquique            |     23 |
+| \#ToleranciaCero     |     23 |
+| \#Arica              |     22 |
+| \#QueremosGira       |     21 |
+| \#Chayanne           |     20 |
+| \#CuatroCabezas      |     20 |
+| \#inmigracionilegal  |     20 |
+| \#Rechazo2023        |     20 |
+| \#TikTok             |     20 |
+| \#TuDia13            |     19 |
+| \#VuelveChayanne     |     19 |
+| \#Chile              |     16 |
+| \#Constitucion80     |     16 |
 
 # Cuentas
 
