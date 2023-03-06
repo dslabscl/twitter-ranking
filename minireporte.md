@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-03 03:35:38
+Chile. Fecha del reporte: 2023-03-06 01:52:42
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-03-03 03:35:38
 
 # Hashtags más populares
 
-| datos                | Cuenta |
-|:---------------------|-------:|
-| \#SextoRetiro        |    198 |
-| \#FueraLosTraidores  |    159 |
-| \#LaClaseMediaMuere  |    159 |
-| \#SinRetiroNoHayVoto |    159 |
-| \#ContigoCHV         |     30 |
-| \#SEXTORETIRO        |     30 |
-| \#MesaCentral        |     24 |
-| \#Iquique            |     23 |
-| \#ToleranciaCero     |     23 |
-| \#Arica              |     22 |
-| \#QueremosGira       |     21 |
-| \#Chayanne           |     20 |
-| \#CuatroCabezas      |     20 |
-| \#inmigracionilegal  |     20 |
-| \#Rechazo2023        |     20 |
-| \#TikTok             |     20 |
-| \#TuDia13            |     19 |
-| \#VuelveChayanne     |     19 |
-| \#Chile              |     16 |
-| \#Constitucion80     |     16 |
+| datos               | Cuenta |
+|:--------------------|-------:|
+| \#SextoRetiro       |     98 |
+| \#LosColumnistas    |     49 |
+| \#Iquique           |     34 |
+| \#MesaCentral       |     34 |
+| \#inmigracionilegal |     32 |
+| \#Rechazo2023       |     32 |
+| \#maiteorsini       |     23 |
+| \#sextoretiro       |     23 |
+| \#Arica             |     22 |
+| \#QueremosGira      |     22 |
+| \#TuDia13           |     21 |
+| \#Chayanne          |     20 |
+| \#Chile             |     20 |
+| \#CuatroCabezas     |     20 |
+| \#VuelveChayanne    |     20 |
+| \#DerechaMiserable  |     19 |
+| \#ContigoCHV        |     15 |
+| \#Agenda2030        |     13 |
+| \#ComoTuYYo         |     13 |
+| \#FachosPobres      |     13 |
 
 # Cuentas
 
