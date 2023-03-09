@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-08 01:56:15
+Chile. Fecha del reporte: 2023-03-09 01:57:36
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-03-08 01:56:15
 
 | datos                | Cuenta |
 |:---------------------|-------:|
-| \#SextoRetiro        |    287 |
-| \#FueraLosTraidores  |    173 |
-| \#LaClaseMediaMuere  |    173 |
-| \#SinRetiroNoHayVoto |    173 |
-| \#LosColumnistas     |     53 |
-| \#Iquique            |     36 |
-| \#inmigracionilegal  |     33 |
-| \#Rechazo2023        |     33 |
-| \#maiteorsini        |     26 |
+| \#SextoRetiro        |     97 |
+| \#ReformaTributaria  |     67 |
+| \#LosColumnistas     |     56 |
+| \#FueraLosTraidores  |     53 |
+| \#LaClaseMediaMuere  |     52 |
+| \#SinRetiroNoHayVoto |     52 |
+| \#Chile              |     25 |
 | \#Arica              |     22 |
-| \#Chile              |     22 |
-| \#CuatroCabezas      |     22 |
 | \#QueremosGira       |     22 |
+| \#CuatroCabezas      |     21 |
 | \#Chayanne           |     20 |
-| \#MesaCentral        |     20 |
+| \#ContigoCHV         |     20 |
 | \#VuelveChayanne     |     20 |
-| \#sextoretiro        |     19 |
-| \#NULOyEnContra      |     18 |
-| \#TuDia13            |     18 |
-| \#ContigoCHV         |     16 |
+| \#DerechaMiserable   |     19 |
+| \#8M                 |     14 |
+| \#GobiernoDeInutiles |     14 |
+| \#sextoretiro        |     14 |
+| \#Agenda2030         |     13 |
+| \#ComoTuYYo          |     13 |
+| \#MesaCentral        |     13 |
 
 # Cuentas
 
