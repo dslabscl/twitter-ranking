@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-09 01:57:36
+Chile. Fecha del reporte: 2023-03-10 01:56:16
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-03-09 01:57:36
 
 # Hashtags más populares
 
-| datos                | Cuenta |
-|:---------------------|-------:|
-| \#SextoRetiro        |     97 |
-| \#ReformaTributaria  |     67 |
-| \#LosColumnistas     |     56 |
-| \#FueraLosTraidores  |     53 |
-| \#LaClaseMediaMuere  |     52 |
-| \#SinRetiroNoHayVoto |     52 |
-| \#Chile              |     25 |
-| \#Arica              |     22 |
-| \#QueremosGira       |     22 |
-| \#CuatroCabezas      |     21 |
-| \#Chayanne           |     20 |
-| \#ContigoCHV         |     20 |
-| \#VuelveChayanne     |     20 |
-| \#DerechaMiserable   |     19 |
-| \#8M                 |     14 |
-| \#GobiernoDeInutiles |     14 |
-| \#sextoretiro        |     14 |
-| \#Agenda2030         |     13 |
-| \#ComoTuYYo          |     13 |
-| \#MesaCentral        |     13 |
+| datos                       | Cuenta |
+|:----------------------------|-------:|
+| \#SextoRetiro               |    160 |
+| \#FueraLosTraidores         |     76 |
+| \#LaClaseMediaMuere         |     76 |
+| \#SinRetiroNoHayVoto        |     76 |
+| \#ReformaTributaria         |     69 |
+| \#LosColumnistas            |     50 |
+| \#Arica                     |     22 |
+| \#QueremosGira              |     22 |
+| \#CuatroCabezas             |     21 |
+| \#sextoretiro               |     21 |
+| \#Chayanne                  |     20 |
+| \#VuelveChayanne            |     20 |
+| \#Chile                     |     19 |
+| \#UnidadParaChile           |     18 |
+| \#Agenda2030                |     16 |
+| \#MesaCentral               |     15 |
+| \#TikTok                    |     14 |
+| \#ComoTuYYo                 |     13 |
+| \#GobiernoDeInutiles        |     13 |
+| \#DerechaMiserableyCorrupta |     12 |
 
 # Cuentas
 
