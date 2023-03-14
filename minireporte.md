@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-13 01:44:20
+Chile. Fecha del reporte: 2023-03-14 01:27:23
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-03-13 01:44:20
 
 # Hashtags más populares
 
-| datos                | Cuenta |
-|:---------------------|-------:|
-| \#LosColumnistas     |     66 |
-| \#SextoRetiro        |     53 |
-| \#ReformaTributaria  |     40 |
-| \#EritreaOutOfTigray |     35 |
-| \#Justice4Tigray     |     34 |
-| \#CambioDeGabinete   |     24 |
-| \#Chile              |     23 |
-| \#Arica              |     22 |
-| \#QueremosGira       |     22 |
-| \#CuatroCabezas      |     21 |
-| \#MesaCentral        |     21 |
-| \#TuDia13            |     21 |
-| \#Chayanne           |     20 |
-| \#VuelveChayanne     |     20 |
-| \#UnidadParaChile    |     19 |
-| \#sextoretiro        |     16 |
-| \#GobiernoDeInutiles |     14 |
-| \#ODS                |     14 |
-| \#RenunciaBoric      |     14 |
-| \#ComoTuYYo          |     13 |
+| datos                       | Cuenta |
+|:----------------------------|-------:|
+| \#LosColumnistas            |     67 |
+| \#ReformaTributaria         |     41 |
+| \#CuatroCabezas             |     28 |
+| \#ContigoCHV                |     25 |
+| \#TuDia13                   |     24 |
+| \#MesaCentral               |     23 |
+| \#Arica                     |     22 |
+| \#QueremosGira              |     22 |
+| \#SextoRetiro               |     22 |
+| \#Chayanne                  |     20 |
+| \#sextoretiro               |     20 |
+| \#VuelveChayanne            |     20 |
+| \#CambioDeGabinete          |     18 |
+| \#Chile                     |     18 |
+| \#SiNoVanNoAprenden         |     18 |
+| \#SiempreEsHoy              |     17 |
+| \#CNNPrime                  |     16 |
+| \#DerechaCorruptaYMiserable |     15 |
+| \#BoricElPeorDeLaHistoria   |     14 |
+| \#ODS                       |     14 |
 
 # Cuentas
 
