@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-14 01:27:23
+Chile. Fecha del reporte: 2023-03-16 01:44:18
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-03-14 01:27:23
 
 # Hashtags más populares
 
-| datos                       | Cuenta |
-|:----------------------------|-------:|
-| \#LosColumnistas            |     67 |
-| \#ReformaTributaria         |     41 |
-| \#CuatroCabezas             |     28 |
-| \#ContigoCHV                |     25 |
-| \#TuDia13                   |     24 |
-| \#MesaCentral               |     23 |
-| \#Arica                     |     22 |
-| \#QueremosGira              |     22 |
-| \#SextoRetiro               |     22 |
-| \#Chayanne                  |     20 |
-| \#sextoretiro               |     20 |
-| \#VuelveChayanne            |     20 |
-| \#CambioDeGabinete          |     18 |
-| \#Chile                     |     18 |
-| \#SiNoVanNoAprenden         |     18 |
-| \#SiempreEsHoy              |     17 |
-| \#CNNPrime                  |     16 |
-| \#DerechaCorruptaYMiserable |     15 |
-| \#BoricElPeorDeLaHistoria   |     14 |
-| \#ODS                       |     14 |
+| datos                    | Cuenta |
+|:-------------------------|-------:|
+| \#LosColumnistas         |     66 |
+| \#SextoRetiro            |     54 |
+| \#ReformaTributaria      |     33 |
+| \#TuDia13                |     31 |
+| \#CuatroCabezas          |     28 |
+| \#MesaCentral            |     27 |
+| \#sextoretiro            |     27 |
+| \#SiempreEsHoy           |     25 |
+| \#Inacap                 |     24 |
+| \#Arica                  |     23 |
+| \#QueremosGira           |     23 |
+| \#ContigoCHV             |     21 |
+| \#VuelveChayanne         |     21 |
+| \#Chayanne               |     20 |
+| \#UnidadParaChile        |     18 |
+| \#Chile                  |     17 |
+| \#CNNPrime               |     17 |
+| \#BoricDesastreParaChile |     16 |
+| \#Constitucion80         |     15 |
+| \#CambioDeGabinete       |     14 |
 
 # Cuentas
 
