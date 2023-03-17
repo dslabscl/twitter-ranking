@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-16 01:44:18
+Chile. Fecha del reporte: 2023-03-17 01:43:18
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-03-16 01:44:18
 
 | datos                    | Cuenta |
 |:-------------------------|-------:|
-| \#LosColumnistas         |     66 |
-| \#SextoRetiro            |     54 |
-| \#ReformaTributaria      |     33 |
-| \#TuDia13                |     31 |
-| \#CuatroCabezas          |     28 |
+| \#SextoRetiro            |    449 |
+| \#LosColumnistas         |     65 |
+| \#BloqueaAPamelaJiles    |     40 |
+| \#SiempreEsHoy           |     32 |
+| \#TuDia13                |     32 |
+| \#UgandaIsBleeding       |     28 |
+| \#ContigoCHV             |     27 |
 | \#MesaCentral            |     27 |
-| \#sextoretiro            |     27 |
-| \#SiempreEsHoy           |     25 |
+| \#WhatsHappeningInUganda |     27 |
+| \#Chile                  |     24 |
 | \#Inacap                 |     24 |
 | \#Arica                  |     23 |
 | \#QueremosGira           |     23 |
-| \#ContigoCHV             |     21 |
+| \#CuatroCabezas          |     22 |
 | \#VuelveChayanne         |     21 |
 | \#Chayanne               |     20 |
-| \#UnidadParaChile        |     18 |
-| \#Chile                  |     17 |
-| \#CNNPrime               |     17 |
-| \#BoricDesastreParaChile |     16 |
-| \#Constitucion80         |     15 |
-| \#CambioDeGabinete       |     14 |
+| \#UnidadParaChile        |     20 |
+| \#ReformaTributaria      |     17 |
+| \#FueraLosTraidores      |     16 |
+| \#LaClaseMediaMuere      |     16 |
 
 # Cuentas
 
