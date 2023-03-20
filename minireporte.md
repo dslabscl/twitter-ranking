@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-17 01:43:18
+Chile. Fecha del reporte: 2023-03-20 01:46:23
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-03-17 01:43:18
 
 # Hashtags más populares
 
-| datos                    | Cuenta |
-|:-------------------------|-------:|
-| \#SextoRetiro            |    449 |
-| \#LosColumnistas         |     65 |
-| \#BloqueaAPamelaJiles    |     40 |
-| \#SiempreEsHoy           |     32 |
-| \#TuDia13                |     32 |
-| \#UgandaIsBleeding       |     28 |
-| \#ContigoCHV             |     27 |
-| \#MesaCentral            |     27 |
-| \#WhatsHappeningInUganda |     27 |
-| \#Chile                  |     24 |
-| \#Inacap                 |     24 |
-| \#Arica                  |     23 |
-| \#QueremosGira           |     23 |
-| \#CuatroCabezas          |     22 |
-| \#VuelveChayanne         |     21 |
-| \#Chayanne               |     20 |
-| \#UnidadParaChile        |     20 |
-| \#ReformaTributaria      |     17 |
-| \#FueraLosTraidores      |     16 |
-| \#LaClaseMediaMuere      |     16 |
+| datos             | Cuenta |
+|:------------------|-------:|
+| \#SextoRetiro     |    164 |
+| \#LosColumnistas  |     76 |
+| \#MesaCentral     |     31 |
+| \#TuDia13         |     29 |
+| \#Cadem           |     28 |
+| \#Inacap          |     25 |
+| \#Arica           |     23 |
+| \#QueremosGira    |     22 |
+| \#LaFlorida       |     21 |
+| \#SiempreEsHoy    |     21 |
+| \#UnidadParaChile |     21 |
+| \#Chayanne        |     20 |
+| \#Chile           |     20 |
+| \#COLUSION        |     20 |
+| \#Conchali        |     20 |
+| \#EstacionCentral |     20 |
+| \#Hambreenchile   |     20 |
+| \#LaPintana       |     20 |
+| \#maule           |     20 |
+| \#rancagua        |     20 |
 
 # Cuentas
 
