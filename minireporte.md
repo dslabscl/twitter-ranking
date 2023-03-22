@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-21 01:39:25
+Chile. Fecha del reporte: 2023-03-22 01:37:54
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-03-21 01:39:25
 
 # Hashtags más populares
 
-| datos                        | Cuenta |
-|:-----------------------------|-------:|
-| \#SextoRetiro                |    165 |
-| \#LosColumnistas             |     87 |
-| \#sextoretiro                |     54 |
-| \#MesaCentral                |     35 |
-| \#PakistanUnderFasicsm       |     34 |
-| \#TuDia13                    |     29 |
-| \#Arica                      |     26 |
-| \#UnidadParaChile            |     26 |
-| \#ContigoCHV                 |     25 |
-| \#SiempreEsHoy               |     24 |
-| \#Inacap                     |     23 |
-| \#Chile                      |     22 |
-| \#QueremosGira               |     22 |
-| \#Chayanne                   |     20 |
-| \#VuelveChayanne             |     20 |
-| \#Cadem                      |     19 |
-| \#CNNPrime                   |     19 |
-| \#BoricElPeorDeLaHistoria    |     18 |
-| \#ODS                        |     18 |
-| \#BoricEstaDestruyendoAChile |     16 |
+| datos                     | Cuenta |
+|:--------------------------|-------:|
+| \#SextoRetiro             |    160 |
+| \#LosColumnistas          |     87 |
+| \#sextoretiro             |     54 |
+| \#TuDia13                 |     29 |
+| \#40Horas                 |     27 |
+| \#SiempreEsHoy            |     25 |
+| \#UnidadParaChile         |     24 |
+| \#Arica                   |     23 |
+| \#Inacap                  |     23 |
+| \#QueremosGira            |     22 |
+| \#Chile                   |     21 |
+| \#Iquique                 |     21 |
+| \#MesaCentral             |     21 |
+| \#Chayanne                |     20 |
+| \#JilesEsDeDerecha        |     20 |
+| \#VuelveChayanne          |     20 |
+| \#inmigracionilegal       |     19 |
+| \#maiteorsini             |     19 |
+| \#Rechazo2023             |     19 |
+| \#BoricElPeorDeLaHistoria |     17 |
 
 # Cuentas
 
