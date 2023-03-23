@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-22 01:37:54
+Chile. Fecha del reporte: 2023-03-23 01:39:56
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-03-22 01:37:54
 
 | datos                     | Cuenta |
 |:--------------------------|-------:|
-| \#SextoRetiro             |    160 |
-| \#LosColumnistas          |     87 |
-| \#sextoretiro             |     54 |
-| \#TuDia13                 |     29 |
-| \#40Horas                 |     27 |
-| \#SiempreEsHoy            |     25 |
-| \#UnidadParaChile         |     24 |
+| \#SextoRetiro             |    197 |
+| \#LosColumnistas          |     74 |
+| \#sextoretiro             |     62 |
+| \#UnidadParaChile         |     28 |
+| \#Chile                   |     25 |
+| \#Inacap                  |     24 |
 | \#Arica                   |     23 |
-| \#Inacap                  |     23 |
+| \#SiempreEsHoy            |     23 |
+| \#JilesEsDeDerecha        |     22 |
 | \#QueremosGira            |     22 |
-| \#Chile                   |     21 |
-| \#Iquique                 |     21 |
-| \#MesaCentral             |     21 |
 | \#Chayanne                |     20 |
-| \#JilesEsDeDerecha        |     20 |
 | \#VuelveChayanne          |     20 |
-| \#inmigracionilegal       |     19 |
-| \#maiteorsini             |     19 |
-| \#Rechazo2023             |     19 |
-| \#BoricElPeorDeLaHistoria |     17 |
+| \#ContigoCHV              |     19 |
+| \#TikTok                  |     19 |
+| \#Iquique                 |     18 |
+| \#TuDia13                 |     17 |
+| \#inmigracionilegal       |     16 |
+| \#maiteorsini             |     16 |
+| \#Rechazo2023             |     16 |
+| \#BoricElPeorDeLaHistoria |     15 |
 
 # Cuentas
 
