@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-23 01:39:56
+Chile. Fecha del reporte: 2023-03-24 01:38:00
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-03-23 01:39:56
 
 # Hashtags más populares
 
-| datos                     | Cuenta |
-|:--------------------------|-------:|
-| \#SextoRetiro             |    197 |
-| \#LosColumnistas          |     74 |
-| \#sextoretiro             |     62 |
-| \#UnidadParaChile         |     28 |
-| \#Chile                   |     25 |
-| \#Inacap                  |     24 |
-| \#Arica                   |     23 |
-| \#SiempreEsHoy            |     23 |
-| \#JilesEsDeDerecha        |     22 |
-| \#QueremosGira            |     22 |
-| \#Chayanne                |     20 |
-| \#VuelveChayanne          |     20 |
-| \#ContigoCHV              |     19 |
-| \#TikTok                  |     19 |
-| \#Iquique                 |     18 |
-| \#TuDia13                 |     17 |
-| \#inmigracionilegal       |     16 |
-| \#maiteorsini             |     16 |
-| \#Rechazo2023             |     16 |
-| \#BoricElPeorDeLaHistoria |     15 |
+| datos                    | Cuenta |
+|:-------------------------|-------:|
+| \#SextoRetiro            |    173 |
+| \#LosColumnistas         |     74 |
+| \#sextoretiro            |     54 |
+| \#AmharaGenocide         |     33 |
+| \#AmharaGenocideInOromia |     33 |
+| \#Iquique                |     29 |
+| \#PakistanUnderFasicsm   |     28 |
+| \#inmigracionilegal      |     27 |
+| \#maiteorsini            |     26 |
+| \#SiempreEsHoy           |     26 |
+| \#Arica                  |     23 |
+| \#Inacap                 |     23 |
+| \#JilesEsDeDerecha       |     23 |
+| \#Rechazo2023            |     23 |
+| \#QueremosGira           |     22 |
+| \#Chayanne               |     20 |
+| \#Chile                  |     20 |
+| \#VuelveChayanne         |     20 |
+| \#UnidadParaChile        |     17 |
+| \#ContigoCHV             |     16 |
 
 # Cuentas
 
