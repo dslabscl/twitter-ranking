@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-24 01:38:00
+Chile. Fecha del reporte: 2023-03-27 01:38:17
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-03-24 01:38:00
 
 # Hashtags más populares
 
-| datos                    | Cuenta |
-|:-------------------------|-------:|
-| \#SextoRetiro            |    173 |
-| \#LosColumnistas         |     74 |
-| \#sextoretiro            |     54 |
-| \#AmharaGenocide         |     33 |
-| \#AmharaGenocideInOromia |     33 |
-| \#Iquique                |     29 |
-| \#PakistanUnderFasicsm   |     28 |
-| \#inmigracionilegal      |     27 |
-| \#maiteorsini            |     26 |
-| \#SiempreEsHoy           |     26 |
-| \#Arica                  |     23 |
-| \#Inacap                 |     23 |
-| \#JilesEsDeDerecha       |     23 |
-| \#Rechazo2023            |     23 |
-| \#QueremosGira           |     22 |
-| \#Chayanne               |     20 |
-| \#Chile                  |     20 |
-| \#VuelveChayanne         |     20 |
-| \#UnidadParaChile        |     17 |
-| \#ContigoCHV             |     16 |
+| datos                             | Cuenta |
+|:----------------------------------|-------:|
+| \#SextoRetiro                     |    274 |
+| \#ElPoderDelLapiz                 |     95 |
+| \#Chile                           |     93 |
+| \#LosColumnistas                  |     93 |
+| \#FeministasDeCarton              |     41 |
+| \#ElPeorPresidenteDeLaHistoria    |     40 |
+| \#ComunismoEsMiseria              |     39 |
+| \#DerechosHumanos                 |     39 |
+| \#YoApoyoACarabinerosDeChile      |     39 |
+| \#ComunismoEsMiseriaHambreYMuerte |     34 |
+| \#SiempreEsHoy                    |     34 |
+| \#Iquique                         |     29 |
+| \#MesaCentral                     |     29 |
+| \#inmigracionilegal               |     28 |
+| \#maiteorsini                     |     28 |
+| \#Rechazo2023                     |     28 |
+| \#JusticiaParaCarabineros         |     25 |
+| \#NiUnoMenos                      |     25 |
+| \#Rechazo                         |     24 |
+| \#RenunciaBoricCTM                |     24 |
 
 # Cuentas
 
