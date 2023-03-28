@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-27 01:38:17
+Chile. Fecha del reporte: 2023-03-28 01:41:15
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-03-27 01:38:17
 
 # Hashtags más populares
 
-| datos                             | Cuenta |
-|:----------------------------------|-------:|
-| \#SextoRetiro                     |    274 |
-| \#ElPoderDelLapiz                 |     95 |
-| \#Chile                           |     93 |
-| \#LosColumnistas                  |     93 |
-| \#FeministasDeCarton              |     41 |
-| \#ElPeorPresidenteDeLaHistoria    |     40 |
-| \#ComunismoEsMiseria              |     39 |
-| \#DerechosHumanos                 |     39 |
-| \#YoApoyoACarabinerosDeChile      |     39 |
-| \#ComunismoEsMiseriaHambreYMuerte |     34 |
-| \#SiempreEsHoy                    |     34 |
-| \#Iquique                         |     29 |
-| \#MesaCentral                     |     29 |
-| \#inmigracionilegal               |     28 |
-| \#maiteorsini                     |     28 |
-| \#Rechazo2023                     |     28 |
-| \#JusticiaParaCarabineros         |     25 |
-| \#NiUnoMenos                      |     25 |
-| \#Rechazo                         |     24 |
-| \#RenunciaBoricCTM                |     24 |
+| datos                              | Cuenta |
+|:-----------------------------------|-------:|
+| \#SextoRetiro                      |    193 |
+| \#LosColumnistas                   |     96 |
+| \#sextoretiro                      |     35 |
+| \#Iquique                          |     30 |
+| \#MesaCentral                      |     30 |
+| \#inmigracionilegal                |     29 |
+| \#maiteorsini                      |     29 |
+| \#Chile                            |     28 |
+| \#Rechazo2023                      |     28 |
+| \#SiempreEsHoy                     |     26 |
+| \#ToleranciaCero                   |     26 |
+| \#UnionPoliticaContraLaDelicuencia |     24 |
+| \#Arica                            |     23 |
+| \#Inacap                           |     22 |
+| \#QueremosGira                     |     22 |
+| \#TuDia13                          |     22 |
+| \#Chayanne                         |     20 |
+| \#VuelveChayanne                   |     20 |
+| \#ElPoderDelLapiz                  |     19 |
+| \#JilesEsDeDerecha                 |     18 |
 
 # Cuentas
 
