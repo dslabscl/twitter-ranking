@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-03-28 01:41:15
+Chile. Fecha del reporte: 2023-03-29 01:48:46
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-03-28 01:41:15
 
 # Hashtags más populares
 
-| datos                              | Cuenta |
-|:-----------------------------------|-------:|
-| \#SextoRetiro                      |    193 |
-| \#LosColumnistas                   |     96 |
-| \#sextoretiro                      |     35 |
-| \#Iquique                          |     30 |
-| \#MesaCentral                      |     30 |
-| \#inmigracionilegal                |     29 |
-| \#maiteorsini                      |     29 |
-| \#Chile                            |     28 |
-| \#Rechazo2023                      |     28 |
-| \#SiempreEsHoy                     |     26 |
-| \#ToleranciaCero                   |     26 |
-| \#UnionPoliticaContraLaDelicuencia |     24 |
-| \#Arica                            |     23 |
-| \#Inacap                           |     22 |
-| \#QueremosGira                     |     22 |
-| \#TuDia13                          |     22 |
-| \#Chayanne                         |     20 |
-| \#VuelveChayanne                   |     20 |
-| \#ElPoderDelLapiz                  |     19 |
-| \#JilesEsDeDerecha                 |     18 |
+| datos               | Cuenta |
+|:--------------------|-------:|
+| \#SextoRetiro       |    287 |
+| \#LosColumnistas    |     92 |
+| \#sextoretiro       |     47 |
+| \#Chile             |     34 |
+| \#Iquique           |     33 |
+| \#inmigracionilegal |     32 |
+| \#maiteorsini       |     32 |
+| \#Rechazo2023       |     31 |
+| \#SiempreEsHoy      |     26 |
+| \#MesaCentral       |     25 |
+| \#ToleranciaCero    |     25 |
+| \#Arica             |     24 |
+| \#QueremosGira      |     22 |
+| \#Inacap            |     21 |
+| \#Chayanne          |     20 |
+| \#VuelveChayanne    |     20 |
+| \#JilesEsDeDerecha  |     18 |
+| \#TuDia13           |     18 |
+| \#TikTok            |     17 |
+| \#UnidadParaChile   |     16 |
 
 # Cuentas
 
