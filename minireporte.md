@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-04-03 01:28:00
+Chile. Fecha del reporte: 2023-04-04 01:39:12
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-04-03 01:28:00
 
 | datos                   | Cuenta |
 |:------------------------|-------:|
-| \#SextoRetiro           |    135 |
-| \#LosColumnistas        |     65 |
-| \#sextoretiro           |     53 |
-| \#MesaCentral           |     45 |
-| \#LeyNaimSinTransitorio |     38 |
-| \#SiempreEsHoy          |     33 |
-| \#inmigracionilegal     |     27 |
-| \#Iquique               |     27 |
-| \#maiteorsini           |     27 |
-| \#Rechazo2023           |     27 |
-| \#ToleranciaCero        |     27 |
-| \#6retiro               |     24 |
-| \#Arica                 |     23 |
-| \#Chile                 |     23 |
-| \#LeyNainRetamal        |     23 |
-| \#QueremosGira          |     22 |
+| \#SextoRetiro           |    172 |
+| \#LosColumnistas        |     67 |
+| \#sextoretiro           |     38 |
+| \#MesaCentral           |     37 |
+| \#SiempreEsHoy          |     35 |
+| \#LeyNainRetamal        |     32 |
+| \#ToleranciaCero        |     28 |
+| \#SinRetiroNoHayVotos   |     27 |
+| \#Anula                 |     26 |
+| \#ContigoCHV            |     26 |
+| \#LaClaseMediaMuere     |     26 |
+| \#gladysmarin           |     25 |
+| \#Arica                 |     24 |
+| \#QueremosGira          |     23 |
+| \#devuelvaneldhalmar    |     22 |
+| \#VuelveChayanne        |     21 |
 | \#Chayanne              |     20 |
-| \#VuelveChayanne        |     20 |
-| \#TikTok                |     18 |
-| \#Anula                 |     15 |
+| \#Chile                 |     20 |
+| \#Iquique               |     19 |
+| \#LeyNainSinTransitorio |     19 |
 
 # Cuentas
 
