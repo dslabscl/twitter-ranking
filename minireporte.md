@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-04-04 01:39:12
+Chile. Fecha del reporte: 2023-04-05 01:17:49
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-04-04 01:39:12
 
 # Hashtags más populares
 
-| datos                   | Cuenta |
-|:------------------------|-------:|
-| \#SextoRetiro           |    172 |
-| \#LosColumnistas        |     67 |
-| \#sextoretiro           |     38 |
-| \#MesaCentral           |     37 |
-| \#SiempreEsHoy          |     35 |
-| \#LeyNainRetamal        |     32 |
-| \#ToleranciaCero        |     28 |
-| \#SinRetiroNoHayVotos   |     27 |
-| \#Anula                 |     26 |
-| \#ContigoCHV            |     26 |
-| \#LaClaseMediaMuere     |     26 |
-| \#gladysmarin           |     25 |
-| \#Arica                 |     24 |
-| \#QueremosGira          |     23 |
-| \#devuelvaneldhalmar    |     22 |
-| \#VuelveChayanne        |     21 |
-| \#Chayanne              |     20 |
-| \#Chile                 |     20 |
-| \#Iquique               |     19 |
-| \#LeyNainSinTransitorio |     19 |
+| datos                 | Cuenta |
+|:----------------------|-------:|
+| \#SextoRetiro         |    145 |
+| \#LosColumnistas      |     62 |
+| \#sextoretiro         |     59 |
+| \#MesaCentral         |     35 |
+| \#SiempreEsHoy        |     31 |
+| \#ToleranciaCero      |     30 |
+| \#LeyNainRetamal      |     28 |
+| \#Arica               |     24 |
+| \#LeyNainRetamalAhora |     23 |
+| \#QueremosGira        |     23 |
+| \#ContigoCHV          |     21 |
+| \#VuelveChayanne      |     21 |
+| \#Chayanne            |     20 |
+| \#inmigracionilegal   |     19 |
+| \#Iquique             |     19 |
+| \#maiteorsini         |     19 |
+| \#Rechazo2023         |     19 |
+| \#GatilloFácil        |     16 |
+| \#RetiroTotalAFP      |     16 |
+| \#DerechaCorrupta     |     15 |
 
 # Cuentas
 
