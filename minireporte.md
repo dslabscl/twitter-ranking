@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-04-07 01:24:44
+Chile. Fecha del reporte: 2023-04-10 01:32:15
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-04-07 01:24:44
 
 | datos               | Cuenta |
 |:--------------------|-------:|
-| \#SextoRetiro       |    152 |
-| \#LosColumnistas    |     64 |
-| \#Chile             |     35 |
-| \#MesaCentral       |     34 |
-| \#Iquique           |     28 |
-| \#inmigracionilegal |     27 |
-| \#maiteorsini       |     27 |
-| \#LeyNainRetamal    |     26 |
-| \#Rechazo2023       |     25 |
+| \#SextoRetiro       |    759 |
+| \#inmigracionilegal |     44 |
+| \#Iquique           |     44 |
+| \#LosColumnistas    |     44 |
+| \#maiteorsini       |     44 |
+| \#Rechazo2023       |     39 |
+| \#BULEKE            |     35 |
+| \#MesaCentral       |     31 |
+| \#sextoretiro       |     31 |
+| \#Chile             |     26 |
+| \#VotaREpublicanos  |     26 |
 | \#Arica             |     24 |
-| \#QueremosGira      |     23 |
-| \#sextoretiro       |     23 |
-| \#VuelveChayanne    |     21 |
-| \#Chayanne          |     20 |
-| \#Diputados         |     19 |
-| \#COLUSION          |     18 |
-| \#Conchali          |     18 |
-| \#EstacionCentral   |     18 |
-| \#Hambreenchile     |     18 |
-| \#LaFlorida         |     18 |
+| \#NoVotesListaE     |     23 |
+| \#QueremosGira      |     21 |
+| \#VotaListaC        |     21 |
+| \#LeyGatilloFacil   |     20 |
+| \#SiempreEsHoy      |     20 |
+| \#TikTok            |     20 |
+| \#Chayanne          |     19 |
+| \#REpublicanos      |     19 |
 
 # Cuentas
 
