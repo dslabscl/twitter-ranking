@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-04-10 01:32:15
+Chile. Fecha del reporte: 2023-04-11 01:36:33
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-04-10 01:32:15
 
 # Hashtags más populares
 
-| datos               | Cuenta |
-|:--------------------|-------:|
-| \#SextoRetiro       |    759 |
-| \#inmigracionilegal |     44 |
-| \#Iquique           |     44 |
-| \#LosColumnistas    |     44 |
-| \#maiteorsini       |     44 |
-| \#Rechazo2023       |     39 |
-| \#BULEKE            |     35 |
-| \#MesaCentral       |     31 |
-| \#sextoretiro       |     31 |
-| \#Chile             |     26 |
-| \#VotaREpublicanos  |     26 |
-| \#Arica             |     24 |
-| \#NoVotesListaE     |     23 |
-| \#QueremosGira      |     21 |
-| \#VotaListaC        |     21 |
-| \#LeyGatilloFacil   |     20 |
-| \#SiempreEsHoy      |     20 |
-| \#TikTok            |     20 |
-| \#Chayanne          |     19 |
-| \#REpublicanos      |     19 |
+| datos                 | Cuenta |
+|:----------------------|-------:|
+| \#SextoRetiro         |    276 |
+| \#inmigracionilegal   |     53 |
+| \#Iquique             |     53 |
+| \#maiteorsini         |     53 |
+| \#EritreaOutOfTigray  |     52 |
+| \#Rechazo2023         |     50 |
+| \#Justice4Tigray      |     49 |
+| \#LosColumnistas      |     49 |
+| \#sextoretiro         |     44 |
+| \#MesaCentral         |     37 |
+| \#SinRetiroNoHayVotos |     35 |
+| \#Anula               |     32 |
+| \#LaClaseMediaMuere   |     32 |
+| \#AmharaOutOfTigray   |     31 |
+| \#devuelvaneldhalmar  |     24 |
+| \#Arica               |     23 |
+| \#SiempreEsHoy        |     22 |
+| \#QueremosGira        |     21 |
+| \#ToleranciaCero      |     21 |
+| \#Tigray              |     20 |
 
 # Cuentas
 
