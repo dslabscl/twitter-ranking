@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-04-11 01:36:33
+Chile. Fecha del reporte: 2023-04-12 01:35:47
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-04-11 01:36:33
 
 # Hashtags más populares
 
-| datos                 | Cuenta |
-|:----------------------|-------:|
-| \#SextoRetiro         |    276 |
-| \#inmigracionilegal   |     53 |
-| \#Iquique             |     53 |
-| \#maiteorsini         |     53 |
-| \#EritreaOutOfTigray  |     52 |
-| \#Rechazo2023         |     50 |
-| \#Justice4Tigray      |     49 |
-| \#LosColumnistas      |     49 |
-| \#sextoretiro         |     44 |
-| \#MesaCentral         |     37 |
-| \#SinRetiroNoHayVotos |     35 |
-| \#Anula               |     32 |
-| \#LaClaseMediaMuere   |     32 |
-| \#AmharaOutOfTigray   |     31 |
-| \#devuelvaneldhalmar  |     24 |
-| \#Arica               |     23 |
-| \#SiempreEsHoy        |     22 |
-| \#QueremosGira        |     21 |
-| \#ToleranciaCero      |     21 |
-| \#Tigray              |     20 |
+| datos                | Cuenta |
+|:---------------------|-------:|
+| \#SextoRetiro        |    301 |
+| \#sextoretiro        |     47 |
+| \#LosColumnistas     |     46 |
+| \#ContigoCHV         |     44 |
+| \#MesaCentral        |     40 |
+| \#40Horas            |     33 |
+| \#TuDia13            |     30 |
+| \#Chile              |     28 |
+| \#SiempreEsHoy       |     27 |
+| \#ElCEPInvita        |     25 |
+| \#Arica              |     22 |
+| \#devuelvaneldhalmar |     22 |
+| \#RatPack            |     21 |
+| \#QueremosGira       |     20 |
+| \#ToleranciaCero     |     19 |
+| \#Chayanne           |     18 |
+| \#DerechaCorrupta    |     18 |
+| \#FuturosPosibles    |     18 |
+| \#VuelveChayanne     |     18 |
+| \#DerechaMiserable   |     15 |
 
 # Cuentas
 
