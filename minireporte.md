@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-04-13 01:34:10
+Chile. Fecha del reporte: 2023-04-14 01:34:20
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-04-13 01:34:10
 
 | datos                | Cuenta |
 |:---------------------|-------:|
-| \#SextoRetiro        |    107 |
-| \#LosColumnistas     |     58 |
-| \#MesaCentral        |     52 |
-| \#DerechaCorrupta    |     29 |
-| \#SiempreEsHoy       |     29 |
-| \#TuDia13            |     28 |
+| \#SextoRetiro        |    141 |
+| \#MesaCentral        |     66 |
+| \#LosColumnistas     |     56 |
+| \#Republicano        |     48 |
+| \#VOTO               |     48 |
+| \#sextoretiro        |     44 |
+| \#SiempreEsHoy       |     34 |
+| \#DerechaCorrupta    |     31 |
+| \#ContigoCHV         |     29 |
 | \#RatPack            |     26 |
-| \#sextoretiro        |     26 |
 | \#ElCEPInvita        |     25 |
-| \#ToleranciaCero     |     25 |
+| \#EritreaOutOfTigray |     25 |
+| \#40Horas            |     23 |
+| \#TuDia13            |     23 |
 | \#Arica              |     22 |
 | \#devuelvaneldhalmar |     22 |
-| \#40Horas            |     21 |
-| \#ExtremaDerecha     |     20 |
+| \#Chile              |     20 |
 | \#QueremosGira       |     20 |
-| \#CNNPrime           |     19 |
-| \#Chayanne           |     18 |
-| \#Chile              |     18 |
-| \#FuturosPosibles    |     18 |
-| \#VuelveChayanne     |     18 |
+| \#ToleranciaCero     |     19 |
+| \#Carabineros        |     18 |
 
 # Cuentas
 
