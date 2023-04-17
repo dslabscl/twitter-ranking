@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-04-14 01:34:20
+Chile. Fecha del reporte: 2023-04-17 01:35:53
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-04-14 01:34:20
 
 # Hashtags más populares
 
-| datos                | Cuenta |
-|:---------------------|-------:|
-| \#SextoRetiro        |    141 |
-| \#MesaCentral        |     66 |
-| \#LosColumnistas     |     56 |
-| \#Republicano        |     48 |
-| \#VOTO               |     48 |
-| \#sextoretiro        |     44 |
-| \#SiempreEsHoy       |     34 |
-| \#DerechaCorrupta    |     31 |
-| \#ContigoCHV         |     29 |
-| \#RatPack            |     26 |
-| \#ElCEPInvita        |     25 |
-| \#EritreaOutOfTigray |     25 |
-| \#40Horas            |     23 |
-| \#TuDia13            |     23 |
-| \#Arica              |     22 |
-| \#devuelvaneldhalmar |     22 |
-| \#Chile              |     20 |
-| \#QueremosGira       |     20 |
-| \#ToleranciaCero     |     19 |
-| \#Carabineros        |     18 |
+| datos                 | Cuenta |
+|:----------------------|-------:|
+| \#SextoRetiro         |    302 |
+| \#MesaCentral         |     66 |
+| \#SinRetiroNoHayVotos |     60 |
+| \#sextoretiro         |     54 |
+| \#LosColumnistas      |     49 |
+| \#Anula               |     46 |
+| \#LaClaseMediaMuere   |     46 |
+| \#SiempreEsHoy        |     44 |
+| \#DerechaCorrupta     |     40 |
+| \#Iquique             |     37 |
+| \#maiteorsini         |     37 |
+| \#Rechazo2023         |     34 |
+| \#TikTok              |     31 |
+| \#TuDia13             |     28 |
+| \#RatPack             |     25 |
+| \#inmigracionilegal   |     23 |
+| \#Arica               |     22 |
+| \#devuelvaneldhalmar  |     22 |
+| \#ElPoderDelLapiz     |     22 |
+| \#RetiroTotalAFP      |     22 |
 
 # Cuentas
 
