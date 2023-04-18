@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-04-17 01:35:53
+Chile. Fecha del reporte: 2023-04-18 01:34:59
 
     ## raw(0)
     ## raw(0)
@@ -15,26 +15,26 @@ Chile. Fecha del reporte: 2023-04-17 01:35:53
 
 | datos                 | Cuenta |
 |:----------------------|-------:|
-| \#SextoRetiro         |    302 |
-| \#MesaCentral         |     66 |
-| \#SinRetiroNoHayVotos |     60 |
-| \#sextoretiro         |     54 |
-| \#LosColumnistas      |     49 |
-| \#Anula               |     46 |
-| \#LaClaseMediaMuere   |     46 |
-| \#SiempreEsHoy        |     44 |
-| \#DerechaCorrupta     |     40 |
-| \#Iquique             |     37 |
-| \#maiteorsini         |     37 |
-| \#Rechazo2023         |     34 |
-| \#TikTok              |     31 |
-| \#TuDia13             |     28 |
+| \#SextoRetiro         |    216 |
+| \#MesaCentral         |     57 |
+| \#LosColumnistas      |     52 |
+| \#sextoretiro         |     51 |
+| \#Iquique             |     47 |
+| \#maiteorsini         |     47 |
+| \#Rechazo2023         |     45 |
+| \#SINRETIRONOHAYVOTO  |     36 |
+| \#SiempreEsHoy        |     34 |
+| \#DerechaCorrupta     |     28 |
+| \#TikTok              |     28 |
+| \#SinRetiroNoHayVoto  |     27 |
 | \#RatPack             |     25 |
-| \#inmigracionilegal   |     23 |
-| \#Arica               |     22 |
-| \#devuelvaneldhalmar  |     22 |
-| \#ElPoderDelLapiz     |     22 |
-| \#RetiroTotalAFP      |     22 |
+| \#devuelvaneldhalmar  |     24 |
+| \#ElCEPInvita         |     24 |
+| \#Arica               |     23 |
+| \#SinRetiroNoHayVotos |     22 |
+| \#TuDia13             |     22 |
+| \#ContigoCHV          |     21 |
+| \#ToleranciaCero      |     21 |
 
 # Cuentas
 
