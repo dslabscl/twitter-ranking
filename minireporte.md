@@ -2,7 +2,7 @@
 # Mini reporte (dslab)
 
 Utiliza la API de twitter para menciones de cuentas de politica en
-Chile. Fecha del reporte: 2023-04-19 01:38:08
+Chile. Fecha del reporte: 2023-04-20 01:35:25
 
     ## raw(0)
     ## raw(0)
@@ -13,28 +13,28 @@ Chile. Fecha del reporte: 2023-04-19 01:38:08
 
 # Hashtags más populares
 
-| datos                | Cuenta |
-|:---------------------|-------:|
-| \#SextoRetiro        |    242 |
-| \#sextoretiro        |     62 |
-| \#Iquique            |     59 |
-| \#maiteorsini        |     59 |
-| \#SINRETIRONOHAYVOTO |     59 |
-| \#Rechazo2023        |     58 |
-| \#SinRetiroNoHayVoto |     57 |
-| \#MesaCentral        |     56 |
-| \#LosColumnistas     |     52 |
-| \#SiempreEsHoy       |     33 |
-| \#RatPack            |     25 |
-| \#Arica              |     23 |
-| \#ElCEPInvita        |     23 |
-| \#TikTok             |     23 |
-| \#DerechaCorrupta    |     22 |
-| \#TuDia13            |     22 |
-| \#ExtremaDerecha     |     21 |
-| \#QueremosGira       |     20 |
-| \#Chayanne           |     18 |
-| \#Chile              |     18 |
+| datos                   | Cuenta |
+|:------------------------|-------:|
+| \#SextoRetiro           |    151 |
+| \#MesaCentral           |     53 |
+| \#LosColumnistas        |     52 |
+| \#sextoretiro           |     41 |
+| \#Iquique               |     38 |
+| \#maiteorsini           |     37 |
+| \#Rechazo2023           |     37 |
+| \#SiempreEsHoy          |     37 |
+| \#SINRETIRONOHAYVOTO    |     37 |
+| \#SinRetiroNoHayVoto    |     28 |
+| \#RatPack               |     27 |
+| \#ElCEPInvita           |     23 |
+| \#Arica                 |     22 |
+| \#QueremosGira          |     19 |
+| \#Chile                 |     18 |
+| \#DerechaCorrupta       |     18 |
+| \#Chayanne              |     17 |
+| \#VuelveChayanne        |     17 |
+| \#SextoRetiro100xCiento |     16 |
+| \#TuDia13               |     14 |
 
 # Cuentas
 
